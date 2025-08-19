@@ -1,9 +1,9 @@
 name: Publish latest reviews feed
 
 on:
-  workflow_dispatch:     # allow manual run
+  workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"  # run once per day at 00:00 UTC
+    - cron: "0 0 * * *"   # daily at 00:00 UTC
 
 permissions:
   contents: write
@@ -14,6 +14,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Show Actions permission (debug)
+        run: gh --version || true
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -21,53 +24,119 @@ jobs:
       - name: Install Python deps
         run: pip install requests pandas python-dateutil
 
-      - name: Fetch & build reviews feed
+      - name: Fetch source (with retries) & save raw
         env:
           SOURCE_URL: "https://script.googleusercontent.com/a/macros/monkeytaps.app/echo?user_content_key=AehSKLi-zVj-Ji7uR1aWvkLiLBJHx06tSez1EBGDJkVaNn9tKav1-e9hTFuJqSw6PFxw2d3GWJ8-QKnl_8Ck_ngRzTRA_ADEJGHELWcFKyx6qMTwdPrJFMI7Q5echDSBu9IUZdO3Gvs-gMTEiYD6GSyVRZK4yJWpP12Tdr86bpZGwRACDCuin4sLGXWldaOg0XjuE8V75ScLQD3JoPWnrp58N_T3bo4yrYp0yO-CfMYYMScy3WilHt9I-FMB8chvikKsYZOhoI620vCVoOjoD8ifTWL1GfjnAGBo34-zAjSgc_DyzKdpqmExTSy6vuxiag&lib=MmBiQwJUX6mx_qByjyAY6hnlB0nlkJcyY"
+        run: |
+          set -e
+          mkdir -p tmp
+          echo "URL: $SOURCE_URL"
+          # headers
+          curl -sSLI "$SOURCE_URL" | tee tmp/headers.txt || true
+          # retry up to 5 times with backoff
+          n=0
+          until [ $n -ge 5 ]; do
+            curl -sSLo tmp/response.bin "$SOURCE_URL" && break
+            n=$((n+1))
+            sleep $((2**n))
+          done
+          # also keep a text copy for quick viewing
+          ( iconv -f utf-8 -t utf-8 tmp/response.bin -o tmp/response.txt || cp tmp/response.bin tmp/response.txt ) >/dev/null 2>&1 || true
+          head -c 1000 tmp/response.txt || true
+          echo ""
+
+      - name: Build latest feed (normalize to last 90 days)
+        env:
           DAYS: "90"
         run: |
           python - <<'EOF'
-          import os, io, json, requests, pandas as pd
+          import io, json, os, pandas as pd
           from datetime import datetime, timedelta, timezone
 
-          url = os.getenv("SOURCE_URL")
+          def looks_csv(headers_text: str, url: str) -> bool:
+            ht = (headers_text or "").lower()
+            if "text/csv" in ht or "application/vnd.ms-excel" in ht: return True
+            u = (url or "").lower()
+            return u.endswith(".csv") or "output=csv" in u
+
+          # read inputs
+          url = os.getenv("SOURCE_URL","")
           days = int(os.getenv("DAYS","90"))
+          os.makedirs("data", exist_ok=True)
 
-          r = requests.get(url, timeout=30)
-          r.raise_for_status()
+          headers = ""
+          try:
+            with open("tmp/headers.txt","r",encoding="utf-8",errors="ignore") as f:
+              headers = f.read()
+          except Exception:
+            pass
 
-          # Try CSV or JSON
-          if "csv" in url or "text/csv" in r.headers.get("content-type",""):
-              df = pd.read_csv(io.StringIO(r.text))
-          else:
-              data = r.json()
-              if isinstance(data, dict) and "reviews" in data:
-                  df = pd.DataFrame(data["reviews"])
-              else:
-                  df = pd.DataFrame(data)
+          raw = open("tmp/response.bin","rb").read()
+
+          df = None
+          # 1) Try CSV if it looks like CSV
+          if looks_csv(headers, url):
+            try:
+              df = pd.read_csv(io.BytesIO(raw))
+            except Exception as e:
+              print("CSV parse failed, will try JSON. Error:", e)
+
+          # 2) Otherwise, try JSON
+          if df is None:
+            txt = raw.decode("utf-8", errors="ignore").strip()
+            try:
+              data = json.loads(txt)
+            except Exception as e:
+              raise RuntimeError(f"Neither CSV nor JSON parse succeeded. First 300 chars: {txt[:300]}")
+
+            # Accept either array or {reviews: [...]}
+            if isinstance(data, dict) and "reviews" in data:
+              df = pd.DataFrame(data["reviews"])
+            elif isinstance(data, list):
+              df = pd.DataFrame(data)
+            else:
+              # If dict but not reviews, flatten one level
+              df = pd.json_normalize(data)
 
           # Normalize columns
-          df.columns = [c.lower() for c in df.columns]
-          if "date" in df.columns:
-              df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
-              cutoff = datetime.now(timezone.utc) - timedelta(days=days)
-              df = df[df["date"] >= cutoff]
+          df.columns = [c.strip().lower() for c in df.columns]
 
-          # Build JSON
+          # Find a likely date column
+          candidates = [c for c in ["date","review_date","created","timestamp","time"] if c in df.columns]
+          if candidates:
+            c_date = candidates[0]
+            df[c_date] = pd.to_datetime(df[c_date], errors="coerce", utc=True)
+            cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+            df = df[df[c_date] >= cutoff].copy()
+            df.sort_values(by=c_date, ascending=False, inplace=True)
+          else:
+            print("WARNING: No date column found; exporting unfiltered data.")
+
+          # Emit JSON payload
           records = df.to_dict(orient="records")
           payload = {
-              "generated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
-              "window_days": days,
-              "count": len(records),
-              "reviews": records
+            "generated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "window_days": days,
+            "count": len(records),
+            "reviews": records
           }
-
-          import os
-          os.makedirs("data", exist_ok=True)
           with open("data/latest.json","w",encoding="utf-8") as f:
-              json.dump(payload,f,indent=2,ensure_ascii=False)
-          df.to_csv("data/latest.csv",index=False)
+            json.dump(payload, f, indent=2, ensure_ascii=False)
+
+          # Emit CSV of normalized records
+          df.to_csv("data/latest.csv", index=False)
+          print(f"Wrote {len(records)} records.")
           EOF
+
+      - name: Upload raw artifacts (for debugging)
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-dump
+          path: |
+            tmp/headers.txt
+            tmp/response.txt
+            data/latest.json
+            data/latest.csv
 
       - name: Commit & push
         run: |
