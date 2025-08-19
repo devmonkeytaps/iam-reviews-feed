@@ -1,0 +1,62 @@
+name: Publish latest reviews feed
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests pandas python-dateutil
+
+      - name: Fetch & build latest feed
+        env:
+          SOURCE_URL: https://script.googleusercontent.com/a/macros/monkeytaps.app/echo?user_content_key=AehSKLhDgZmKqyaFPLAG2ab4JRcwJE5LrjwNHTlNXq6Ihyw8-Z5Uw94cr2fdIwuogfghIdkxF92qElmr4w5OkbzcikguCm1Anvj19CNvLmVrnVE1VXj2dt62y0r8GYU-k1dGTtUHJfTFZG-KuCmalP4GowR5Wzr623u9toIycL0zNfQ8OsrZa1ia-JeUxbYdmNbYrNfYW9T6R9MN-UrR4TO-RIORkCA_Xi5KnKFdWXesvhtXzM6IdevSr2FNm-8kcH9jr6oQQKZeyvwukHpwUVGfFaQqrPmPttxjdzffMAMJoGlCPlgYoPIGA5zfUCiMNA&lib=MmBiQwJUX6mx_qByjyAY6hnlB0nlkJcyY
+          DAYS: "30"
+        run: |
+          python - <<'EOF'
+          import os, io, json, requests, pandas as pd
+          from datetime import datetime, timedelta, timezone
+          url = os.getenv("SOURCE_URL")
+          days = int(os.getenv("DAYS","30"))
+          r = requests.get(url, timeout=30); r.raise_for_status()
+          if "csv" in url or "text/csv" in r.headers.get("content-type",""):
+              df = pd.read_csv(io.StringIO(r.text))
+          else:
+              df = pd.DataFrame(r.json().get("reviews", r.json()))
+          df.columns = [c.lower() for c in df.columns]
+          if "date" in df.columns:
+              df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
+              cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+              df = df[df["date"]>=cutoff]
+          records = df.to_dict(orient="records")
+          payload = {
+            "generated_at": datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "window_days": days,
+            "count": len(records),
+            "reviews": records
+          }
+          os.makedirs("data", exist_ok=True)
+          with open("data/latest.json","w",encoding="utf-8") as f: json.dump(payload,f,indent=2,ensure_ascii=False)
+          df.to_csv("data/latest.csv",index=False)
+          EOF
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/latest.json data/latest.csv
+          git commit -m "Update latest feed" || echo "No changes"
+          git push
