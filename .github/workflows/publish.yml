@@ -3,7 +3,7 @@ name: Publish latest reviews feed
 on:
   workflow_dispatch:     # allow manual run
   schedule:
-    - cron: "0 * * * *"  # run hourly
+    - cron: "0 * * * *"  # run once per day at 00:00 UTC
 
 permissions:
   contents: write
