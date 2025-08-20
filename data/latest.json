@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-08-19T12:14:09Z",
+  "generated_at": "2025-08-20T00:30:47Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-17",
+          "rating": 1,
+          "country": "US",
+          "title": "Meh",
+          "content": "Pensé que era una aplicación gratis, son solo mensajes, al menos ofrecer comprar dentro de la app pero te hacen un cuestionario de mil horas al empezar para después decirte que tienes 3 días gratis y que tienes que pagar ahí mismo",
+          "author": "GDVRUIZ",
+          "version": "5.115.0"
+        },
         {
           "date": "2025-08-17",
           "rating": 5,
@@ -512,6 +521,15 @@
         {
           "date": "2025-07-22",
           "rating": 5,
+          "country": "US",
+          "title": "Daily pick me ups",
+          "content": "I love having these periodic reminders on my phone telling me I am what I say I am",
+          "author": "Tornado Kid7",
+          "version": "5.111.0"
+        },
+        {
+          "date": "2025-07-22",
+          "rating": 5,
           "country": "CA",
           "title": "Love these affirmations!",
           "content": "I struggle with anxiety, depression and other things in life and the affirmations that I receive are always bang-on. They are motivating, they help me get through things, bring me back into a positive state of mind. Best investment in my opinion :)",
@@ -544,24 +562,6 @@
           "content": "A looong interview and then you mast pay",
           "author": "ПитаПака",
           "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-20",
-          "rating": 2,
-          "country": "CA",
-          "title": "Asks for all your data and then paid “free” trial sign up",
-          "content": "It feels deceptive, like it is data mining and then a bait and switch. Deleted.",
-          "author": "Jenn14S",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-20",
-          "rating": 4,
-          "country": "US",
-          "title": "Too small to read",
-          "content": "I’m loving g the app but I can’t read the affirmations.  The text font and size is too hard for my older eyes.",
-          "author": "dovandjake",
-          "version": "5.111.0"
         }
       ],
       "meta.total": 62,
@@ -569,8 +569,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-20",
-      "meta.until": "2025-08-19"
+      "meta.since": "2025-07-21",
+      "meta.until": "2025-08-20"
     }
   ]
 }
