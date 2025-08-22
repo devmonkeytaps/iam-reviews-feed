@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T00:30:10Z",
+  "generated_at": "2025-08-22T00:31:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -517,69 +517,15 @@
           "content": "Love it",
           "author": "LolaChikis",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 5,
-          "country": "GB",
-          "title": "Amazing app!",
-          "content": "This app really helps me be more productive and have more self confidence! The quotes are REALLY inspiring and helpful! Defffo a 5/5 stars!",
-          "author": "Rim Rae Sung",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 1,
-          "country": "US",
-          "title": "Will Charge Free at First Then Charge Crazy Money",
-          "content": "This is a simple word generator that wants to charge you $70 per year for what an LLM can do free.",
-          "author": "Katherina M23",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily pick me ups",
-          "content": "I love having these periodic reminders on my phone telling me I am what I say I am",
-          "author": "Tornado Kid7",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 5,
-          "country": "CA",
-          "title": "Love these affirmations!",
-          "content": "I struggle with anxiety, depression and other things in life and the affirmations that I receive are always bang-on. They are motivating, they help me get through things, bring me back into a positive state of mind. Best investment in my opinion :)",
-          "author": "CateMe0w",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 5,
-          "country": "GB",
-          "title": "Excellent App, notifications have stopped",
-          "content": "The daily affirmations I receive by notification in this app have been truly life changing for me this year.\n\nUnfortunately the push notifications have stopped recently, with no reason as to why. I have tried to find the solution in notification settings, uninstalled and reinstalled the app but not had any luck. \n\nPlease do advice as I am a huge advocate and ambassador for the app and its benefits now!",
-          "author": "IBrook",
-          "version": "5.111.0"
-        },
-        {
-          "date": "2025-07-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Great for Cultivating Your Own Motivation and Encouragement",
-          "content": "Of all the apps out there like this, I find this one to be the most effective. I use it every single day. It’s easy because I love the “streak” concept. I have mine set to spew out little nuggets at me all day long so the app can catch me at any time no matter what kind of mood I maybe in. The only thing I have a problem with is that daily timer thing. Once it disappears, if you’ve tapped a portion of the screen on accident, you can’t get it back. How do I get back to the part of the app that does the daily 15 minute-long training? I accidentally touched my screen and it disappeared before it finished. Plus, I can’t *always* get to it at the originally programmed time. Things come up. Life be life-ing. So why not make a way where I can just find it in the app and do it when I have the time available if I happen to miss my regularly appointed time?",
-          "author": "Jendayi781",
-          "version": "5.111.0"
         }
       ],
-      "meta.total": 63,
+      "meta.total": 57,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-22",
-      "meta.until": "2025-08-21"
+      "meta.since": "2025-07-23",
+      "meta.until": "2025-08-22"
     }
   ]
 }
