@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-08-22T00:31:11Z",
+  "generated_at": "2025-08-23T00:30:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-21",
+          "rating": 1,
+          "country": "US",
+          "title": "Paid for app",
+          "content": "You have to pay for this. I thought it was free.",
+          "author": "ShaeJniece",
+          "version": "5.116.0"
+        },
+        {
+          "date": "2025-08-20",
+          "rating": 3,
+          "country": "US",
+          "title": "Nice",
+          "content": "The app is nice but 70 for a whole year may not be feasible for everyone. There should be a monthly option.",
+          "author": "Googlybear0",
+          "version": "5.115.0"
+        },
+        {
+          "date": "2025-08-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily Affirmations",
+          "content": "Keeping me positive throughout my day so much to be Thankful And \nGrateful For \n🙏✨❤️🌎🙏",
+          "author": "Odeano55",
+          "version": "5.115.0"
+        },
+        {
+          "date": "2025-08-18",
+          "rating": 2,
+          "country": "US",
+          "title": "Ads",
+          "content": "Ads",
+          "author": "rah04258",
+          "version": "5.115.0"
+        },
         {
           "date": "2025-08-18",
           "rating": 5,
@@ -508,24 +544,15 @@
           "content": "On my road to recovery and this app is helping me stay on track",
           "author": "Teno93",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-23",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "Love it",
-          "author": "LolaChikis",
-          "version": "5.112.0"
         }
       ],
-      "meta.total": 57,
+      "meta.total": 60,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-23",
-      "meta.until": "2025-08-22"
+      "meta.since": "2025-07-24",
+      "meta.until": "2025-08-23"
     }
   ]
 }
