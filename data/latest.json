@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-24T00:34:59Z",
+  "generated_at": "2025-08-25T00:32:50Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -499,33 +499,15 @@
           "content": "Great app that helps you love your self more through the day",
           "author": "FatherFullSend",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-25",
-          "rating": 1,
-          "country": "US",
-          "title": "You gotta be kidding...",
-          "content": "You open the app and are then forced to answer literally dozens of questions. I didn't count but it is something like 40 or 50 questions. Some can be skipped. Others cannot. But when it's all done then the only option is to sign up for a three day free trial. For Pete sake. Close. Delete. See ya.",
-          "author": "Chazmon",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-25",
-          "rating": 4,
-          "country": "US",
-          "title": "Inconsistent",
-          "content": "Here I am and the Streak Reminder hasn’t worked the last 4 days and the last 2 days, not getting any affirmations — yes, I have cleared all my notifications on my home screen as previously suggested. I’m feeling frustrated because I’ve had this app 2 years and until this year, I had virtually no issues. I hope you can fix this quickly because I really do love this app and it is good for me.",
-          "author": "Chelevision",
-          "version": "5.112.0"
         }
       ],
-      "meta.total": 57,
+      "meta.total": 55,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-25",
-      "meta.until": "2025-08-24"
+      "meta.since": "2025-07-26",
+      "meta.until": "2025-08-25"
     }
   ]
 }
