@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-08-26T00:31:22Z",
+  "generated_at": "2025-08-27T00:30:55Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-24",
+          "rating": 1,
+          "country": "US",
+          "title": "IT WILL STOP WORKING!!!",
+          "content": "And never be fixed again!!! I haven’t received ANY affirmations in months. The “support” is AI and a complete joke. This experience has been the exact opposite of positive. Do what’s right, Monkey Taps.",
+          "author": "Lunaveda",
+          "version": "5.116.0"
+        },
         {
           "date": "2025-08-23",
           "rating": 5,
@@ -535,33 +544,15 @@
           "content": "Kinda goofy asks a lot of questions.",
           "author": "melodymyhave",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-27",
-          "rating": 5,
-          "country": "US",
-          "title": "I AM",
-          "content": "I am grateful for this app and the self growth that I’ve achieved by using it.",
-          "author": "Delilaha345",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-27",
-          "rating": 1,
-          "country": "US",
-          "title": "I’m a paying customer and this app hasn’t worked for 6 months",
-          "content": "This is my first review ever. I really loved this app when it worked. But for the last 6 months I’ve been receiving no notifications on my iPhone 13 mini, running the latest software on both the app and my phone. I’ve contacted technical support about this, provided robust technical details about my device and app, and I have repeatedly been told that it’s a planned fix in a future update. However, there have been about 40-50 app updates since my initial request, and the only notifications I receive are to “Keep my streak alive!” I didn’t want to write this review. But if you’re going to be a paying customer, you should be aware of this. Thanks for reading.",
-          "author": "MellowToastCloud",
-          "version": "5.112.0"
         }
       ],
-      "meta.total": 61,
+      "meta.total": 60,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-27",
-      "meta.until": "2025-08-26"
+      "meta.since": "2025-07-28",
+      "meta.until": "2025-08-27"
     }
   ]
 }
