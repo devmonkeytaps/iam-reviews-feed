@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-08-27T00:30:55Z",
+  "generated_at": "2025-08-28T00:30:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-26",
+          "rating": 5,
+          "country": "US",
+          "title": "love it",
+          "content": "it’s a really nice app and gives good daily affirmations depending on what you need them for.",
+          "author": "acavavavava",
+          "version": "5.116.0"
+        },
+        {
+          "date": "2025-08-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Muse",
+          "content": "This app is is my daily whisper in my ear , the vote of confidence, the emotional hug and reassurance I can’t live without !",
+          "author": "recycledwhite interiors",
+          "version": "5.116.0"
+        },
+        {
+          "date": "2025-08-24",
+          "rating": 1,
+          "country": "US",
+          "title": "Scamming on people with poor mental health",
+          "content": "This app is literally requiring you to pay a subscription to receive AI generated notifications from it, half of which are not even affirmations… it’s a scam.",
+          "author": "Wowforgetit",
+          "version": "5.116.0"
+        },
         {
           "date": "2025-08-24",
           "rating": 1,
@@ -457,6 +484,15 @@
         },
         {
           "date": "2025-08-01",
+          "rating": 1,
+          "country": "GB",
+          "title": "Disgrace",
+          "content": "Honestly used to love this app and getting notifications from it. Until recently when they’ve been trying to push their premium version by making their free version unbearable. I’ve been receiving a million advert push notifications daily. They’ve obviously done this to make the experience so frustrating that people pay for their premium version. It’s honestly a disgrace. Greed will be the downfall of your company. Deleted the app and won’t ever be downloading it again. So disappointed.",
+          "author": "c0tt0ns0cks",
+          "version": "5.113.0"
+        },
+        {
+          "date": "2025-08-01",
           "rating": 5,
           "country": "US",
           "title": "I love I am",
@@ -517,42 +553,15 @@
           "content": "Good app",
           "author": "Tenten555!",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "I have such bad depression anxiety and stuff like that and this app is helpin me so much! I really recommend getting it.",
-          "author": "Needs more entertainment",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-28",
-          "rating": 5,
-          "country": "US",
-          "title": "I Am",
-          "content": "I love love love this app !!! You could be having a rough day , and here comes a amazing positive reminder popping up on you phone screen :)",
-          "author": "JoyReneeSmith",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-28",
-          "rating": 2,
-          "country": "US",
-          "title": "Weird",
-          "content": "Kinda goofy asks a lot of questions.",
-          "author": "melodymyhave",
-          "version": "5.112.0"
         }
       ],
-      "meta.total": 60,
+      "meta.total": 61,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-28",
-      "meta.until": "2025-08-27"
+      "meta.since": "2025-07-29",
+      "meta.until": "2025-08-28"
     }
   ]
 }
