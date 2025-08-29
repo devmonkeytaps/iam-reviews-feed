@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-08-28T00:30:35Z",
+  "generated_at": "2025-08-29T00:30:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-27",
+          "rating": 5,
+          "country": "US",
+          "title": "I LOVE IT!",
+          "content": "Absolutely Loving it!",
+          "author": "Mz. MMD A",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Just be upfront",
+          "content": "I hate when apps wait until after you’ve spent 10 minutes setting up your account to tell you it costs money. Just be upfront.",
+          "author": "Jzanae🥘",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Wonderful App",
+          "content": "I utilized the app for the free trial and found it to be Phenomenal! I recommend it to all those who need a reminder of how wonderful they really are and how they deserve the best from themselves! 😍👍🏽",
+          "author": "Ladyindeed",
+          "version": "5.116.0"
+        },
         {
           "date": "2025-08-26",
           "rating": 5,
@@ -147,6 +174,15 @@
           "title": "Daily Affirmations",
           "content": "Keeping me positive throughout my day so much to be Thankful And \nGrateful For \n🙏✨❤️🌎🙏",
           "author": "Odeano55",
+          "version": "5.115.0"
+        },
+        {
+          "date": "2025-08-18",
+          "rating": 5,
+          "country": "CA",
+          "title": "Hi",
+          "content": "It really helps mentaly and physically",
+          "author": "samcool124",
           "version": "5.115.0"
         },
         {
@@ -517,42 +553,6 @@
           "content": "So I do not like that the bundle is EXPENSIVE, BUT except that I love that I am is positive are making me(/people that have it) feel good and more self loving and positive about are self",
           "author": "I hate jenny",
           "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-29",
-          "rating": 5,
-          "country": "US",
-          "title": "It helps",
-          "content": "It helped me become a better person and make me feel better about myself but I don’t like that you have to pay for more better things but even if you don’t pay it still helped me mentally!",
-          "author": "🎀💐💞🌸🌺",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Just bought it!!!!",
-          "content": "So far so good",
-          "author": "LA9011:11",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-29",
-          "rating": 5,
-          "country": "CA",
-          "title": "Been using this for years",
-          "content": "Love the backgrounds, they even have relaxing sounds that come with them",
-          "author": "lizzyy grant",
-          "version": "5.112.0"
-        },
-        {
-          "date": "2025-07-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Love it",
-          "content": "Good app",
-          "author": "Tenten555!",
-          "version": "5.112.0"
         }
       ],
       "meta.total": 61,
@@ -560,8 +560,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-29",
-      "meta.until": "2025-08-28"
+      "meta.since": "2025-07-30",
+      "meta.until": "2025-08-29"
     }
   ]
 }
