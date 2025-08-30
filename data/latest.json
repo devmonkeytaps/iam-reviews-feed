@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-08-29T00:30:40Z",
+  "generated_at": "2025-08-30T00:29:06Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-28",
+          "rating": 5,
+          "country": "US",
+          "title": "♡",
+          "content": "This app helps so much I am young but it helps if your reading reviews to see if the app is good for you it is trust me it made me feel soich better about myself so fast and this game is amazing pls download I recommend it♡♡♡♡☻✩✩",
+          "author": "My favorite go to game",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-27",
+          "rating": 2,
+          "country": "CA",
+          "title": "On-boarding way too long",
+          "content": "Got mad during on-boarding stage so I deleted an app.",
+          "author": "Kmaximoff",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Great",
+          "content": "Love the app! I love how I’m able to customize the background to my pictures and create my own affirmations as well to add. You’re able to personalize what type of affirmations you want to receive and also my favorite is it keeps count of the days you do your affirmations! I have a 156 day streak so far!!",
+          "author": "Luna the centerfold",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-08-27",
           "rating": 5,
@@ -544,24 +571,15 @@
           "content": "Thank you for providing this app.🙏🏼",
           "author": "Potato_22",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-07-30",
-          "rating": 4,
-          "country": "US",
-          "title": "I am,is okay/I love it",
-          "content": "So I do not like that the bundle is EXPENSIVE, BUT except that I love that I am is positive are making me(/people that have it) feel good and more self loving and positive about are self",
-          "author": "I hate jenny",
-          "version": "5.112.0"
         }
       ],
-      "meta.total": 61,
+      "meta.total": 63,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-30",
-      "meta.until": "2025-08-29"
+      "meta.since": "2025-07-31",
+      "meta.until": "2025-08-30"
     }
   ]
 }
