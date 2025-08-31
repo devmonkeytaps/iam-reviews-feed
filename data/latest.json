@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-30T00:29:06Z",
+  "generated_at": "2025-08-31T00:33:28Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -9,9 +9,27 @@
           "date": "2025-08-28",
           "rating": 5,
           "country": "US",
+          "title": "Cesia",
+          "content": "Es muy buena gracias a esta aplicación me siento segura de mi misma :3",
+          "author": "ArtWorkout is very good",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-28",
+          "rating": 5,
+          "country": "US",
           "title": "♡",
           "content": "This app helps so much I am young but it helps if your reading reviews to see if the app is good for you it is trust me it made me feel soich better about myself so fast and this game is amazing pls download I recommend it♡♡♡♡☻✩✩",
           "author": "My favorite go to game",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-27",
+          "rating": 4,
+          "country": "CA",
+          "title": "Affirmation App",
+          "content": "Great app very good, does the work for you. But not perfect.",
+          "author": "damage1203",
           "version": "5.117.0"
         },
         {
@@ -562,24 +580,15 @@
           "content": "I come across incredible affirmations that fill my soul, and this is truly gratifying. Thank you all of You.",
           "author": "Salvatore ZU",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-07-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Gratitude",
-          "content": "Thank you for providing this app.🙏🏼",
-          "author": "Potato_22",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 63,
+      "meta.total": 64,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-07-31",
-      "meta.until": "2025-08-30"
+      "meta.since": "2025-08-01",
+      "meta.until": "2025-08-31"
     }
   ]
 }
