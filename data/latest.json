@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-08-31T00:33:28Z",
+  "generated_at": "2025-09-01T00:38:05Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Eu amei",
+          "content": "Depois que eu comecei a usar eu mim senti bem melhor.obrigada I am",
+          "author": "Basquete…………………………",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-29",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "This is making me better",
+          "author": "Mana commence",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-29",
+          "rating": 5,
+          "country": "US",
+          "title": "The best",
+          "content": "I’ve used it for years. Downloaded while was in a toxic job. Those removers on my phone banner and on my Apple Watch really did a lot for me. I might have swiped them away often but they got through. I still love this app to this day",
+          "author": "Anonymous user 678732",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-28",
+          "rating": 5,
+          "country": "US",
+          "title": "It the little things that matter",
+          "content": "I don’t think this app has like completely transformed my life or anything but I will say I get the messages and it definitely impacts how I feel in that moment and I think it subconsciously affects my mood as well, I installed the app years ago and I’ll never delete it.",
+          "author": "Geeg’s",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-08-28",
           "rating": 5,
@@ -562,33 +598,15 @@
           "content": "Get it all I can say",
           "author": "Qball777",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-01",
-          "rating": 1,
-          "country": "GB",
-          "title": "Disgrace",
-          "content": "Honestly used to love this app and getting notifications from it. Until recently when they’ve been trying to push their premium version by making their free version unbearable. I’ve been receiving a million advert push notifications daily. They’ve obviously done this to make the experience so frustrating that people pay for their premium version. It’s honestly a disgrace. Greed will be the downfall of your company. Deleted the app and won’t ever be downloading it again. So disappointed.",
-          "author": "c0tt0ns0cks",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-01",
-          "rating": 5,
-          "country": "US",
-          "title": "I love I am",
-          "content": "I come across incredible affirmations that fill my soul, and this is truly gratifying. Thank you all of You.",
-          "author": "Salvatore ZU",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 64,
+      "meta.total": 66,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-01",
-      "meta.until": "2025-08-31"
+      "meta.since": "2025-08-02",
+      "meta.until": "2025-09-01"
     }
   ]
 }
