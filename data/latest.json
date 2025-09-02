@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-09-01T00:38:05Z",
+  "generated_at": "2025-09-02T00:30:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-30",
+          "rating": 4,
+          "country": "US",
+          "title": "I LOVE THIS APP!!! 🤩🌺😍💋🌸🎀",
+          "content": "This app has helped me through a lot of tough situations like starting school. And I couldn’t get the prime membership thing but yesterday day it said that I get to use the special membership for 3 days and u laughed and spent my whole morning looking through the affirmations and themes. One thing for the creator of this app can u plz try to make more affirmations and themes free bc not everyone can afford it. But overall if ur thinking about getting this app get it!!! It helps!! 💋🌊💝🌺💖🌸🩵🎀💘😝",
+          "author": "Beach girl 1226!! 🌊💋🌸💘🌺",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-30",
+          "rating": 5,
+          "country": "US",
+          "title": "5 STARS JUST SO ITS AT THE TOP! - YOU HAVE TO PAY DON’T BOTHER!! There’s better apps!",
+          "content": "How ridiculous and unbelievable that you now have to pay for this app and can’t even move forward with personalizing the app until you agree to set up a free trial and then pay… I’ve had this app for YEARS. once upon a time it was free. The backgrounds were free it was a fun, interactive and amazing app. But greed and them realizing  that so many struggle with mental health these days want to profit from that. I find it ironic that one of the promos in setting up your account asks if one of struggles is “struggling financially” then a few pages later it asks you to pay 😂\nUsed to be good, parting ways.\nThere’s better FREE apps out there. Or go on CHATGPT and ask it to tell you something inspiring all day don’t waste your money on this stupidity 😂",
+          "author": "Strawberry_x_3",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-08-30",
           "rating": 5,
@@ -562,51 +580,15 @@
           "content": "i love it so much 100% helped with my self confidence!",
           "author": "juliette kattengell",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Great app",
-          "content": "I love this app, keeps people like me above water.",
-          "author": "Giggidy912",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-02",
-          "rating": 3,
-          "country": "US",
-          "title": "Had to pay",
-          "content": "Lovely app - but I’m not sure how reasonable it is to pay for positive affirmations…",
-          "author": "Cece4632",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-02",
-          "rating": 1,
-          "country": "US",
-          "title": "Disappointing",
-          "content": "USED to love this app. Had it for years. The self esteem it gave me and the mantras I said all day just from this app. Now it's forcing me to \"practice christianity\" unless I pay. Sick that you're forcing religion on me from an app that supposed to help. 15 a month for just affirmations is insanity in itself.",
-          "author": "OtterGoddess",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-02",
-          "rating": 5,
-          "country": "US",
-          "title": "The best app",
-          "content": "Get it all I can say",
-          "author": "Qball777",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 66,
+      "meta.total": 64,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-02",
-      "meta.until": "2025-09-01"
+      "meta.since": "2025-08-03",
+      "meta.until": "2025-09-02"
     }
   ]
 }
