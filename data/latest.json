@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-09-02T00:30:44Z",
+  "generated_at": "2025-09-03T00:29:05Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-08-31",
+          "rating": 5,
+          "country": "CA",
+          "title": "I love it 💗",
+          "content": "A message/notif always pop up whenever I need it",
+          "author": "Isitquietyet",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-30",
+          "rating": 5,
+          "country": "US",
+          "title": "It’s amazing",
+          "content": "It’s amazing daily reminders that we forget to remember",
+          "author": "igohog",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-08-30",
           "rating": 4,
@@ -48,6 +66,15 @@
           "title": "The best",
           "content": "I’ve used it for years. Downloaded while was in a toxic job. Those removers on my phone banner and on my Apple Watch really did a lot for me. I might have swiped them away often but they got through. I still love this app to this day",
           "author": "Anonymous user 678732",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-08-28",
+          "rating": 3,
+          "country": "CA",
+          "title": "Why make this a “streak” app?",
+          "content": "I love this app, don’t get me wrong. But it’s really annoying that I get literally any other notifications from it besides the affirmations. After about a month or so, the app will send you a notification threatening to stop sending you affirmations if you don’t go into the app and start a “streak”. Like why? The whole point of this app is to get daily notifications. Not to physically open up the app.",
+          "author": "abbyymae",
           "version": "5.117.0"
         },
         {
@@ -228,6 +255,15 @@
           "title": "Absolutely… duh.. just buy it",
           "content": "I only pay for two apps: My period tracking app and my affirmations app because they are equally as important to me. This app will alter your brain in the most beautiful way. Thank you. Grateful for this app really. It’s helped a lot with my depression, anxiety and self-esteem issues",
           "author": "Christinakilamb",
+          "version": "5.116.0"
+        },
+        {
+          "date": "2025-08-21",
+          "rating": 1,
+          "country": "ES",
+          "title": "Decepcionante",
+          "content": "No te permite entrar si no es suscribiendote. Que aunque sea gratis por 3 dias. No tiene versión freemium. Me ha decepcionado, la verdad",
+          "author": "olaokita",
           "version": "5.116.0"
         },
         {
@@ -571,24 +607,15 @@
           "content": "this is a nice app but the relentless notifications about losing a streak i never even had are obnoxious. i’ve gone into the app several times to try to turn them off but i still get them.",
           "author": "meglie7",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-03",
-          "rating": 5,
-          "country": "US",
-          "title": "wow!",
-          "content": "i love it so much 100% helped with my self confidence!",
-          "author": "juliette kattengell",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 64,
+      "meta.total": 67,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-03",
-      "meta.until": "2025-09-02"
+      "meta.since": "2025-08-04",
+      "meta.until": "2025-09-03"
     }
   ]
 }
