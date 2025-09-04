@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-09-03T00:29:05Z",
+  "generated_at": "2025-09-04T00:29:38Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Its a blend",
+          "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
+          "author": "Masufa",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-08-31",
           "rating": 5,
@@ -598,15 +607,6 @@
           "content": "I love it!",
           "author": "@wearingmypresent",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-04",
-          "rating": 1,
-          "country": "US",
-          "title": "streak",
-          "content": "this is a nice app but the relentless notifications about losing a streak i never even had are obnoxious. i’ve gone into the app several times to try to turn them off but i still get them.",
-          "author": "meglie7",
-          "version": "5.113.0"
         }
       ],
       "meta.total": 67,
@@ -614,8 +614,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-04",
-      "meta.until": "2025-09-03"
+      "meta.since": "2025-08-05",
+      "meta.until": "2025-09-04"
     }
   ]
 }
