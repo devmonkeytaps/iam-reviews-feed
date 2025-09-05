@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-04T00:29:38Z",
+  "generated_at": "2025-09-05T00:30:17Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-03",
+          "rating": 5,
+          "country": "US",
+          "title": "This got me out my funk!",
+          "content": "Reading these daily affirmations helped pull me out of depression. Thank you. I recommend it to others all the time!!",
+          "author": "Ressababy",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-02",
+          "rating": 1,
+          "country": "US",
+          "title": "Scamming on people with poor mental health",
+          "content": "This app is literally requiring you to pay a subscription to receive AI generated notifications from it, half of which are not even affirmations… it’s a scam.\nThere is also no “ad supported version” you can use for free like they keep saying in their responses. You absolutely WILL have to provide them with payment information in order to continue using the app at all.",
+          "author": "Wowforgetit",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-01",
+          "rating": 5,
+          "country": "US",
+          "title": "How i feel",
+          "content": "It makes me feel good about myself",
+          "author": "Crissanna Cross",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-09-01",
           "rating": 5,
@@ -174,6 +201,15 @@
           "title": "love it",
           "content": "it’s a really nice app and gives good daily affirmations depending on what you need them for.",
           "author": "acavavavava",
+          "version": "5.116.0"
+        },
+        {
+          "date": "2025-08-25",
+          "rating": 5,
+          "country": "GB",
+          "title": "Lovely app",
+          "content": "Really sweet and helpful. Lots of synchronicities coming through it",
+          "author": "Dannafaith",
           "version": "5.116.0"
         },
         {
@@ -589,33 +625,15 @@
           "content": "This app is so amazing it literally gives you so much affirmations every single day when you get this app ♥️♥️ the part that I HATE IS THE MESSAGE PART but I hope you like lit whatever your heart desires",
           "author": "Jayde Rae",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspired",
-          "content": "I love this app. Every day I go for my dose of positivity.  In a world of negative this app gives me a little bit of positive back ❤️",
-          "author": "Inspir❤️d",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-05",
-          "rating": 5,
-          "country": "US",
-          "title": "🤍",
-          "content": "I love it!",
-          "author": "@wearingmypresent",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 67,
+      "meta.total": 69,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-05",
-      "meta.until": "2025-09-04"
+      "meta.since": "2025-08-06",
+      "meta.until": "2025-09-05"
     }
   ]
 }
