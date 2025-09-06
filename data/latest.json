@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-05T00:30:17Z",
+  "generated_at": "2025-09-06T00:29:07Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-03",
+          "rating": 1,
+          "country": "US",
+          "title": "The “Premium” description needs to be updated.",
+          "content": "(If I misunderstood something or this isn’t accurate, please let me know so I can go check again.) \n\nSo, let me preface this by saying I’m aware of this app being labeled as having “in-app purchases”, but there is no way I answer all the questions from start to finish just to be told there basically is no free/basic version. Their description talks about a “premium” version like it’s a separate thing that you can upgrade to to get all the benefits for, but the app itself is the full premium version. You get 3 days of free access to the premium version before you have to subscribe. \n\nRespectfully, to anyone reading this, no I’m not some entitled individual who thinks they should get everything for free. I wouldn’t be making this if I was told in the description or upon starting the app there would only be 3 days of access before you have to subscribe. I’m not sure if this was done on purpose or if it was by mistake, but I believe you guys have to be more specific so you don’t waste anyone’s time. Especially when it comes to someone’s mental health. \n\nAnyways, thanks for reading this. I appreciate any feedback about this if you feel it’s needed or if I’m mistaken about something 🙏.",
+          "author": "PhoenixVariety",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Great",
+          "content": "I’ve genuinely felt better since using this app.",
+          "author": "idahoe.potatoe",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-03",
+          "rating": 1,
+          "country": "US",
+          "title": "Not worth it",
+          "content": "$70 is way too much for an app, they give you the shortest trial, and no reminder that you’re about to be charged.",
+          "author": "Momma Esh",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-09-03",
           "rating": 5,
@@ -402,6 +429,15 @@
           "version": "5.115.0"
         },
         {
+          "date": "2025-08-16",
+          "rating": 5,
+          "country": "AU",
+          "title": "this app rocks yo",
+          "content": "some would think having an app like this is silly, but it’s nice to suddenly get a notification saying I rock or something. I secretly install the app on my friend’s and family’s phones lol 🫵🫰",
+          "author": "sarahorsara",
+          "version": "5.115.0"
+        },
+        {
           "date": "2025-08-15",
           "rating": 2,
           "country": "CA",
@@ -607,33 +643,15 @@
           "content": "I just hate it. Like 2 positive words isn’t going to melt my anxiety. DO NOT DOWNLOADDDDDD",
           "author": "Kennio19",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-06",
-          "rating": 4,
-          "country": "CA",
-          "title": "Good but could use a few updates!",
-          "content": "I really like this app so far. But if I could change a few things I would add a section to save your favourite backgrounds so you don’t lose them in the large variety (I love having options just wish I could find my favs easier). I would also make a spot for requests on types of affirmations (I know I could email but I’d rather shoot a quick message). Like I’d love some focusing on self trust but when I search that not much comes up.",
-          "author": "mellykenney",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-06",
-          "rating": 4,
-          "country": "US",
-          "title": "Jayda",
-          "content": "This app is so amazing it literally gives you so much affirmations every single day when you get this app ♥️♥️ the part that I HATE IS THE MESSAGE PART but I hope you like lit whatever your heart desires",
-          "author": "Jayde Rae",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 69,
+      "meta.total": 71,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-06",
-      "meta.until": "2025-09-05"
+      "meta.since": "2025-08-07",
+      "meta.until": "2025-09-06"
     }
   ]
 }
