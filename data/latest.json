@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-09-06T00:29:07Z",
+  "generated_at": "2025-09-07T00:33:14Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-04",
+          "rating": 5,
+          "country": "US",
+          "title": "Good morning!",
+          "content": "Made me feel like I was coming “back to life”",
+          "author": "academyDae",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-03",
+          "rating": 5,
+          "country": "AU",
+          "title": "I love this app! 🧘🏻‍♀️🤍",
+          "content": "I started to download this app in 2023 and it’s been life changing for me mentally and emotionally and physically to! Love the affirmations I get on my Apple Watch and through my phone! Such amazing app! It’s so worth it! 🫶🏼🫶🏼",
+          "author": "MsBiancaBabe",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-09-03",
           "rating": 1,
@@ -589,69 +607,15 @@
           "content": "Its the same little generic \"affirmations\" over and over again, and the home screen widget never updates.",
           "author": "Hilari V",
           "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Love the affirmations and graphics",
-          "content": "Love the graphics",
-          "author": "Felicia Edith",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 1,
-          "country": "US",
-          "title": "LANGUAGE SYSTEM",
-          "content": "Please improve it cause I want my messages in spanish and it was not updated",
-          "author": "Jessicak07",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Peace",
-          "content": "This is a great app. I just downloaded it but I love it so far",
-          "author": "ketokrZy",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 5,
-          "country": "US",
-          "title": "T H E  O F F I C I A L Q U E E N",
-          "content": "G R E A T & S O O T H I N G",
-          "author": "Bey0330",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 3,
-          "country": "US",
-          "title": "Make it make sense",
-          "content": "I genuinely love the daily/hourly affirmations! They tend to come at the right times and the messages are always great! However, if I have the notifications turned on, why in the world am I being prompted to “Tap to keep getting reminders”??? LEAVE IT ALONE. THROW AWAY THE IDEA OF FORCING PEOPLE TO TAP TO KEEP GETTING REMINDERS. Please consider this review and make the changes.",
-          "author": "Pr3tty_hippie",
-          "version": "5.113.0"
-        },
-        {
-          "date": "2025-08-07",
-          "rating": 1,
-          "country": "AU",
-          "title": "Why I hate I am",
-          "content": "I just hate it. Like 2 positive words isn’t going to melt my anxiety. DO NOT DOWNLOADDDDDD",
-          "author": "Kennio19",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 71,
+      "meta.total": 67,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-07",
-      "meta.until": "2025-09-06"
+      "meta.since": "2025-08-08",
+      "meta.until": "2025-09-07"
     }
   ]
 }
