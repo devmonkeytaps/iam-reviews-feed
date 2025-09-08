@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-09-07T00:33:14Z",
+  "generated_at": "2025-09-08T00:32:14Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Something changed",
+          "content": "I’m changing my review to one star. I Am has been one of my favorite apps for as long as I’ve had it, but right now I’m so frustrated with it. I bought premium because I wanted to create my own affirmations. I choose the ones I want to focus on and make them my favorites. I then added it to my Apple Watch. Every time I looked at my watch I was reminded of something I wanted to focus on. And if I wanted to cycle through all my favorites, I could just tap on it to get to the rest. Now, when I look at my watch I just see generic affirmations I’m not interested in. When I tap on it I can get to the rest, but I don’t want to have to do that. I’m ready to give up and remove it from my watch.",
+          "author": "bsulliv6",
+          "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-04",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "This is a very good app to me i encouragers me everyday all the time y’all should get this app",
+          "author": "Hshshxuwheur",
+          "version": "5.117.0"
+        },
         {
           "date": "2025-09-04",
           "rating": 5,
@@ -84,6 +102,15 @@
           "title": "Its a blend",
           "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
           "author": "Masufa",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-01",
+          "rating": 2,
+          "country": "CA",
+          "title": "I just want to love myself",
+          "content": "You have to pay to even get even a single affirmation. It’s so sad because I was looking forward to using this app.\n\nI know that it says there are in app purchases but I thought it would be like premium affirmations or smth like that. I’m sure it’s a great app, I’ve heard great things about it but I will not be using it until it’s at least usable without having to pay.\n\nDon’t download if you don’t want to pay for it. It’s unfortunate that something so simple as trying to improve your life has turned into something you have to pay for.",
+          "author": "Izy_27",
           "version": "5.117.0"
         },
         {
@@ -571,51 +598,15 @@
           "content": "It really helped me with my confidence",
           "author": "5.stars.all.the.way",
           "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Idk what happened",
-          "content": "I was on the free version, then something popped up to get a year for 17.99, so I had to go update my payment info. When I clicked on the app again though, there was no option to do that sale again. When I tried deleting it, downloading it again, it won’t let me use the free version at all anymore.\n\nSo now I have no more positive affirmations on my Home Screen.",
-          "author": "Meeshy_Meesh",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Life Changing",
-          "content": "This is an incredible tool to keep you focused on the positive side. It lifts you up and reminds you that you have so much in life. Encourages you to use your gifts to make your life meaningful and to feel loved and supported.",
-          "author": "detoursrock",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-08",
-          "rating": 4,
-          "country": "US",
-          "title": "Dislike the paying",
-          "content": "i love the app but knowing i only have a free trial hurts bc i can’t afford the subscription",
-          "author": "Scarlett N💕",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Meh",
-          "content": "Its the same little generic \"affirmations\" over and over again, and the home screen widget never updates.",
-          "author": "Hilari V",
-          "version": "5.113.0"
         }
       ],
-      "meta.total": 67,
+      "meta.total": 66,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-08",
-      "meta.until": "2025-09-07"
+      "meta.since": "2025-08-09",
+      "meta.until": "2025-09-08"
     }
   ]
 }
