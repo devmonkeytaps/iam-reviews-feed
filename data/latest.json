@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-09T00:30:36Z",
+  "generated_at": "2025-09-10T00:29:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-07",
+          "rating": 1,
+          "country": "US",
+          "title": "A rip off",
+          "content": "Ok sure it’s a nice app, but worth nearly $70 a year? Just for affirmations? My fitness tracking apps are nearly half that and do 100x more. I think it’s a cool app but for the price point it’s ridiculous. My bigger issue is that I requested a trial and explicitly requested I be notified before the trial ended so that I could cancel. I was NEVER notified, by email or push notification. So it automatically tried charging me. Yes, I should have kept track of that myself, so I do take some responsibility but if you’re not going to notify people then don’t tell them you are as then I would have made absolutely sure I kept track of it myself. Feels like a con to me.",
+          "author": "Emma_schlaef",
+          "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this app",
+          "content": "i love this app, it has helped my self confidence",
+          "author": "Analise Terry",
+          "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-07",
+          "rating": 5,
+          "country": "US",
+          "title": "DOWNLOAD NOW!!",
+          "content": "this app is awesome my self confidence has boosted",
+          "author": "LEAH.S!",
+          "version": "5.118.0"
+        },
         {
           "date": "2025-09-06",
           "rating": 5,
@@ -30,6 +57,15 @@
           "title": "Something changed",
           "content": "I’m changing my review to one star. I Am has been one of my favorite apps for as long as I’ve had it, but right now I’m so frustrated with it. I bought premium because I wanted to create my own affirmations. I choose the ones I want to focus on and make them my favorites. I then added it to my Apple Watch. Every time I looked at my watch I was reminded of something I wanted to focus on. And if I wanted to cycle through all my favorites, I could just tap on it to get to the rest. Now, when I look at my watch I just see generic affirmations I’m not interested in. When I tap on it I can get to the rest, but I don’t want to have to do that. I’m ready to give up and remove it from my watch.",
           "author": "bsulliv6",
+          "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-05",
+          "rating": 5,
+          "country": "CA",
+          "title": "☺️",
+          "content": "Je me sens encouragée. Merci!",
+          "author": "Clara5888",
           "version": "5.118.0"
         },
         {
@@ -580,33 +616,15 @@
           "content": "I love this App I’ve had it on my phone for a couple of days it really helps me with my anxiety and keeping a positive mindset☺️❤️",
           "author": "Summermarie.",
           "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-10",
-          "rating": 5,
-          "country": "US",
-          "title": "awesomesauce",
-          "content": "i love this app so much. little reminders throughout the day goes a long way ! it helps me feel more confident in myself and reminds me there is more to life than negative thoughts and anxiety. i would recommend this to everyone",
-          "author": "lainpillz",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-10",
-          "rating": 5,
-          "country": "US",
-          "title": "◡̈⋆ⒽⒶⓅⓅⓎ😊",
-          "content": "This app helps me with my anxiety and stress I love the positive quotes thank you for making this app",
-          "author": "43😊😍",
-          "version": "5.114.0"
         }
       ],
-      "meta.total": 66,
+      "meta.total": 68,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-10",
-      "meta.until": "2025-09-09"
+      "meta.since": "2025-08-11",
+      "meta.until": "2025-09-10"
     }
   ]
 }
