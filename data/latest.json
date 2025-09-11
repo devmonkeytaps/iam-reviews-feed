@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-09-10T00:29:46Z",
+  "generated_at": "2025-09-11T00:30:21Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-08",
+          "rating": 5,
+          "country": "US",
+          "title": "This app has changed my perspective on everything!!",
+          "content": "i love how you can customize the app and the background of the affirmations. i also like being able to just scroll to find new inspiration. i have shared this app with a lot of my friends and family and they too appreciate it very much. i have learned that words are super powerful!! i would totally recommend this app to anyone who overthinks, is going through a rough patch, or has anxiety and or depression. thank you so much whoever made this!",
+          "author": "urbestie_BROOKE",
+          "version": "5.118.0"
+        },
         {
           "date": "2025-09-07",
           "rating": 1,
@@ -156,6 +165,15 @@
           "title": "Its a blend",
           "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
           "author": "Masufa",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-01",
+          "rating": 5,
+          "country": "ES",
+          "title": "I am",
+          "content": "Es la mejor aplicación que he visto hasta ahora probarla la recomiendo muchísimo",
+          "author": "AinhoaCarvajal",
           "version": "5.117.0"
         },
         {
@@ -598,24 +616,6 @@
           "content": "I’ve been using this app for years and it just keeps getting better. It has affirmations for everything.",
           "author": "Trace5511",
           "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Love 😍😍",
-          "content": "I have nothing bad to say about this app- It’s so perfect",
-          "author": "FurgleBear",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-11",
-          "rating": 5,
-          "country": "US",
-          "title": "❤️",
-          "content": "I love this App I’ve had it on my phone for a couple of days it really helps me with my anxiety and keeping a positive mindset☺️❤️",
-          "author": "Summermarie.",
-          "version": "5.114.0"
         }
       ],
       "meta.total": 68,
@@ -623,8 +623,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-11",
-      "meta.until": "2025-09-10"
+      "meta.since": "2025-08-12",
+      "meta.until": "2025-09-11"
     }
   ]
 }
