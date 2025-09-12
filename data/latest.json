@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-09-11T00:30:21Z",
+  "generated_at": "2025-09-12T00:30:18Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-09",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "I am is the best thing that you have to have because you can read a lot and learn how to read just do a lot so better than I am for now is the best of the greatest of all",
+          "author": "D’arrious",
+          "version": "5.118.1"
+        },
+        {
+          "date": "2025-09-09",
+          "rating": 1,
+          "country": "US",
+          "title": "Used to love, but paywall is disgusting",
+          "content": "I used to love this app and I used it every morning with the “practice” feature for 15 mins to help brighten my day in the morning because I would listen to the affirmations being spoken while I would get ready. However, I will no longer be using this app. The practice feature is now behind a paywall that offers a 3-day free trial and then you have to PAY $70 PER YEAR. I’m sorry, but that is just too much for a simple affirmation app. I loved this app so much but now that almost everything is behind a paywall, I am going to stop using this app because the greed of the company is honestly disgusting to me. I hope they learn that they will continuously lose customers because of their greed. They do not care about their customers enjoying the app. All they care about is money.",
+          "author": "yovanecall",
+          "version": "5.118.1"
+        },
+        {
+          "date": "2025-09-09",
+          "rating": 5,
+          "country": "AU",
+          "title": "So good",
+          "content": "Wonderfull always keeps me smiling even on the bad days",
+          "author": "Jayde@Luv",
+          "version": "5.118.1"
+        },
+        {
+          "date": "2025-09-09",
+          "rating": 4,
+          "country": "US",
+          "title": "Love it but....",
+          "content": "I love the app, but all of a sudden it won't allow me to save my favorites, hence the 4 star review. Please fix it. 🙏",
+          "author": "Sweet_K-os",
+          "version": "5.118.1"
+        },
         {
           "date": "2025-09-08",
           "rating": 5,
@@ -76,6 +112,15 @@
           "content": "Je me sens encouragée. Merci!",
           "author": "Clara5888",
           "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-05",
+          "rating": 5,
+          "country": "AU",
+          "title": "So gooooooooooooood",
+          "content": "I love it it helps a lot and I love how I can choose wallpaper on it. so I think absolutely amazing you don’t even need to have axity for it to work it can also help in many ways love it get think believe it 🤩✨⭐️🌟💫",
+          "author": "annie💍",
+          "version": "5.117.0"
         },
         {
           "date": "2025-09-04",
@@ -598,33 +643,15 @@
           "content": "This app makes me feel so much better about my self and all the messages just brightens my day",
           "author": "-bevy",
           "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-12",
-          "rating": 3,
-          "country": "CA",
-          "title": "Love but sometimes annoying",
-          "content": "I love getting these free positive pop up quotes all day. However what does annoy me is the streak reminders. I don’t want a streak, nor like getting these many reminders to open the app to keep a streak up!",
-          "author": "Tresses39",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-12",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this app",
-          "content": "I’ve been using this app for years and it just keeps getting better. It has affirmations for everything.",
-          "author": "Trace5511",
-          "version": "5.114.0"
         }
       ],
-      "meta.total": 68,
+      "meta.total": 71,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-12",
-      "meta.until": "2025-09-11"
+      "meta.since": "2025-08-13",
+      "meta.until": "2025-09-12"
     }
   ]
 }
