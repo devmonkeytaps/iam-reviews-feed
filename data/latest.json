@@ -1,10 +1,55 @@
 {
-  "generated_at": "2025-09-12T00:30:18Z",
+  "generated_at": "2025-09-13T00:27:50Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-11",
+          "rating": 2,
+          "country": "US",
+          "title": "Lost favorites",
+          "content": "They update the app almost daily in the App Store and I lost all of my 300 favorites in one of those updates. It’s definitely DEFINITELY not worth $150/lifetime if it cannot even save your favorites to a cloud server. I log in and it tells me I have no favorites or self written quotes. My dates that I saved them are all reset, and I can’t add a quote to favorites from a notification without opening the app anymore.",
+          "author": "EachRach",
+          "version": "6.0.0"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 3,
+          "country": "US",
+          "title": "Make the app FREE",
+          "content": "Love the app! You need to make it all free though I am 10 years old and don’t want to spend money! Please make it all free! Otherwise something bad will happen to me! I am just kidding but seriously make the app FREE!!!!!!! 😡🙏🙏❤️",
+          "author": "Blahhhhh Blahhhhh Blahhhhhhhh",
+          "version": "6.0.0"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 1,
+          "country": "US",
+          "title": "Cancelled & still charged yearly subscription and Apple won’t refund",
+          "content": "I cancelled the subscription during the free trial because I decided on a different app. I cancelled before I was charged and then I was still charged the yearly subscription fee. Messaged Apple the same day about a refund and cancelling and they denied my request. So for that I’m rating one star.",
+          "author": "MegVasq",
+          "version": "6.0.0"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Nice",
+          "content": "Really helpful thank you!",
+          "author": "Dj2019Harm",
+          "version": "6.0.0"
+        },
+        {
+          "date": "2025-09-10",
+          "rating": 1,
+          "country": "US",
+          "title": "Please fix!",
+          "content": "In the last several days something has happened. The widget is stuck on “practice” instead on the topics I choose to focus on. Love this app but will be deleting if I can’t use the functionality promised",
+          "author": "Cindytwin",
+          "version": "5.118.1"
+        },
         {
           "date": "2025-09-09",
           "rating": 5,
@@ -616,42 +661,15 @@
           "content": "💋",
           "author": "BioWare’s",
           "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Can’t go wrong",
-          "content": "Self care is so important and this app is a great place to start",
-          "author": "Mell0wdy",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Ezmerelda Talakai Touchet",
-          "content": "Bestie in app form",
-          "author": "Aaaplie",
-          "version": "5.114.0"
-        },
-        {
-          "date": "2025-08-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "This app makes me feel so much better about my self and all the messages just brightens my day",
-          "author": "-bevy",
-          "version": "5.114.0"
         }
       ],
-      "meta.total": 71,
+      "meta.total": 73,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-13",
-      "meta.until": "2025-09-12"
+      "meta.since": "2025-08-14",
+      "meta.until": "2025-09-13"
     }
   ]
 }
