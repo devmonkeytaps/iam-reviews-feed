@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-09-13T00:27:50Z",
+  "generated_at": "2025-09-14T00:32:41Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-12",
+          "rating": 5,
+          "country": "US",
+          "title": "A very informational review for a very lovable app.",
+          "content": "I downloaded this app because a friend had it and she said it was free, (besides the in app purchases.) If you know me, (which you don’t) if there is a free app, I WILL GET IT! So I downloaded it and it has already helped me cope with guilt from when I was younger, stress/anxiety, bad mindsets and even mental blocks. Truly this app has helped me cope with myself and it helped show me that not everyone can be perfect or be the person they want to be, if you’re being yourself, that’s good enough. This app has changed me in the best way possible and if your reading this because your considering getting this app, I urge you to try it out. If you don’t love it, you don’t have to use it. If you love it (which you will) you should totally keep it. I hope this review was informational and I hope it convinced you to get this app. Hope you all have a positive, safe and beautiful day.",
+          "author": 679134,
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 1,
+          "country": "US",
+          "title": "Trail subscription",
+          "content": "I had signed up for a trial period with the understanding that I would be notified before the trial ended. Nope, they don’t send you any type of notification, and yes I should have set a reminder but come on now. Especially when you request to be notified and you’re expecting the company to do exactly what they said. And they didn’t happen, so now I’m being charged $74 for a years worth of daily affirmations that don’t even pop up like they’re supposed to. TOTALLY DISSATISFIED",
+          "author": "Lillybean78",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 1,
+          "country": "US",
+          "title": "New update is a downgrade.",
+          "content": "The “practice” button is for “1 minute” only! Why did you remove the 5 , or 15 minutes?!?  Also, why did you remove the choice of voice to speak the affirmations. I don’t want  a female voice speaking the affirmations.  In addition, the voice doesn’t sound sometimes. This new update is a downgrade , I’ve been using your app since 2022! This is worst update so far. PLEASE FIX IT!",
+          "author": "Ditta Kyle",
+          "version": "6.0.0"
+        },
+        {
+          "date": "2025-09-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Why I love I am",
+          "content": "I love this it makes me smile and I always have a great day at school",
+          "author": "Pumkinlaylay",
+          "version": "6.0.0"
+        },
         {
           "date": "2025-09-11",
           "rating": 2,
@@ -652,24 +688,15 @@
           "content": "i love the idea and concept of this app, but the fact that you have to pay is dumb. you shouldn’t have to pay for affirmations when you’re mentally unwell.",
           "author": "belluga_bell",
           "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-14",
-          "rating": 5,
-          "country": "US",
-          "title": "🛡️❤️‍🔥❤️‍🔥❤️‍🔥❤️‍🔥🪽",
-          "content": "💋",
-          "author": "BioWare’s",
-          "version": "5.115.0"
         }
       ],
-      "meta.total": 73,
+      "meta.total": 76,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-14",
-      "meta.until": "2025-09-13"
+      "meta.since": "2025-08-15",
+      "meta.until": "2025-09-14"
     }
   ]
 }
