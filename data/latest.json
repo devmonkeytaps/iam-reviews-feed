@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-09-14T00:32:41Z",
+  "generated_at": "2025-09-15T00:32:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-12",
+          "rating": 2,
+          "country": "US",
+          "title": "What’s up with the widget?",
+          "content": "I customize it and as time goes on it resets!",
+          "author": "GCF9",
+          "version": "6.0.1"
+        },
         {
           "date": "2025-09-12",
           "rating": 5,
@@ -679,15 +688,6 @@
           "content": "some would think having an app like this is silly, but it’s nice to suddenly get a notification saying I rock or something. I secretly install the app on my friend’s and family’s phones lol 🫵🫰",
           "author": "sarahorsara",
           "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-15",
-          "rating": 2,
-          "country": "CA",
-          "title": "not free",
-          "content": "i love the idea and concept of this app, but the fact that you have to pay is dumb. you shouldn’t have to pay for affirmations when you’re mentally unwell.",
-          "author": "belluga_bell",
-          "version": "5.115.0"
         }
       ],
       "meta.total": 76,
@@ -695,8 +695,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-15",
-      "meta.until": "2025-09-14"
+      "meta.since": "2025-08-16",
+      "meta.until": "2025-09-15"
     }
   ]
 }
