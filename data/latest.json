@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-09-15T00:32:48Z",
+  "generated_at": "2025-09-16T00:29:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Inspirational",
+          "content": "This app really helps, I’m grateful for the daily reminder and affirmations because it speaks life/ positivity in me",
+          "author": "Kelz starting over",
+          "version": "6.0.1"
+        },
         {
           "date": "2025-09-12",
           "rating": 2,
@@ -273,6 +282,15 @@
           "title": "This got me out my funk!",
           "content": "Reading these daily affirmations helped pull me out of depression. Thank you. I recommend it to others all the time!!",
           "author": "Ressababy",
+          "version": "5.117.0"
+        },
+        {
+          "date": "2025-09-02",
+          "rating": 5,
+          "country": "GB",
+          "title": "Amazing",
+          "content": "This app has helped me to love myself and these positive messages every morning is powerful it motivates me to achieve more in a day and allows me to be myself without others to judge because self love is powerful and I have learnt that it’s important from this app.",
+          "author": "Maddie2<3",
           "version": "5.117.0"
         },
         {
@@ -679,24 +697,15 @@
           "content": "I am really made my mental health better by telling me I mattered every day and other compliments!!",
           "author": "Charcharcharlie8",
           "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-16",
-          "rating": 5,
-          "country": "AU",
-          "title": "this app rocks yo",
-          "content": "some would think having an app like this is silly, but it’s nice to suddenly get a notification saying I rock or something. I secretly install the app on my friend’s and family’s phones lol 🫵🫰",
-          "author": "sarahorsara",
-          "version": "5.115.0"
         }
       ],
-      "meta.total": 76,
+      "meta.total": 77,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-16",
-      "meta.until": "2025-09-15"
+      "meta.since": "2025-08-17",
+      "meta.until": "2025-09-16"
     }
   ]
 }
