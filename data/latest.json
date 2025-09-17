@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-09-16T00:29:48Z",
+  "generated_at": "2025-09-17T00:30:12Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-15",
+          "rating": 5,
+          "country": "US",
+          "title": "Community leader",
+          "content": "I really appreciate this app on how it has impacted my life positively!\n\nThank you!",
+          "author": "Funny_girl05",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-15",
+          "rating": 1,
+          "country": "US",
+          "title": "I’m fine with ads just not the sexual explicits of the ads that show up.",
+          "content": "While I absolutely love the actual content from the I am affirmations.  I am so disappointed that for the past few months all of the adds have been provocative and could open Pandora’s box to someone that is struggling.  I personally do not share the affirmations with anyone unless I screenshot them because I do not like or want to expose others to the explicit ads.",
+          "author": "epicgames<3",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Yuh",
+          "content": "You should make it so when you share your affirmation to social media you can have the option to take your name of the affirmation",
+          "author": "Cricketindebt",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Widgets",
+          "content": "Love the widgets \nI use this app a few times daily along with other apps that they make. All of them together are great for my mental health",
+          "author": "Sunshine Aries",
+          "version": "6.0.1"
+        },
         {
           "date": "2025-09-12",
           "rating": 5,
@@ -105,6 +141,15 @@
           "version": "5.118.1"
         },
         {
+          "date": "2025-09-10",
+          "rating": 3,
+          "country": "AU",
+          "title": "5000 questions just to find you have to pay…",
+          "content": "I answered the 5000 question, only to find out it’s a paid app. Sure, 3 days free but then paid. Mm no. Not for words on a screen.",
+          "author": "Sparkle fairy 123",
+          "version": "5.118.1"
+        },
+        {
           "date": "2025-09-09",
           "rating": 5,
           "country": "US",
@@ -147,6 +192,15 @@
           "title": "This app has changed my perspective on everything!!",
           "content": "i love how you can customize the app and the background of the affirmations. i also like being able to just scroll to find new inspiration. i have shared this app with a lot of my friends and family and they too appreciate it very much. i have learned that words are super powerful!! i would totally recommend this app to anyone who overthinks, is going through a rough patch, or has anxiety and or depression. thank you so much whoever made this!",
           "author": "urbestie_BROOKE",
+          "version": "5.118.0"
+        },
+        {
+          "date": "2025-09-07",
+          "rating": 1,
+          "country": "CA",
+          "title": "Too many questions at the beginning",
+          "content": "There’s way too many questions to answer before you get to the point. I got bored and I’m about to uninstall it.. Plus I just learned that it’s not free.. glad I didn’t waste my time answering this endless survey",
+          "author": "ttrraaayyyyy",
           "version": "5.118.0"
         },
         {
@@ -679,33 +733,15 @@
           "content": "البرنامج مليان ايجابيههههه🤍🤍",
           "author": "قطه",
           "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-17",
-          "rating": 1,
-          "country": "US",
-          "title": "Meh",
-          "content": "Pensé que era una aplicación gratis, son solo mensajes, al menos ofrecer comprar dentro de la app pero te hacen un cuestionario de mil horas al empezar para después decirte que tienes 3 días gratis y que tienes que pagar ahí mismo",
-          "author": "GDVRUIZ",
-          "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you",
-          "content": "I am really made my mental health better by telling me I mattered every day and other compliments!!",
-          "author": "Charcharcharlie8",
-          "version": "5.115.0"
         }
       ],
-      "meta.total": 77,
+      "meta.total": 81,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-17",
-      "meta.until": "2025-09-16"
+      "meta.since": "2025-08-18",
+      "meta.until": "2025-09-17"
     }
   ]
 }
