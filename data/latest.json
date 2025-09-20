@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-19T00:30:24Z",
+  "generated_at": "2025-09-20T00:28:52Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Omgh!",
+          "content": "This app actually changed my attitude. I use to be mad and sad all the time and now most of the time my happy. Also I don’t feel bad about me anymore",
+          "author": "🐆RaWr👻",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-16",
+          "rating": 4,
+          "country": "US",
+          "title": "Great, but…",
+          "content": "Good and helpful. I just wish there was a way to provide feedback on better grammar and phrasing instead of just a general report.",
+          "author": "springintowinter",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-16",
+          "rating": 1,
+          "country": "US",
+          "title": "Negative",
+          "content": "I had to fill out a questionnaire with this app. It asked if I was single, going through a break up and I honestly wrote I was going through a break up. Luckily, I wasn’t going through depression because I found every affirmation card that came through as negative. Very discouraging so I deleted the app. maybe it’s different if you don’t state you’re going through a relationship, but I thought it was terrible",
+          "author": "Petieriley",
+          "version": "6.0.1"
+        },
         {
           "date": "2025-09-16",
           "rating": 5,
@@ -12,6 +39,15 @@
           "title": "Jesus loves you too",
           "content": "I hope you see it soon",
           "author": "Following Christ777",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-16",
+          "rating": 5,
+          "country": "AU",
+          "title": "Amazing app",
+          "content": "Every affirmation I read I feel more and more motivated I love this app.",
+          "author": "🎀PrEpPy GuRl🎀",
           "version": "6.0.1"
         },
         {
@@ -93,6 +129,15 @@
           "title": "Widgets",
           "content": "Love the widgets \nI use this app a few times daily along with other apps that they make. All of them together are great for my mental health",
           "author": "Sunshine Aries",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-13",
+          "rating": 3,
+          "country": "GB",
+          "title": "U have to payyy !!",
+          "content": "So annoying you have to pay but a nice app to",
+          "author": "Just so helpful",
           "version": "6.0.1"
         },
         {
@@ -742,33 +787,15 @@
           "content": "You have to pay for this. I thought it was free.",
           "author": "ShaeJniece",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-20",
-          "rating": 3,
-          "country": "US",
-          "title": "Nice",
-          "content": "The app is nice but 70 for a whole year may not be feasible for everyone. There should be a monthly option.",
-          "author": "Googlybear0",
-          "version": "5.115.0"
-        },
-        {
-          "date": "2025-08-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Affirmations",
-          "content": "Keeping me positive throughout my day so much to be Thankful And \nGrateful For \n🙏✨❤️🌎🙏",
-          "author": "Odeano55",
-          "version": "5.115.0"
         }
       ],
-      "meta.total": 84,
+      "meta.total": 87,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-20",
-      "meta.until": "2025-09-19"
+      "meta.since": "2025-08-21",
+      "meta.until": "2025-09-20"
     }
   ]
 }
