@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-20T00:28:52Z",
+  "generated_at": "2025-09-21T00:33:47Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-18",
+          "rating": 3,
+          "country": "US",
+          "title": "No more Practicing ):",
+          "content": "I’ve been using I am for a long time like probably since 2020/2021 and recently for the last almost 2 months I’ve been using their practice feature to practice affirmations for 5 minutes every morning for the last 50 days. Now with these new updates the practice feature is no where to be found. I’ve made this apart of my routine and I’m upset the app updates have caused me to lose my favorite feature. I really want that part back. Hope that y’all change it back or add it back soon.",
+          "author": "IJustWantedToWorkOuf",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-18",
+          "rating": 5,
+          "country": "US",
+          "title": "This app is so great",
+          "content": "This app is great! I love the affirmations. They have really helped me with my anxiety levels lately.",
+          "author": "bn 1974",
+          "version": "6.1.0"
+        },
+        {
+          "date": "2025-09-18",
+          "rating": 5,
+          "country": "US",
+          "title": "AWESOME!!!",
+          "content": "This app has changed what I think about myself you should really get this app it is awesome!!!!!!!👍✝️",
+          "author": "Ameliazoid",
+          "version": "6.0.2"
+        },
         {
           "date": "2025-09-17",
           "rating": 5,
@@ -751,51 +778,15 @@
           "content": "I only pay for two apps: My period tracking app and my affirmations app because they are equally as important to me. This app will alter your brain in the most beautiful way. Thank you. Grateful for this app really. It’s helped a lot with my depression, anxiety and self-esteem issues",
           "author": "Christinakilamb",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-21",
-          "rating": 1,
-          "country": "ES",
-          "title": "Decepcionante",
-          "content": "No te permite entrar si no es suscribiendote. Que aunque sea gratis por 3 dias. No tiene versión freemium. Me ha decepcionado, la verdad",
-          "author": "olaokita",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-21",
-          "rating": 4,
-          "country": "US",
-          "title": "So good!",
-          "content": "I wish I could like the affirmation w/o the app trying to open but this is a great way to keep your mind positive. I’ve had three friends and my daughter add it - it’s SO much easier to remember to do your affirmations if they are on your Lock Screen. Love it!",
-          "author": "Alli29999",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-21",
-          "rating": 1,
-          "country": "US",
-          "title": "Widget broken AGAIN",
-          "content": "I love this app and love the custom widgets to match my aesthetic. HOWEVER… with every update the widget stops working properly so now it’s the generic widget not personalized and isn’t the theme I chose. It also notifies me of streaks I don’t actually have all the time. I pay for this app and it’s constantly getting screwy.",
-          "author": "Cesca825",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-21",
-          "rating": 1,
-          "country": "US",
-          "title": "Paid for app",
-          "content": "You have to pay for this. I thought it was free.",
-          "author": "ShaeJniece",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 87,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-21",
-      "meta.until": "2025-09-20"
+      "meta.since": "2025-08-22",
+      "meta.until": "2025-09-21"
     }
   ]
 }
