@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-21T00:33:47Z",
+  "generated_at": "2025-09-22T00:33:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-19",
+          "rating": 5,
+          "country": "US",
+          "title": "Best app for Pagan Motivation",
+          "content": "I’ve never checked it daily and now I have my notifications turned on. The programmers are fabulous. I’m a Software Engineer with a minor in website development. So I give a lot of appreciation to you guys/gals. 🖖🏻🤣🦸‍♀️",
+          "author": "PuggofTears",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-19",
+          "rating": 5,
+          "country": "US",
+          "title": "Thank you",
+          "content": "I have been using this app for years. It has pivotal in my spiritual journey and in growth in my personal journey.  I can’t thank you enough for this tool that was a part of saving my life! I encourage all to let this app help your soul like it has done for me. Thank you again I AM",
+          "author": "Sue B ✨",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-19",
+          "rating": 5,
+          "country": "US",
+          "title": "What happened?",
+          "content": "I really enjoyed the five minute practice, practice mode and the 15 minute practice mode. Why were they taken away. And will they be back soon?",
+          "author": "TWWisk Founder",
+          "version": "6.1.1"
+        },
         {
           "date": "2025-09-18",
           "rating": 3,
@@ -769,24 +796,15 @@
           "content": "There’s lots of apps out there we tell you what this is the real deal. This app is a brain changer game changer.  I’m so thankful it’s here. I love this app. It’s helped me so much. Thank you I am.",
           "author": "str8ner11",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Absolutely… duh.. just buy it",
-          "content": "I only pay for two apps: My period tracking app and my affirmations app because they are equally as important to me. This app will alter your brain in the most beautiful way. Thank you. Grateful for this app really. It’s helped a lot with my depression, anxiety and self-esteem issues",
-          "author": "Christinakilamb",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 86,
+      "meta.total": 88,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-22",
-      "meta.until": "2025-09-21"
+      "meta.since": "2025-08-23",
+      "meta.until": "2025-09-22"
     }
   ]
 }
