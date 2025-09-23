@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-09-22T00:33:35Z",
+  "generated_at": "2025-09-23T00:30:24Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this diva",
+          "content": "I have a 185 day streak and I'm so serious when I say this has made me so much more mindful and grateful in daily life. Obviously it isn't a miracle cure, but these are some of the best affirmations especially since they go along with a background/cute icon/work well with my screen. They just make me happy and I genuinely have no problem paying the tiny subscription!",
+          "author": "Abbyjay23",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-20",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "I really enjoy this app it’s made me a better person in life you should get it make sure to get the trial it’s awesome!!",
+          "author": "KTC💗",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive reminders",
+          "content": "I love this as soon as my thoughts start to go crazy my phone dings with an affirmation and it’s always on topic and on point..I recommend for people who are going through hardships and struggles also deep depression",
+          "author": "The highest affirm",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-20",
+          "rating": 1,
+          "country": "US",
+          "title": "Liars!",
+          "content": "Beware! I signed up for a 3 day trial after going through all their stupid questionnaire it basically made me do it BUT it said to receive a notification BEFORE the 3 day trial was up so I could decide if I wanted to keep it or not. I never received such notification and they charged me $75!!! First off, $75 is a CRAZY amount of money to even charge for something like this and second of all, the fact that they didn’t notify when they said they would proves what a scam they really are! I’ve requested a refund through Apple and I hope to God I get it but if not I’m going full Karen on all of them!",
+          "author": "BreNicole3116",
+          "version": "6.1.1"
+        },
         {
           "date": "2025-09-19",
           "rating": 5,
@@ -742,69 +778,15 @@
           "content": "And never be fixed again!!! I haven’t received ANY affirmations in months. The “support” is AI and a complete joke. This experience has been the exact opposite of positive. Do what’s right, Monkey Taps.",
           "author": "Lunaveda",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "The best affirmation app",
-          "content": "Honestly - this app has lifted me up in all the best ways. The widget reminders are my favorite- and honestly? This affirmation app is my go to when I am feeling down.",
-          "author": "Lunaluvenigma",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "I Am FTW 🫶",
-          "content": "This app has truly saved my mental health in so many ways, on so many days. It seems to pop up in just the right moment when I really need that reminder to keep going, and the messages seem to resonate perfectly. ✨A genius app for those who need mental health affirmations. 💛 As someone who has struggled with MH since childhood, I am so grateful for this little app. I tell everybody about it! A giant thanks + kudos to the developers!🫶✨ Side note: as a Mama of a 5yo + 3yo, and also a 2nd grade teacher…I’d love to see one specifically for kids. Building healthy self talk young and confidence is soo important! 💕",
-          "author": "vtgirl11",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "So helpful!!",
-          "content": "I am so grateful for this app! I started using it, begrudgingly, at the invitation of a friend who was already using it and finding it very helpful in her life. I was an affirmations naysayer, but have become a convert 😆 One thing that I would love to see is the addition of parenting affirmations. I’m a single mom and it’s hard out here for us! Gentle reminders to give ourselves grace would be so wonderful.",
-          "author": "iLoveTheRadio",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "I love it",
-          "content": "It’s always a right on time type of word",
-          "author": "queenqua29",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app",
-          "content": "I’ve had this app for a few years and I just love it. I’ve been in recovery from burn out and this (among other things) really helped!! And I keep it because it keeps me on the right track. \nI highly recommend to all.",
-          "author": "Ama Zarate",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Quality app",
-          "content": "There’s lots of apps out there we tell you what this is the real deal. This app is a brain changer game changer.  I’m so thankful it’s here. I love this app. It’s helped me so much. Thank you I am.",
-          "author": "str8ner11",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 88,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-23",
-      "meta.until": "2025-09-22"
+      "meta.since": "2025-08-24",
+      "meta.until": "2025-09-23"
     }
   ]
 }
