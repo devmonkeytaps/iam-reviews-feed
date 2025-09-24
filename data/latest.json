@@ -1,10 +1,64 @@
 {
-  "generated_at": "2025-09-23T00:30:24Z",
+  "generated_at": "2025-09-24T00:30:54Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-22",
+          "rating": 5,
+          "country": "US",
+          "title": "My mental checker",
+          "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
+          "author": "Masufa",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 4,
+          "country": "US",
+          "title": "A couple issues but still love",
+          "content": "I downloaded this app because my best friend recommended it to me. I haven’t had very many issues with it personally, but I notice the widget affirmations never match up with the affirmations I choose in the app. Also, today one of the widget affirmations used a very vulgar word that should not even be used in such an app. I hope that you fix this because I feel more people will download this app if you do. Other than that, this app has been very helpful to me! I treat the streak as if it’s Duolingo 😋",
+          "author": "Cheeto36$",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Thank you",
+          "content": "At first it was just for cute aesthetics and little reminders, but then I went through one of the toughest battles of my life so far and these affirmations meant so much more. It always said exactly what I needed to hear. It reminded me to stay calm. It gave me hope in myself and strength to believe that all is going to be okay. It reminded me to take deep breaths and appreciate. 10/10 app. Thank you.",
+          "author": "yutavy",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Great",
+          "content": "Very inspiring",
+          "author": "Nord Haus",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 1,
+          "country": "US",
+          "title": "App crash",
+          "content": "I’ve never been able to actually utilize the app due to the app crashing after the affirmation section setting up the app. Wishing this would be fixed ASAP.",
+          "author": "LaTrell R.",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 1,
+          "country": "US",
+          "title": "Stopped working",
+          "content": "You’ve been adding lots of fancy upgrades, but basic functionality has been lost. I just want to see my selected affirmations when I glance at my watch, not a bunch of random generic ones. I paid premium for this and it’s very irritating. Please fix.",
+          "author": "bsulliv6",
+          "version": "6.1.1"
+        },
         {
           "date": "2025-09-21",
           "rating": 5,
@@ -372,6 +426,15 @@
           "title": "Love it but....",
           "content": "I love the app, but all of a sudden it won't allow me to save my favorites, hence the 4 star review. Please fix it. 🙏",
           "author": "Sweet_K-os",
+          "version": "5.118.1"
+        },
+        {
+          "date": "2025-09-08",
+          "rating": 5,
+          "country": "ES",
+          "title": "Maravillosa",
+          "content": "Perfecta para compartir en tu día a día",
+          "author": "Valentinacc2",
           "version": "5.118.1"
         },
         {
@@ -760,33 +823,15 @@
           "content": "This app is is my daily whisper in my ear , the vote of confidence, the emotional hug and reassurance I can’t live without !",
           "author": "recycledwhite interiors",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-24",
-          "rating": 1,
-          "country": "US",
-          "title": "Scamming on people with poor mental health",
-          "content": "This app is literally requiring you to pay a subscription to receive AI generated notifications from it, half of which are not even affirmations… it’s a scam.",
-          "author": "Wowforgetit",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-24",
-          "rating": 1,
-          "country": "US",
-          "title": "IT WILL STOP WORKING!!!",
-          "content": "And never be fixed again!!! I haven’t received ANY affirmations in months. The “support” is AI and a complete joke. This experience has been the exact opposite of positive. Do what’s right, Monkey Taps.",
-          "author": "Lunaveda",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 86,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-24",
-      "meta.until": "2025-09-23"
+      "meta.since": "2025-08-25",
+      "meta.until": "2025-09-24"
     }
   ]
 }
