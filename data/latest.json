@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-24T00:30:54Z",
+  "generated_at": "2025-09-25T00:30:37Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-23",
+          "rating": 1,
+          "country": "US",
+          "title": "Too many prompts",
+          "content": "There's too many prompts just to get to the trial phase.",
+          "author": "NeecyBabyyyyyyy",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Fab",
+          "content": "Really just a great app. Can you make a wallpaper that changes affirmations constantly and maybe Lock Screen widgets.",
+          "author": "Cricketindebt",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-22",
+          "rating": 5,
+          "country": "US",
+          "title": "I love this app",
+          "content": "This app is helping me so much I love it with everything Im going through right now",
+          "author": "Stitch lover61",
+          "version": "6.1.1"
+        },
         {
           "date": "2025-09-22",
           "rating": 5,
@@ -48,6 +75,15 @@
           "title": "App crash",
           "content": "I’ve never been able to actually utilize the app due to the app crashing after the affirmation section setting up the app. Wishing this would be fixed ASAP.",
           "author": "LaTrell R.",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-21",
+          "rating": 4,
+          "country": "ES",
+          "title": "Súper genial",
+          "content": "Me ayuda cuando, necesito inspiración me reafirma y aviva. Saludos 🙌🏻",
+          "author": "Donbdamian",
           "version": "6.1.1"
         },
         {
@@ -147,6 +183,15 @@
           "title": "AWESOME!!!",
           "content": "This app has changed what I think about myself you should really get this app it is awesome!!!!!!!👍✝️",
           "author": "Ameliazoid",
+          "version": "6.0.2"
+        },
+        {
+          "date": "2025-09-17",
+          "rating": 2,
+          "country": "AU",
+          "title": "Horrible onboarding flow",
+          "content": "It feels like no matter how many times you press “skip” you can’t make it through the onboarding questions",
+          "author": "stupidappleidnickname",
           "version": "6.0.2"
         },
         {
@@ -805,33 +850,15 @@
           "content": "it’s a really nice app and gives good daily affirmations depending on what you need them for.",
           "author": "acavavavava",
           "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-25",
-          "rating": 5,
-          "country": "GB",
-          "title": "Lovely app",
-          "content": "Really sweet and helpful. Lots of synchronicities coming through it",
-          "author": "Dannafaith",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-25",
-          "rating": 5,
-          "country": "US",
-          "title": "Muse",
-          "content": "This app is is my daily whisper in my ear , the vote of confidence, the emotional hug and reassurance I can’t live without !",
-          "author": "recycledwhite interiors",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 94,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-25",
-      "meta.until": "2025-09-24"
+      "meta.since": "2025-08-26",
+      "meta.until": "2025-09-25"
     }
   ]
 }
