@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-09-25T00:30:37Z",
+  "generated_at": "2025-09-26T00:30:14Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily Devotional",
+          "content": "These affirmations get me by daily 🩷",
+          "author": "Tay3679",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-23",
+          "rating": 5,
+          "country": "US",
+          "title": "⭐️⭐️⭐️⭐️⭐️",
+          "content": "LOVE IT!!! So relaxing and boosts confidence and self esteem!!!",
+          "author": "LGS❤️6️⃣7️⃣",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-23",
+          "rating": 5,
+          "country": "US",
+          "title": "It really does help",
+          "content": "As a person with mental health issues this app helps <3",
+          "author": "Daughter of Athena 💞",
+          "version": "6.1.1"
+        },
         {
           "date": "2025-09-23",
           "rating": 1,
@@ -246,6 +273,15 @@
           "title": "Love it",
           "content": "I love this app really helping me with healing.",
           "author": "Moev24",
+          "version": "6.0.1"
+        },
+        {
+          "date": "2025-09-16",
+          "rating": 5,
+          "country": "CA",
+          "title": "Uplifting",
+          "content": "I love these quotes because they help me become who l want to be and be proud of my struggles and what l got through in life.",
+          "author": "Cheap bucks",
           "version": "6.0.1"
         },
         {
@@ -832,33 +868,15 @@
           "content": "I hate when apps wait until after you’ve spent 10 minutes setting up your account to tell you it costs money. Just be upfront.",
           "author": "Jzanae🥘",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Wonderful App",
-          "content": "I utilized the app for the free trial and found it to be Phenomenal! I recommend it to all those who need a reminder of how wonderful they really are and how they deserve the best from themselves! 😍👍🏽",
-          "author": "Ladyindeed",
-          "version": "5.116.0"
-        },
-        {
-          "date": "2025-08-26",
-          "rating": 5,
-          "country": "US",
-          "title": "love it",
-          "content": "it’s a really nice app and gives good daily affirmations depending on what you need them for.",
-          "author": "acavavavava",
-          "version": "5.116.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-26",
-      "meta.until": "2025-09-25"
+      "meta.since": "2025-08-27",
+      "meta.until": "2025-09-26"
     }
   ]
 }
