@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-09-27T00:29:27Z",
+  "generated_at": "2025-09-28T00:34:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-24",
+          "rating": 3,
+          "country": "US",
+          "title": "Streaks don’t work correctly",
+          "content": "Great app but the streaks need an option to opt out. I look at this app literally every day. I click and favorite sayings. Every hour it pops up on my wrist. It still keeps ending my streaks. Idk how to keep them going or why it has to be an issue. \n\nFine whatever. Then let me disable the option of having streaks so it’s not glitching and nagging me in the first place.  Makes me want to delete the app.",
+          "author": "Jenimeh",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-24",
           "rating": 5,
@@ -796,51 +805,15 @@
           "content": "I’ve used it for years. Downloaded while was in a toxic job. Those removers on my phone banner and on my Apple Watch really did a lot for me. I might have swiped them away often but they got through. I still love this app to this day",
           "author": "Anonymous user 678732",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-28",
-          "rating": 3,
-          "country": "CA",
-          "title": "Why make this a “streak” app?",
-          "content": "I love this app, don’t get me wrong. But it’s really annoying that I get literally any other notifications from it besides the affirmations. After about a month or so, the app will send you a notification threatening to stop sending you affirmations if you don’t go into the app and start a “streak”. Like why? The whole point of this app is to get daily notifications. Not to physically open up the app.",
-          "author": "abbyymae",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-28",
-          "rating": 5,
-          "country": "US",
-          "title": "It the little things that matter",
-          "content": "I don’t think this app has like completely transformed my life or anything but I will say I get the messages and it definitely impacts how I feel in that moment and I think it subconsciously affects my mood as well, I installed the app years ago and I’ll never delete it.",
-          "author": "Geeg’s",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Cesia",
-          "content": "Es muy buena gracias a esta aplicación me siento segura de mi misma :3",
-          "author": "ArtWorkout is very good",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-28",
-          "rating": 5,
-          "country": "US",
-          "title": "♡",
-          "content": "This app helps so much I am young but it helps if your reading reviews to see if the app is good for you it is trust me it made me feel soich better about myself so fast and this game is amazing pls download I recommend it♡♡♡♡☻✩✩",
-          "author": "My favorite go to game",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-28",
-      "meta.until": "2025-09-27"
+      "meta.since": "2025-08-29",
+      "meta.until": "2025-09-28"
     }
   ]
 }
