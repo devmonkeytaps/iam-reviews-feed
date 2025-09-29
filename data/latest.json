@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-09-28T00:34:03Z",
+  "generated_at": "2025-09-29T00:31:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-27",
+          "rating": 5,
+          "country": "US",
+          "title": "I love this so much",
+          "content": "It’s a small, daily reminder of how important I am to myself.  Comes when I need them most.",
+          "author": "Lissette M.",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "This app gives me hope that one day I'll be able to completely love myself",
+          "author": "Chesney12612",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-24",
           "rating": 3,
@@ -12,6 +30,15 @@
           "title": "Streaks don’t work correctly",
           "content": "Great app but the streaks need an option to opt out. I look at this app literally every day. I click and favorite sayings. Every hour it pops up on my wrist. It still keeps ending my streaks. Idk how to keep them going or why it has to be an issue. \n\nFine whatever. Then let me disable the option of having streaks so it’s not glitching and nagging me in the first place.  Makes me want to delete the app.",
           "author": "Jenimeh",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-24",
+          "rating": 5,
+          "country": "CA",
+          "title": "I love this app",
+          "content": "Such a beautiful app! It keeps me grounded.",
+          "author": "Marley12392",
           "version": "6.2.0"
         },
         {
@@ -237,6 +264,15 @@
           "title": "Horrible onboarding flow",
           "content": "It feels like no matter how many times you press “skip” you can’t make it through the onboarding questions",
           "author": "stupidappleidnickname",
+          "version": "6.0.2"
+        },
+        {
+          "date": "2025-09-17",
+          "rating": 2,
+          "country": "GB",
+          "title": "Removed Practice Sessions?",
+          "content": "I’m unsubscribing because my daily ritual with this otherwise amazing app was to play a practice session (15 minutes usually) and listen to Spotify songs as I did my affirmations. That’s been completely removed now. And the practice sessions are shorter with an AI voiceover, which I find distracting. If service isn’t restored, I’ll need to find an alternative.",
+          "author": "Markus Jonus",
           "version": "6.0.2"
         },
         {
@@ -787,33 +823,15 @@
           "content": "Depois que eu comecei a usar eu mim senti bem melhor.obrigada I am",
           "author": "Basquete…………………………",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-29",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "This is making me better",
-          "author": "Mana commence",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-29",
-          "rating": 5,
-          "country": "US",
-          "title": "The best",
-          "content": "I’ve used it for years. Downloaded while was in a toxic job. Those removers on my phone banner and on my Apple Watch really did a lot for me. I might have swiped them away often but they got through. I still love this app to this day",
-          "author": "Anonymous user 678732",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 89,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-29",
-      "meta.until": "2025-09-28"
+      "meta.since": "2025-08-30",
+      "meta.until": "2025-09-29"
     }
   ]
 }
