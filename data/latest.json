@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-09-29T00:31:48Z",
+  "generated_at": "2025-09-30T00:30:49Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Confidence",
+          "content": "It makes me more confident ⭐️⭐️⭐️⭐️⭐️💫",
+          "author": "Swimmerbaddie",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-27",
+          "rating": 5,
+          "country": "US",
+          "title": "This app is the best!",
+          "content": "I feel more confident in myself and, I truly love myself a lot more and, I’ve had this app for 1 minute and I already feel good! (Not Ai)",
+          "author": "AmeliaLuv7",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-27",
+          "rating": 2,
+          "country": "GB",
+          "title": "Too many interruptions",
+          "content": "I love this app and regularly use it. What ruins it for me are the constant reminders - not wanted or needed - that I can add an affirmation to my favourites. As I’m a long time user and using my favourites list anyway, this is unnecessary, jarring & irritating. I’d love an option to remove unwanted notifications. Or send them once only. Once is plenty.",
+          "author": "Tired mum needs rest!",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Need assistance",
+          "content": "Please I need someone of customer service or something to contact me",
+          "author": "Morales1722",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-27",
           "rating": 5,
@@ -787,42 +823,6 @@
           "content": "A message/notif always pop up whenever I need it",
           "author": "Isitquietyet",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-30",
-          "rating": 5,
-          "country": "US",
-          "title": "It’s amazing",
-          "content": "It’s amazing daily reminders that we forget to remember",
-          "author": "igohog",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-30",
-          "rating": 4,
-          "country": "US",
-          "title": "I LOVE THIS APP!!! 🤩🌺😍💋🌸🎀",
-          "content": "This app has helped me through a lot of tough situations like starting school. And I couldn’t get the prime membership thing but yesterday day it said that I get to use the special membership for 3 days and u laughed and spent my whole morning looking through the affirmations and themes. One thing for the creator of this app can u plz try to make more affirmations and themes free bc not everyone can afford it. But overall if ur thinking about getting this app get it!!! It helps!! 💋🌊💝🌺💖🌸🩵🎀💘😝",
-          "author": "Beach girl 1226!! 🌊💋🌸💘🌺",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-30",
-          "rating": 5,
-          "country": "US",
-          "title": "5 STARS JUST SO ITS AT THE TOP! - YOU HAVE TO PAY DON’T BOTHER!! There’s better apps!",
-          "content": "How ridiculous and unbelievable that you now have to pay for this app and can’t even move forward with personalizing the app until you agree to set up a free trial and then pay… I’ve had this app for YEARS. once upon a time it was free. The backgrounds were free it was a fun, interactive and amazing app. But greed and them realizing  that so many struggle with mental health these days want to profit from that. I find it ironic that one of the promos in setting up your account asks if one of struggles is “struggling financially” then a few pages later it asks you to pay 😂\nUsed to be good, parting ways.\nThere’s better FREE apps out there. Or go on CHATGPT and ask it to tell you something inspiring all day don’t waste your money on this stupidity 😂",
-          "author": "Strawberry_x_3",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-08-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Eu amei",
-          "content": "Depois que eu comecei a usar eu mim senti bem melhor.obrigada I am",
-          "author": "Basquete…………………………",
-          "version": "5.117.0"
         }
       ],
       "meta.total": 91,
@@ -830,8 +830,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-08-30",
-      "meta.until": "2025-09-29"
+      "meta.since": "2025-08-31",
+      "meta.until": "2025-09-30"
     }
   ]
 }
