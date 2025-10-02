@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-01T00:35:18Z",
+  "generated_at": "2025-10-02T00:29:25Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "Beautiful app",
+          "author": "QUEENNCHERISH",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-29",
+          "rating": 3,
+          "country": "GB",
+          "title": "I am…. Confused…",
+          "content": "Some of the affirmations and notifications are really negative… I’m confused.. aren’t this app supposed to feed positive affirmations? Instead they would say things like “I’m facing a difficult time now, but I can get through it” but no I’m not going through a hard time… what’s your deal lol they gave you prompts when you set it up, I chose manifest abundance, gratitude, and positive thinking, why are you keep feeding me negative thoughts🤦🏻‍♀️",
+          "author": "Veiieneodoren_1222",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-28",
+          "rating": 2,
+          "country": "US",
+          "title": "Morning Routine",
+          "content": "Thank you for making this app, I use it as a part of my moment reset each day to focus and declare the things that set my day. However, as a premium user, I continue to have glitches with my apple watch face. Even more, now that I have the Apple 11- it won’t even let me add the compilation. If this was fixed and I could use the full version that I am paying for, I would give it a 5.",
+          "author": "candytree82",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-28",
           "rating": 1,
@@ -12,6 +39,15 @@
           "title": "Reminders/notifications",
           "content": "Paid for year subscription, all of a sudden notifications stopped, tried adjusting settings, still not working",
           "author": 2231994,
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-28",
+          "rating": 2,
+          "country": "GB",
+          "title": "Annoying",
+          "content": "I understand you want to customise at the beginning but the number of questions you ask is ridiculous. Make it less. I know I can skip but it’s tooo much. I. A  just installed on iPad - makes me not want to use it. Yes, triggered but seriously - too much.",
+          "author": "popoutta",
           "version": "6.2.0"
         },
         {
@@ -796,42 +832,6 @@
           "content": "This app is literally requiring you to pay a subscription to receive AI generated notifications from it, half of which are not even affirmations… it’s a scam.\nThere is also no “ad supported version” you can use for free like they keep saying in their responses. You absolutely WILL have to provide them with payment information in order to continue using the app at all.",
           "author": "Wowforgetit",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-01",
-          "rating": 5,
-          "country": "US",
-          "title": "How i feel",
-          "content": "It makes me feel good about myself",
-          "author": "Crissanna Cross",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Its a blend",
-          "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
-          "author": "Masufa",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-01",
-          "rating": 5,
-          "country": "ES",
-          "title": "I am",
-          "content": "Es la mejor aplicación que he visto hasta ahora probarla la recomiendo muchísimo",
-          "author": "AinhoaCarvajal",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-01",
-          "rating": 2,
-          "country": "CA",
-          "title": "I just want to love myself",
-          "content": "You have to pay to even get even a single affirmation. It’s so sad because I was looking forward to using this app.\n\nI know that it says there are in app purchases but I thought it would be like premium affirmations or smth like that. I’m sure it’s a great app, I’ve heard great things about it but I will not be using it until it’s at least usable without having to pay.\n\nDon’t download if you don’t want to pay for it. It’s unfortunate that something so simple as trying to improve your life has turned into something you have to pay for.",
-          "author": "Izy_27",
-          "version": "5.117.0"
         }
       ],
       "meta.total": 92,
@@ -839,8 +839,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-01",
-      "meta.until": "2025-10-01"
+      "meta.since": "2025-09-02",
+      "meta.until": "2025-10-02"
     }
   ]
 }
