@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-02T00:29:25Z",
+  "generated_at": "2025-10-03T00:29:30Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -84,6 +84,15 @@
           "title": "Too many interruptions",
           "content": "I love this app and regularly use it. What ruins it for me are the constant reminders - not wanted or needed - that I can add an affirmation to my favourites. As I’m a long time user and using my favourites list anyway, this is unnecessary, jarring & irritating. I’d love an option to remove unwanted notifications. Or send them once only. Once is plenty.",
           "author": "Tired mum needs rest!",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-27",
+          "rating": 5,
+          "country": "CA",
+          "title": "Instant healing",
+          "content": "I’ve been to many therapists and spoken to many about my problems and struggles. No one has ever been able to help me. Shortly after downloading this app, it has worked INSTANTLY! Tailored to my own settings, it gives me the peace and calm to clear my mind in order to medicate and absorb the affirmations for the day. Very thankful I have found this app and will definitely be using it!",
+          "author": "Cooli03",
           "version": "6.2.0"
         },
         {
@@ -814,33 +823,15 @@
           "content": "Reading these daily affirmations helped pull me out of depression. Thank you. I recommend it to others all the time!!",
           "author": "Ressababy",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-02",
-          "rating": 5,
-          "country": "GB",
-          "title": "Amazing",
-          "content": "This app has helped me to love myself and these positive messages every morning is powerful it motivates me to achieve more in a day and allows me to be myself without others to judge because self love is powerful and I have learnt that it’s important from this app.",
-          "author": "Maddie2<3",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-02",
-          "rating": 1,
-          "country": "US",
-          "title": "Scamming on people with poor mental health",
-          "content": "This app is literally requiring you to pay a subscription to receive AI generated notifications from it, half of which are not even affirmations… it’s a scam.\nThere is also no “ad supported version” you can use for free like they keep saying in their responses. You absolutely WILL have to provide them with payment information in order to continue using the app at all.",
-          "author": "Wowforgetit",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-02",
-      "meta.until": "2025-10-02"
+      "meta.since": "2025-09-03",
+      "meta.until": "2025-10-03"
     }
   ]
 }
