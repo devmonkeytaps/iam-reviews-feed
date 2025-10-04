@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-10-03T00:29:30Z",
+  "generated_at": "2025-10-04T00:28:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-09-30",
+          "rating": 5,
+          "country": "US",
+          "title": "First time",
+          "content": "First day and I already feel better",
+          "author": "Cutie dookie wookie bear",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-29",
           "rating": 5,
@@ -778,60 +787,15 @@
           "content": "Made me feel like I was coming “back to life”",
           "author": "academyDae",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-03",
-          "rating": 5,
-          "country": "AU",
-          "title": "I love this app! 🧘🏻‍♀️🤍",
-          "content": "I started to download this app in 2023 and it’s been life changing for me mentally and emotionally and physically to! Love the affirmations I get on my Apple Watch and through my phone! Such amazing app! It’s so worth it! 🫶🏼🫶🏼",
-          "author": "MsBiancaBabe",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-03",
-          "rating": 1,
-          "country": "US",
-          "title": "The “Premium” description needs to be updated.",
-          "content": "(If I misunderstood something or this isn’t accurate, please let me know so I can go check again.) \n\nSo, let me preface this by saying I’m aware of this app being labeled as having “in-app purchases”, but there is no way I answer all the questions from start to finish just to be told there basically is no free/basic version. Their description talks about a “premium” version like it’s a separate thing that you can upgrade to to get all the benefits for, but the app itself is the full premium version. You get 3 days of free access to the premium version before you have to subscribe. \n\nRespectfully, to anyone reading this, no I’m not some entitled individual who thinks they should get everything for free. I wouldn’t be making this if I was told in the description or upon starting the app there would only be 3 days of access before you have to subscribe. I’m not sure if this was done on purpose or if it was by mistake, but I believe you guys have to be more specific so you don’t waste anyone’s time. Especially when it comes to someone’s mental health. \n\nAnyways, thanks for reading this. I appreciate any feedback about this if you feel it’s needed or if I’m mistaken about something 🙏.",
-          "author": "PhoenixVariety",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Great",
-          "content": "I’ve genuinely felt better since using this app.",
-          "author": "idahoe.potatoe",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Not worth it",
-          "content": "$70 is way too much for an app, they give you the shortest trial, and no reminder that you’re about to be charged.",
-          "author": "Momma Esh",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-03",
-          "rating": 5,
-          "country": "US",
-          "title": "This got me out my funk!",
-          "content": "Reading these daily affirmations helped pull me out of depression. Thank you. I recommend it to others all the time!!",
-          "author": "Ressababy",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 87,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-03",
-      "meta.until": "2025-10-03"
+      "meta.since": "2025-09-04",
+      "meta.until": "2025-10-04"
     }
   ]
 }
