@@ -1,10 +1,91 @@
 {
-  "generated_at": "2025-10-04T00:28:10Z",
+  "generated_at": "2025-10-05T00:33:21Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-03",
+          "rating": 5,
+          "country": "US",
+          "title": "❤️",
+          "content": "🙏",
+          "author": "Hkfjdji",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-03",
+          "rating": 2,
+          "country": "US",
+          "title": "Worst app ever for encouraging messages",
+          "content": "After over 2 years as a subscriber I dropped my subscription. I consider it a waste of money to have to jump trough hoops daily to get a simple once an hour notification.",
+          "author": "Andya-geek",
+          "version": "5.83.2"
+        },
+        {
+          "date": "2025-10-02",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "It is so good it’s helping me with not having that much anxiety anymore. If you have, if you have been overthinking having trouble comparing your body to yourselves and if you just need somebody to give you affirmations every day, this is good for you. Everybody in my house has it Even my kids have it and they’re much older, but it really helps us. Hope you guys can get it too.",
+          "author": "peanut5193",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-02",
+          "rating": 2,
+          "country": "US",
+          "title": "Am I missing something?",
+          "content": "I had this app a couple of years ago and I really loved it. What I loved about it was that I would get daily affirmations on my watch to help get me through the day. Recently, I’ve revisited the app, but it seems to have changed. Now I have to go into the app and scroll and like different information. I feel like I’m missing something as this is no better than scrolling on social media. Not something that I want to do.",
+          "author": "Janetipie",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-01",
+          "rating": 1,
+          "country": "US",
+          "title": "way too many adds no",
+          "content": "The amount of pop up ads is ridiculous. And to remove them a subscription? absolutely not id rather pay for an affirmations app for 5 bucks and have no ads",
+          "author": "ChaosFerno",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Bug",
+          "content": "I received 5 notifications all at once about my streak. I do not wish to get these notifications, nor do I wish to partake in any “streak” by opening the app",
+          "author": "User10397",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-01",
+          "rating": 1,
+          "country": "US",
+          "title": "Unacceptable",
+          "content": "I wanted to share some feedback about an affirmation that recently appeared in the app:\n\n“I know that ending this is the best thing for me, even if it hurts.”\n\nWhile I understand the intention behind it, the wording “ending this” can be interpreted in unsafe or harmful ways, especially since many people who use affirmation and wellness apps may already be struggling with mental health challenges. The phrase is vague and could unintentionally be read as a reference to self harm rather than healthy endings.\n\nI thought it had to be a joke when this came up. Please remove this from your generator.",
+          "author": "naenerbug",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Took away the practice",
+          "content": "There used to be an option where you can “practice” and it would read the affirmations to you.And now that’s no longer available.",
+          "author": "Don’t know how to feel",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-30",
+          "rating": 1,
+          "country": "CA",
+          "title": "Gives me anxiety",
+          "content": "Reading the affirmations are causing me anxiety. It might work for some but not me. I’m dealing with too much trauma in my life. The affirmations just make me cry. \nWhat’s frustrating is I can’t find where to cancel the app. I can’t handle receiving anymore messages.",
+          "author": "Penetang smurf",
+          "version": "6.2.0"
+        },
         {
           "date": "2025-09-30",
           "rating": 5,
@@ -192,6 +273,15 @@
           "title": "Fab",
           "content": "Really just a great app. Can you make a wallpaper that changes affirmations constantly and maybe Lock Screen widgets.",
           "author": "Cricketindebt",
+          "version": "6.1.1"
+        },
+        {
+          "date": "2025-09-22",
+          "rating": 1,
+          "country": "AU",
+          "title": "FREE TRIAL?",
+          "content": "Accepted free trial and it immediately charged me $10.99 USD. Luckily it failed.",
+          "author": "Angusmca360",
           "version": "6.1.1"
         },
         {
@@ -769,33 +859,15 @@
           "content": "I love it it helps a lot and I love how I can choose wallpaper on it. so I think absolutely amazing you don’t even need to have axity for it to work it can also help in many ways love it get think believe it 🤩✨⭐️🌟💫",
           "author": "annie💍",
           "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-04",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "This is a very good app to me i encouragers me everyday all the time y’all should get this app",
-          "author": "Hshshxuwheur",
-          "version": "5.117.0"
-        },
-        {
-          "date": "2025-09-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Good morning!",
-          "content": "Made me feel like I was coming “back to life”",
-          "author": "academyDae",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 87,
+      "meta.total": 95,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-04",
-      "meta.until": "2025-10-04"
+      "meta.since": "2025-09-05",
+      "meta.until": "2025-10-05"
     }
   ]
 }
