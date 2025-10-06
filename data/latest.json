@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-05T00:33:21Z",
+  "generated_at": "2025-10-06T00:31:07Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-03",
+          "rating": 1,
+          "country": "US",
+          "title": "Squeezing money out of everything",
+          "content": "This apps main feature was that it would say the affirmations out loud so you can repeat them. Now for that same feature that’s been free the whole time and is its main selling point it’s a $6 subscription on top of the app now being FULL of pop up ads for the most random slop games. Yeah deleted immediately. I’ll find something else.",
+          "author": "NTCImages",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Spy",
+          "content": "Life has taught me that you can’t control someone’s loyalty. No matter how good you are to them ,it doesn’t mean that they will treat you the same way. I have been married to my husband for years with no idea he was cheating. Suddenly i started noticing changes in behavior, i suspected something was wrong So i confided in a friend who convinced and introduced me to an hacker. He was able to hack into my husband mobile phone to access his Text messages, Call logs, IG, browser history, deleted messages, Emails and WhatsApp remotely . It seemed as though my life was spinning out of control getting to find out he has someone else. I filed for a divorce just could not continue with his lies. If you feel you have been exploited in your marriage and you need proof. I suggest you contact Wayne Victor on his gmail and thank me later , he’s into any hacking related issues and can solve all hacking problem expertvictor05 @ gmail.com",
+          "author": "Shahs/12",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-03",
+          "rating": 1,
+          "country": "US",
+          "title": "🤦🏿‍♂️",
+          "content": "Man, this app is incredibly buggy. I mean, even when you close the app it runs for a few extra seconds. Tends to freeze up. Terrible.",
+          "author": "Blacktago",
+          "version": "6.3.0"
+        },
         {
           "date": "2025-10-03",
           "rating": 5,
@@ -841,33 +868,15 @@
           "content": "I’m changing my review to one star. I Am has been one of my favorite apps for as long as I’ve had it, but right now I’m so frustrated with it. I bought premium because I wanted to create my own affirmations. I choose the ones I want to focus on and make them my favorites. I then added it to my Apple Watch. Every time I looked at my watch I was reminded of something I wanted to focus on. And if I wanted to cycle through all my favorites, I could just tap on it to get to the rest. Now, when I look at my watch I just see generic affirmations I’m not interested in. When I tap on it I can get to the rest, but I don’t want to have to do that. I’m ready to give up and remove it from my watch.",
           "author": "bsulliv6",
           "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-05",
-          "rating": 5,
-          "country": "CA",
-          "title": "☺️",
-          "content": "Je me sens encouragée. Merci!",
-          "author": "Clara5888",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-05",
-          "rating": 5,
-          "country": "AU",
-          "title": "So gooooooooooooood",
-          "content": "I love it it helps a lot and I love how I can choose wallpaper on it. so I think absolutely amazing you don’t even need to have axity for it to work it can also help in many ways love it get think believe it 🤩✨⭐️🌟💫",
-          "author": "annie💍",
-          "version": "5.117.0"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-05",
-      "meta.until": "2025-10-05"
+      "meta.since": "2025-09-06",
+      "meta.until": "2025-10-06"
     }
   ]
 }
