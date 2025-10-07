@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-06T00:31:07Z",
+  "generated_at": "2025-10-07T00:30:22Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-04",
+          "rating": 4,
+          "country": "US",
+          "title": "Buggy",
+          "content": "I love the app. I have been using it for years, but this version seems buggy. I’m having issues where it keeps asking me to set up my Apple Watch even though I have done it. It keeps telling me I’ve changed my icon over and over again. Finally, the widget is not following the theme I have set in I Am. \n\nIf you can fix these issues, I’ll give it four starts.",
+          "author": "Gritjaw Battlebiter",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Powerful",
+          "content": "What a fantastic idea. Whoever thought of this is a genius!",
+          "author": "Rob 067",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Love",
+          "content": "I really do love and appreciate this app so much. It helps seeing it on my Lock Screen every time I look at my phone. I may not always click on it, but I read them every day.",
+          "author": "mamaspooky",
+          "version": "6.3.0"
+        },
         {
           "date": "2025-10-03",
           "rating": 1,
@@ -841,33 +868,6 @@
           "content": "this app is awesome my self confidence has boosted",
           "author": "LEAH.S!",
           "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Helps me Daily",
-          "content": "It’s a subtle yet powerful thing to have these reminders daily on my phone. At first it felt monumental, now it’s a constant habit that feels a bit mundane. I’m happy they added the streak update to get me to engage and soak in a bit more milliseconds in this mindset. 🌻",
-          "author": "McnessaMae",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-06",
-          "rating": 1,
-          "country": "US",
-          "title": "😕",
-          "content": "I am disappointed that I was not notified that my free trial was up before being charged.",
-          "author": "Miss__Priss",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-06",
-          "rating": 1,
-          "country": "US",
-          "title": "Something changed",
-          "content": "I’m changing my review to one star. I Am has been one of my favorite apps for as long as I’ve had it, but right now I’m so frustrated with it. I bought premium because I wanted to create my own affirmations. I choose the ones I want to focus on and make them my favorites. I then added it to my Apple Watch. Every time I looked at my watch I was reminded of something I wanted to focus on. And if I wanted to cycle through all my favorites, I could just tap on it to get to the rest. Now, when I look at my watch I just see generic affirmations I’m not interested in. When I tap on it I can get to the rest, but I don’t want to have to do that. I’m ready to give up and remove it from my watch.",
-          "author": "bsulliv6",
-          "version": "5.118.0"
         }
       ],
       "meta.total": 96,
@@ -875,8 +875,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-06",
-      "meta.until": "2025-10-06"
+      "meta.since": "2025-09-07",
+      "meta.until": "2025-10-07"
     }
   ]
 }
