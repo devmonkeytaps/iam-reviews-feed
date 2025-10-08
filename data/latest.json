@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-10-07T00:30:22Z",
+  "generated_at": "2025-10-08T00:29:59Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-06",
+          "rating": 4,
+          "country": "US",
+          "title": "Pretty good app",
+          "content": "I just don’t like that it cost money for some things but other then that it’s a good app",
+          "author": "brooklyn1.01",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-05",
+          "rating": 4,
+          "country": "US",
+          "title": "Love it but..",
+          "content": "Ok, first off really a fan. Been with you guys for a few years now and it’s been a life changer! Really helped me rebound from a tough spot. \n\nBut the recent updates seem to have limited the usage? I once could practice affirmations with music playing in the background from other apps. And there was an option for voice preference which I enjoyed. The default one now feels flat. Anyway we can get these features back??",
+          "author": "Dave _D",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-05",
+          "rating": 3,
+          "country": "US",
+          "title": "Expensive and a little too girly",
+          "content": "I want to like this app but the free trial is way to short and the price for a subscription is way too high. Also, as a guy, this app is a little girly and doesn’t always feel very neutral or gender inclusive.",
+          "author": "Julius Apple Cheeks",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-04",
+          "rating": 1,
+          "country": "US",
+          "title": "DO NOT USE THIS APP",
+          "content": "SCAM. got this app and it signed me up for a $77 subscription on its own, and it’s non refundable even though I only use the app for the widget as they advertise, and I didn’t want the subscription. Don’t buy this app, IT WILL TAKE YOUR MONEY",
+          "author": "Elizarch",
+          "version": "6.3.0"
+        },
         {
           "date": "2025-10-04",
           "rating": 4,
@@ -264,6 +300,15 @@
           "title": "Amazing",
           "content": "This app gives me hope that one day I'll be able to completely love myself",
           "author": "Chesney12612",
+          "version": "6.2.0"
+        },
+        {
+          "date": "2025-09-25",
+          "rating": 2,
+          "country": "ES",
+          "title": "Te cobran",
+          "content": "Entiendo que haya que pagar pero solo son leer frases. No sé qué beneficios tiene",
+          "author": "Jose ay bibet",
           "version": "6.2.0"
         },
         {
@@ -832,51 +877,15 @@
           "content": "i love how you can customize the app and the background of the affirmations. i also like being able to just scroll to find new inspiration. i have shared this app with a lot of my friends and family and they too appreciate it very much. i have learned that words are super powerful!! i would totally recommend this app to anyone who overthinks, is going through a rough patch, or has anxiety and or depression. thank you so much whoever made this!",
           "author": "urbestie_BROOKE",
           "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-07",
-          "rating": 1,
-          "country": "CA",
-          "title": "Too many questions at the beginning",
-          "content": "There’s way too many questions to answer before you get to the point. I got bored and I’m about to uninstall it.. Plus I just learned that it’s not free.. glad I didn’t waste my time answering this endless survey",
-          "author": "ttrraaayyyyy",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-07",
-          "rating": 1,
-          "country": "US",
-          "title": "A rip off",
-          "content": "Ok sure it’s a nice app, but worth nearly $70 a year? Just for affirmations? My fitness tracking apps are nearly half that and do 100x more. I think it’s a cool app but for the price point it’s ridiculous. My bigger issue is that I requested a trial and explicitly requested I be notified before the trial ended so that I could cancel. I was NEVER notified, by email or push notification. So it automatically tried charging me. Yes, I should have kept track of that myself, so I do take some responsibility but if you’re not going to notify people then don’t tell them you are as then I would have made absolutely sure I kept track of it myself. Feels like a con to me.",
-          "author": "Emma_schlaef",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app",
-          "content": "i love this app, it has helped my self confidence",
-          "author": "Analise Terry",
-          "version": "5.118.0"
-        },
-        {
-          "date": "2025-09-07",
-          "rating": 5,
-          "country": "US",
-          "title": "DOWNLOAD NOW!!",
-          "content": "this app is awesome my self confidence has boosted",
-          "author": "LEAH.S!",
-          "version": "5.118.0"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-07",
-      "meta.until": "2025-10-07"
+      "meta.since": "2025-09-08",
+      "meta.until": "2025-10-08"
     }
   ]
 }
