@@ -1,10 +1,73 @@
 {
-  "generated_at": "2025-10-08T00:29:59Z",
+  "generated_at": "2025-10-09T00:30:02Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Ur mom",
+          "content": "I love it , I can truly grow on me and take the time I need for my personal goals!!!",
+          "author": "Sam12811",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-07",
+          "rating": 1,
+          "country": "US",
+          "title": "Repeating adds",
+          "content": "It keeps showing me the 75 % off menu add if I press cancel it will just come back up and because of this I cannot do anything on the app",
+          "author": "👂👁️👄👁️👂",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Subscription pop up",
+          "content": "Subscription pop up is not able to be dismissed. Every time I dismiss it it pops right back up and I’m unable to see the affirmation.",
+          "author": "ohlael1",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-06",
+          "rating": 5,
+          "country": "US",
+          "title": "I literally write down everything",
+          "content": "Some reason they just hit at the right moment 😌",
+          "author": "QUEENB_xxx",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-06",
+          "rating": 4,
+          "country": "US",
+          "title": "Apple Watch complication",
+          "content": "Hi - there is a problem with category sync on the Apple Watch complication. I selected ‘my own affirmations’ but keep seeing general ones that are not selected. I’ve reset the app, my phone, my watch numerous time without success. Help?",
+          "author": "unicornkitten70",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-06",
+          "rating": 5,
+          "country": "US",
+          "title": "⭐️⭐️⭐️⭐️⭐️",
+          "content": "So far it’s amazing!",
+          "author": "_stayrae",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-06",
+          "rating": 2,
+          "country": "US",
+          "title": "So basic, asked tons of questions, but gives Little",
+          "content": "Micro three day trial and then a expensive one year subscription, the content is super basic and ask a lot of questions about yourself without giving you much but pretty canned affirmations",
+          "author": "Foodie Shutterbug",
+          "version": "6.3.0"
+        },
         {
           "date": "2025-10-06",
           "rating": 4,
@@ -859,33 +922,15 @@
           "content": "I love the app, but all of a sudden it won't allow me to save my favorites, hence the 4 star review. Please fix it. 🙏",
           "author": "Sweet_K-os",
           "version": "5.118.1"
-        },
-        {
-          "date": "2025-09-08",
-          "rating": 5,
-          "country": "ES",
-          "title": "Maravillosa",
-          "content": "Perfecta para compartir en tu día a día",
-          "author": "Valentinacc2",
-          "version": "5.118.1"
-        },
-        {
-          "date": "2025-09-08",
-          "rating": 5,
-          "country": "US",
-          "title": "This app has changed my perspective on everything!!",
-          "content": "i love how you can customize the app and the background of the affirmations. i also like being able to just scroll to find new inspiration. i have shared this app with a lot of my friends and family and they too appreciate it very much. i have learned that words are super powerful!! i would totally recommend this app to anyone who overthinks, is going through a rough patch, or has anxiety and or depression. thank you so much whoever made this!",
-          "author": "urbestie_BROOKE",
-          "version": "5.118.0"
         }
       ],
-      "meta.total": 97,
+      "meta.total": 102,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-08",
-      "meta.until": "2025-10-08"
+      "meta.since": "2025-09-09",
+      "meta.until": "2025-10-09"
     }
   ]
 }
