@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-10T00:30:29Z",
+  "generated_at": "2025-10-11T00:28:31Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -913,33 +913,15 @@
           "content": "Really helpful thank you!",
           "author": "Dj2019Harm",
           "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-10",
-          "rating": 1,
-          "country": "US",
-          "title": "Please fix!",
-          "content": "In the last several days something has happened. The widget is stuck on “practice” instead on the topics I choose to focus on. Love this app but will be deleting if I can’t use the functionality promised",
-          "author": "Cindytwin",
-          "version": "5.118.1"
-        },
-        {
-          "date": "2025-09-10",
-          "rating": 3,
-          "country": "AU",
-          "title": "5000 questions just to find you have to pay…",
-          "content": "I answered the 5000 question, only to find out it’s a paid app. Sure, 3 days free but then paid. Mm no. Not for words on a screen.",
-          "author": "Sparkle fairy 123",
-          "version": "5.118.1"
         }
       ],
-      "meta.total": 103,
+      "meta.total": 101,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-10",
-      "meta.until": "2025-10-10"
+      "meta.since": "2025-09-11",
+      "meta.until": "2025-10-11"
     }
   ]
 }
