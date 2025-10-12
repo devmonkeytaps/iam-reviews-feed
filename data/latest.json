@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-10-11T00:28:31Z",
+  "generated_at": "2025-10-12T00:32:01Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-08",
+          "rating": 5,
+          "country": "US",
+          "title": "I TRULY AM",
+          "content": "Love the app, life changer",
+          "author": "Next to my platinum card",
+          "version": "6.4.0"
+        },
         {
           "date": "2025-10-08",
           "rating": 3,
@@ -133,6 +142,15 @@
         },
         {
           "date": "2025-10-05",
+          "rating": 5,
+          "country": "ES",
+          "title": "APP",
+          "content": "Perfecta 👌🏻",
+          "author": "Javier Andaluz",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-05",
           "rating": 3,
           "country": "US",
           "title": "Expensive and a little too girly",
@@ -228,6 +246,15 @@
           "title": "I am",
           "content": "It is so good it’s helping me with not having that much anxiety anymore. If you have, if you have been overthinking having trouble comparing your body to yourselves and if you just need somebody to give you affirmations every day, this is good for you. Everybody in my house has it Even my kids have it and they’re much older, but it really helps us. Hope you guys can get it too.",
           "author": "peanut5193",
+          "version": "6.3.0"
+        },
+        {
+          "date": "2025-10-02",
+          "rating": 5,
+          "country": "AU",
+          "title": "Affirmation",
+          "content": "Empowering and uplifting.",
+          "author": "CheesyCyn",
           "version": "6.3.0"
         },
         {
@@ -850,78 +877,15 @@
           "content": "I downloaded this app because a friend had it and she said it was free, (besides the in app purchases.) If you know me, (which you don’t) if there is a free app, I WILL GET IT! So I downloaded it and it has already helped me cope with guilt from when I was younger, stress/anxiety, bad mindsets and even mental blocks. Truly this app has helped me cope with myself and it helped show me that not everyone can be perfect or be the person they want to be, if you’re being yourself, that’s good enough. This app has changed me in the best way possible and if your reading this because your considering getting this app, I urge you to try it out. If you don’t love it, you don’t have to use it. If you love it (which you will) you should totally keep it. I hope this review was informational and I hope it convinced you to get this app. Hope you all have a positive, safe and beautiful day.",
           "author": 679134,
           "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Trail subscription",
-          "content": "I had signed up for a trial period with the understanding that I would be notified before the trial ended. Nope, they don’t send you any type of notification, and yes I should have set a reminder but come on now. Especially when you request to be notified and you’re expecting the company to do exactly what they said. And they didn’t happen, so now I’m being charged $74 for a years worth of daily affirmations that don’t even pop up like they’re supposed to. TOTALLY DISSATISFIED",
-          "author": "Lillybean78",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 1,
-          "country": "US",
-          "title": "New update is a downgrade.",
-          "content": "The “practice” button is for “1 minute” only! Why did you remove the 5 , or 15 minutes?!?  Also, why did you remove the choice of voice to speak the affirmations. I don’t want  a female voice speaking the affirmations.  In addition, the voice doesn’t sound sometimes. This new update is a downgrade , I’ve been using your app since 2022! This is worst update so far. PLEASE FIX IT!",
-          "author": "Ditta Kyle",
-          "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Why I love I am",
-          "content": "I love this it makes me smile and I always have a great day at school",
-          "author": "Pumkinlaylay",
-          "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 2,
-          "country": "US",
-          "title": "Lost favorites",
-          "content": "They update the app almost daily in the App Store and I lost all of my 300 favorites in one of those updates. It’s definitely DEFINITELY not worth $150/lifetime if it cannot even save your favorites to a cloud server. I log in and it tells me I have no favorites or self written quotes. My dates that I saved them are all reset, and I can’t add a quote to favorites from a notification without opening the app anymore.",
-          "author": "EachRach",
-          "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 3,
-          "country": "US",
-          "title": "Make the app FREE",
-          "content": "Love the app! You need to make it all free though I am 10 years old and don’t want to spend money! Please make it all free! Otherwise something bad will happen to me! I am just kidding but seriously make the app FREE!!!!!!! 😡🙏🙏❤️",
-          "author": "Blahhhhh Blahhhhh Blahhhhhhhh",
-          "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Cancelled & still charged yearly subscription and Apple won’t refund",
-          "content": "I cancelled the subscription during the free trial because I decided on a different app. I cancelled before I was charged and then I was still charged the yearly subscription fee. Messaged Apple the same day about a refund and cancelling and they denied my request. So for that I’m rating one star.",
-          "author": "MegVasq",
-          "version": "6.0.0"
-        },
-        {
-          "date": "2025-09-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Nice",
-          "content": "Really helpful thank you!",
-          "author": "Dj2019Harm",
-          "version": "6.0.0"
         }
       ],
-      "meta.total": 101,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-11",
-      "meta.until": "2025-10-11"
+      "meta.since": "2025-09-12",
+      "meta.until": "2025-10-12"
     }
   ]
 }
