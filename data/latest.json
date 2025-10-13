@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-12T00:32:01Z",
+  "generated_at": "2025-10-13T00:33:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Very Helpful",
+          "content": "I never write reviews, but this app has really improved my mental health. I get notifications three times a day, and it improves my mood, reminds me to be grateful.",
+          "author": "SallyxMx",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Refreshing",
+          "content": "Refreshing and thoughtful reminders of our own worthiness and potential.",
+          "author": "nope at B no oo",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Exceptional tool to use",
+          "content": "I use this app to help gain a confidence boost day to day.",
+          "author": "sundropsintherain",
+          "version": "6.4.0"
+        },
         {
           "date": "2025-10-08",
           "rating": 5,
@@ -850,33 +877,6 @@
           "content": "So annoying you have to pay but a nice app to",
           "author": "Just so helpful",
           "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "This app really helps, I’m grateful for the daily reminder and affirmations because it speaks life/ positivity in me",
-          "author": "Kelz starting over",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-12",
-          "rating": 2,
-          "country": "US",
-          "title": "What’s up with the widget?",
-          "content": "I customize it and as time goes on it resets!",
-          "author": "GCF9",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-12",
-          "rating": 5,
-          "country": "US",
-          "title": "A very informational review for a very lovable app.",
-          "content": "I downloaded this app because a friend had it and she said it was free, (besides the in app purchases.) If you know me, (which you don’t) if there is a free app, I WILL GET IT! So I downloaded it and it has already helped me cope with guilt from when I was younger, stress/anxiety, bad mindsets and even mental blocks. Truly this app has helped me cope with myself and it helped show me that not everyone can be perfect or be the person they want to be, if you’re being yourself, that’s good enough. This app has changed me in the best way possible and if your reading this because your considering getting this app, I urge you to try it out. If you don’t love it, you don’t have to use it. If you love it (which you will) you should totally keep it. I hope this review was informational and I hope it convinced you to get this app. Hope you all have a positive, safe and beautiful day.",
-          "author": 679134,
-          "version": "6.0.1"
         }
       ],
       "meta.total": 97,
@@ -884,8 +884,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-12",
-      "meta.until": "2025-10-12"
+      "meta.since": "2025-09-13",
+      "meta.until": "2025-10-13"
     }
   ]
 }
