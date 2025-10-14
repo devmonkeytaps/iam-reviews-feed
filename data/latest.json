@@ -1,10 +1,55 @@
 {
-  "generated_at": "2025-10-13T00:33:11Z",
+  "generated_at": "2025-10-14T00:30:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-12",
+          "rating": 3,
+          "country": "US",
+          "title": "Not free",
+          "content": "If you want to pay",
+          "author": "MJ 5678",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Keeps me positive!",
+          "content": "These reminders keep me on track to keep moving forward and not get distracted by negative thoughts!",
+          "author": "cofmt",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-11",
+          "rating": 4,
+          "country": "US",
+          "title": "Refund",
+          "content": "I wanted to purchase the monthly subscription first before I committed to a year. But when I paid it charged me for the full year so I canceled instantly, but all it did was just fake my money and the app away. I would like a refund so hopefully someone will get in touch with me. I enjoyed the app from what I saw. Very cute.",
+          "author": "Rose5615",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-11",
+          "rating": 3,
+          "country": "US",
+          "title": "Lock Screen?",
+          "content": "That’s what made me want this app. I don’t see anything on my lock screen. Also, I’d like to hear the affirmations.",
+          "author": "andy8803",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing but could have better futures!!",
+          "content": "Hi!\n\nI love this app it helped me so much through the hard times I was having I think the futures that would help it a lot better or maybe that they can be videos in like like some dances and like where you can comment and stuff kind of like TikTok, but not like TikTok and like sweet comments like where you can only click on the comments and not say rude things and you can post a few things but not like bad things like good things to help people and other stuff like that\n\nEdit please make it a little more like TikTok, please",
+          "author": "City to",
+          "version": "6.4.0"
+        },
         {
           "date": "2025-10-10",
           "rating": 5,
@@ -868,24 +913,15 @@
           "content": "Love the widgets \nI use this app a few times daily along with other apps that they make. All of them together are great for my mental health",
           "author": "Sunshine Aries",
           "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-13",
-          "rating": 3,
-          "country": "GB",
-          "title": "U have to payyy !!",
-          "content": "So annoying you have to pay but a nice app to",
-          "author": "Just so helpful",
-          "version": "6.0.1"
         }
       ],
-      "meta.total": 97,
+      "meta.total": 101,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-13",
-      "meta.until": "2025-10-13"
+      "meta.since": "2025-09-14",
+      "meta.until": "2025-10-14"
     }
   ]
 }
