@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-10-14T00:30:11Z",
+  "generated_at": "2025-10-15T00:31:47Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Great for all involved",
+          "content": "This is a great app for everyone and is helping me get back to myself! Affirmations provided all day long!",
+          "author": "Lost SL",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome",
+          "content": "This app helps me know I can do this",
+          "author": "Bodh DCCC hejsn DCCC bdbdbd",
+          "version": "6.4.0"
+        },
         {
           "date": "2025-10-12",
           "rating": 3,
@@ -310,6 +328,15 @@
           "content": "After over 2 years as a subscriber I dropped my subscription. I consider it a waste of money to have to jump trough hoops daily to get a simple once an hour notification.",
           "author": "Andya-geek",
           "version": "5.83.2"
+        },
+        {
+          "date": "2025-10-02",
+          "rating": 2,
+          "country": "CA",
+          "title": "Everything is premium",
+          "content": "I used to loooove this app and I just recently decided to redownload it to get myself back on track only to find out that all of the fun, cute parts of this app are now blocked under a subscription paywall. Sad. At least there used to be a few free options but I can’t find any now :/",
+          "author": "Court0826",
+          "version": "6.3.0"
         },
         {
           "date": "2025-10-02",
@@ -886,33 +913,6 @@
           "content": "While I absolutely love the actual content from the I am affirmations.  I am so disappointed that for the past few months all of the adds have been provocative and could open Pandora’s box to someone that is struggling.  I personally do not share the affirmations with anyone unless I screenshot them because I do not like or want to expose others to the explicit ads.",
           "author": "epicgames<3",
           "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Yuh",
-          "content": "You should make it so when you share your affirmation to social media you can have the option to take your name of the affirmation",
-          "author": "Cricketindebt",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-14",
-          "rating": 3,
-          "country": "AU",
-          "title": "What I think",
-          "content": "It’s good but I think that there should be a search thing so u can search for example “quotes if ur sad I think that’s is better bye",
-          "author": "Angel my baby girl 123",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Widgets",
-          "content": "Love the widgets \nI use this app a few times daily along with other apps that they make. All of them together are great for my mental health",
-          "author": "Sunshine Aries",
-          "version": "6.0.1"
         }
       ],
       "meta.total": 101,
@@ -920,8 +920,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-14",
-      "meta.until": "2025-10-14"
+      "meta.since": "2025-09-15",
+      "meta.until": "2025-10-15"
     }
   ]
 }
