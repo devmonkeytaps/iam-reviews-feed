@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T00:31:47Z",
+  "generated_at": "2025-10-16T00:31:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -868,60 +868,15 @@
           "content": "I love these quotes because they help me become who l want to be and be proud of my struggles and what l got through in life.",
           "author": "Cheap bucks",
           "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-15",
-          "rating": 5,
-          "country": "US",
-          "title": "I am is amazing :)",
-          "content": "This is probably like the best app! Seriously recommended though. I also struggle with anxiety and stress. And I’m also very religious. So if your someone with social anxiety, sadness, depression. Really anything, this app is for you!",
-          "author": "Aubrey 💗🎧✨🌸",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing app",
-          "content": "This app helps with mental issues or any other problems you are having!",
-          "author": "any kind of name",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Community leader",
-          "content": "I really appreciate this app on how it has impacted my life positively!\n\nThank you!",
-          "author": "Funny_girl05",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-15",
-          "rating": 1,
-          "country": "CA",
-          "title": "Free trial with no reminder to cancel",
-          "content": "Just a heads up - If you give the free trial a shot to see if this app is worth the $29.99/year, you do not get a reminder to cancel the subscription. You have to be aware of when your 3 days is up in order to ensure you don’t get charged the $30. Overall I like the idea of the app. The quotes were useful and pleasant, but I can’t justify the cost for what I’m getting.",
-          "author": "KS1722",
-          "version": "6.0.1"
-        },
-        {
-          "date": "2025-09-15",
-          "rating": 1,
-          "country": "US",
-          "title": "I’m fine with ads just not the sexual explicits of the ads that show up.",
-          "content": "While I absolutely love the actual content from the I am affirmations.  I am so disappointed that for the past few months all of the adds have been provocative and could open Pandora’s box to someone that is struggling.  I personally do not share the affirmations with anyone unless I screenshot them because I do not like or want to expose others to the explicit ads.",
-          "author": "epicgames<3",
-          "version": "6.0.1"
         }
       ],
-      "meta.total": 101,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-15",
-      "meta.until": "2025-10-15"
+      "meta.since": "2025-09-16",
+      "meta.until": "2025-10-16"
     }
   ]
 }
