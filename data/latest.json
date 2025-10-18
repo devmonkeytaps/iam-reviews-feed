@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-10-17T00:31:29Z",
+  "generated_at": "2025-10-18T00:28:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-15",
+          "rating": 5,
+          "country": "US",
+          "title": "Warn about the price before survey!",
+          "content": "The app will give you an extensive survey that takes nearly a half hour, only to give you a charge right after, I feel like my time is wasted. Make it more clear that this app costs money.",
+          "author": "Thomas from Argentina",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-15",
+          "rating": 1,
+          "country": "US",
+          "title": "Subscription service!",
+          "content": "I was excited to go through all of the questions and setting up an account only to get to the end and not be able to have at least some type of free service? That’s very frustrating going through about a 5 to 10 minute process just to have to pay for a subscription for some affirmations that you can find on any platform for FREE.",
+          "author": "Sylvia Boyd",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-15",
+          "rating": 5,
+          "country": "US",
+          "title": "Love the reminders",
+          "content": "It just is so refreshing to see the reminders of the positive things in my life. Sometimes we get so tied up in the negatives and this app just brings the reminder so easily and quickly! BIG thanks to the folks who developed this app. and the folks who constantly keep it updated with new & refreshing content! ☮️",
+          "author": "IVY IN NJ              ☮️💟✝️",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-14",
+          "rating": 1,
+          "country": "US",
+          "title": "Way too complex",
+          "content": "I was looking for a customizable daily affirmations app.  This one asked an excessive set of start up questions - I felt like I was applying for a mortgage after hitting skip about twenty times.  I wanted a simple beautiful interface and repeatable affirmations not a gantlet that ruined my peace.",
+          "author": "blmhouston",
+          "version": "6.4.0"
+        },
         {
           "date": "2025-10-14",
           "rating": 5,
@@ -832,42 +868,15 @@
           "content": "This app has changed what I think about myself you should really get this app it is awesome!!!!!!!👍✝️",
           "author": "Ameliazoid",
           "version": "6.0.2"
-        },
-        {
-          "date": "2025-09-17",
-          "rating": 2,
-          "country": "AU",
-          "title": "Horrible onboarding flow",
-          "content": "It feels like no matter how many times you press “skip” you can’t make it through the onboarding questions",
-          "author": "stupidappleidnickname",
-          "version": "6.0.2"
-        },
-        {
-          "date": "2025-09-17",
-          "rating": 2,
-          "country": "GB",
-          "title": "Removed Practice Sessions?",
-          "content": "I’m unsubscribing because my daily ritual with this otherwise amazing app was to play a practice session (15 minutes usually) and listen to Spotify songs as I did my affirmations. That’s been completely removed now. And the practice sessions are shorter with an AI voiceover, which I find distracting. If service isn’t restored, I’ll need to find an alternative.",
-          "author": "Markus Jonus",
-          "version": "6.0.2"
-        },
-        {
-          "date": "2025-09-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Omgh!",
-          "content": "This app actually changed my attitude. I use to be mad and sad all the time and now most of the time my happy. Also I don’t feel bad about me anymore",
-          "author": "🐆RaWr👻",
-          "version": "6.0.1"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-17",
-      "meta.until": "2025-10-17"
+      "meta.since": "2025-09-18",
+      "meta.until": "2025-10-18"
     }
   ]
 }
