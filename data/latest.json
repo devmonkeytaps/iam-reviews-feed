@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T00:28:58Z",
+  "generated_at": "2025-10-19T00:34:53Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -841,42 +841,15 @@
           "content": "I really enjoyed the five minute practice, practice mode and the 15 minute practice mode. Why were they taken away. And will they be back soon?",
           "author": "TWWisk Founder",
           "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-18",
-          "rating": 3,
-          "country": "US",
-          "title": "No more Practicing ):",
-          "content": "I’ve been using I am for a long time like probably since 2020/2021 and recently for the last almost 2 months I’ve been using their practice feature to practice affirmations for 5 minutes every morning for the last 50 days. Now with these new updates the practice feature is no where to be found. I’ve made this apart of my routine and I’m upset the app updates have caused me to lose my favorite feature. I really want that part back. Hope that y’all change it back or add it back soon.",
-          "author": "IJustWantedToWorkOuf",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-18",
-          "rating": 5,
-          "country": "US",
-          "title": "This app is so great",
-          "content": "This app is great! I love the affirmations. They have really helped me with my anxiety levels lately.",
-          "author": "bn 1974",
-          "version": "6.1.0"
-        },
-        {
-          "date": "2025-09-18",
-          "rating": 5,
-          "country": "US",
-          "title": "AWESOME!!!",
-          "content": "This app has changed what I think about myself you should really get this app it is awesome!!!!!!!👍✝️",
-          "author": "Ameliazoid",
-          "version": "6.0.2"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-18",
-      "meta.until": "2025-10-18"
+      "meta.since": "2025-09-19",
+      "meta.until": "2025-10-19"
     }
   ]
 }
