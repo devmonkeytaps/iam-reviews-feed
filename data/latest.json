@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-10-20T00:33:57Z",
+  "generated_at": "2025-10-21T00:31:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-19",
+          "rating": 4,
+          "country": "US",
+          "title": "Add Liquid Glass!!",
+          "content": "Really dig this app. I’ve had the app for years! It’s a helpful reminder for what I need to focus on. \n\nNow that iOS26 is out, can you PLEASE add an option that allows for the widget to be clear and transparent with a Liquid Glass effect. That would be so sick and seamlessly go with the new update and any backgrounds I have.",
+          "author": "Lucky711 on Magic Wars",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-18",
+          "rating": 5,
+          "country": "US",
+          "title": "I love this app! Perfect Reminder",
+          "content": "Thank you",
+          "author": "Youshouldnthavetoputthis",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-18",
+          "rating": 4,
+          "country": "US",
+          "title": "It’s really good",
+          "content": "So basically it just a motivates me and gets me up if I’m feeling down!",
+          "author": "AriaSlayzz",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Download now!!",
+          "content": "I love it! Great motivation though out the day to keep me going! !",
+          "author": "aye pullup",
+          "version": "6.5.1"
+        },
         {
           "date": "2025-10-17",
           "rating": 2,
@@ -841,42 +877,15 @@
           "content": "I have a 185 day streak and I'm so serious when I say this has made me so much more mindful and grateful in daily life. Obviously it isn't a miracle cure, but these are some of the best affirmations especially since they go along with a background/cute icon/work well with my screen. They just make me happy and I genuinely have no problem paying the tiny subscription!",
           "author": "Abbyjay23",
           "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-20",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "I really enjoy this app it’s made me a better person in life you should get it make sure to get the trial it’s awesome!!",
-          "author": "KTC💗",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive reminders",
-          "content": "I love this as soon as my thoughts start to go crazy my phone dings with an affirmation and it’s always on topic and on point..I recommend for people who are going through hardships and struggles also deep depression",
-          "author": "The highest affirm",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-20",
-          "rating": 1,
-          "country": "US",
-          "title": "Liars!",
-          "content": "Beware! I signed up for a 3 day trial after going through all their stupid questionnaire it basically made me do it BUT it said to receive a notification BEFORE the 3 day trial was up so I could decide if I wanted to keep it or not. I never received such notification and they charged me $75!!! First off, $75 is a CRAZY amount of money to even charge for something like this and second of all, the fact that they didn’t notify when they said they would proves what a scam they really are! I’ve requested a refund through Apple and I hope to God I get it but if not I’m going full Karen on all of them!",
-          "author": "BreNicole3116",
-          "version": "6.1.1"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-20",
-      "meta.until": "2025-10-20"
+      "meta.since": "2025-09-21",
+      "meta.until": "2025-10-21"
     }
   ]
 }
