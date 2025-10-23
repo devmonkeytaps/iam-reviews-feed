@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-22T00:32:40Z",
+  "generated_at": "2025-10-23T00:31:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-20",
+          "rating": 5,
+          "country": "US",
+          "title": "life view point",
+          "content": "this app gives a newer sense of rediscovering oneself along with finding different outlooks on life and one’s experience.",
+          "author": ".:3b",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Highlight",
+          "content": "A highlight to my day! Taking a few minutes to recharge myself is great with this little reminder. Really seems to help refocus my head and thoughts.  Much appreciated!!!",
+          "author": "Bethy’s",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-19",
+          "rating": 4,
+          "country": "US",
+          "title": "Umm I Don’t Know what to put here",
+          "content": "This app made me feel so good about myself, it helped me get through some hard times and I’m happy that u can still access most affirmations without paying, just press the x button in the top or bottom Connor",
+          "author": "Zoey peet",
+          "version": "6.5.1"
+        },
         {
           "date": "2025-10-19",
           "rating": 1,
@@ -787,51 +814,15 @@
           "content": "Really just a great app. Can you make a wallpaper that changes affirmations constantly and maybe Lock Screen widgets.",
           "author": "Cricketindebt",
           "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-22",
-          "rating": 1,
-          "country": "AU",
-          "title": "FREE TRIAL?",
-          "content": "Accepted free trial and it immediately charged me $10.99 USD. Luckily it failed.",
-          "author": "Angusmca360",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-22",
-          "rating": 2,
-          "country": "ES",
-          "title": "Very short trial is suspicious",
-          "content": "This app, if it works, is for the long term. So why such a super short trial and pressure to buy? It’s not cheap, it’s long term. Insisting on purchase gives me the impression that you are concerned that after a week people won’t buy it. I prefer to pass. \n\nNote also that it is strangely identical to I Am which is 1/3 cheaper.",
-          "author": "ValdoPolaroil",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-22",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this app",
-          "content": "This app is helping me so much I love it with everything Im going through right now",
-          "author": "Stitch lover61",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-22",
-          "rating": 5,
-          "country": "US",
-          "title": "My mental checker",
-          "content": "The program help me stay focused on things that during the course of the day that might get lost from all the chaos on this  planet",
-          "author": "Masufa",
-          "version": "6.1.1"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 90,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-22",
-      "meta.until": "2025-10-22"
+      "meta.since": "2025-09-23",
+      "meta.until": "2025-10-23"
     }
   ]
 }
