@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-23T00:31:11Z",
+  "generated_at": "2025-10-24T00:28:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Great app",
+          "content": "This helps me stay positive and I have had this app for several years.  Just nice reminders throughout the day.",
+          "author": "NicoleSimoneDav",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-21",
+          "rating": 4,
+          "country": "US",
+          "title": "I am",
+          "content": "This app Very pricey",
+          "author": "Hap97",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Recommend",
+          "content": "I love the customization that this app gives. It helps  keep me focused and motivated.",
+          "author": "KZAP73",
+          "version": "6.5.1"
+        },
         {
           "date": "2025-10-20",
           "rating": 5,
@@ -778,51 +805,15 @@
           "content": "These affirmations get me by daily 🩷",
           "author": "Tay3679",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-23",
-          "rating": 5,
-          "country": "US",
-          "title": "⭐️⭐️⭐️⭐️⭐️",
-          "content": "LOVE IT!!! So relaxing and boosts confidence and self esteem!!!",
-          "author": "LGS❤️6️⃣7️⃣",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-23",
-          "rating": 5,
-          "country": "US",
-          "title": "It really does help",
-          "content": "As a person with mental health issues this app helps <3",
-          "author": "Daughter of Athena 💞",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-23",
-          "rating": 1,
-          "country": "US",
-          "title": "Too many prompts",
-          "content": "There's too many prompts just to get to the trial phase.",
-          "author": "NeecyBabyyyyyyy",
-          "version": "6.1.1"
-        },
-        {
-          "date": "2025-09-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Fab",
-          "content": "Really just a great app. Can you make a wallpaper that changes affirmations constantly and maybe Lock Screen widgets.",
-          "author": "Cricketindebt",
-          "version": "6.1.1"
         }
       ],
-      "meta.total": 90,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-23",
-      "meta.until": "2025-10-23"
+      "meta.since": "2025-09-24",
+      "meta.until": "2025-10-24"
     }
   ]
 }
