@@ -1,10 +1,64 @@
 {
-  "generated_at": "2025-10-24T00:28:46Z",
+  "generated_at": "2025-10-25T00:30:51Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-23",
+          "rating": 4,
+          "country": "US",
+          "title": "Love it! Wish price wa slower though.",
+          "content": "Love it! Wish price wa slower though.",
+          "author": "David-96",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-23",
+          "rating": 5,
+          "country": "US",
+          "title": "THIS IS THE BEST APP!!!",
+          "content": "I’ve been looking for daily affirmations and this is the one it’s soooooo aesthetically pleasing so that’s 1. Bc all the others were kinda looking a lil too bland and this has great affirmations too!!",
+          "author": "Justaordinarybaddie",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Bri",
+          "content": "I believe this app has helped me with my depression, self-confidence and anxiety. It reminds me every day to stay positive love it!",
+          "author": "das fhkk",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-22",
+          "rating": 5,
+          "country": "US",
+          "title": "I love daily affirmation",
+          "content": "This Help me deal with my daily life problems.",
+          "author": "Rhonda Moore9721",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-22",
+          "rating": 2,
+          "country": "US",
+          "title": "Acts like I’m new",
+          "content": "Great app but every time I click on the notification it makes me answer the questions all over again",
+          "author": "local mortgage expert",
+          "version": "6.5.1"
+        },
+        {
+          "date": "2025-10-22",
+          "rating": 4,
+          "country": "US",
+          "title": "It’s cool",
+          "content": "I like affirmations",
+          "author": "01Sassywowo",
+          "version": "6.5.1"
+        },
         {
           "date": "2025-10-22",
           "rating": 5,
@@ -778,42 +832,15 @@
           "content": "Entiendo que haya que pagar pero solo son leer frases. No sé qué beneficios tiene",
           "author": "Jose ay bibet",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-24",
-          "rating": 3,
-          "country": "US",
-          "title": "Streaks don’t work correctly",
-          "content": "Great app but the streaks need an option to opt out. I look at this app literally every day. I click and favorite sayings. Every hour it pops up on my wrist. It still keeps ending my streaks. Idk how to keep them going or why it has to be an issue. \n\nFine whatever. Then let me disable the option of having streaks so it’s not glitching and nagging me in the first place.  Makes me want to delete the app.",
-          "author": "Jenimeh",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-24",
-          "rating": 5,
-          "country": "CA",
-          "title": "I love this app",
-          "content": "Such a beautiful app! It keeps me grounded.",
-          "author": "Marley12392",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Devotional",
-          "content": "These affirmations get me by daily 🩷",
-          "author": "Tay3679",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 89,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-24",
-      "meta.until": "2025-10-24"
+      "meta.since": "2025-09-25",
+      "meta.until": "2025-10-25"
     }
   ]
 }
