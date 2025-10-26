@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T00:30:51Z",
+  "generated_at": "2025-10-26T00:33:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -823,24 +823,15 @@
           "content": "This app gives me hope that one day I'll be able to completely love myself",
           "author": "Chesney12612",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-25",
-          "rating": 2,
-          "country": "ES",
-          "title": "Te cobran",
-          "content": "Entiendo que haya que pagar pero solo son leer frases. No sé qué beneficios tiene",
-          "author": "Jose ay bibet",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-25",
-      "meta.until": "2025-10-25"
+      "meta.since": "2025-09-26",
+      "meta.until": "2025-10-26"
     }
   ]
 }
