@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-10-26T00:33:56Z",
+  "generated_at": "2025-10-27T00:34:38Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-23",
+          "rating": 1,
+          "country": "US",
+          "title": "only useful if you pay",
+          "content": "i’ve used this app for over a year but everything in it is behind a pay wall now. there used to be a decent amount you could enjoy for free but everything is locked now. really disappointing.",
+          "author": "tinytomato.",
+          "version": "6.6.0"
+        },
         {
           "date": "2025-10-23",
           "rating": 4,
@@ -251,6 +260,15 @@
         {
           "date": "2025-10-14",
           "rating": 5,
+          "country": "CA",
+          "title": "Almost one year of daily use!",
+          "content": "Honestly perfect, love the affirmations, very customizable, love the widget, and lots and lots of free theme options. Loveee",
+          "author": "Toxicoremily",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-14",
+          "rating": 5,
           "country": "US",
           "title": "Ai",
           "content": "It works like an Ai machine it’s mentality is too high",
@@ -372,6 +390,15 @@
           "title": "Refreshing",
           "content": "Refreshing and thoughtful reminders of our own worthiness and potential.",
           "author": "nope at B no oo",
+          "version": "6.4.0"
+        },
+        {
+          "date": "2025-10-10",
+          "rating": 1,
+          "country": "AU",
+          "title": "Disappointed",
+          "content": "Was charged before the end of the trial period.  Don’t trust this app.",
+          "author": "G19$!",
           "version": "6.4.0"
         },
         {
@@ -814,24 +841,15 @@
           "content": "It’s a small, daily reminder of how important I am to myself.  Comes when I need them most.",
           "author": "Lissette M.",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "This app gives me hope that one day I'll be able to completely love myself",
-          "author": "Chesney12612",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-26",
-      "meta.until": "2025-10-26"
+      "meta.since": "2025-09-27",
+      "meta.until": "2025-10-27"
     }
   ]
 }
