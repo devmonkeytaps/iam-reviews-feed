@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T00:34:38Z",
+  "generated_at": "2025-10-28T00:30:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -778,78 +778,15 @@
           "content": "I understand you want to customise at the beginning but the number of questions you ask is ridiculous. Make it less. I know I can skip but it’s tooo much. I. A  just installed on iPad - makes me not want to use it. Yes, triggered but seriously - too much.",
           "author": "popoutta",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Uplifting Affirmations",
-          "content": "I love seeing the “I Am” notifications throughout the day. They always seem to come at the perfect times. The affirmations are so positive and uplifting. I really enjoy reading them and seeing all of the beautiful, inspiring messages that “I Am” offers.",
-          "author": "Daddy and Crystal’s Reviews",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Confidence",
-          "content": "It makes me more confident ⭐️⭐️⭐️⭐️⭐️💫",
-          "author": "Swimmerbaddie",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "US",
-          "title": "This app is the best!",
-          "content": "I feel more confident in myself and, I truly love myself a lot more and, I’ve had this app for 1 minute and I already feel good! (Not Ai)",
-          "author": "AmeliaLuv7",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 2,
-          "country": "GB",
-          "title": "Too many interruptions",
-          "content": "I love this app and regularly use it. What ruins it for me are the constant reminders - not wanted or needed - that I can add an affirmation to my favourites. As I’m a long time user and using my favourites list anyway, this is unnecessary, jarring & irritating. I’d love an option to remove unwanted notifications. Or send them once only. Once is plenty.",
-          "author": "Tired mum needs rest!",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "CA",
-          "title": "Instant healing",
-          "content": "I’ve been to many therapists and spoken to many about my problems and struggles. No one has ever been able to help me. Shortly after downloading this app, it has worked INSTANTLY! Tailored to my own settings, it gives me the peace and calm to clear my mind in order to medicate and absorb the affirmations for the day. Very thankful I have found this app and will definitely be using it!",
-          "author": "Cooli03",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Need assistance",
-          "content": "Please I need someone of customer service or something to contact me",
-          "author": "Morales1722",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-27",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this so much",
-          "content": "It’s a small, daily reminder of how important I am to myself.  Comes when I need them most.",
-          "author": "Lissette M.",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-27",
-      "meta.until": "2025-10-27"
+      "meta.since": "2025-09-28",
+      "meta.until": "2025-10-28"
     }
   ]
 }
