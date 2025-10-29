@@ -1,10 +1,55 @@
 {
-  "generated_at": "2025-10-28T00:30:35Z",
+  "generated_at": "2025-10-29T00:33:04Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-26",
+          "rating": 2,
+          "country": "US",
+          "title": "hi",
+          "content": "so every time i enter this app it keeps giving me the sign up for premium i hit cancel and it just keeps saying it im getting extremely mad please fix this and make it stop.",
+          "author": "Lilly❀",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Helps",
+          "content": "I’m a 12 year old girl who really doesn’t like herself and I found this app in the App Store, I’ve only been using it for 2 days and it has already helped! I love how it can be personalized to your needs and how you can change how to app looks!",
+          "author": "Louisa.87",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-25",
+          "rating": 1,
+          "country": "US",
+          "title": "New update is a downgrade.",
+          "content": "why did you remove the choice of voice to speak the affirmations. I don’t want  a female voice speaking the affirmations.  In addition, the voice doesn’t sound sometimes. This new update is a downgrade , I’ve been using your app since 2022! This is worst update so far. PLEASE FIX IT!",
+          "author": "Ditta Kyle",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-25",
+          "rating": 5,
+          "country": "US",
+          "title": "This app is a life changerrrr",
+          "content": "I just got this app yesterday and I’m already seeing a difference in my daily behavior. I got a widget for both my lock screen and my Home Screen and seeing them every so often is really lifting my mood! I really recommend this app who has problems with mental health, anxiety, depression, or just lack of confidence. Get this app! I’m telling you, it’s really changed me and I think it will you too❤️🫰💕🌺🍒🥳😜",
+          "author": "# peace lover",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-24",
+          "rating": 5,
+          "country": "US",
+          "title": "This is so nice",
+          "content": "This is a cool nice app I like how you can change the background and pick your message. And I love it because I like the message that you guys have they are very nice. The app in general is a great app. For people who have mean thoughts about their selfs it is great. By her grand daughter Buggybug 10yrs❤️",
+          "author": "19peewee64",
+          "version": "6.6.0"
+        },
         {
           "date": "2025-10-23",
           "rating": 1,
@@ -751,42 +796,15 @@
           "content": "Some of the affirmations and notifications are really negative… I’m confused.. aren’t this app supposed to feed positive affirmations? Instead they would say things like “I’m facing a difficult time now, but I can get through it” but no I’m not going through a hard time… what’s your deal lol they gave you prompts when you set it up, I chose manifest abundance, gratitude, and positive thinking, why are you keep feeding me negative thoughts🤦🏻‍♀️",
           "author": "Veiieneodoren_1222",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-28",
-          "rating": 2,
-          "country": "US",
-          "title": "Morning Routine",
-          "content": "Thank you for making this app, I use it as a part of my moment reset each day to focus and declare the things that set my day. However, as a premium user, I continue to have glitches with my apple watch face. Even more, now that I have the Apple 11- it won’t even let me add the compilation. If this was fixed and I could use the full version that I am paying for, I would give it a 5.",
-          "author": "candytree82",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-28",
-          "rating": 1,
-          "country": "US",
-          "title": "Reminders/notifications",
-          "content": "Paid for year subscription, all of a sudden notifications stopped, tried adjusting settings, still not working",
-          "author": 2231994,
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-28",
-          "rating": 2,
-          "country": "GB",
-          "title": "Annoying",
-          "content": "I understand you want to customise at the beginning but the number of questions you ask is ridiculous. Make it less. I know I can skip but it’s tooo much. I. A  just installed on iPad - makes me not want to use it. Yes, triggered but seriously - too much.",
-          "author": "popoutta",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 86,
+      "meta.total": 88,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-28",
-      "meta.until": "2025-10-28"
+      "meta.since": "2025-09-29",
+      "meta.until": "2025-10-29"
     }
   ]
 }
