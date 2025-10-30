@@ -1,10 +1,73 @@
 {
-  "generated_at": "2025-10-29T00:33:04Z",
+  "generated_at": "2025-10-30T00:32:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-28",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "So far so good. I love waking up , or just looking at my phone to another affirmation. Makes me me feel good",
+          "author": "BlaccRose_76",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-28",
+          "rating": 2,
+          "country": "US",
+          "title": "Makes no sense",
+          "content": "I receive 2 different affirmations. They change randomly. Sometimes they do sometimes the don’t. I really wish I had not purchased. Then there is the log. I look at the affirmation that appears on my phone but that doesn’t count. I have to open the app and look at that one and that will count even though it’s the same frigging affirmation from the day before. Such a load of hog wash!",
+          "author": "jens001",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Something good",
+          "content": "These days especially, it is very nice to look at my phone and see some helpful, supportive kind words. I have it as a widget",
+          "author": "Decemburrbebe",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-27",
+          "rating": 5,
+          "country": "US",
+          "title": "I love it so much",
+          "content": "Thank you for the recommendation and it’s making me positive and confident thank you developer!",
+          "author": "Nora amazing 67",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-27",
+          "rating": 2,
+          "country": "US",
+          "title": "Can’t change the voice",
+          "content": "I’m just wondering if there is anyway to change the voice? There was before, now there is no voice option a little frustrating I enjoyed being able to choose the voice that is most soothing in my own opinion.",
+          "author": "helloloveyby",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-27",
+          "rating": 3,
+          "country": "US",
+          "title": "Bad algorithm",
+          "content": "I pay for the subscription and have used the app for a couple years now, but the past few months I’ve noticed that if I like a certain affirmation, basically the same affirmation shows up repeatedly just worded a slightly different way, and it’s not just once or twice. Every affirmation after the one I hearted will basically be the exact same one I hearted and it’s super annoying! I have specific categories I love and use those in addition to the “general” category, I have the ones I want in my rotation liked so I would expect that affirmations would rotate through most of those categories but they don’t do that anymore. It’s become such a nuisance that I eventually close out of the app altogether after only a minute or two at most. I pay for this app because I used to love the variety of affirmations I would receive so I could expand my horizons and figure out what is challenging for me, please go back to the old algorithm or find a way to fix it, otherwise I will be stopping my use of the subscription altogether.",
+          "author": "Sam_the_Hero_",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this app",
+          "content": "Very helpful to me every time.",
+          "author": "Gigi27$$",
+          "version": "6.6.0"
+        },
         {
           "date": "2025-10-26",
           "rating": 2,
@@ -778,33 +841,15 @@
           "content": "First day and I already feel better",
           "author": "Cutie dookie wookie bear",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "Beautiful app",
-          "author": "QUEENNCHERISH",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-29",
-          "rating": 3,
-          "country": "GB",
-          "title": "I am…. Confused…",
-          "content": "Some of the affirmations and notifications are really negative… I’m confused.. aren’t this app supposed to feed positive affirmations? Instead they would say things like “I’m facing a difficult time now, but I can get through it” but no I’m not going through a hard time… what’s your deal lol they gave you prompts when you set it up, I chose manifest abundance, gratitude, and positive thinking, why are you keep feeding me negative thoughts🤦🏻‍♀️",
-          "author": "Veiieneodoren_1222",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 88,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-29",
-      "meta.until": "2025-10-29"
+      "meta.since": "2025-09-30",
+      "meta.until": "2025-10-30"
     }
   ]
 }
