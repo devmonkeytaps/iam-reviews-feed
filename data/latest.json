@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-10-30T00:32:40Z",
+  "generated_at": "2025-10-31T00:31:51Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Incredible",
+          "content": "This app has brought back a sense of confidence and self-worth I thought I had lost. I am so thankful that I found this app and I hope it helps others the way it has helped me.",
+          "author": "“I Am” lover",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Love app/payment required",
+          "content": "Hi, so I downloaded this app because of my anxiety, depression and life changes that have happened recently, which have been an overwhelming amount of changes. This app truly was helping me daily get through things now it’s requiring a payment if you are able to afford the payment definitely keep the app unfortunately, I will have to stop using it because it will only pop up. I need to pay the yearly fee which is roughly $18. I wish they provided a free option.",
+          "author": "JoyWilkinson88",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-28",
+          "rating": 4,
+          "country": "US",
+          "title": "I like the app but it needs some changes",
+          "content": "I enjoy the app a lot, especially that it just randomly throughout the day pops up different affirmations for me to read aloud and that’s the free version that I’m talking about! The only thing I don’t like is about half of the affirmations aren’t really affirmations and they don’t make me really feel like “oh wow that really makes me feel good inside” they more like “ok next “ so maybe make some better supporting affirmations to lift someone’s spirit and confidence",
+          "author": "213Jmaries reviews",
+          "version": "6.6.0"
+        },
         {
           "date": "2025-10-28",
           "rating": 5,
@@ -823,33 +850,15 @@
           "content": "There used to be an option where you can “practice” and it would read the affirmations to you.And now that’s no longer available.",
           "author": "Don’t know how to feel",
           "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-30",
-          "rating": 1,
-          "country": "CA",
-          "title": "Gives me anxiety",
-          "content": "Reading the affirmations are causing me anxiety. It might work for some but not me. I’m dealing with too much trauma in my life. The affirmations just make me cry. \nWhat’s frustrating is I can’t find where to cancel the app. I can’t handle receiving anymore messages.",
-          "author": "Penetang smurf",
-          "version": "6.2.0"
-        },
-        {
-          "date": "2025-09-30",
-          "rating": 5,
-          "country": "US",
-          "title": "First time",
-          "content": "First day and I already feel better",
-          "author": "Cutie dookie wookie bear",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 94,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-09-30",
-      "meta.until": "2025-10-30"
+      "meta.since": "2025-10-01",
+      "meta.until": "2025-10-31"
     }
   ]
 }
