@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-10-31T00:31:51Z",
+  "generated_at": "2025-11-01T00:34:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Disappointed",
+          "content": "Installed, answered many questions, took a call ran errands had to start over. Just re-answered all questions (dozens) and at the end you have to sign up for a free 3 day premium trial. No choice to decline, no contact info (email or #) to reach out. Prepared for the generic “sorry…” reply from Dev instead of addressing core issue.",
+          "author": "My uncle Dave",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-29",
+          "rating": 1,
+          "country": "US",
+          "title": "stop the greed",
+          "content": "the app used to have more free customizations and now they have taken that away. just about everything requires a subscription and i’m now deleting the app because of this company’s greed. i don’t need to pay an app to help me with positivity. yall have lost your minds.",
+          "author": "dm179704188",
+          "version": "6.6.0"
+        },
         {
           "date": "2025-10-29",
           "rating": 5,
@@ -814,51 +832,15 @@
           "content": "I had this app a couple of years ago and I really loved it. What I loved about it was that I would get daily affirmations on my watch to help get me through the day. Recently, I’ve revisited the app, but it seems to have changed. Now I have to go into the app and scroll and like different information. I feel like I’m missing something as this is no better than scrolling on social media. Not something that I want to do.",
           "author": "Janetipie",
           "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-01",
-          "rating": 1,
-          "country": "US",
-          "title": "way too many adds no",
-          "content": "The amount of pop up ads is ridiculous. And to remove them a subscription? absolutely not id rather pay for an affirmations app for 5 bucks and have no ads",
-          "author": "ChaosFerno",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-01",
-          "rating": 4,
-          "country": "US",
-          "title": "Bug",
-          "content": "I received 5 notifications all at once about my streak. I do not wish to get these notifications, nor do I wish to partake in any “streak” by opening the app",
-          "author": "User10397",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-01",
-          "rating": 1,
-          "country": "US",
-          "title": "Unacceptable",
-          "content": "I wanted to share some feedback about an affirmation that recently appeared in the app:\n\n“I know that ending this is the best thing for me, even if it hurts.”\n\nWhile I understand the intention behind it, the wording “ending this” can be interpreted in unsafe or harmful ways, especially since many people who use affirmation and wellness apps may already be struggling with mental health challenges. The phrase is vague and could unintentionally be read as a reference to self harm rather than healthy endings.\n\nI thought it had to be a joke when this came up. Please remove this from your generator.",
-          "author": "naenerbug",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-01",
-          "rating": 4,
-          "country": "US",
-          "title": "Took away the practice",
-          "content": "There used to be an option where you can “practice” and it would read the affirmations to you.And now that’s no longer available.",
-          "author": "Don’t know how to feel",
-          "version": "6.2.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-01",
-      "meta.until": "2025-10-31"
+      "meta.since": "2025-10-02",
+      "meta.until": "2025-11-01"
     }
   ]
 }
