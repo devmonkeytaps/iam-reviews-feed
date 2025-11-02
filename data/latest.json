@@ -1,10 +1,55 @@
 {
-  "generated_at": "2025-11-01T00:34:45Z",
+  "generated_at": "2025-11-02T00:34:34Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-10-31",
+          "rating": 5,
+          "country": "US",
+          "title": "Tears",
+          "content": "Tears",
+          "author": "Eli vixen teared",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-10-30",
+          "rating": 1,
+          "country": "US",
+          "title": "Critical issues with this app",
+          "content": "1 - I made sure I selected only 10 notifications per day and turned off everything else. However this app sends me notifications every 3 minutes.\n\n2 - The paid version promoted the fact that if you pay and add the account - all info will be saved. Guess what? I got a new phone, logged in to my iCloud and used the same account for this app - and 100% of info was completely lost",
+          "author": "chris45324",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-10-30",
+          "rating": 2,
+          "country": "US",
+          "title": "Change to app",
+          "content": "This has always been my favorite app — I’ve loved it since the very beginning. One of the features I valued most was being able to add my own affirmations. After the recent update, I can’t seem to find that option anywhere. If it’s been removed, that’s truly disappointing. It was such a meaningful part of my daily routine and one of the main reasons I’ve stayed a loyal user all these years. Please consider bringing it back — otherwise, I’ll have to rethink renewing my subscription.",
+          "author": "Suz_MD",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-10-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Most Excellent!!!!!!!!!",
+          "content": "Working with this app has improved my life and mindset in MANY ways! It is positively programing my deep Resevoirs and feeling connections, has improved my social life and productivity and my self image has been soaring! Thank you “I am - Daily Affirmation and App’s team!!!”",
+          "author": "Raspberry jammed rats",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-10-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Brights up when needed!",
+          "content": "I was skeptical about apps like this one just trying to benefit from vulnerable people. But in reality it appeared to me when I needed it the most, I placed it in my main screen and each time I need it I always have a great quote that gives me confidence. I recommend it to people who is anxious and need a little boost of confidence.",
+          "author": "I’mJustKikii",
+          "version": "6.7.0"
+        },
         {
           "date": "2025-10-29",
           "rating": 1,
@@ -796,51 +841,15 @@
           "content": "After over 2 years as a subscriber I dropped my subscription. I consider it a waste of money to have to jump trough hoops daily to get a simple once an hour notification.",
           "author": "Andya-geek",
           "version": "5.83.2"
-        },
-        {
-          "date": "2025-10-02",
-          "rating": 2,
-          "country": "CA",
-          "title": "Everything is premium",
-          "content": "I used to loooove this app and I just recently decided to redownload it to get myself back on track only to find out that all of the fun, cute parts of this app are now blocked under a subscription paywall. Sad. At least there used to be a few free options but I can’t find any now :/",
-          "author": "Court0826",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-02",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "It is so good it’s helping me with not having that much anxiety anymore. If you have, if you have been overthinking having trouble comparing your body to yourselves and if you just need somebody to give you affirmations every day, this is good for you. Everybody in my house has it Even my kids have it and they’re much older, but it really helps us. Hope you guys can get it too.",
-          "author": "peanut5193",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-02",
-          "rating": 5,
-          "country": "AU",
-          "title": "Affirmation",
-          "content": "Empowering and uplifting.",
-          "author": "CheesyCyn",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-02",
-          "rating": 2,
-          "country": "US",
-          "title": "Am I missing something?",
-          "content": "I had this app a couple of years ago and I really loved it. What I loved about it was that I would get daily affirmations on my watch to help get me through the day. Recently, I’ve revisited the app, but it seems to have changed. Now I have to go into the app and scroll and like different information. I feel like I’m missing something as this is no better than scrolling on social media. Not something that I want to do.",
-          "author": "Janetipie",
-          "version": "6.3.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-02",
-      "meta.until": "2025-11-01"
+      "meta.since": "2025-10-03",
+      "meta.until": "2025-11-02"
     }
   ]
 }
