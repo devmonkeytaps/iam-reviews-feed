@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-02T00:34:34Z",
+  "generated_at": "2025-11-03T00:33:50Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -778,78 +778,15 @@
           "content": "I love the app. I have been using it for years, but this version seems buggy. I’m having issues where it keeps asking me to set up my Apple Watch even though I have done it. It keeps telling me I’ve changed my icon over and over again. Finally, the widget is not following the theme I have set in I Am. \n\nIf you can fix these issues, I’ll give it four starts.",
           "author": "Gritjaw Battlebiter",
           "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Powerful",
-          "content": "What a fantastic idea. Whoever thought of this is a genius!",
-          "author": "Rob 067",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Love",
-          "content": "I really do love and appreciate this app so much. It helps seeing it on my Lock Screen every time I look at my phone. I may not always click on it, but I read them every day.",
-          "author": "mamaspooky",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Squeezing money out of everything",
-          "content": "This apps main feature was that it would say the affirmations out loud so you can repeat them. Now for that same feature that’s been free the whole time and is its main selling point it’s a $6 subscription on top of the app now being FULL of pop up ads for the most random slop games. Yeah deleted immediately. I’ll find something else.",
-          "author": "NTCImages",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Spy",
-          "content": "Life has taught me that you can’t control someone’s loyalty. No matter how good you are to them ,it doesn’t mean that they will treat you the same way. I have been married to my husband for years with no idea he was cheating. Suddenly i started noticing changes in behavior, i suspected something was wrong So i confided in a friend who convinced and introduced me to an hacker. He was able to hack into my husband mobile phone to access his Text messages, Call logs, IG, browser history, deleted messages, Emails and WhatsApp remotely . It seemed as though my life was spinning out of control getting to find out he has someone else. I filed for a divorce just could not continue with his lies. If you feel you have been exploited in your marriage and you need proof. I suggest you contact Wayne Victor on his gmail and thank me later , he’s into any hacking related issues and can solve all hacking problem expertvictor05 @ gmail.com",
-          "author": "Shahs/12",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 1,
-          "country": "US",
-          "title": "🤦🏿‍♂️",
-          "content": "Man, this app is incredibly buggy. I mean, even when you close the app it runs for a few extra seconds. Tends to freeze up. Terrible.",
-          "author": "Blacktago",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 5,
-          "country": "US",
-          "title": "❤️",
-          "content": "🙏",
-          "author": "Hkfjdji",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-03",
-          "rating": 2,
-          "country": "US",
-          "title": "Worst app ever for encouraging messages",
-          "content": "After over 2 years as a subscriber I dropped my subscription. I consider it a waste of money to have to jump trough hoops daily to get a simple once an hour notification.",
-          "author": "Andya-geek",
-          "version": "5.83.2"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-03",
-      "meta.until": "2025-11-02"
+      "meta.since": "2025-10-04",
+      "meta.until": "2025-11-03"
     }
   ]
 }
