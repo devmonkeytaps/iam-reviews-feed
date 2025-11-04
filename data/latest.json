@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-11-03T00:33:50Z",
+  "generated_at": "2025-11-04T00:31:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Exceptional and Quality",
+          "content": "Very in-tune",
+          "author": "tmoneyjr414",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Affirmation App On the Go",
+          "content": "I have been using this app for years and has been great, especially for the paid version and being able to customize what I need to focus on and have a notifications pop up throughout the day for inspiration has really helped me get through the day. Really great when need a pick me up.",
+          "author": "Alicia Savior",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Speaking the truth god designed",
+          "content": "Every Day theses quotes come across my phone they really speak the truth and they speak to me \nI know GOD is telling me how to align my life and get myself together 🙏🏽🙏🏽🙏🏽\nTHANK YOU SO MUCH",
+          "author": "Hales7325",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-10-31",
+          "rating": 1,
+          "country": "US",
+          "title": "Oh no",
+          "content": "I did the trial to see what it was all about. It’s probably good for someone but not for me. If I was going to spend that kind of money I would buy groceries! But now I can’t until you refund my money!",
+          "author": "i hate nicknames333",
+          "version": "6.7.0"
+        },
         {
           "date": "2025-10-31",
           "rating": 5,
@@ -192,6 +228,15 @@
           "title": "This app is a life changerrrr",
           "content": "I just got this app yesterday and I’m already seeing a difference in my daily behavior. I got a widget for both my lock screen and my Home Screen and seeing them every so often is really lifting my mood! I really recommend this app who has problems with mental health, anxiety, depression, or just lack of confidence. Get this app! I’m telling you, it’s really changed me and I think it will you too❤️🫰💕🌺🍒🥳😜",
           "author": "# peace lover",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-25",
+          "rating": 5,
+          "country": "CA",
+          "title": "A Mother",
+          "content": "It helps.",
+          "author": "Katty5683",
           "version": "6.6.0"
         },
         {
@@ -760,33 +805,15 @@
           "content": "I want to like this app but the free trial is way to short and the price for a subscription is way too high. Also, as a guy, this app is a little girly and doesn’t always feel very neutral or gender inclusive.",
           "author": "Julius Apple Cheeks",
           "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-04",
-          "rating": 1,
-          "country": "US",
-          "title": "DO NOT USE THIS APP",
-          "content": "SCAM. got this app and it signed me up for a $77 subscription on its own, and it’s non refundable even though I only use the app for the widget as they advertise, and I didn’t want the subscription. Don’t buy this app, IT WILL TAKE YOUR MONEY",
-          "author": "Elizarch",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-04",
-          "rating": 4,
-          "country": "US",
-          "title": "Buggy",
-          "content": "I love the app. I have been using it for years, but this version seems buggy. I’m having issues where it keeps asking me to set up my Apple Watch even though I have done it. It keeps telling me I’ve changed my icon over and over again. Finally, the widget is not following the theme I have set in I Am. \n\nIf you can fix these issues, I’ll give it four starts.",
-          "author": "Gritjaw Battlebiter",
-          "version": "6.3.0"
         }
       ],
-      "meta.total": 86,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-04",
-      "meta.until": "2025-11-03"
+      "meta.since": "2025-10-05",
+      "meta.until": "2025-11-04"
     }
   ]
 }
