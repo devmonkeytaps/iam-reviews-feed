@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-11-04T00:31:58Z",
+  "generated_at": "2025-11-05T00:32:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-03",
+          "rating": 1,
+          "country": "US",
+          "title": "Expensive",
+          "content": "Costly for a simple app",
+          "author": "eytew egg hj",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-02",
+          "rating": 5,
+          "country": "US",
+          "title": "I am Satisfied",
+          "content": "This app is a good app. I love the motivations and quotes and positivity that shows up on my notifications. For one who struggles with ptsd/anxiety/depression and other mental health illnesses, this app helps me deal with it a little bit each time an affirmation pops up. Slow process because I still don’t believe I deserve happiness and stuff but I love the daily affirmations",
+          "author": "Dj Chel",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-01",
+          "rating": 5,
+          "country": "US",
+          "title": "I love this app",
+          "content": "This app is more than healing",
+          "author": "ycsfnihdacjiy",
+          "version": "6.7.0"
+        },
         {
           "date": "2025-11-01",
           "rating": 5,
@@ -778,33 +805,6 @@
           "content": "I just don’t like that it cost money for some things but other then that it’s a good app",
           "author": "brooklyn1.01",
           "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-05",
-          "rating": 4,
-          "country": "US",
-          "title": "Love it but..",
-          "content": "Ok, first off really a fan. Been with you guys for a few years now and it’s been a life changer! Really helped me rebound from a tough spot. \n\nBut the recent updates seem to have limited the usage? I once could practice affirmations with music playing in the background from other apps. And there was an option for voice preference which I enjoyed. The default one now feels flat. Anyway we can get these features back??",
-          "author": "Dave _D",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-05",
-          "rating": 5,
-          "country": "ES",
-          "title": "APP",
-          "content": "Perfecta 👌🏻",
-          "author": "Javier Andaluz",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-05",
-          "rating": 3,
-          "country": "US",
-          "title": "Expensive and a little too girly",
-          "content": "I want to like this app but the free trial is way to short and the price for a subscription is way too high. Also, as a guy, this app is a little girly and doesn’t always feel very neutral or gender inclusive.",
-          "author": "Julius Apple Cheeks",
-          "version": "6.3.0"
         }
       ],
       "meta.total": 89,
@@ -812,8 +812,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-05",
-      "meta.until": "2025-11-04"
+      "meta.since": "2025-10-06",
+      "meta.until": "2025-11-05"
     }
   ]
 }
