@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-11-06T00:32:21Z",
+  "generated_at": "2025-11-07T00:32:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-05",
+          "rating": 1,
+          "country": "AU",
+          "title": "Waisted my time answering and it cost money",
+          "content": "😢 dissaponted",
+          "author": "M 🤷‍♀️ A",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-05",
+          "rating": 5,
+          "country": "US",
+          "title": "“The best Affirmation application “!!!!",
+          "content": "This app is such a blessing unto my being and soul!! I love it!! 🙌🏽",
+          "author": "Sulaymon",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Review",
+          "content": "I love this app it’s really helping my mental health",
+          "author": "Carrithebaddie",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-04",
+          "rating": 3,
+          "country": "US",
+          "title": "So far so good",
+          "content": "I like these affirmations for the most part but am frustrated with a few things already\n\n-after clicking don’t want/don’t believe in manifestation i am still getting them. With my mental health i have to be careful around spiritual/manifestation phrases\n\n-no option to say i am physically disabled so im assuming i can’t get affirmations revolving around that. Which is very unfortunate. It also makes the manifestation affirmations that pop up feel more bitter than anything. I don’t need affirmations on how i can do anything i want, i would like affirmations to be okay with my limits and my body, and be taking things at my own pace. There’s some things people will never be able to do. Thats just a fact, not negativity. Realist gentle affirmations with disabled people in mind should be a filter you can click and opt in to from the very beginning.",
+          "author": "🌻💛🌼",
+          "version": "6.7.0"
+        },
         {
           "date": "2025-11-03",
           "rating": 1,
@@ -282,6 +318,15 @@
           "title": "This is so nice",
           "content": "This is a cool nice app I like how you can change the background and pick your message. And I love it because I like the message that you guys have they are very nice. The app in general is a great app. For people who have mean thoughts about their selfs it is great. By her grand daughter Buggybug 10yrs❤️",
           "author": "19peewee64",
+          "version": "6.6.0"
+        },
+        {
+          "date": "2025-10-24",
+          "rating": 5,
+          "country": "AU",
+          "title": "Grateful",
+          "content": "I am grateful thank you",
+          "author": "Divine 1one1",
           "version": "6.6.0"
         },
         {
@@ -690,6 +735,15 @@
           "version": "6.4.0"
         },
         {
+          "date": "2025-10-09",
+          "rating": 1,
+          "country": "ES",
+          "title": "ESTAFADORES",
+          "content": "tened cuidado, porque cuando le das a prueba gratuita y que te avisen para cancelar NO TE AVISAN, ME ACABAN DE COBRAR 36 euros por una aplicación QUE NO MERECE LA PENA PARA NADA. SOIS UNOS ESTAFADORES",
+          "author": "gRosadoG",
+          "version": "6.4.0"
+        },
+        {
           "date": "2025-10-08",
           "rating": 5,
           "country": "US",
@@ -715,60 +769,15 @@
           "content": "I was charged $14.99 even though I only signed up for the free trial. I do not see any way of getting my money back. This app is a very shady.",
           "author": "KristyJuke",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Highly Recommend",
-          "content": "I am not a bot! I really like this app😭 and if you were a friend or loved one of mine I would pitch this to you for your OWN benefit. We are in this journey of self improvement together and there is nothing you would be able to do about that😌 Now, for my demure response, I use I am every day. It’s been a great tool for helping me set the tone for the day. I like that I can swipe within a specific category to read affirmations that pertain to any topic. This app even has a quality where you can create your own affirmations and revisit them using the app’s fonts and wallpapers, which adds character and personality to each message.",
-          "author": "Karicloou",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-07",
-          "rating": 5,
-          "country": "US",
-          "title": "So positive and easy",
-          "content": "I love how easy it is to navigate through this app.  And in no time I had built a positive and productive habit.  Recommended for anyone starting on a healing journey!",
-          "author": "Ajoji111",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-07",
-          "rating": 4,
-          "country": "US",
-          "title": "Some Thoughts",
-          "content": "While this app has already helped me in the little I have used it, I do wish I could blacklist words or dismiss certain affirmations that don’t apply to me. I don’t have a supportive family and I’ve had many family-based affirmations have popped up, just to name one.",
-          "author": "mizitill",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Ur mom",
-          "content": "I love it , I can truly grow on me and take the time I need for my personal goals!!!",
-          "author": "Sam12811",
-          "version": "6.3.0"
-        },
-        {
-          "date": "2025-10-07",
-          "rating": 1,
-          "country": "US",
-          "title": "Repeating adds",
-          "content": "It keeps showing me the 75 % off menu add if I press cancel it will just come back up and because of this I cannot do anything on the app",
-          "author": "👂👁️👄👁️👂",
-          "version": "6.3.0"
         }
       ],
-      "meta.total": 84,
+      "meta.total": 85,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-07",
-      "meta.until": "2025-11-06"
+      "meta.since": "2025-10-08",
+      "meta.until": "2025-11-07"
     }
   ]
 }
