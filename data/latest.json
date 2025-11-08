@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-11-07T00:32:46Z",
+  "generated_at": "2025-11-08T00:30:01Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Thanks",
+          "content": "This is helping me breathe",
+          "author": "Gretta’s report",
+          "version": "6.7.0"
+        },
         {
           "date": "2025-11-05",
           "rating": 1,
@@ -742,42 +751,15 @@
           "content": "tened cuidado, porque cuando le das a prueba gratuita y que te avisen para cancelar NO TE AVISAN, ME ACABAN DE COBRAR 36 euros por una aplicación QUE NO MERECE LA PENA PARA NADA. SOIS UNOS ESTAFADORES",
           "author": "gRosadoG",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-08",
-          "rating": 5,
-          "country": "US",
-          "title": "I TRULY AM",
-          "content": "Love the app, life changer",
-          "author": "Next to my platinum card",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-08",
-          "rating": 3,
-          "country": "US",
-          "title": "great affirmations, annoying notifs",
-          "content": "loved this app bc of the notifications i used to get with the great positive affirmations… now the ONLY notifications i get are about buying premium or ‘saving my streak’… had to turn the notifications off. keeping the app for the widget, but exploring other options.",
-          "author": "KanekiTheBrat",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-08",
-          "rating": 1,
-          "country": "US",
-          "title": "I was charged",
-          "content": "I was charged $14.99 even though I only signed up for the free trial. I do not see any way of getting my money back. This app is a very shady.",
-          "author": "KristyJuke",
-          "version": "6.4.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 83,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-08",
-      "meta.until": "2025-11-07"
+      "meta.since": "2025-10-09",
+      "meta.until": "2025-11-08"
     }
   ]
 }
