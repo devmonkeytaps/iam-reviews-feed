@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-11-09T00:34:33Z",
+  "generated_at": "2025-11-10T00:34:17Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive Reinforcement",
+          "content": "Just what I needed!",
+          "author": "Port City__",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-07",
+          "rating": 1,
+          "country": "US",
+          "title": "Demanding payment",
+          "content": "I purchased the entire bundle and am still being asked to pay again for the individual apps (within the respective app).",
+          "author": "Mjolnir1",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Life before",
+          "content": "I can’t believe how much this app has actually changed my mind and how I used to think about things. I’m learning how to retrain negative thoughts let go of self doubt, self worrying and let go of negative comments people make. I feel a sense of quietness within my mind, giving me time to focus on what I want to say.\nThanks, I am",
+          "author": "Moonmeow 123",
+          "version": "6.8.0"
+        },
         {
           "date": "2025-11-07",
           "rating": 5,
@@ -111,6 +138,15 @@
           "title": "I am Satisfied",
           "content": "This app is a good app. I love the motivations and quotes and positivity that shows up on my notifications. For one who struggles with ptsd/anxiety/depression and other mental health illnesses, this app helps me deal with it a little bit each time an affirmation pops up. Slow process because I still don’t believe I deserve happiness and stuff but I love the daily affirmations",
           "author": "Dj Chel",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-02",
+          "rating": 2,
+          "country": "GB",
+          "title": "Like the App but there’s a bug with the Streak logging!",
+          "content": "I log in every morning but yet the Streak logging always seems to have a bug when the number gets up over 60+ days in a row!!! Another app I’m using I’m up to 306 days but this app always starts to glitch when your numbers start to get high! Really annoying but other than that I love the quotes & motivation as long long there’s no swear words being used.",
+          "author": "LMB UK",
           "version": "6.7.0"
         },
         {
@@ -733,42 +769,6 @@
           "content": "That’s what made me want this app. I don’t see anything on my lock screen. Also, I’d like to hear the affirmations.",
           "author": "andy8803",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing but could have better futures!!",
-          "content": "Hi!\n\nI love this app it helped me so much through the hard times I was having I think the futures that would help it a lot better or maybe that they can be videos in like like some dances and like where you can comment and stuff kind of like TikTok, but not like TikTok and like sweet comments like where you can only click on the comments and not say rude things and you can post a few things but not like bad things like good things to help people and other stuff like that\n\nEdit please make it a little more like TikTok, please",
-          "author": "City to",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Very Helpful",
-          "content": "I never write reviews, but this app has really improved my mental health. I get notifications three times a day, and it improves my mood, reminds me to be grateful.",
-          "author": "SallyxMx",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Refreshing",
-          "content": "Refreshing and thoughtful reminders of our own worthiness and potential.",
-          "author": "nope at B no oo",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-10",
-          "rating": 1,
-          "country": "AU",
-          "title": "Disappointed",
-          "content": "Was charged before the end of the trial period.  Don’t trust this app.",
-          "author": "G19$!",
-          "version": "6.4.0"
         }
       ],
       "meta.total": 85,
@@ -776,8 +776,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-10",
-      "meta.until": "2025-11-09"
+      "meta.since": "2025-10-11",
+      "meta.until": "2025-11-10"
     }
   ]
 }
