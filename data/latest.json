@@ -1,10 +1,100 @@
 {
-  "generated_at": "2025-11-10T00:34:17Z",
+  "generated_at": "2025-11-11T00:33:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-09",
+          "rating": 5,
+          "country": "US",
+          "title": "I love it!",
+          "content": "It helps me so much when I stress maybe it’s not that bad!",
+          "author": "Kassidy Dixon",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 1,
+          "country": "US",
+          "title": "App",
+          "content": "Loved the app until it wouldn’t work anymore unless I paid for it",
+          "author": "HR@3254",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 2,
+          "country": "US",
+          "title": "Yeah",
+          "content": "Costs money to be happy I guess.. also the questionnaire before it tells you, “you have to pay,” takes like 10 minutes. Waste my time and try to take my money.",
+          "author": "JesseGames endl",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 4,
+          "country": "US",
+          "title": "Amazing",
+          "content": "This really did get me through a lot. Enjoy still",
+          "author": "@binoodle12922",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 1,
+          "country": "US",
+          "title": "Was great. Not anymore.",
+          "content": "Constant notifications to upgrade instead of the affirmations.  Used to be great but now it really stinks.   I give up.  Deleting.",
+          "author": "Tylervan9",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 5,
+          "country": "US",
+          "title": "😁",
+          "content": "Hi I am is so great when I am mad 😡 but then I read the affirmations and then I’m happy. Thank you 😊",
+          "author": "Best Apple Music ever!!!",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 4,
+          "country": "US",
+          "title": "Help canceling a subscription I never started.",
+          "content": "I'm only writing because you claim to read them all. I need help canceling a subscription I never started. Yes I was able to cancel on my settings however the subscription doesn't cancel for another year. This is not a request for a refund because I was not charged for the subscription as my bank flagged the attempted charges at fraud. Rightfully so. I need assistance canceling the current subscription as I don't plan on updating my payment to allow a charge. PLEASE HELP.",
+          "author": "Ciera T",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Yes",
+          "content": "This is the best app.I just got it today and it is already helping me!",
+          "author": "Cali McGhee",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 3,
+          "country": "US",
+          "title": "Getting progressively worse…",
+          "content": "I’ve been using this app for quite a while now, maybe a year. I enjoyed it at first, but it seems with every update they are removing more and more features from the free version. I’m a college student, and I simply do not have the spare income for a subscription. They are limiting the backgrounds, the customization of the affirmations (and the rest of the app), and now have even taken away the “practice” option, something I used nearly every day. Unfortunately this is a common occurrence with supposedly free apps. I’m not sure how much longer this one will be of use to me. The setup is user friendly, the affirmations are unique and really boosted my self esteem. It was very helpful during a hard time in my life, but I no longer think this is beneficial the way it used to be.",
+          "author": "Cait-i-Cat",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this app!!",
+          "content": "I’ve had this app for years.  The messages have been inspiring reminders that life is a gift.  I highly recommend it.",
+          "author": "Phillip (prcd)",
+          "version": "6.8.0"
+        },
         {
           "date": "2025-11-07",
           "rating": 5,
@@ -75,6 +165,15 @@
           "title": "Thanks",
           "content": "This is helping me breathe",
           "author": "Gretta’s report",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-05",
+          "rating": 5,
+          "country": "AU",
+          "title": "The best",
+          "content": "It is really good because it helps my son with anxiety I really recommend it",
+          "author": "rivytwotimes",
           "version": "6.7.0"
         },
         {
@@ -742,42 +841,15 @@
           "content": "If you want to pay",
           "author": "MJ 5678",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Keeps me positive!",
-          "content": "These reminders keep me on track to keep moving forward and not get distracted by negative thoughts!",
-          "author": "cofmt",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-11",
-          "rating": 4,
-          "country": "US",
-          "title": "Refund",
-          "content": "I wanted to purchase the monthly subscription first before I committed to a year. But when I paid it charged me for the full year so I canceled instantly, but all it did was just fake my money and the app away. I would like a refund so hopefully someone will get in touch with me. I enjoyed the app from what I saw. Very cute.",
-          "author": "Rose5615",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-11",
-          "rating": 3,
-          "country": "US",
-          "title": "Lock Screen?",
-          "content": "That’s what made me want this app. I don’t see anything on my lock screen. Also, I’d like to hear the affirmations.",
-          "author": "andy8803",
-          "version": "6.4.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-11",
-      "meta.until": "2025-11-10"
+      "meta.since": "2025-10-12",
+      "meta.until": "2025-11-11"
     }
   ]
 }
