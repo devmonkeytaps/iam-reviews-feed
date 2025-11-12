@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-11-11T00:33:03Z",
+  "generated_at": "2025-11-12T00:32:43Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-10",
+          "rating": 4,
+          "country": "US",
+          "title": "I don’t want to lose my streak",
+          "content": "Love this app but lately it’s been buggin out. Whenever I try to open the app it always closes out and it doesn’t log my day. I’m on day 228 and I can’t get in and it’s saying imma loose my streak and I don’t want that to happen. My mental 😮‍💨🙃😫🫠",
+          "author": "Luna centerfold",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-09",
+          "rating": 4,
+          "country": "US",
+          "title": "Overall great",
+          "content": "Great app- use it daily, and have referred it to a lot of people. The only thing that’s a pain is after you’ve done a few for the day, it relentlessly recommends you share it with someone and you have to x out of the suggestion every time. It’s cumbersome and makes you not want to continue as it gets in your way of your mindfulness practice.",
+          "author": "/ / k a t / /",
+          "version": "6.8.0"
+        },
         {
           "date": "2025-11-09",
           "rating": 5,
@@ -246,6 +264,15 @@
           "title": "Like the App but there’s a bug with the Streak logging!",
           "content": "I log in every morning but yet the Streak logging always seems to have a bug when the number gets up over 60+ days in a row!!! Another app I’m using I’m up to 306 days but this app always starts to glitch when your numbers start to get high! Really annoying but other than that I love the quotes & motivation as long long there’s no swear words being used.",
           "author": "LMB UK",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-02",
+          "rating": 5,
+          "country": "CA",
+          "title": "Je recommande",
+          "content": "Phrases apaisantes et motivante. \nNous permet de nous déposer quelque minutes pour prendre le temps de lire la pensée positive et de prendre une respiration. Je me suis abonnée pour l’année et je ne regrette absolument pas.",
+          "author": "Salutlagang",
           "version": "6.7.0"
         },
         {
@@ -814,33 +841,6 @@
           "content": "This is a great app for everyone and is helping me get back to myself! Affirmations provided all day long!",
           "author": "Lost SL",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-12",
-          "rating": 3,
-          "country": "CA",
-          "title": "No Free version",
-          "content": "You should offer a base free version. Spent few minutes answering all the questions to realized that you have to pay to use it.\nI like the concept, but you need to work on the offer.",
-          "author": "Protect_DIP",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Awesome",
-          "content": "This app helps me know I can do this",
-          "author": "Bodh DCCC hejsn DCCC bdbdbd",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-12",
-          "rating": 3,
-          "country": "US",
-          "title": "Not free",
-          "content": "If you want to pay",
-          "author": "MJ 5678",
-          "version": "6.4.0"
         }
       ],
       "meta.total": 93,
@@ -848,8 +848,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-12",
-      "meta.until": "2025-11-11"
+      "meta.since": "2025-10-13",
+      "meta.until": "2025-11-12"
     }
   ]
 }
