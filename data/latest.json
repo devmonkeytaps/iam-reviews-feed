@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-11-12T00:32:43Z",
+  "generated_at": "2025-11-13T00:32:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-10",
+          "rating": 1,
+          "country": "US",
+          "title": "Everything is locked behind a paywall",
+          "content": "It’s honestly ridiculous and you’re better off using another app. There’s no reason to lock simple things such as backgrounds behind a subscription. For an app that’s meant to boost mental health, it feels very money-hungry and getting the subscription pop-up every 5 minutes honestly stressed me out more.",
+          "author": "Birdszy",
+          "version": "6.8.0"
+        },
         {
           "date": "2025-11-10",
           "rating": 4,
@@ -111,6 +120,15 @@
           "title": "Love this app!!",
           "content": "I’ve had this app for years.  The messages have been inspiring reminders that life is a gift.  I highly recommend it.",
           "author": "Phillip (prcd)",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-07",
+          "rating": 5,
+          "country": "GB",
+          "title": "Positivity booster",
+          "content": "I have been using this app for two years and it has been my loyal friend",
+          "author": "Ai❤️sha",
           "version": "6.8.0"
         },
         {
@@ -805,51 +823,15 @@
           "content": "It works like an Ai machine it’s mentality is too high",
           "author": "Acheampong Mensah",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-13",
-          "rating": 3,
-          "country": "US",
-          "title": "Practicing Affirmations",
-          "content": "I paid for this app and use this every day. I love the affirmations. But something happened with the new update. You used to be able to choose whether to practice affirmations for 1, 5, or 10 minutes. Now it just automatically gives you 1 minute of practice (and automatically has the voice feature on). Is there a way to change this?",
-          "author": "Allipop617",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-13",
-          "rating": 1,
-          "country": "US",
-          "title": "Ew",
-          "content": "Money hungry",
-          "author": "mearmaidlike yeahh",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Why I am is the best!☺️",
-          "content": "I am is the best! It gives you positivity affirmations, it makes you feel good too. Somethings that they say is something that you could achieve. I know it might seem weird that a robot is saying all this but it could make yearly goals for you! This app is the best!!!",
-          "author": "Kaylee 117",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Great for all involved",
-          "content": "This is a great app for everyone and is helping me get back to myself! Affirmations provided all day long!",
-          "author": "Lost SL",
-          "version": "6.4.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-13",
-      "meta.until": "2025-11-12"
+      "meta.since": "2025-10-14",
+      "meta.until": "2025-11-13"
     }
   ]
 }
