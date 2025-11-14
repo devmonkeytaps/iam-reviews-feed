@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-11-13T00:32:40Z",
+  "generated_at": "2025-11-14T00:32:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-11",
+          "rating": 1,
+          "country": "US",
+          "title": "SUBSCRIPTION SCAM WARNING",
+          "content": "Advertised as a 7-day free trial but was charged for a full year subscription on the same day of download. Immediately deleted the app and filed a dispute but did not receive a refund. No way to contact the app maker directly for a refund. Complete scam to take your money! DO NOT DOWNLOAD",
+          "author": "Breakneck Madness",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome app!",
+          "content": "Absolutely no complaints. Awesome app! Highly recommend. Helps you feel confident.",
+          "author": "sillydog787",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-10",
+          "rating": 5,
+          "country": "GB",
+          "title": "hi guys ✌️🥹",
+          "content": "awesome",
+          "author": "george✌️",
+          "version": "6.8.0"
+        },
+        {
+          "date": "2025-11-10",
+          "rating": 3,
+          "country": "CA",
+          "title": "Glitchy",
+          "content": "I really like the app, but can’t use all of its functions because of glitches. Whenever I try to complete a practice, it freezes at some point and I have to totally close out of the app. I can never finish a practice, which is frustrating because that’s one of the main points of the app.",
+          "author": "Aoguemcb",
+          "version": "6.8.0"
+        },
         {
           "date": "2025-11-10",
           "rating": 1,
@@ -796,42 +832,15 @@
           "content": "It just is so refreshing to see the reminders of the positive things in my life. Sometimes we get so tied up in the negatives and this app just brings the reminder so easily and quickly! BIG thanks to the folks who developed this app. and the folks who constantly keep it updated with new & refreshing content! ☮️",
           "author": "IVY IN NJ              ☮️💟✝️",
           "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-14",
-          "rating": 1,
-          "country": "US",
-          "title": "Way too complex",
-          "content": "I was looking for a customizable daily affirmations app.  This one asked an excessive set of start up questions - I felt like I was applying for a mortgage after hitting skip about twenty times.  I wanted a simple beautiful interface and repeatable affirmations not a gantlet that ruined my peace.",
-          "author": "blmhouston",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-14",
-          "rating": 5,
-          "country": "CA",
-          "title": "Almost one year of daily use!",
-          "content": "Honestly perfect, love the affirmations, very customizable, love the widget, and lots and lots of free theme options. Loveee",
-          "author": "Toxicoremily",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Ai",
-          "content": "It works like an Ai machine it’s mentality is too high",
-          "author": "Acheampong Mensah",
-          "version": "6.4.0"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-14",
-      "meta.until": "2025-11-13"
+      "meta.since": "2025-10-15",
+      "meta.until": "2025-11-14"
     }
   ]
 }
