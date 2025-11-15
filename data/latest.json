@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-14T00:32:57Z",
+  "generated_at": "2025-11-15T00:31:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -805,42 +805,15 @@
           "content": "It’s a nice app to have. I also like it because you make the ￼affirmations customized to you as well as the app icon. It is also vary easy to keep your strike personally that is what makes me read them-every  morning. it’s also FREE you will get a pop up but it’s not to get the app it’s for an up grade. So over all I would recommend this to anyone.",
           "author": "Magge13",
           "version": "6.5.0"
-        },
-        {
-          "date": "2025-10-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Warn about the price before survey!",
-          "content": "The app will give you an extensive survey that takes nearly a half hour, only to give you a charge right after, I feel like my time is wasted. Make it more clear that this app costs money.",
-          "author": "Thomas from Argentina",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-15",
-          "rating": 1,
-          "country": "US",
-          "title": "Subscription service!",
-          "content": "I was excited to go through all of the questions and setting up an account only to get to the end and not be able to have at least some type of free service? That’s very frustrating going through about a 5 to 10 minute process just to have to pay for a subscription for some affirmations that you can find on any platform for FREE.",
-          "author": "Sylvia Boyd",
-          "version": "6.4.0"
-        },
-        {
-          "date": "2025-10-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Love the reminders",
-          "content": "It just is so refreshing to see the reminders of the positive things in my life. Sometimes we get so tied up in the negatives and this app just brings the reminder so easily and quickly! BIG thanks to the folks who developed this app. and the folks who constantly keep it updated with new & refreshing content! ☮️",
-          "author": "IVY IN NJ              ☮️💟✝️",
-          "version": "6.4.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-15",
-      "meta.until": "2025-11-14"
+      "meta.since": "2025-10-16",
+      "meta.until": "2025-11-15"
     }
   ]
 }
