@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-15T00:31:40Z",
+  "generated_at": "2025-11-16T00:35:04Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -796,24 +796,15 @@
           "content": "Scam",
           "author": "The5StarUberDriver",
           "version": "6.5.0"
-        },
-        {
-          "date": "2025-10-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Good app",
-          "content": "It’s a nice app to have. I also like it because you make the ￼affirmations customized to you as well as the app icon. It is also vary easy to keep your strike personally that is what makes me read them-every  morning. it’s also FREE you will get a pop up but it’s not to get the app it’s for an up grade. So over all I would recommend this to anyone.",
-          "author": "Magge13",
-          "version": "6.5.0"
         }
       ],
-      "meta.total": 89,
+      "meta.total": 88,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-16",
-      "meta.until": "2025-11-15"
+      "meta.since": "2025-10-17",
+      "meta.until": "2025-11-16"
     }
   ]
 }
