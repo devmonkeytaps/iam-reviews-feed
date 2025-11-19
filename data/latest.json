@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-18T00:32:31Z",
+  "generated_at": "2025-11-19T00:33:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -697,42 +697,15 @@
           "content": "A highlight to my day! Taking a few minutes to recharge myself is great with this little reminder. Really seems to help refocus my head and thoughts.  Much appreciated!!!",
           "author": "Bethy’s",
           "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-19",
-          "rating": 4,
-          "country": "US",
-          "title": "Umm I Don’t Know what to put here",
-          "content": "This app made me feel so good about myself, it helped me get through some hard times and I’m happy that u can still access most affirmations without paying, just press the x button in the top or bottom Connor",
-          "author": "Zoey peet",
-          "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-19",
-          "rating": 1,
-          "country": "US",
-          "title": "Unworkable Ads",
-          "content": "This app was great! However, it’s gotten to the point where it’s unusable because I keep getting an ad popup for its premium services. I am more than happy with the free version and I don’t mind seeing ads or having limited access to content. However, the ad pop-up for the premium version refuses to go away, making all of its features inaccessible. Every-time I close the ad, less than a second later it pops right back up and the cycle continues. Such a shame.",
-          "author": "MariaMN707",
-          "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-19",
-          "rating": 4,
-          "country": "US",
-          "title": "Add Liquid Glass!!",
-          "content": "Really dig this app. I’ve had the app for years! It’s a helpful reminder for what I need to focus on. \n\nNow that iOS26 is out, can you PLEASE add an option that allows for the widget to be clear and transparent with a Liquid Glass effect. That would be so sick and seamlessly go with the new update and any backgrounds I have.",
-          "author": "Lucky711 on Magic Wars",
-          "version": "6.5.1"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 77,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-19",
-      "meta.until": "2025-11-18"
+      "meta.since": "2025-10-20",
+      "meta.until": "2025-11-19"
     }
   ]
 }
