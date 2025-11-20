@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-19T00:33:03Z",
+  "generated_at": "2025-11-20T00:32:13Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -679,33 +679,15 @@
           "content": "I love the customization that this app gives. It helps  keep me focused and motivated.",
           "author": "KZAP73",
           "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-20",
-          "rating": 5,
-          "country": "US",
-          "title": "life view point",
-          "content": "this app gives a newer sense of rediscovering oneself along with finding different outlooks on life and one’s experience.",
-          "author": ".:3b",
-          "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Highlight",
-          "content": "A highlight to my day! Taking a few minutes to recharge myself is great with this little reminder. Really seems to help refocus my head and thoughts.  Much appreciated!!!",
-          "author": "Bethy’s",
-          "version": "6.5.1"
         }
       ],
-      "meta.total": 77,
+      "meta.total": 75,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-20",
-      "meta.until": "2025-11-19"
+      "meta.since": "2025-10-21",
+      "meta.until": "2025-11-20"
     }
   ]
 }
