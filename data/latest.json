@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-11-21T00:32:16Z",
+  "generated_at": "2025-11-22T00:31:30Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-19",
+          "rating": 5,
+          "country": "US",
+          "title": "A light in the darkness",
+          "content": "So the reason for my title is because I don’t know how many days I’m going through something and one of these messages popped up and help me change my mindset. I find that very special.",
+          "author": "Zeus_77_DR",
+          "version": "6.10.0"
+        },
+        {
+          "date": "2025-11-19",
+          "rating": 5,
+          "country": "CA",
+          "title": "Moving on",
+          "content": "And tomorrow will bring brighter days. Positivity is a choice.",
+          "author": "Diesel.101",
+          "version": "6.10.0"
+        },
         {
           "date": "2025-11-18",
           "rating": 5,
@@ -859,51 +877,15 @@
           "content": "I believe this app has helped me with my depression, self-confidence and anxiety. It reminds me every day to stay positive love it!",
           "author": "das fhkk",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-22",
-          "rating": 5,
-          "country": "US",
-          "title": "I love daily affirmation",
-          "content": "This Help me deal with my daily life problems.",
-          "author": "Rhonda Moore9721",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-22",
-          "rating": 2,
-          "country": "US",
-          "title": "Acts like I’m new",
-          "content": "Great app but every time I click on the notification it makes me answer the questions all over again",
-          "author": "local mortgage expert",
-          "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-22",
-          "rating": 4,
-          "country": "US",
-          "title": "It’s cool",
-          "content": "I like affirmations",
-          "author": "01Sassywowo",
-          "version": "6.5.1"
-        },
-        {
-          "date": "2025-10-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Great app",
-          "content": "This helps me stay positive and I have had this app for several years.  Just nice reminders throughout the day.",
-          "author": "NicoleSimoneDav",
-          "version": "6.5.1"
         }
       ],
-      "meta.total": 99,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-22",
-      "meta.until": "2025-11-21"
+      "meta.since": "2025-10-23",
+      "meta.until": "2025-11-22"
     }
   ]
 }
