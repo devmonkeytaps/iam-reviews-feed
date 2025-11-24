@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-23T00:37:24Z",
+  "generated_at": "2025-11-24T00:35:00Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -868,33 +868,15 @@
           "content": "It helps.",
           "author": "Katty5683",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-24",
-          "rating": 5,
-          "country": "US",
-          "title": "This is so nice",
-          "content": "This is a cool nice app I like how you can change the background and pick your message. And I love it because I like the message that you guys have they are very nice. The app in general is a great app. For people who have mean thoughts about their selfs it is great. By her grand daughter Buggybug 10yrs❤️",
-          "author": "19peewee64",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-24",
-          "rating": 5,
-          "country": "AU",
-          "title": "Grateful",
-          "content": "I am grateful thank you",
-          "author": "Divine 1one1",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 98,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-24",
-      "meta.until": "2025-11-23"
+      "meta.since": "2025-10-25",
+      "meta.until": "2025-11-24"
     }
   ]
 }
