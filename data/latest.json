@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-24T00:35:00Z",
+  "generated_at": "2025-11-25T00:31:21Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -67,6 +67,15 @@
           "content": "And tomorrow will bring brighter days. Positivity is a choice.",
           "author": "Diesel.101",
           "version": "6.10.0"
+        },
+        {
+          "date": "2025-11-18",
+          "rating": 5,
+          "country": "AU",
+          "title": "Fantastic",
+          "content": "This app has fantastic daily affirmations that spike joy throughout your day. Making the moments better.",
+          "author": "FionaForsyth",
+          "version": "6.9.0"
         },
         {
           "date": "2025-11-18",
@@ -841,42 +850,15 @@
           "content": "I’m a 12 year old girl who really doesn’t like herself and I found this app in the App Store, I’ve only been using it for 2 days and it has already helped! I love how it can be personalized to your needs and how you can change how to app looks!",
           "author": "Louisa.87",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-25",
-          "rating": 1,
-          "country": "US",
-          "title": "New update is a downgrade.",
-          "content": "why did you remove the choice of voice to speak the affirmations. I don’t want  a female voice speaking the affirmations.  In addition, the voice doesn’t sound sometimes. This new update is a downgrade , I’ve been using your app since 2022! This is worst update so far. PLEASE FIX IT!",
-          "author": "Ditta Kyle",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-25",
-          "rating": 5,
-          "country": "US",
-          "title": "This app is a life changerrrr",
-          "content": "I just got this app yesterday and I’m already seeing a difference in my daily behavior. I got a widget for both my lock screen and my Home Screen and seeing them every so often is really lifting my mood! I really recommend this app who has problems with mental health, anxiety, depression, or just lack of confidence. Get this app! I’m telling you, it’s really changed me and I think it will you too❤️🫰💕🌺🍒🥳😜",
-          "author": "# peace lover",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-25",
-          "rating": 5,
-          "country": "CA",
-          "title": "A Mother",
-          "content": "It helps.",
-          "author": "Katty5683",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 94,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-25",
-      "meta.until": "2025-11-24"
+      "meta.since": "2025-10-26",
+      "meta.until": "2025-11-25"
     }
   ]
 }
