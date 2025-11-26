@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-11-25T00:31:21Z",
+  "generated_at": "2025-11-26T00:33:00Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-24",
+          "rating": 5,
+          "country": "US",
+          "title": "I thankful",
+          "content": "I love it keeps me inspired",
+          "author": "ShaylovedbyGod",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-23",
+          "rating": 4,
+          "country": "US",
+          "title": "life hack",
+          "content": "i just got this app again after i had it first 7 years ago when i was 19. it really is a hack to rewire your brain and feel the emotions of the affirmations. also i got a great discount for being a returning purchaser. one annoying thing i noticed so far is, i think they’re using ai for the nsfw affirmations. sometimes every single affirmation - scroll after scroll — has the f bomb in it.  it must be a glitch where they’re not properly balancing the different categories of affirmations i have checked. i feel like a 5th grader who just learned their first cuss word. regardless 10/10 from me. i wish you guys would allow us to save mixes and title them. so we always have different go to mixes made up of different categories or even just one.",
+          "author": "simon99e",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-20",
+          "rating": 1,
+          "country": "CA",
+          "title": "You have to pay???",
+          "content": "I was so exited to use this app until I found out you have to pay",
+          "author": "miriambunny35",
+          "version": "6.10.0"
+        },
+        {
+          "date": "2025-11-20",
+          "rating": 1,
+          "country": "US",
+          "title": "Mantra is the same but free",
+          "content": "I got this app because I saw an ad about it and saw all the good reviews and thought it help me through my mental health journey. The first two days are amazing and I loved all the affirmations that I received. I tried to go and look through some affirmations this morning and I can't even see the affirmations because there's a pop-up that keeps telling me that I need to subscribe in order to see the affirmations. The subscription is $18 a month and currently I can't afford that. I feel like if we have to pay for the affirmations you should've just made it a paid app in the first place rather than try to swindle people out of money after they download the app thinking that there is actually a free plan. If you don't  mind paying monthly for this app then get it, but if not I would download the Mantra app instead!",
+          "author": "TheZeraCamille",
+          "version": "6.10.0"
+        },
         {
           "date": "2025-11-20",
           "rating": 2,
@@ -832,33 +868,15 @@
           "content": "Very helpful to me every time.",
           "author": "Gigi27$$",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-26",
-          "rating": 2,
-          "country": "US",
-          "title": "hi",
-          "content": "so every time i enter this app it keeps giving me the sign up for premium i hit cancel and it just keeps saying it im getting extremely mad please fix this and make it stop.",
-          "author": "Lilly❀",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Helps",
-          "content": "I’m a 12 year old girl who really doesn’t like herself and I found this app in the App Store, I’ve only been using it for 2 days and it has already helped! I love how it can be personalized to your needs and how you can change how to app looks!",
-          "author": "Louisa.87",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 96,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-26",
-      "meta.until": "2025-11-25"
+      "meta.since": "2025-10-27",
+      "meta.until": "2025-11-26"
     }
   ]
 }
