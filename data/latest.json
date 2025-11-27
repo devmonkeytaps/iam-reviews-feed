@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-11-26T00:33:00Z",
+  "generated_at": "2025-11-27T00:32:30Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Gratitude",
+          "content": "Wonderful to have positive words influence my day! Always puts me in a better mood! Like music to my ears!",
+          "author": "Just in Nick",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Everyone should have this app!",
+          "content": "I love the app!",
+          "author": "ReallyMahogani",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-24",
+          "rating": 1,
+          "country": "US",
+          "title": "We do not need to buy",
+          "content": "We should not have to buy a good experience everyone should get a good experience😡😡😡😡😡😡😡😡. But it’s still a good app 😀😀😀",
+          "author": "Dog lover29🌺🩷🌺",
+          "version": "6.10.1"
+        },
         {
           "date": "2025-11-24",
           "rating": 5,
@@ -832,51 +859,15 @@
           "content": "These days especially, it is very nice to look at my phone and see some helpful, supportive kind words. I have it as a widget",
           "author": "Decemburrbebe",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-27",
-          "rating": 5,
-          "country": "US",
-          "title": "I love it so much",
-          "content": "Thank you for the recommendation and it’s making me positive and confident thank you developer!",
-          "author": "Nora amazing 67",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-27",
-          "rating": 2,
-          "country": "US",
-          "title": "Can’t change the voice",
-          "content": "I’m just wondering if there is anyway to change the voice? There was before, now there is no voice option a little frustrating I enjoyed being able to choose the voice that is most soothing in my own opinion.",
-          "author": "helloloveyby",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-27",
-          "rating": 3,
-          "country": "US",
-          "title": "Bad algorithm",
-          "content": "I pay for the subscription and have used the app for a couple years now, but the past few months I’ve noticed that if I like a certain affirmation, basically the same affirmation shows up repeatedly just worded a slightly different way, and it’s not just once or twice. Every affirmation after the one I hearted will basically be the exact same one I hearted and it’s super annoying! I have specific categories I love and use those in addition to the “general” category, I have the ones I want in my rotation liked so I would expect that affirmations would rotate through most of those categories but they don’t do that anymore. It’s become such a nuisance that I eventually close out of the app altogether after only a minute or two at most. I pay for this app because I used to love the variety of affirmations I would receive so I could expand my horizons and figure out what is challenging for me, please go back to the old algorithm or find a way to fix it, otherwise I will be stopping my use of the subscription altogether.",
-          "author": "Sam_the_Hero_",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app",
-          "content": "Very helpful to me every time.",
-          "author": "Gigi27$$",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 95,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-27",
-      "meta.until": "2025-11-26"
+      "meta.since": "2025-10-28",
+      "meta.until": "2025-11-27"
     }
   ]
 }
