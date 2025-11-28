@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-11-27T00:32:30Z",
+  "generated_at": "2025-11-28T00:31:36Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Excellent app",
+          "content": "Perfect for a person like me",
+          "author": "Daring Darlene",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Great motivation",
+          "content": "I start my day with you İ am. Thank you!",
+          "author": "Abt7707",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Very good so far love it",
+          "content": "I have been using the affirmation app for a week now and I notice an improvement in my overall mood. I put alarm for 9am and I read at least 5 affirmation every morning and sometimes when I’m in an anxious situation I read them in my head to calm my anxiety. Our inside world reflects our outside. Peace 🤍",
+          "author": "amalmahmud",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-25",
+          "rating": 3,
+          "country": "US",
+          "title": "Can we please stop with the popups?",
+          "content": "I like this app in general. It was perfect a year ago. Then they added all of these interruptions to the flow. I can’t use it without getting so many popups — streak reminders, goal progress bar, nudges to 🤍 the affirmations I like (which I don’t do anymore because it dramatically skews the topics of the affirmations I get — if I ‘like’ one topic then suddenly 80% of the affirmations are rewording the same topic), reminders about how to install the widget, a bright “NEW” sign when they add more backgrounds… Seriously guys. I want this app to be calming. Can you create a “quiet” mode that only has affirmations? Like it was a year ago.",
+          "author": "Riesgo88",
+          "version": "6.10.1"
+        },
         {
           "date": "2025-11-24",
           "rating": 5,
@@ -814,60 +850,15 @@
           "content": "This app has brought back a sense of confidence and self-worth I thought I had lost. I am so thankful that I found this app and I hope it helps others the way it has helped me.",
           "author": "“I Am” lover",
           "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Love app/payment required",
-          "content": "Hi, so I downloaded this app because of my anxiety, depression and life changes that have happened recently, which have been an overwhelming amount of changes. This app truly was helping me daily get through things now it’s requiring a payment if you are able to afford the payment definitely keep the app unfortunately, I will have to stop using it because it will only pop up. I need to pay the yearly fee which is roughly $18. I wish they provided a free option.",
-          "author": "JoyWilkinson88",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-28",
-          "rating": 4,
-          "country": "US",
-          "title": "I like the app but it needs some changes",
-          "content": "I enjoy the app a lot, especially that it just randomly throughout the day pops up different affirmations for me to read aloud and that’s the free version that I’m talking about! The only thing I don’t like is about half of the affirmations aren’t really affirmations and they don’t make me really feel like “oh wow that really makes me feel good inside” they more like “ok next “ so maybe make some better supporting affirmations to lift someone’s spirit and confidence",
-          "author": "213Jmaries reviews",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-28",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "So far so good. I love waking up , or just looking at my phone to another affirmation. Makes me me feel good",
-          "author": "BlaccRose_76",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-28",
-          "rating": 2,
-          "country": "US",
-          "title": "Makes no sense",
-          "content": "I receive 2 different affirmations. They change randomly. Sometimes they do sometimes the don’t. I really wish I had not purchased. Then there is the log. I look at the affirmation that appears on my phone but that doesn’t count. I have to open the app and look at that one and that will count even though it’s the same frigging affirmation from the day before. Such a load of hog wash!",
-          "author": "jens001",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Something good",
-          "content": "These days especially, it is very nice to look at my phone and see some helpful, supportive kind words. I have it as a widget",
-          "author": "Decemburrbebe",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 94,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-28",
-      "meta.until": "2025-11-27"
+      "meta.since": "2025-10-29",
+      "meta.until": "2025-11-28"
     }
   ]
 }
