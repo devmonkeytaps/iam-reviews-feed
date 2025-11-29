@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-11-28T00:31:36Z",
+  "generated_at": "2025-11-29T00:31:41Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Trick",
+          "content": "This app doesn’t give you the information on how much it will cost until AFTER you download and sign up. They completely con you into signing up to take $70!",
+          "author": "Angry Customer 2714",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily inspiration",
+          "content": "I love this app. It keeps me inspired all day. 🙏🏾",
+          "author": "1 coolteacher",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-11-25",
           "rating": 5,
@@ -823,42 +841,15 @@
           "content": "I was skeptical about apps like this one just trying to benefit from vulnerable people. But in reality it appeared to me when I needed it the most, I placed it in my main screen and each time I need it I always have a great quote that gives me confidence. I recommend it to people who is anxious and need a little boost of confidence.",
           "author": "I’mJustKikii",
           "version": "6.7.0"
-        },
-        {
-          "date": "2025-10-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Disappointed",
-          "content": "Installed, answered many questions, took a call ran errands had to start over. Just re-answered all questions (dozens) and at the end you have to sign up for a free 3 day premium trial. No choice to decline, no contact info (email or #) to reach out. Prepared for the generic “sorry…” reply from Dev instead of addressing core issue.",
-          "author": "My uncle Dave",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-29",
-          "rating": 1,
-          "country": "US",
-          "title": "stop the greed",
-          "content": "the app used to have more free customizations and now they have taken that away. just about everything requires a subscription and i’m now deleting the app because of this company’s greed. i don’t need to pay an app to help me with positivity. yall have lost your minds.",
-          "author": "dm179704188",
-          "version": "6.6.0"
-        },
-        {
-          "date": "2025-10-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Incredible",
-          "content": "This app has brought back a sense of confidence and self-worth I thought I had lost. I am so thankful that I found this app and I hope it helps others the way it has helped me.",
-          "author": "“I Am” lover",
-          "version": "6.6.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-29",
-      "meta.until": "2025-11-28"
+      "meta.since": "2025-10-30",
+      "meta.until": "2025-11-29"
     }
   ]
 }
