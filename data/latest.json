@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-29T00:31:41Z",
+  "generated_at": "2025-11-30T00:37:29Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -805,51 +805,15 @@
           "content": "Tears",
           "author": "Eli vixen teared",
           "version": "6.7.0"
-        },
-        {
-          "date": "2025-10-30",
-          "rating": 1,
-          "country": "US",
-          "title": "Critical issues with this app",
-          "content": "1 - I made sure I selected only 10 notifications per day and turned off everything else. However this app sends me notifications every 3 minutes.\n\n2 - The paid version promoted the fact that if you pay and add the account - all info will be saved. Guess what? I got a new phone, logged in to my iCloud and used the same account for this app - and 100% of info was completely lost",
-          "author": "chris45324",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-10-30",
-          "rating": 2,
-          "country": "US",
-          "title": "Change to app",
-          "content": "This has always been my favorite app — I’ve loved it since the very beginning. One of the features I valued most was being able to add my own affirmations. After the recent update, I can’t seem to find that option anywhere. If it’s been removed, that’s truly disappointing. It was such a meaningful part of my daily routine and one of the main reasons I’ve stayed a loyal user all these years. Please consider bringing it back — otherwise, I’ll have to rethink renewing my subscription.",
-          "author": "Suz_MD",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-10-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Most Excellent!!!!!!!!!",
-          "content": "Working with this app has improved my life and mindset in MANY ways! It is positively programing my deep Resevoirs and feeling connections, has improved my social life and productivity and my self image has been soaring! Thank you “I am - Daily Affirmation and App’s team!!!”",
-          "author": "Raspberry jammed rats",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-10-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Brights up when needed!",
-          "content": "I was skeptical about apps like this one just trying to benefit from vulnerable people. But in reality it appeared to me when I needed it the most, I placed it in my main screen and each time I need it I always have a great quote that gives me confidence. I recommend it to people who is anxious and need a little boost of confidence.",
-          "author": "I’mJustKikii",
-          "version": "6.7.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-10-30",
-      "meta.until": "2025-11-29"
+      "meta.since": "2025-10-31",
+      "meta.until": "2025-11-30"
     }
   ]
 }
