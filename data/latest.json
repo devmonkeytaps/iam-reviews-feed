@@ -1,10 +1,73 @@
 {
-  "generated_at": "2025-12-01T00:40:46Z",
+  "generated_at": "2025-12-02T00:33:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Beggar App",
+          "content": "All I wanted from this app were some random affirmations. I liked the widget!! I hated all the notifications, had to disable them. It would spend six days in a row telling me it “saved” my streak.\n\nI especially despised today when the widget on my Home Screen became 100% an advertisement instead of a random affirmation. Uninstalled, unnecessary.",
+          "author": "electro7nika",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Mickey Mouse",
+          "content": "App is very woke. It’s nice to be positive but not saccahrine and simplistic.",
+          "author": "chipztaughts",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Ad appears in widget in Home Screen",
+          "content": "For a mindfulness and affirmation app, to have my Home Screen widget for from positive thoughts to an ad to purchase something is reason enough not to ever subscribe again.",
+          "author": "SMC PDX 123456789",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Encouragement and positive thoughts",
+          "content": "Thank you for this app has truly helped me on my healing journey.",
+          "author": "Mmachin1228",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 2,
+          "country": "US",
+          "title": "Bugs",
+          "content": "This app used to be so amazing,  last year I would’ve said 5 million stars! But I’ve been experiencing so many bugs with the notifications not working. Then when they do they don’t give me the affirmations in the category I chose, it reverts back to ‘General’. I don’t want to see the generic affirmations, I want to see the ones I favorited or wrote! The customization was the best part and the whole reason I used the app. I still pay for it because I keep wanting it to get better but I’m really losing hope.",
+          "author": "BrittanyxBlack",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 5,
+          "country": "US",
+          "title": "very good.",
+          "content": "This app makes you feel better about yourself, basically it reads you, “I am smart” or something like that and you believe it",
+          "author": "ILOVEROBLOX100000%",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
+          "rating": 5,
+          "country": "US",
+          "title": "The best",
+          "content": "I love it",
+          "author": "Martha Ferreira Silva",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-11-28",
           "rating": 3,
@@ -156,6 +219,15 @@
           "title": "My Favourite App 🩷",
           "content": "I love this app! It’s so uplifting and the affirmations always come through right when I need them! Thank you 🌸✨",
           "author": "angel_girl777",
+          "version": "6.10.1"
+        },
+        {
+          "date": "2025-11-23",
+          "rating": 5,
+          "country": "AU",
+          "title": "Worth it!",
+          "content": "This app has been a positive reinforcement for positive self talk and always pops up at the right time. Can get away with the free version. Sometimes we all need that extra self love ✨💕",
+          "author": "Stepp_y",
           "version": "6.10.1"
         },
         {
@@ -805,51 +877,15 @@
           "content": "Phrases apaisantes et motivante. \nNous permet de nous déposer quelque minutes pour prendre le temps de lire la pensée positive et de prendre une respiration. Je me suis abonnée pour l’année et je ne regrette absolument pas.",
           "author": "Salutlagang",
           "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-01",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this app",
-          "content": "This app is more than healing",
-          "author": "ycsfnihdacjiy",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Exceptional and Quality",
-          "content": "Very in-tune",
-          "author": "tmoneyjr414",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Affirmation App On the Go",
-          "content": "I have been using this app for years and has been great, especially for the paid version and being able to customize what I need to focus on and have a notifications pop up throughout the day for inspiration has really helped me get through the day. Really great when need a pick me up.",
-          "author": "Alicia Savior",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Speaking the truth god designed",
-          "content": "Every Day theses quotes come across my phone they really speak the truth and they speak to me \nI know GOD is telling me how to align my life and get myself together 🙏🏽🙏🏽🙏🏽\nTHANK YOU SO MUCH",
-          "author": "Hales7325",
-          "version": "6.7.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-01",
-      "meta.until": "2025-12-01"
+      "meta.since": "2025-11-02",
+      "meta.until": "2025-12-02"
     }
   ]
 }
