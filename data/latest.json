@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-03T00:32:46Z",
+  "generated_at": "2025-12-04T00:33:28Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-11-30",
+          "rating": 4,
+          "country": "US",
+          "title": "Satisfied",
+          "content": "Great App so far I think it’s worth a try atleast",
+          "author": "DesPoohh",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-11-30",
           "rating": 2,
@@ -817,6 +826,15 @@
         },
         {
           "date": "2025-11-05",
+          "rating": 1,
+          "country": "ES",
+          "title": "Questions, questions, questions...",
+          "content": "You ask too many questions, developer 📜",
+          "author": "L1umbra",
+          "version": "6.7.0"
+        },
+        {
+          "date": "2025-11-05",
           "rating": 5,
           "country": "AU",
           "title": "The best",
@@ -859,24 +877,6 @@
           "content": "I like these affirmations for the most part but am frustrated with a few things already\n\n-after clicking don’t want/don’t believe in manifestation i am still getting them. With my mental health i have to be careful around spiritual/manifestation phrases\n\n-no option to say i am physically disabled so im assuming i can’t get affirmations revolving around that. Which is very unfortunate. It also makes the manifestation affirmations that pop up feel more bitter than anything. I don’t need affirmations on how i can do anything i want, i would like affirmations to be okay with my limits and my body, and be taking things at my own pace. There’s some things people will never be able to do. Thats just a fact, not negativity. Realist gentle affirmations with disabled people in mind should be a filter you can click and opt in to from the very beginning.",
           "author": "🌻💛🌼",
           "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Payment Required",
-          "content": "Careful! The trial will force an automatic subscription!",
-          "author": "Irritated by the Name Request",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Expensive",
-          "content": "Costly for a simple app",
-          "author": "eytew egg hj",
-          "version": "6.7.0"
         }
       ],
       "meta.total": 97,
@@ -884,8 +884,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-03",
-      "meta.until": "2025-12-03"
+      "meta.since": "2025-11-04",
+      "meta.until": "2025-12-04"
     }
   ]
 }
