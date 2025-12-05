@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-04T00:33:28Z",
+  "generated_at": "2025-12-05T00:33:52Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Review",
+          "content": "This apps affirmations are always on time for me !!",
+          "author": "Kimani2325",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-11-30",
           "rating": 4,
@@ -591,6 +600,15 @@
           "version": "6.8.0"
         },
         {
+          "date": "2025-11-11",
+          "rating": 3,
+          "country": "GB",
+          "title": "Mhvv",
+          "content": "Amazing for those with anxiety and stress but I don’t like how it is bucking me about the price",
+          "author": "Preppy hot sk kid",
+          "version": "6.8.0"
+        },
+        {
           "date": "2025-11-10",
           "rating": 5,
           "country": "US",
@@ -868,24 +886,15 @@
           "content": "I love this app it’s really helping my mental health",
           "author": "Carrithebaddie",
           "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-04",
-          "rating": 3,
-          "country": "US",
-          "title": "So far so good",
-          "content": "I like these affirmations for the most part but am frustrated with a few things already\n\n-after clicking don’t want/don’t believe in manifestation i am still getting them. With my mental health i have to be careful around spiritual/manifestation phrases\n\n-no option to say i am physically disabled so im assuming i can’t get affirmations revolving around that. Which is very unfortunate. It also makes the manifestation affirmations that pop up feel more bitter than anything. I don’t need affirmations on how i can do anything i want, i would like affirmations to be okay with my limits and my body, and be taking things at my own pace. There’s some things people will never be able to do. Thats just a fact, not negativity. Realist gentle affirmations with disabled people in mind should be a filter you can click and opt in to from the very beginning.",
-          "author": "🌻💛🌼",
-          "version": "6.7.0"
         }
       ],
-      "meta.total": 97,
+      "meta.total": 98,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-04",
-      "meta.until": "2025-12-04"
+      "meta.since": "2025-11-05",
+      "meta.until": "2025-12-05"
     }
   ]
 }
