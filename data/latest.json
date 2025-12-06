@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-05T00:33:52Z",
+  "generated_at": "2025-12-06T00:32:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-02",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily Dose",
+          "content": "This truly helps me navigate my thoughts and emotions. It gives me hope, daily, and reminds me of God’s plans and timing for my life.",
+          "author": "Arnedia",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-12-01",
           "rating": 5,
@@ -823,78 +832,15 @@
           "content": "I’m in the kitchen because of you, self not but myself a",
           "author": "UniqueLemur8444",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 4,
-          "country": "US",
-          "title": "“Make an account” feature is not a secure way to save data",
-          "content": "I have used this app for about a year and a half. I have been a premium subscriber for most of that . This fall they came out with the feature to make an account instead of having all your data just saved on your phone. When I did that, I lost hundreds of custom affirmations and collections that I had made for different occasions in my life. Over a month ago, I informed the development team about this and followed up a couple weeks later, and I have received no support or feedback on whether or when they can get my account info restored. I wish I had never created an account at all because when I deleted the app and reinstalled it to see if that would fix some of the bugs, I lost almost everything. It seems that every time an update is released the past few months, there are issues and bugs. I wish the developers would work out these bugs before releasing new updates. But I am still a user and subscriber, and it is a very helpful app. Just I want to warn people to maybe make a back up of your affirmations in another app or journal and do not count on them being safe in your I Am account.",
-          "author": "Kimberly888",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Thanks",
-          "content": "This is helping me breathe",
-          "author": "Gretta’s report",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 1,
-          "country": "ES",
-          "title": "Questions, questions, questions...",
-          "content": "You ask too many questions, developer 📜",
-          "author": "L1umbra",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 5,
-          "country": "AU",
-          "title": "The best",
-          "content": "It is really good because it helps my son with anxiety I really recommend it",
-          "author": "rivytwotimes",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 1,
-          "country": "AU",
-          "title": "Waisted my time answering and it cost money",
-          "content": "😢 dissaponted",
-          "author": "M 🤷‍♀️ A",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 5,
-          "country": "US",
-          "title": "“The best Affirmation application “!!!!",
-          "content": "This app is such a blessing unto my being and soul!! I love it!! 🙌🏽",
-          "author": "Sulaymon",
-          "version": "6.7.0"
-        },
-        {
-          "date": "2025-11-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Review",
-          "content": "I love this app it’s really helping my mental health",
-          "author": "Carrithebaddie",
-          "version": "6.7.0"
         }
       ],
-      "meta.total": 98,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-05",
-      "meta.until": "2025-12-05"
+      "meta.since": "2025-11-06",
+      "meta.until": "2025-12-06"
     }
   ]
 }
