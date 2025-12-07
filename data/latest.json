@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-12-06T00:32:58Z",
+  "generated_at": "2025-12-07T00:37:15Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-04",
+          "rating": 5,
+          "country": "US",
+          "title": "Just Wow",
+          "content": "I absolutely love this app so so much. As a 15-year-old and having many life struggles, this has truly helped so so much and I truly recommend.",
+          "author": "love4ocen",
+          "version": "6.12.0"
+        },
+        {
+          "date": "2025-12-03",
+          "rating": 5,
+          "country": "US",
+          "title": "A bit expensive..",
+          "content": "I love your App! It truly does do wonders, on a brain like mine.  But unfortunately having to pay the one time fee, all together, up-front, at the same time ($69.99), in this economy is wild! Sorry..   More people would join, and be able to take part in this amazing experience, if maybe you made it a bit cheaper, or at least gave us a monthly option.     But it is a great app you can’t deny it!  🪬🫶🏼💛",
+          "author": "Chaoz001",
+          "version": "6.11.0"
+        },
         {
           "date": "2025-12-02",
           "rating": 5,
@@ -814,24 +832,6 @@
           "content": "Great app",
           "author": "Roomcgroo22",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-06",
-          "rating": 5,
-          "country": "US",
-          "title": "I am review",
-          "content": "Very helpful app that u can customize and it brings sports up thxs for the great app",
-          "author": "TheReviewer2000",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Recipe for Success",
-          "content": "I’m in the kitchen because of you, self not but myself a",
-          "author": "UniqueLemur8444",
-          "version": "6.8.0"
         }
       ],
       "meta.total": 92,
@@ -839,8 +839,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-06",
-      "meta.until": "2025-12-06"
+      "meta.since": "2025-11-07",
+      "meta.until": "2025-12-07"
     }
   ]
 }
