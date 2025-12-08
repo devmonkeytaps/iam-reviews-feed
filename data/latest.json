@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-12-07T00:37:15Z",
+  "generated_at": "2025-12-08T00:34:24Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-05",
+          "rating": 5,
+          "country": "US",
+          "title": "The truth",
+          "content": "Amazing app.love the idea of it.If you’re going through a tough time this is probably the best app to make you smile!😊",
+          "author": "Erm Hi?😃",
+          "version": "6.12.0"
+        },
+        {
+          "date": "2025-12-05",
+          "rating": 1,
+          "country": "US",
+          "title": "Works great until it doesn’t",
+          "content": "A wonderful app with a great widget that I was enjoying- at first. Then it started making it so every single time I opened the app, it would ask me to buy. This was… annoying but not that big of a deal, but it started making it so when I dismissed it, it would immediately pop back up again, making the app completely unusable. Going to try some similar alternative apps for the same thing.",
+          "author": "FreefallPhoenix",
+          "version": "6.12.0"
+        },
+        {
+          "date": "2025-12-05",
+          "rating": 1,
+          "country": "US",
+          "title": "Charged $70 when I did not agree to the price",
+          "content": "I recently downloaded this app and signed up for the free trial. When I signed up I was notified in app that I would receive a notification of when the trial was going to be ending so I could decide if I wanted to keep my subscription and which subscription I wanted. I never received any notice and was automatically charged $72.93. Finding out how to request a refund was inconvenient and not guaranteed. Do not recommend this app.",
+          "author": "CS2426",
+          "version": "6.12.0"
+        },
         {
           "date": "2025-12-04",
           "rating": 5,
@@ -787,60 +814,15 @@
           "content": "I’ve had this app for years.  The messages have been inspiring reminders that life is a gift.  I highly recommend it.",
           "author": "Phillip (prcd)",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-07",
-          "rating": 5,
-          "country": "GB",
-          "title": "Positivity booster",
-          "content": "I have been using this app for two years and it has been my loyal friend",
-          "author": "Ai❤️sha",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive Reinforcement",
-          "content": "Just what I needed!",
-          "author": "Port City__",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-07",
-          "rating": 1,
-          "country": "US",
-          "title": "Demanding payment",
-          "content": "I purchased the entire bundle and am still being asked to pay again for the individual apps (within the respective app).",
-          "author": "Mjolnir1",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Life before",
-          "content": "I can’t believe how much this app has actually changed my mind and how I used to think about things. I’m learning how to retrain negative thoughts let go of self doubt, self worrying and let go of negative comments people make. I feel a sense of quietness within my mind, giving me time to focus on what I want to say.\nThanks, I am",
-          "author": "Moonmeow 123",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Love it",
-          "content": "Great app",
-          "author": "Roomcgroo22",
-          "version": "6.8.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 90,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-07",
-      "meta.until": "2025-12-07"
+      "meta.since": "2025-11-08",
+      "meta.until": "2025-12-08"
     }
   ]
 }
