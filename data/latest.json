@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-12-08T00:34:24Z",
+  "generated_at": "2025-12-09T00:33:59Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-06",
+          "rating": 5,
+          "country": "US",
+          "title": "The best",
+          "content": "This app is the best after like 20days it gives you premium for the day and they give it like every 20 days",
+          "author": "jessica09900",
+          "version": "6.12.0"
+        },
+        {
+          "date": "2025-12-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Love the daily dose of affirmations",
+          "content": "It keeps me balanced and gives me more control over my moods",
+          "author": "SimmonsWife",
+          "version": "6.12.0"
+        },
         {
           "date": "2025-12-05",
           "rating": 5,
@@ -57,6 +75,15 @@
           "title": "Daily Dose",
           "content": "This truly helps me navigate my thoughts and emotions. It gives me hope, daily, and reminds me of God’s plans and timing for my life.",
           "author": "Arnedia",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-12-02",
+          "rating": 1,
+          "country": "GB",
+          "title": "1 million questions and finally the reveal that you have to pay…",
+          "content": "I downloaded the app, answered the million questions to set up my profile and at the end it say you can get 3 days for free and then have to pay so I straight up deleted it…",
+          "author": "Marizo12456",
           "version": "6.11.0"
         },
         {
@@ -760,69 +787,15 @@
           "content": "Constant notifications to upgrade instead of the affirmations.  Used to be great but now it really stinks.   I give up.  Deleting.",
           "author": "Tylervan9",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 5,
-          "country": "US",
-          "title": "😁",
-          "content": "Hi I am is so great when I am mad 😡 but then I read the affirmations and then I’m happy. Thank you 😊",
-          "author": "Best Apple Music ever!!!",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 4,
-          "country": "US",
-          "title": "Help canceling a subscription I never started.",
-          "content": "I'm only writing because you claim to read them all. I need help canceling a subscription I never started. Yes I was able to cancel on my settings however the subscription doesn't cancel for another year. This is not a request for a refund because I was not charged for the subscription as my bank flagged the attempted charges at fraud. Rightfully so. I need assistance canceling the current subscription as I don't plan on updating my payment to allow a charge. PLEASE HELP.",
-          "author": "Ciera T",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 5,
-          "country": "AU",
-          "title": "Amazing tool to help progress PD and self belief",
-          "content": "I have been working on self development a lot over the last 5 years. I’ve been using this app for 37 days and it has helped me get to the next level of self love and self belief to be able to keep progressing myself towards my goals and dreams 🫶🏻🫶🏻",
-          "author": "Kelslacey",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Yes",
-          "content": "This is the best app.I just got it today and it is already helping me!",
-          "author": "Cali McGhee",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 3,
-          "country": "US",
-          "title": "Getting progressively worse…",
-          "content": "I’ve been using this app for quite a while now, maybe a year. I enjoyed it at first, but it seems with every update they are removing more and more features from the free version. I’m a college student, and I simply do not have the spare income for a subscription. They are limiting the backgrounds, the customization of the affirmations (and the rest of the app), and now have even taken away the “practice” option, something I used nearly every day. Unfortunately this is a common occurrence with supposedly free apps. I’m not sure how much longer this one will be of use to me. The setup is user friendly, the affirmations are unique and really boosted my self esteem. It was very helpful during a hard time in my life, but I no longer think this is beneficial the way it used to be.",
-          "author": "Cait-i-Cat",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app!!",
-          "content": "I’ve had this app for years.  The messages have been inspiring reminders that life is a gift.  I highly recommend it.",
-          "author": "Phillip (prcd)",
-          "version": "6.8.0"
         }
       ],
-      "meta.total": 90,
+      "meta.total": 87,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-08",
-      "meta.until": "2025-12-08"
+      "meta.since": "2025-11-09",
+      "meta.until": "2025-12-09"
     }
   ]
 }
