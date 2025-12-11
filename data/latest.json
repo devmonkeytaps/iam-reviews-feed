@@ -1,10 +1,28 @@
 {
-  "generated_at": "2025-12-10T00:35:02Z",
+  "generated_at": "2025-12-11T00:34:09Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-09",
+          "rating": 4,
+          "country": "US",
+          "title": "Works most of the time",
+          "content": "I have this app on my lock screen and every 2 weeks it will no longer appear/is blurry, but other than that, I love the app!",
+          "author": "Tabcugedes",
+          "version": "6.13.0"
+        },
+        {
+          "date": "2025-12-08",
+          "rating": 1,
+          "country": "US",
+          "title": "Cancel? Impossible!",
+          "content": "Tried to cancel this app before the 3 day trial ended. I wasn’t shown as being enrolled and affirmations weren’t sending. Sure enough, on day 4 more affirmations than I even set up for my daily feed started rolling through and despite traveling everywhere I could think of on both days 3 and 4, there is no customer service/cancellation to be found. Make sure your phone settings let you cancel from there if you want the option for a trial. And know your trial will not reflect the services they promise in this app. I am so irritated by seeing affirmations pop up after I tried to cancel this service I will likely delete the whole app despite having paid a ridiculous $69 for it.",
+          "author": "norsklala",
+          "version": "6.13.0"
+        },
         {
           "date": "2025-12-07",
           "rating": 1,
@@ -724,60 +742,15 @@
           "content": "Amazing for those with anxiety and stress but I don’t like how it is bucking me about the price",
           "author": "Preppy hot sk kid",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Awesome app!",
-          "content": "Absolutely no complaints. Awesome app! Highly recommend. Helps you feel confident.",
-          "author": "sillydog787",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 5,
-          "country": "GB",
-          "title": "hi guys ✌️🥹",
-          "content": "awesome",
-          "author": "george✌️",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 3,
-          "country": "CA",
-          "title": "Glitchy",
-          "content": "I really like the app, but can’t use all of its functions because of glitches. Whenever I try to complete a practice, it freezes at some point and I have to totally close out of the app. I can never finish a practice, which is frustrating because that’s one of the main points of the app.",
-          "author": "Aoguemcb",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 1,
-          "country": "US",
-          "title": "Everything is locked behind a paywall",
-          "content": "It’s honestly ridiculous and you’re better off using another app. There’s no reason to lock simple things such as backgrounds behind a subscription. For an app that’s meant to boost mental health, it feels very money-hungry and getting the subscription pop-up every 5 minutes honestly stressed me out more.",
-          "author": "Birdszy",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-10",
-          "rating": 4,
-          "country": "US",
-          "title": "I don’t want to lose my streak",
-          "content": "Love this app but lately it’s been buggin out. Whenever I try to open the app it always closes out and it doesn’t log my day. I’m on day 228 and I can’t get in and it’s saying imma loose my streak and I don’t want that to happen. My mental 😮‍💨🙃😫🫠",
-          "author": "Luna centerfold",
-          "version": "6.8.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 82,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-10",
-      "meta.until": "2025-12-10"
+      "meta.since": "2025-11-11",
+      "meta.until": "2025-12-11"
     }
   ]
 }
