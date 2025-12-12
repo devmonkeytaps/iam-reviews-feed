@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-11T00:34:09Z",
+  "generated_at": "2025-12-12T00:34:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-09",
+          "rating": 2,
+          "country": "US",
+          "title": "Underwhelming",
+          "content": "For 2025 this app is very 2010.  Can’t play while app is closed.  Music during one of the sessions pauses completely when the voice makes a statement.  Very cheaply made app.",
+          "author": "JoeUberSucksAss",
+          "version": "6.13.0"
+        },
         {
           "date": "2025-12-09",
           "rating": 4,
@@ -715,42 +724,15 @@
           "content": "This is a horrible app they charged me $69.99 just to steal my money and not let me reactivate my account even when I tried to reach out to customer service they still didn’t respond don’t even waste your time downloading this app. They’re a scam and frauds.",
           "author": "adriannawasa",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-11",
-          "rating": 5,
-          "country": "CA",
-          "title": "Excellent motivator!!",
-          "content": "Excellent App. Keeps me motivated throughout the day. Keep up the good work.",
-          "author": "BaadshahUSA",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-11",
-          "rating": 1,
-          "country": "US",
-          "title": "SUBSCRIPTION SCAM WARNING",
-          "content": "Advertised as a 7-day free trial but was charged for a full year subscription on the same day of download. Immediately deleted the app and filed a dispute but did not receive a refund. No way to contact the app maker directly for a refund. Complete scam to take your money! DO NOT DOWNLOAD",
-          "author": "Breakneck Madness",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-11",
-          "rating": 3,
-          "country": "GB",
-          "title": "Mhvv",
-          "content": "Amazing for those with anxiety and stress but I don’t like how it is bucking me about the price",
-          "author": "Preppy hot sk kid",
-          "version": "6.8.0"
         }
       ],
-      "meta.total": 82,
+      "meta.total": 80,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-11",
-      "meta.until": "2025-12-11"
+      "meta.since": "2025-11-12",
+      "meta.until": "2025-12-12"
     }
   ]
 }
