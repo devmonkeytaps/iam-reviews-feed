@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-12T00:34:10Z",
+  "generated_at": "2025-12-13T00:32:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -706,33 +706,15 @@
           "content": "You have to pay/ get premium. But I did like how it looked when I watched others used it.",
           "author": "BotanicalOrange",
           "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-12",
-          "rating": 5,
-          "country": "AU",
-          "title": "I am review",
-          "content": "This app is so good! After one night it has taken away 2 bad thoughts, and the styles are adorable! This is totally a must get!❤️",
-          "author": "Daisy the Blondie",
-          "version": "6.8.0"
-        },
-        {
-          "date": "2025-11-12",
-          "rating": 1,
-          "country": "US",
-          "title": "Refused Refund they just steal money",
-          "content": "This is a horrible app they charged me $69.99 just to steal my money and not let me reactivate my account even when I tried to reach out to customer service they still didn’t respond don’t even waste your time downloading this app. They’re a scam and frauds.",
-          "author": "adriannawasa",
-          "version": "6.8.0"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 78,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-12",
-      "meta.until": "2025-12-12"
+      "meta.since": "2025-11-13",
+      "meta.until": "2025-12-13"
     }
   ]
 }
