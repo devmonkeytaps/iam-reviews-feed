@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-12-13T00:32:35Z",
+  "generated_at": "2025-12-14T00:37:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Great app",
+          "content": "Love the quotes",
+          "author": "すぺんさあ",
+          "version": "6.13.0"
+        },
+        {
+          "date": "2025-12-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Awareness",
+          "content": "I just downloaded and I already love it, I look at my phone often because I do uber and to see a positive quote or affirmation that relates to me is astounding. This app is showing me to choose me",
+          "author": "nekas_makeupbag",
+          "version": "6.13.0"
+        },
+        {
+          "date": "2025-12-10",
+          "rating": 2,
+          "country": "US",
+          "title": "It’s coo",
+          "content": "I like the app. It’s just always showing blank as a widget",
+          "author": "iDollbaby",
+          "version": "6.13.0"
+        },
+        {
+          "date": "2025-12-10",
+          "rating": 5,
+          "country": "US",
+          "title": "💕",
+          "content": "If you need positivity thur out the day. This is it. This app helps more than I can explain. Thank you 🙏",
+          "author": "channie 89",
+          "version": "6.13.0"
+        },
         {
           "date": "2025-12-09",
           "rating": 2,
@@ -670,42 +706,6 @@
           "content": "This game I so good it's so good for my mental health",
           "author": "Notable c",
           "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Uplifting",
-          "content": "The gentle reminder sets throughout the day light my life! thank you for your positivity in my life!",
-          "author": "Teachy me",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Affirmations",
-          "content": "This app has made a difference in my overall attitude and self talk. \nAt first I was skeptical but it does help",
-          "author": "JLB2019",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-13",
-          "rating": 5,
-          "country": "US",
-          "title": "READ",
-          "content": "THE BEST THING EVER",
-          "author": "Freyjabear",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-13",
-          "rating": 3,
-          "country": "US",
-          "title": "Fine, But One Problem",
-          "content": "You have to pay/ get premium. But I did like how it looked when I watched others used it.",
-          "author": "BotanicalOrange",
-          "version": "6.8.0"
         }
       ],
       "meta.total": 78,
@@ -713,8 +713,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-13",
-      "meta.until": "2025-12-13"
+      "meta.since": "2025-11-14",
+      "meta.until": "2025-12-14"
     }
   ]
 }
