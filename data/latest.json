@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-14T00:37:57Z",
+  "generated_at": "2025-12-15T00:36:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -679,42 +679,15 @@
           "content": "I’ve never given a review on here before but i had to for this app. it seems to know exactly what i’m going through at all times, sending me support and love i need on the hard days. I am has gotten me through some very hard times, and i feel inspired to live better and do better for myself through these affirmations. love yallll",
           "author": "mswalkemdownandbitetheyankles",
           "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Fierce",
-          "content": "🥰",
-          "author": "Nina Ballesteros",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-14",
-          "rating": 5,
-          "country": "US",
-          "title": "i love the widget!",
-          "content": "every day kind words and affirmations to remember to say to yourself on your home screen 🥰",
-          "author": "Braleigh111118",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-14",
-          "rating": 5,
-          "country": "US",
-          "title": "So good",
-          "content": "This game I so good it's so good for my mental health",
-          "author": "Notable c",
-          "version": "6.9.0"
         }
       ],
-      "meta.total": 78,
+      "meta.total": 75,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-14",
-      "meta.until": "2025-12-14"
+      "meta.since": "2025-11-15",
+      "meta.until": "2025-12-15"
     }
   ]
 }
