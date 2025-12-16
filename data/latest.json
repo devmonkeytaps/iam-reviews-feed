@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-15T00:36:46Z",
+  "generated_at": "2025-12-16T00:34:53Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-11",
+          "rating": 5,
+          "country": "US",
+          "title": "I am love.",
+          "content": "I would love to learn more, but drop your prices please",
+          "author": "FeathersToDustpoetry🪶",
+          "version": "6.13.0"
+        },
         {
           "date": "2025-12-10",
           "rating": 5,
@@ -93,6 +102,15 @@
           "title": "Good Job I Am",
           "content": "This app is really good at sending you affirmations and making you feel happier",
           "author": "tatemcraelover👅",
+          "version": "6.12.0"
+        },
+        {
+          "date": "2025-12-07",
+          "rating": 5,
+          "country": "GB",
+          "title": "Practice Sessions Returned",
+          "content": "Happy that the practice session timer has retuned with more functionality. That move changed my recent 2 star review to 5 stars. I’m also re-subscribing to premium. Practice sessions are key!",
+          "author": "Mark Warlock",
           "version": "6.12.0"
         },
         {
@@ -634,60 +652,15 @@
           "content": "Can’t even read the affirmations because it keeps trying to make me pay $18",
           "author": "Thor Brogghammer",
           "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Love these reminders",
-          "content": "I started this app about four years ago to remind me to be grateful throughout the day. Then I added to my mom’s phone and at first she would go ehh when she read them. Then she said that she slowly began to say. “Well ya”\nSo it’s been a source of encouragement for us both",
-          "author": "Gecko gurl",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-15",
-          "rating": 1,
-          "country": "US",
-          "title": "“I Am” became GREEDY",
-          "content": "Used to have a ton of free content, now you have 1% free and 99% you have to pay for. Garbage, uninstalling and getting a different affirmation app with less greed.",
-          "author": "Tony Pepperone",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-15",
-          "rating": 4,
-          "country": "CA",
-          "title": "Ok",
-          "content": "It would be better if there was a free version and a paid version with extra features",
-          "author": "LuckyDaii",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Truly amazing",
-          "content": "This app is very helpful, the ability to customize it for my needs and not be pigeonholed into a basic group is very nice, I truly feel that this app has given me the opportunity to find inner peace and self love.",
-          "author": "Princess kimmie",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-15",
-          "rating": 5,
-          "country": "US",
-          "title": "love this app!",
-          "content": "I’ve never given a review on here before but i had to for this app. it seems to know exactly what i’m going through at all times, sending me support and love i need on the hard days. I am has gotten me through some very hard times, and i feel inspired to live better and do better for myself through these affirmations. love yallll",
-          "author": "mswalkemdownandbitetheyankles",
-          "version": "6.9.0"
         }
       ],
-      "meta.total": 75,
+      "meta.total": 72,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-15",
-      "meta.until": "2025-12-15"
+      "meta.since": "2025-11-16",
+      "meta.until": "2025-12-16"
     }
   ]
 }
