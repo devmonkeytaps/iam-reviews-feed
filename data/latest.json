@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-17T00:33:26Z",
+  "generated_at": "2025-12-18T00:31:02Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -625,42 +625,15 @@
           "content": "I love this daily affirmation app…SO ENCOURAGING",
           "author": "losheff",
           "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-17",
-          "rating": 4,
-          "country": "US",
-          "title": "Great App (Blind Accessible)",
-          "content": "I have to start off saying, as someone using a screen reader on her iPhone 16+ — this app is surprisingly accessible. Also easy to navigate! Also somedays these affirmations are what encourage me to keep on going to trauma therapy. Can't be mad at that. I share my favorites on Instagram sometimes and cannot thank the makers of this app enough.",
-          "author": "J.N.A.15",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-17",
-          "rating": 1,
-          "country": "US",
-          "title": "Great app for the first two days",
-          "content": "I got this app because I saw an ad about it and saw all the good reviews and thought it help me through my mental health journey. The first two days are amazing and I loved all the affirmations that I received. I tried to go and look through some affirmations this morning and I can't even see the affirmations because there's a pop-up that keeps telling me that I need to subscribe in order to see the affirmations. The subscription is $18 a month and currently I can't afford that. I feel like if we have to pay for the affirmations you should've just made it a paid app in the first place rather than try to swindle people out of money after they download the app thinking that there is actually a free plan.",
-          "author": "TheZeraCamille",
-          "version": "6.9.0"
-        },
-        {
-          "date": "2025-11-17",
-          "rating": 3,
-          "country": "US",
-          "title": "Widget does not work properly",
-          "content": "The app does not support car play’s new ios26 update. It offers the option to add a widget to CarPlay but states “tap to activate” and does not work when you tap it. Tried everything. Please make this compatible and fix issues or don’t offer the option bc it’s misleading",
-          "author": "Grl26",
-          "version": "6.9.0"
         }
       ],
-      "meta.total": 72,
+      "meta.total": 69,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-17",
-      "meta.until": "2025-12-17"
+      "meta.since": "2025-11-18",
+      "meta.until": "2025-12-18"
     }
   ]
 }
