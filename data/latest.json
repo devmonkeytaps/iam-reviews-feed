@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-19T00:34:45Z",
+  "generated_at": "2025-12-20T00:32:31Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -625,42 +625,15 @@
           "content": "I found this app after having a nervous breakdown. I was the lowest of lows and with this app and practicing every day I have managed to get back to living my best life and working full time. Thank you I am for helping me through the toughest days of my life.",
           "author": "Muggins0575",
           "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-19",
-          "rating": 5,
-          "country": "US",
-          "title": "My favorite app",
-          "content": "This app whole heartedly re wired my brain and I’m on day 51 today!! Highly recommend.",
-          "author": "Monicajulie",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-19",
-          "rating": 5,
-          "country": "US",
-          "title": "A light in the darkness",
-          "content": "So the reason for my title is because I don’t know how many days I’m going through something and one of these messages popped up and help me change my mindset. I find that very special.",
-          "author": "Zeus_77_DR",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-19",
-          "rating": 5,
-          "country": "CA",
-          "title": "Moving on",
-          "content": "And tomorrow will bring brighter days. Positivity is a choice.",
-          "author": "Diesel.101",
-          "version": "6.10.0"
         }
       ],
-      "meta.total": 72,
+      "meta.total": 69,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-19",
-      "meta.until": "2025-12-19"
+      "meta.since": "2025-11-20",
+      "meta.until": "2025-12-20"
     }
   ]
 }
