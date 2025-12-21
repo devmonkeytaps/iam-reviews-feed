@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-20T00:32:31Z",
+  "generated_at": "2025-12-21T00:37:54Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -571,69 +571,15 @@
           "content": "This app has been a positive reinforcement for positive self talk and always pops up at the right time. Can get away with the free version. Sometimes we all need that extra self love ✨💕",
           "author": "Stepp_y",
           "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 1,
-          "country": "CA",
-          "title": "You have to pay???",
-          "content": "I was so exited to use this app until I found out you have to pay",
-          "author": "miriambunny35",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 1,
-          "country": "US",
-          "title": "Mantra is the same but free",
-          "content": "I got this app because I saw an ad about it and saw all the good reviews and thought it help me through my mental health journey. The first two days are amazing and I loved all the affirmations that I received. I tried to go and look through some affirmations this morning and I can't even see the affirmations because there's a pop-up that keeps telling me that I need to subscribe in order to see the affirmations. The subscription is $18 a month and currently I can't afford that. I feel like if we have to pay for the affirmations you should've just made it a paid app in the first place rather than try to swindle people out of money after they download the app thinking that there is actually a free plan. If you don't  mind paying monthly for this app then get it, but if not I would download the Mantra app instead!",
-          "author": "TheZeraCamille",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 2,
-          "country": "US",
-          "title": "Pushy sales",
-          "content": "I just wanted to turn off the sound effects. I kept trying to go into settings, and there’s a relentless pop up telling me it’s the last chance to pay for this app I don’t want to spend on, and I literally can’t get to the sound setting because as soon as you close the pop up, another one generates, constantly, in perpetuity. Are you kidding? I’m just going to delete the app",
-          "author": "Jaykwellen_",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 5,
-          "country": "CA",
-          "title": "Excellent",
-          "content": "I love getting quotes from I am. It makes my day, keeps me positive all day long during my broken times and the days I feel the motivated I love this app💕",
-          "author": "sulleria",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 2,
-          "country": "US",
-          "title": "I’m have trouble",
-          "content": "I love this app but same this that other girl that pop up is bothering me is there a way it can stop?",
-          "author": "TheOnlyShanda",
-          "version": "6.10.0"
-        },
-        {
-          "date": "2025-11-20",
-          "rating": 5,
-          "country": "CA",
-          "title": "Saved my life",
-          "content": "I found this app after having a nervous breakdown. I was the lowest of lows and with this app and practicing every day I have managed to get back to living my best life and working full time. Thank you I am for helping me through the toughest days of my life.",
-          "author": "Muggins0575",
-          "version": "6.10.0"
         }
       ],
-      "meta.total": 69,
+      "meta.total": 63,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-20",
-      "meta.until": "2025-12-20"
+      "meta.since": "2025-11-21",
+      "meta.until": "2025-12-21"
     }
   ]
 }
