@@ -1,10 +1,55 @@
 {
-  "generated_at": "2025-12-21T00:37:54Z",
+  "generated_at": "2025-12-22T00:36:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-19",
+          "rating": 3,
+          "country": "US",
+          "title": "New to app still getting to know it:-)",
+          "content": "This morning, I am looking for more features offered by this app; like help or motivating prompts with daily routines & exercise. I like the affirmations for the new year 2026 a lot:-) Automatic rotating pictures & different color backgrounds would be neat. Too much is overwhelming sometimes so the simplicity of this app is also very nice. Thanks for giving folks a chance to leave feedback and reviews.",
+          "author": "Deanerjeebs",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-18",
+          "rating": 5,
+          "country": "US",
+          "title": "❤️ Best Affirmation App Ever",
+          "content": "Seriously the one of the things that has taught me the most about positive affirmations! So thankful and grateful for this app and the instagram! I wouldn’t be able to handle life’s challenges without it and it makes my day better everyday",
+          "author": "Motion 21",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-18",
+          "rating": 4,
+          "country": "US",
+          "title": "Free",
+          "content": "The app is ok. But it would be nice if it was free for more themes and affirmations",
+          "author": "msk52779",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-18",
+          "rating": 5,
+          "country": "US",
+          "title": "❤️",
+          "content": "Love the app",
+          "author": "Page6922",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-17",
+          "rating": 1,
+          "country": "US",
+          "title": "Misleading",
+          "content": "They give you an option to set a reminder when your subscription is about to expire but will not remind you and will try to take $51 out of your account. Mind you the subscription is $47.99. DO NOT GET THIS APP",
+          "author": "Keena ricks",
+          "version": "6.14.2"
+        },
         {
           "date": "2025-12-17",
           "rating": 1,
@@ -322,6 +367,15 @@
         },
         {
           "date": "2025-11-30",
+          "rating": 5,
+          "country": "CA",
+          "title": "Mon apptréciation",
+          "content": "Je trouve que cet appliquation est super car elle est relaxante et me retire un énorme poids d es épaules",
+          "author": "Hhgftuhfkjb",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-30",
           "rating": 2,
           "country": "US",
           "title": "No way to contact creators?",
@@ -573,13 +627,13 @@
           "version": "6.10.1"
         }
       ],
-      "meta.total": 63,
+      "meta.total": 69,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-21",
-      "meta.until": "2025-12-21"
+      "meta.since": "2025-11-22",
+      "meta.until": "2025-12-22"
     }
   ]
 }
