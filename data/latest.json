@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-12-22T00:36:44Z",
+  "generated_at": "2025-12-23T00:34:29Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "This app made me cry. Good cry",
+          "author": "Qhcisnriken",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-20",
+          "rating": 1,
+          "country": "US",
+          "title": "Cool, girl 6767",
+          "content": "I don’t wanna do this app because I wanted to get daily affirmations and it was terrible and not change my life. It just made me more miserable because I kept having to clear my notification center and it just was a one star. I am please improve. I hate this app and I’m never getting it back.",
+          "author": "Cool  teenage 6767",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-20",
+          "rating": 5,
+          "country": "US",
+          "title": "So good",
+          "content": "It gives me better conference",
+          "author": "Evelyn 🥳",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-19",
+          "rating": 1,
+          "country": "US",
+          "title": "Wow.",
+          "content": "Things like this should be free",
+          "author": "PenDaph",
+          "version": "6.15.0"
+        },
         {
           "date": "2025-12-19",
           "rating": 3,
@@ -627,13 +663,13 @@
           "version": "6.10.1"
         }
       ],
-      "meta.total": 69,
+      "meta.total": 73,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-22",
-      "meta.until": "2025-12-22"
+      "meta.since": "2025-11-23",
+      "meta.until": "2025-12-23"
     }
   ]
 }
