@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-12-23T00:34:29Z",
+  "generated_at": "2025-12-24T00:34:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-21",
+          "rating": 5,
+          "country": "US",
+          "title": "My Inspiration",
+          "content": "I’m so glad I found this site 😊😊. Self love and self worth are important to me and this reminds me to show myself patience and love on a daily basis. \nThank you!",
+          "author": "Delancia",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-21",
+          "rating": 4,
+          "country": "US",
+          "title": "intro is very long",
+          "content": "pretty good just really long intro.",
+          "author": "thomasjeffersonglazer",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive pick me up",
+          "content": "I have enjoyed receiving little positive affirmations.  It has been a pick me up during difficult days and a wonderful reminder that I am capable of achieving whatever I strive towards.",
+          "author": "Abfteach",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome",
+          "content": "Great",
+          "author": "Jasbuford",
+          "version": "6.15.0"
+        },
         {
           "date": "2025-12-21",
           "rating": 5,
@@ -39,6 +75,15 @@
           "title": "Wow.",
           "content": "Things like this should be free",
           "author": "PenDaph",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-19",
+          "rating": 5,
+          "country": "CA",
+          "title": "BEST APP EVER",
+          "content": "GREATEST APP OF ALL TIME",
+          "author": "Hermione granger 1312",
           "version": "6.15.0"
         },
         {
@@ -421,6 +466,15 @@
         },
         {
           "date": "2025-11-29",
+          "rating": 5,
+          "country": "AU",
+          "title": "Single mum doing it all",
+          "content": "It’s the only positive words I hear and I need the daily reminders to be softer to myself",
+          "author": "Single mum 67",
+          "version": "6.11.0"
+        },
+        {
+          "date": "2025-11-29",
           "rating": 3,
           "country": "US",
           "title": "Great app - But AI voices ruin it",
@@ -634,42 +688,15 @@
           "content": "I love it keeps me inspired",
           "author": "ShaylovedbyGod",
           "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-23",
-          "rating": 4,
-          "country": "US",
-          "title": "life hack",
-          "content": "i just got this app again after i had it first 7 years ago when i was 19. it really is a hack to rewire your brain and feel the emotions of the affirmations. also i got a great discount for being a returning purchaser. one annoying thing i noticed so far is, i think they’re using ai for the nsfw affirmations. sometimes every single affirmation - scroll after scroll — has the f bomb in it.  it must be a glitch where they’re not properly balancing the different categories of affirmations i have checked. i feel like a 5th grader who just learned their first cuss word. regardless 10/10 from me. i wish you guys would allow us to save mixes and title them. so we always have different go to mixes made up of different categories or even just one.",
-          "author": "simon99e",
-          "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-23",
-          "rating": 5,
-          "country": "CA",
-          "title": "My Favourite App 🩷",
-          "content": "I love this app! It’s so uplifting and the affirmations always come through right when I need them! Thank you 🌸✨",
-          "author": "angel_girl777",
-          "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-23",
-          "rating": 5,
-          "country": "AU",
-          "title": "Worth it!",
-          "content": "This app has been a positive reinforcement for positive self talk and always pops up at the right time. Can get away with the free version. Sometimes we all need that extra self love ✨💕",
-          "author": "Stepp_y",
-          "version": "6.10.1"
         }
       ],
-      "meta.total": 73,
+      "meta.total": 76,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-23",
-      "meta.until": "2025-12-23"
+      "meta.since": "2025-11-24",
+      "meta.until": "2025-12-24"
     }
   ]
 }
