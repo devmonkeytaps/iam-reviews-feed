@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-12-24T00:34:45Z",
+  "generated_at": "2025-12-25T00:34:29Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -652,51 +652,15 @@
           "content": "I like this app in general. It was perfect a year ago. Then they added all of these interruptions to the flow. I can’t use it without getting so many popups — streak reminders, goal progress bar, nudges to 🤍 the affirmations I like (which I don’t do anymore because it dramatically skews the topics of the affirmations I get — if I ‘like’ one topic then suddenly 80% of the affirmations are rewording the same topic), reminders about how to install the widget, a bright “NEW” sign when they add more backgrounds… Seriously guys. I want this app to be calming. Can you create a “quiet” mode that only has affirmations? Like it was a year ago.",
           "author": "Riesgo88",
           "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Gratitude",
-          "content": "Wonderful to have positive words influence my day! Always puts me in a better mood! Like music to my ears!",
-          "author": "Just in Nick",
-          "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Everyone should have this app!",
-          "content": "I love the app!",
-          "author": "ReallyMahogani",
-          "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-24",
-          "rating": 1,
-          "country": "US",
-          "title": "We do not need to buy",
-          "content": "We should not have to buy a good experience everyone should get a good experience😡😡😡😡😡😡😡😡. But it’s still a good app 😀😀😀",
-          "author": "Dog lover29🌺🩷🌺",
-          "version": "6.10.1"
-        },
-        {
-          "date": "2025-11-24",
-          "rating": 5,
-          "country": "US",
-          "title": "I thankful",
-          "content": "I love it keeps me inspired",
-          "author": "ShaylovedbyGod",
-          "version": "6.10.1"
         }
       ],
-      "meta.total": 76,
+      "meta.total": 72,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-24",
-      "meta.until": "2025-12-24"
+      "meta.since": "2025-11-25",
+      "meta.until": "2025-12-25"
     }
   ]
 }
