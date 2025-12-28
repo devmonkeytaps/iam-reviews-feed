@@ -1,10 +1,19 @@
 {
-  "generated_at": "2025-12-27T00:33:44Z",
+  "generated_at": "2025-12-28T00:39:22Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-25",
+          "rating": 5,
+          "country": "US",
+          "title": "So great",
+          "content": "I love so much I’ve been scarred but with this app I’ve been healed and able to let go",
+          "author": "Baby it’s so good",
+          "version": "6.15.0"
+        },
         {
           "date": "2025-12-24",
           "rating": 2,
@@ -39,6 +48,15 @@
           "title": "Gentle reminders",
           "content": "I've enjoyed using the AI function to get affirmations for specific needs. It's amazing how it motivates me. Absolutely worth the  annual subscription price.",
           "author": "Gheers",
+          "version": "6.15.0"
+        },
+        {
+          "date": "2025-12-23",
+          "rating": 1,
+          "country": "CA",
+          "title": "$40 A YEAR???",
+          "content": "First of all, I got charged TWICE. All in all came to $60???! Second of all, WHY IS THIS EVEN SUBSCRIPTION BASED?",
+          "author": "SantanahC",
           "version": "6.15.0"
         },
         {
@@ -679,60 +697,15 @@
           "content": "It affirmations are pretty generic, unless you pay, which is understandable I guess. I just didn’t like the constant reminder of “keeping my streak” felt too much like a chore at that point.",
           "author": "MarlaKS29",
           "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspiration",
-          "content": "This app is very helpful it brighten your day when you’re feeling down, also makes you appreciate your self worth more than others 🙏😇🤩😊",
-          "author": "Covenant26",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-27",
-          "rating": 5,
-          "country": "US",
-          "title": "This app",
-          "content": "It’s is such a great app to help with mental health and stuff like that and it is just a good app in general.",
-          "author": "🤩😒🙂‍↔️😛😒🙂‍↔️🙂‍↔️",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Reassurance to what already is",
-          "content": "Thankyou",
-          "author": "PurpAura",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-27",
-          "rating": 2,
-          "country": "US",
-          "title": "Premium version: Personal affirmations don’t work on widget",
-          "content": "I’m really sad. I want to like this app. But it’s not doing what I thought the premium version would do. I thought I could have my own affirmations I wrote show up on the widget app, but that just doesn’t happen. It always goes back to “general” affirmations. Wish they could change it.  The whole point of upgrading is to get it customizable in my eyes.",
-          "author": "Brightplus app user",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-27",
-          "rating": 1,
-          "country": "US",
-          "title": "Trick",
-          "content": "This app doesn’t give you the information on how much it will cost until AFTER you download and sign up. They completely con you into signing up to take $70!",
-          "author": "Angry Customer 2714",
-          "version": "6.11.0"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 77,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-27",
-      "meta.until": "2025-12-27"
+      "meta.since": "2025-11-28",
+      "meta.until": "2025-12-28"
     }
   ]
 }
