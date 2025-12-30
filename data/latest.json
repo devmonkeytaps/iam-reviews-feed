@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-12-29T00:38:14Z",
+  "generated_at": "2025-12-30T00:34:38Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-28",
+          "rating": 1,
+          "country": "US",
+          "title": "Not a free app",
+          "content": "After going through all the bells and whistles to add this app and answer all the questions it THEN lets you know that it’s just three day trail before being charged.  So just be aware.",
+          "author": "MMBHW3",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Worth it",
+          "content": "I was looking for something more than I thought this app could deliver but it has given me some good meditation stuff as well as gratitude and self love focuses. It’s visually beautiful and easy to use.",
+          "author": "Dash1212eh",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Help",
+          "content": "I tried to cancel my subscription at the end of the free trial, but it’s charging me for the whole of next year and it’s registering I canceled but it keeps trying to charge me for a subscription and I can’t get it to stop trying to charge my account",
+          "author": "CalSly2000",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-27",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "I really love these quotes making me get through my problems and actually making me realize that these quotes are very helpful love this app 10/10",
+          "author": "Mykel Mccarr",
+          "version": "6.16.0"
+        },
         {
           "date": "2025-12-27",
           "rating": 5,
@@ -670,105 +706,15 @@
           "content": "I have had this app for a week. I canceled the subscription. (Which should mean that I can keep using as I was until subscription is over.. in a years time).  But, I paid around $75 for positive attentions being sent to me every day? And, that’s it? And, Apperantly, it won’t record any of my data anymore service I cancelled my subscripttionthat doesn’t end for another flipping year!!! \n\nThere is no way of contacting them and I really don’t see the benefit of passing close to $80/year to have priorice afternoons sent to you every day… nothing else… I don’t get it. Let me know if there is more. Bernice, I just don’t see it…and I’m mad that I spent so much money for so little.",
           "author": "magnoliasunshine",
           "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 5,
-          "country": "AU",
-          "title": "Single mum doing it all",
-          "content": "It’s the only positive words I hear and I need the daily reminders to be softer to myself",
-          "author": "Single mum 67",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 3,
-          "country": "US",
-          "title": "Great app - But AI voices ruin it",
-          "content": "The app itself is great but the reliance on AI generated voices unfortunately diminishes the overall atmosphere. The moment the synthetic audio begins, it disrupts everything. Real human voices would elevate the experience significantly.",
-          "author": "Ginan13",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Beggar App",
-          "content": "All I wanted from this app were some random affirmations. I liked the widget!! I hated all the notifications, had to disable them. It would spend six days in a row telling me it “saved” my streak.\n\nI especially despised today when the widget on my Home Screen became 100% an advertisement instead of a random affirmation. Uninstalled, unnecessary.",
-          "author": "electro7nika",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Mickey Mouse",
-          "content": "App is very woke. It’s nice to be positive but not saccahrine and simplistic.",
-          "author": "chipztaughts",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Ad appears in widget in Home Screen",
-          "content": "For a mindfulness and affirmation app, to have my Home Screen widget for from positive thoughts to an ad to purchase something is reason enough not to ever subscribe again.",
-          "author": "SMC PDX 123456789",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Encouragement and positive thoughts",
-          "content": "Thank you for this app has truly helped me on my healing journey.",
-          "author": "Mmachin1228",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 2,
-          "country": "US",
-          "title": "Bugs",
-          "content": "This app used to be so amazing,  last year I would’ve said 5 million stars! But I’ve been experiencing so many bugs with the notifications not working. Then when they do they don’t give me the affirmations in the category I chose, it reverts back to ‘General’. I don’t want to see the generic affirmations, I want to see the ones I favorited or wrote! The customization was the best part and the whole reason I used the app. I still pay for it because I keep wanting it to get better but I’m really losing hope.",
-          "author": "BrittanyxBlack",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 5,
-          "country": "US",
-          "title": "very good.",
-          "content": "This app makes you feel better about yourself, basically it reads you, “I am smart” or something like that and you believe it",
-          "author": "ILOVEROBLOX100000%",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 1,
-          "country": "CA",
-          "title": "Nah",
-          "content": "WHY DO EVERY EMOTIONAL APP HAVE TO PAY?!?!?!?!?!?!",
-          "author": "ImMhl",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-29",
-          "rating": 5,
-          "country": "US",
-          "title": "The best",
-          "content": "I love it",
-          "author": "Martha Ferreira Silva",
-          "version": "6.11.0"
         }
       ],
-      "meta.total": 84,
+      "meta.total": 78,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-29",
-      "meta.until": "2025-12-29"
+      "meta.since": "2025-11-30",
+      "meta.until": "2025-12-30"
     }
   ]
 }
