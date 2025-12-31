@@ -1,10 +1,37 @@
 {
-  "generated_at": "2025-12-30T00:34:38Z",
+  "generated_at": "2025-12-31T00:35:19Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Affirmations",
+          "content": "I love the different affirmations, however this app home screen widget needs to be a different color because you can’t see it.",
+          "author": "ShawniemCollins",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Prioritize yourself here",
+          "content": "It’s so nice to have an app that asks really great questions about what you want highlighted. It’s perfectly positive and it’s made me share it with family and friends. The free version is what I have and I’m pleased. \nPlease prioritize yourself and get this app. Be honest about what you want and how you feel about things in your life. It will only help and get better.",
+          "author": "BeckKCCO",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-28",
+          "rating": 5,
+          "country": "US",
+          "title": "It’s very uplifting",
+          "content": "I think it’s a good thing to read put positivity in your life every morning as you wake up but throughout the day if you’re feeling bad it comes on lift you up it’s like it knows when to do it. I’m very highly highly liking this app.",
+          "author": "Bmoneyzfj",
+          "version": "6.16.0"
+        },
         {
           "date": "2025-12-28",
           "rating": 1,
@@ -57,6 +84,15 @@
           "title": "I am",
           "content": "Great app! Would recommend. It’s easy to use and I love all the widgets you can add. I also love the way you can heart things and add them to different folders!",
           "author": "YourFavRoomba",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-26",
+          "rating": 5,
+          "country": "AU",
+          "title": "Good app",
+          "content": "This app helps you believe in your self and lets you have positive thinking just what it did to me if you want to believe in your self download now What are you waiting for",
+          "author": "12367apple",
           "version": "6.16.0"
         },
         {
@@ -679,42 +715,15 @@
           "content": "This apps affirmations are always on time for me !!",
           "author": "Kimani2325",
           "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-30",
-          "rating": 4,
-          "country": "US",
-          "title": "Satisfied",
-          "content": "Great App so far I think it’s worth a try atleast",
-          "author": "DesPoohh",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-30",
-          "rating": 5,
-          "country": "CA",
-          "title": "Mon apptréciation",
-          "content": "Je trouve que cet appliquation est super car elle est relaxante et me retire un énorme poids d es épaules",
-          "author": "Hhgftuhfkjb",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-11-30",
-          "rating": 2,
-          "country": "US",
-          "title": "No way to contact creators?",
-          "content": "I have had this app for a week. I canceled the subscription. (Which should mean that I can keep using as I was until subscription is over.. in a years time).  But, I paid around $75 for positive attentions being sent to me every day? And, that’s it? And, Apperantly, it won’t record any of my data anymore service I cancelled my subscripttionthat doesn’t end for another flipping year!!! \n\nThere is no way of contacting them and I really don’t see the benefit of passing close to $80/year to have priorice afternoons sent to you every day… nothing else… I don’t get it. Let me know if there is more. Bernice, I just don’t see it…and I’m mad that I spent so much money for so little.",
-          "author": "magnoliasunshine",
-          "version": "6.11.0"
         }
       ],
-      "meta.total": 78,
+      "meta.total": 79,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-11-30",
-      "meta.until": "2025-12-30"
+      "meta.since": "2025-12-01",
+      "meta.until": "2025-12-31"
     }
   ]
 }
