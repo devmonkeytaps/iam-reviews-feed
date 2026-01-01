@@ -1,10 +1,46 @@
 {
-  "generated_at": "2025-12-31T00:35:19Z",
+  "generated_at": "2026-01-01T00:39:32Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2025-12-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Please stop",
+          "content": "I cannot figure out how to stop getting these affirmations. I cannot figure out how to discontinue them.",
+          "author": "BulldogMomof3",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Very very good",
+          "content": "👌👌",
+          "author": "Br br premium",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-29",
+          "rating": 4,
+          "country": "US",
+          "title": "Love the App & content, but…",
+          "content": "I love my affirmations! I’m at 272 day streak, but can the developers PLEASE change the “save to collection” feature back to it showing all of them to choose from and not auto-saving to the last one I saved to?? It’s inconvenient to have to do all that pressing & it discourages me from using it more actually.",
+          "author": "SamFenn",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-29",
+          "rating": 2,
+          "country": "US",
+          "title": "Self-written affirmations no longer read aloud?",
+          "content": "I loved this app because I could customize the affirmations that I can play to be read aloud and even add my own so they’re more specific. This was great for falling asleep to affirmations, hearing them and recording them airing my morning routine, etc. I love all the new features and styles in the app, but it no longer reads the self-written affirmations out loud! Huge disruption for me. I hate to be looking at the screen the whole time during the practice. Barely worth using anymore. Going to cancel if that feature doesn’t come back. Also there used to be multiple voice options and now there’s just one voice. Luckily it’s not bad, I just like to explore variety. Please bring back the ability to read self-written affirmations aloud and more voice variety! Love this app and really want to use it more in the new year. 🤍",
+          "author": "lady.ladonna",
+          "version": "6.16.0"
+        },
         {
           "date": "2025-12-29",
           "rating": 5,
@@ -93,6 +129,15 @@
           "title": "Good app",
           "content": "This app helps you believe in your self and lets you have positive thinking just what it did to me if you want to believe in your self download now What are you waiting for",
           "author": "12367apple",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2025-12-26",
+          "rating": 5,
+          "country": "CA",
+          "title": "this is great",
+          "content": "i really think that this has improved my mental health by a lot! love love love",
+          "author": "samasowo",
           "version": "6.16.0"
         },
         {
@@ -706,24 +751,15 @@
           "content": "I downloaded the app, answered the million questions to set up my profile and at the end it say you can get 3 days for free and then have to pay so I straight up deleted it…",
           "author": "Marizo12456",
           "version": "6.11.0"
-        },
-        {
-          "date": "2025-12-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Review",
-          "content": "This apps affirmations are always on time for me !!",
-          "author": "Kimani2325",
-          "version": "6.11.0"
         }
       ],
-      "meta.total": 79,
+      "meta.total": 83,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-01",
-      "meta.until": "2025-12-31"
+      "meta.since": "2025-12-02",
+      "meta.until": "2026-01-01"
     }
   ]
 }
