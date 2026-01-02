@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-01T00:39:32Z",
+  "generated_at": "2026-01-02T00:35:20Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -733,33 +733,15 @@
           "content": "I love your App! It truly does do wonders, on a brain like mine.  But unfortunately having to pay the one time fee, all together, up-front, at the same time ($69.99), in this economy is wild! Sorry..   More people would join, and be able to take part in this amazing experience, if maybe you made it a bit cheaper, or at least gave us a monthly option.     But it is a great app you can’t deny it!  🪬🫶🏼💛",
           "author": "Chaoz001",
           "version": "6.11.0"
-        },
-        {
-          "date": "2025-12-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Dose",
-          "content": "This truly helps me navigate my thoughts and emotions. It gives me hope, daily, and reminds me of God’s plans and timing for my life.",
-          "author": "Arnedia",
-          "version": "6.11.0"
-        },
-        {
-          "date": "2025-12-02",
-          "rating": 1,
-          "country": "GB",
-          "title": "1 million questions and finally the reveal that you have to pay…",
-          "content": "I downloaded the app, answered the million questions to set up my profile and at the end it say you can get 3 days for free and then have to pay so I straight up deleted it…",
-          "author": "Marizo12456",
-          "version": "6.11.0"
         }
       ],
-      "meta.total": 83,
+      "meta.total": 81,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-02",
-      "meta.until": "2026-01-01"
+      "meta.since": "2025-12-03",
+      "meta.until": "2026-01-02"
     }
   ]
 }
