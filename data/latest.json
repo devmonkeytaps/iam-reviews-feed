@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-01-03T00:33:23Z",
+  "generated_at": "2026-01-04T00:39:50Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Mostly great, but…",
+          "content": "It’s New Year’s Day 2026, and most of the “Start 2026” affirmations say 2025. Why create a theme around 2026 and not update the content? Weird and disappointing. \n\nOther than that issue, I do love this app in general. The daily reminders at a cadence I choose are great for keeping me in a healthy, positive headspace.",
+          "author": "Polo You Didn't!",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-01",
+          "rating": 5,
+          "country": "US",
+          "title": "A must have",
+          "content": "The messages are right on time",
+          "author": "Omissthang",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Help with personal growth",
+          "content": "Happiest is the key to success",
+          "author": "iam.MarieMarie",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Great App!!!",
+          "content": "I’m loving it so far ❤️❤️",
+          "author": "Vaykashia",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-01",
+          "rating": 5,
+          "country": "US",
+          "title": "✨🤍",
+          "content": "بجننننننن✨🤍🤍🤍🤍",
+          "author": "‏ظل",
+          "version": "6.16.0"
+        },
         {
           "date": "2025-12-31",
           "rating": 5,
@@ -787,24 +832,15 @@
           "content": "I recently downloaded this app and signed up for the free trial. When I signed up I was notified in app that I would receive a notification of when the trial was going to be ending so I could decide if I wanted to keep my subscription and which subscription I wanted. I never received any notice and was automatically charged $72.93. Finding out how to request a refund was inconvenient and not guaranteed. Do not recommend this app.",
           "author": "CS2426",
           "version": "6.12.0"
-        },
-        {
-          "date": "2025-12-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Just Wow",
-          "content": "I absolutely love this app so so much. As a 15-year-old and having many life struggles, this has truly helped so so much and I truly recommend.",
-          "author": "love4ocen",
-          "version": "6.12.0"
         }
       ],
-      "meta.total": 88,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-04",
-      "meta.until": "2026-01-03"
+      "meta.since": "2025-12-05",
+      "meta.until": "2026-01-04"
     }
   ]
 }
