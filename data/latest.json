@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-01-05T00:38:50Z",
+  "generated_at": "2026-01-06T00:35:59Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this app so much",
+          "content": "I’ve had this app for so many years. Now It’s like an unconscious reminder that helps me maintain a positive mindset. The multiple notifications throughout the day, I loveee.",
+          "author": "123shaki",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-03",
+          "rating": 1,
+          "country": "US",
+          "title": "Reset all settings option",
+          "content": "Needs to be a way to reset all settings, clear all history.  The notifications never work consistently.  Some days they will come in as scheduled then you'll get nothing for days.",
+          "author": "Ativan415",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-02",
           "rating": 5,
@@ -823,42 +841,15 @@
           "content": "Happy that the practice session timer has retuned with more functionality. That move changed my recent 2 star review to 5 stars. I’m also re-subscribing to premium. Practice sessions are key!",
           "author": "Mark Warlock",
           "version": "6.12.0"
-        },
-        {
-          "date": "2025-12-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Love yourself",
-          "content": "This app truly helped me love myself! ❤️",
-          "author": "Emw076",
-          "version": "6.12.0"
-        },
-        {
-          "date": "2025-12-06",
-          "rating": 5,
-          "country": "US",
-          "title": "The best",
-          "content": "This app is the best after like 20days it gives you premium for the day and they give it like every 20 days",
-          "author": "jessica09900",
-          "version": "6.12.0"
-        },
-        {
-          "date": "2025-12-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Love the daily dose of affirmations",
-          "content": "It keeps me balanced and gives me more control over my moods",
-          "author": "SimmonsWife",
-          "version": "6.12.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 93,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-06",
-      "meta.until": "2026-01-05"
+      "meta.since": "2025-12-07",
+      "meta.until": "2026-01-06"
     }
   ]
 }
