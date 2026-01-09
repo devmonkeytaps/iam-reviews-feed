@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-01-08T00:35:52Z",
+  "generated_at": "2026-01-09T00:35:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-06",
+          "rating": 3,
+          "country": "US",
+          "title": "Watch out",
+          "content": "Make sure pay attention to your free trial they charge you on the day to renew it’s my fault but I didn’t want to renew asked for refund",
+          "author": "pissedmom75",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-06",
+          "rating": 5,
+          "country": "US",
+          "title": "LOVE this app!!",
+          "content": "This is my favorite app of all time. I keep the “widget” for this app on my home screens, and add my favorite quotes to encourage me throughout each day. It has made such a difference in my emotional health and happiness.",
+          "author": "MLynn4",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Mad",
+          "content": "They will charge your credit card immediately, without your knowledge.  No customer service.  Poorly run app.",
+          "author": "Scornned",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Feels so good",
+          "content": "I love this app. It’s so positive. When I open my phone or take a look at the lock screen, there’s something positive waiting for me. Totally worth it. Thank you for this!",
+          "author": "ADevaroux",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-06",
+          "rating": 3,
+          "country": "US",
+          "title": "Paid :(",
+          "content": "You have to pay for it after 3 days? :(",
+          "author": "daninotdanny",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Stole Money",
+          "content": "They charged my Apple account for $75 without authorization. No notifications regarding my renewal. I have contacted Apple for a refund.",
+          "author": "5StarFiveTV",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-06",
           "rating": 2,
@@ -66,6 +120,15 @@
           "title": "Extremely helpful, just gotta try",
           "content": "I love this app. It really has helped me start turning my thoughts processes around and overcome stress throughout the day. I actually look forward to opening the app and usually save 2-3/day.\n\nBut please change/remove the custom notification sound…",
           "author": "cheeks4901",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-04",
+          "rating": 5,
+          "country": "CA",
+          "title": "Lifetime subscription please",
+          "content": "I like the program, and use it everyday.  Frequently offered @ $14.99 per year and won’t purchase until they have a lifetime access option.  Have too many annual and monthly subscriptions.",
+          "author": "Gandalf252002",
           "version": "6.16.0"
         },
         {
@@ -868,33 +931,15 @@
           "content": "If you need positivity thur out the day. This is it. This app helps more than I can explain. Thank you 🙏",
           "author": "channie 89",
           "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-09",
-          "rating": 2,
-          "country": "US",
-          "title": "Underwhelming",
-          "content": "For 2025 this app is very 2010.  Can’t play while app is closed.  Music during one of the sessions pauses completely when the voice makes a statement.  Very cheaply made app.",
-          "author": "JoeUberSucksAss",
-          "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-09",
-          "rating": 4,
-          "country": "US",
-          "title": "Works most of the time",
-          "content": "I have this app on my lock screen and every 2 weeks it will no longer appear/is blurry, but other than that, I love the app!",
-          "author": "Tabcugedes",
-          "version": "6.13.0"
         }
       ],
-      "meta.total": 98,
+      "meta.total": 103,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-09",
-      "meta.until": "2026-01-08"
+      "meta.since": "2025-12-10",
+      "meta.until": "2026-01-09"
     }
   ]
 }
