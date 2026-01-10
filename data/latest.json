@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-01-09T00:35:39Z",
+  "generated_at": "2026-01-10T00:35:04Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-08",
+          "rating": 1,
+          "country": "US",
+          "title": "Too many questions",
+          "content": "I have no idea what the app is like, there were too many questions. I stop after the 20th question. I hope it works for those that made it through.",
+          "author": "Won't post",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-07",
+          "rating": 5,
+          "country": "US",
+          "title": "My fav",
+          "content": "This app got me through depression & helped me work on transformation into a better me. I love it!",
+          "author": "Fa sho baby",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-07",
+          "rating": 1,
+          "country": "US",
+          "title": "No.",
+          "content": "I notice the developers aren’t responding to any criticism about the app. ONLY botted/positive comments & that speaks volumes. I downloaded this app and decided to read the reviews and INSTANTLY uninstalled. There are way too many negative reviews especially about the subscription service and prices for what you’re getting. The developers do not care about the people, this is obviously a money grab. There are apps that hold the same quality for FREE.",
+          "author": "BAN. TIK.TOK.",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Get it now",
+          "content": "Love it amazing",
+          "author": "Ur girl sky",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-06",
           "rating": 3,
@@ -156,6 +192,15 @@
           "title": "Reset all settings option",
           "content": "Needs to be a way to reset all settings, clear all history.  The notifications never work consistently.  Some days they will come in as scheduled then you'll get nothing for days.",
           "author": "Ativan415",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-03",
+          "rating": 5,
+          "country": "AU",
+          "title": "Details matter",
+          "content": "This is an amazing app.  It just needs someone paying attention to the content.  The update that we just received should have changed all of the year references from 2025 to 2026",
+          "author": "MarilynWilliams",
           "version": "6.16.0"
         },
         {
@@ -895,51 +940,15 @@
           "content": "I would love to learn more, but drop your prices please",
           "author": "FeathersToDustpoetry🪶",
           "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Great app",
-          "content": "Love the quotes",
-          "author": "すぺんさあ",
-          "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Awareness",
-          "content": "I just downloaded and I already love it, I look at my phone often because I do uber and to see a positive quote or affirmation that relates to me is astounding. This app is showing me to choose me",
-          "author": "nekas_makeupbag",
-          "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-10",
-          "rating": 2,
-          "country": "US",
-          "title": "It’s coo",
-          "content": "I like the app. It’s just always showing blank as a widget",
-          "author": "iDollbaby",
-          "version": "6.13.0"
-        },
-        {
-          "date": "2025-12-10",
-          "rating": 5,
-          "country": "US",
-          "title": "💕",
-          "content": "If you need positivity thur out the day. This is it. This app helps more than I can explain. Thank you 🙏",
-          "author": "channie 89",
-          "version": "6.13.0"
         }
       ],
-      "meta.total": 103,
+      "meta.total": 104,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-10",
-      "meta.until": "2026-01-09"
+      "meta.since": "2025-12-11",
+      "meta.until": "2026-01-10"
     }
   ]
 }
