@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-01-10T00:35:04Z",
+  "generated_at": "2026-01-11T00:39:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-08",
+          "rating": 5,
+          "country": "US",
+          "title": "So thankful",
+          "content": "This app is amazing and uplifted  (`try it you will love it ) And I'm so grateful to have a opportunity to say I use this product \n  PS keep up the good work you are making a difference",
+          "author": "nett-nettie",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-08",
           "rating": 1,
@@ -931,15 +940,6 @@
           "content": "Everyone needs words with words to uplift words to make you proud of yourself words that make you have introspective moment words that just make you say I’m all right God bless",
           "author": "Nu New grandma",
           "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-11",
-          "rating": 5,
-          "country": "US",
-          "title": "I am love.",
-          "content": "I would love to learn more, but drop your prices please",
-          "author": "FeathersToDustpoetry🪶",
-          "version": "6.13.0"
         }
       ],
       "meta.total": 104,
@@ -947,8 +947,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-11",
-      "meta.until": "2026-01-10"
+      "meta.since": "2025-12-12",
+      "meta.until": "2026-01-11"
     }
   ]
 }
