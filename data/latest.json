@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-01-11T00:39:23Z",
+  "generated_at": "2026-01-12T00:37:34Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-09",
+          "rating": 1,
+          "country": "US",
+          "title": "Still getting daily notifications",
+          "content": "I deleted the app and am still getting daily notifications. How do I stop them? Would prefer to not have them show up every day at 12:03. Have seen other comments on Reddit about this so I know it’s an issue.",
+          "author": "Rothelisa",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-09",
+          "rating": 2,
+          "country": "US",
+          "title": "Self help positive reminders",
+          "content": "Not happy with this app, not user friendly in my experience, maybe do to age ? Hate I paid 69.00 after 5? Days better to join a group on FB",
+          "author": "Dandtholland",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-08",
+          "rating": 5,
+          "country": "US",
+          "title": "This app helped me",
+          "content": "I really recommend this app if you are having a bad time and/or you don’t have positive self talk. This app helped me be kinder to myself and I am much more happier now :)\nYou can’t say it won’t work because it did for me.",
+          "author": "Ms_Šlaÿẽř",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-08",
           "rating": 5,
@@ -39,6 +66,15 @@
           "title": "No.",
           "content": "I notice the developers aren’t responding to any criticism about the app. ONLY botted/positive comments & that speaks volumes. I downloaded this app and decided to read the reviews and INSTANTLY uninstalled. There are way too many negative reviews especially about the subscription service and prices for what you’re getting. The developers do not care about the people, this is obviously a money grab. There are apps that hold the same quality for FREE.",
           "author": "BAN. TIK.TOK.",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-07",
+          "rating": 1,
+          "country": "CA",
+          "title": "Notifications don’t work",
+          "content": "The app cannot reliably deliver a basic daily affirmation notification, even with a premium subscription. Notifications worked briefly and then stopped, with no consistent fix. For a paid app, this is essentially a waste of money.",
+          "author": "j.gabs",
           "version": "6.16.0"
         },
         {
@@ -942,13 +978,13 @@
           "version": "6.14.1"
         }
       ],
-      "meta.total": 104,
+      "meta.total": 108,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-12",
-      "meta.until": "2026-01-11"
+      "meta.since": "2025-12-13",
+      "meta.until": "2026-01-12"
     }
   ]
 }
