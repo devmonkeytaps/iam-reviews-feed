@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-01-12T00:37:34Z",
+  "generated_at": "2026-01-13T00:31:33Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-11",
+          "rating": 4,
+          "country": "US",
+          "title": "Gracias",
+          "content": "Aprender",
+          "author": "Sop f",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-11",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "This app is amazing for people that don’t feel like there enough or your going through stuff I love this app it helped me so much with stuff I got going on",
+          "author": "Aubree.greg",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-10",
+          "rating": 2,
+          "country": "US",
+          "title": "Uses ai but doesn’t disclose on app or AppStore",
+          "content": "I was really enjoying this for a while and the affirmations truly helped before I realized some affirmations were worded weirdly or had info from the journal they had me put down. I am very anti AI and I am kinda disgusted that it is bent used in everything now. Thanks for helping ruin the planet I’ll move to a better non ai app.",
+          "author": "133567942737373737",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-10",
+          "rating": 5,
+          "country": "US",
+          "title": "It’s relatable",
+          "content": "I love I am it’s really a reminder of how strong and beautiful I am and how to keep going never give up and it’s really special to me",
+          "author": "Love thissssssszszzzzzzz",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-10",
+          "rating": 1,
+          "country": "US",
+          "title": "Horrible",
+          "content": "Horrible",
+          "author": "K😜😄😋😋😏😎",
+          "version": "6.16.0"
+        },
+        {
+          "date": "2026-01-10",
+          "rating": 5,
+          "country": "US",
+          "title": "LOVE LOVE LOVE",
+          "content": "this app really boosted my self esteem and helped me overcome so many obstacles and challenges i definitely recommend!",
+          "author": "leeann975",
+          "version": "6.16.0"
+        },
         {
           "date": "2026-01-09",
           "rating": 1,
@@ -958,33 +1012,15 @@
           "content": "omg this boosted my self esteem to the roof xx",
           "author": "TIA_RULES4EVA",
           "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-13",
-          "rating": 1,
-          "country": "GB",
-          "title": "Waste of time",
-          "content": "Can’t bare being asked a million questions before finding out I’m being charged- frustrating and wasting people’s time",
-          "author": "Jskzidksnksiw",
-          "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Happy customer",
-          "content": "Everyone needs words with words to uplift words to make you proud of yourself words that make you have introspective moment words that just make you say I’m all right God bless",
-          "author": "Nu New grandma",
-          "version": "6.14.1"
         }
       ],
-      "meta.total": 108,
+      "meta.total": 112,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-13",
-      "meta.until": "2026-01-12"
+      "meta.since": "2025-12-14",
+      "meta.until": "2026-01-13"
     }
   ]
 }
