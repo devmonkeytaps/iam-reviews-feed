@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-13T00:31:33Z",
+  "generated_at": "2026-01-14T00:37:47Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -985,42 +985,15 @@
           "content": "Worst feedback portal I have ever encountered",
           "author": "Robertstarkison",
           "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you 🤍",
-          "content": "I literally just added this app to my phone TODAY and it has ALREADY changed my mood 💪🏼",
-          "author": "~KayPee~",
-          "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-14",
-          "rating": 5,
-          "country": "US",
-          "title": "POSITIVITY",
-          "content": "I need this on a daily. It’s very uplifting during work it helps and reminds me of WHOSE I AM!! The child of GOD..",
-          "author": "Pina Says",
-          "version": "6.14.1"
-        },
-        {
-          "date": "2025-12-14",
-          "rating": 5,
-          "country": "GB",
-          "title": "so goood!!",
-          "content": "omg this boosted my self esteem to the roof xx",
-          "author": "TIA_RULES4EVA",
-          "version": "6.14.1"
         }
       ],
-      "meta.total": 112,
+      "meta.total": 109,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-14",
-      "meta.until": "2026-01-13"
+      "meta.since": "2025-12-15",
+      "meta.until": "2026-01-14"
     }
   ]
 }
