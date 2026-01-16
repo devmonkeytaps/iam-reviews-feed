@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-15T00:32:50Z",
+  "generated_at": "2026-01-16T00:36:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1075,42 +1075,15 @@
           "content": "When you feel down in the dump , this app will help you get out of your funk",
           "author": "RayKRod11",
           "version": "6.14.2"
-        },
-        {
-          "date": "2025-12-16",
-          "rating": 1,
-          "country": "US",
-          "title": "Subscription required",
-          "content": "Looked like a great app. Went through the set up at the start of it just to find out it requires a subscription just like every other app.",
-          "author": "Plizzlenizzle",
-          "version": "6.14.2"
-        },
-        {
-          "date": "2025-12-16",
-          "rating": 3,
-          "country": "US",
-          "title": "Love the affirmations, hate the art",
-          "content": "Pro: I love checking in and starting my day with affirmations and it’s fun building my streak especially since it’s positive for my mental health! I have a multi-month streak and I love saving and organizing my affirmations into “boards” super fun :)\nCon: the art is heavily ai generated and they want you to pay for a lot of the customization or different affirmations. Basically anything that’s not the base app is a payment, which I wouldn’t find an issue with except the art isn’t even from a real artist and you can TELL it’s very badly generated ai images which isn’t the best look when you can generate ai images for free and you’re making users pay for that image. I hope they reach out and take Critique from their users, not share holders.\nI’ve tried to find alternative apps but that’s what keeps their users. There is none.",
-          "author": "Xillaaz",
-          "version": "6.14.2"
-        },
-        {
-          "date": "2025-12-16",
-          "rating": 5,
-          "country": "US",
-          "title": "helps really well",
-          "content": "I am really helps me because I have been struggling with some stuff and it has been helping me for a whill and I feel better every time I use I am",
-          "author": "Addie❤️🌺",
-          "version": "6.14.2"
         }
       ],
-      "meta.total": 122,
+      "meta.total": 119,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-16",
-      "meta.until": "2026-01-15"
+      "meta.since": "2025-12-17",
+      "meta.until": "2026-01-16"
     }
   ]
 }
