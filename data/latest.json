@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-01-16T00:36:40Z",
+  "generated_at": "2026-01-17T00:33:55Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-15",
+          "rating": 1,
+          "country": "US",
+          "title": "No Gemini",
+          "content": "They have all the zodiac signs other than Gemini… weird af bro",
+          "author": "Pooty Apple",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Extravagant",
+          "content": "This app is helping me go through the hardest time of my life right now.",
+          "author": "dundujismjsbuabia",
+          "version": "6.18.0"
+        },
         {
           "date": "2026-01-13",
           "rating": 5,
@@ -43,6 +61,15 @@
         },
         {
           "date": "2026-01-12",
+          "rating": 1,
+          "country": "GB",
+          "title": "Can’t login",
+          "content": "Please help me to log in. I have subscribed and you are sending me affirmations but I still can’t log in and can’t cancel if I want to.",
+          "author": "barbiescam",
+          "version": "6.18.0"
+        },
+        {
+          "date": "2026-01-12",
           "rating": 2,
           "country": "US",
           "title": "Not worth paying for",
@@ -75,6 +102,15 @@
           "title": "Me encanta",
           "content": "Me encanta I am porque me hace sentirme segura conmigo misma💖💖💖",
           "author": "💖💗👑💖💗👑",
+          "version": "6.18.0"
+        },
+        {
+          "date": "2026-01-11",
+          "rating": 3,
+          "country": "CA",
+          "title": "I feel blessed",
+          "content": "Thankful for this app when a person is feeling down always positive",
+          "author": "Uncle max 306",
           "version": "6.18.0"
         },
         {
@@ -1048,42 +1084,15 @@
           "content": "Love the app",
           "author": "Page6922",
           "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-17",
-          "rating": 1,
-          "country": "US",
-          "title": "Misleading",
-          "content": "They give you an option to set a reminder when your subscription is about to expire but will not remind you and will try to take $51 out of your account. Mind you the subscription is $47.99. DO NOT GET THIS APP",
-          "author": "Keena ricks",
-          "version": "6.14.2"
-        },
-        {
-          "date": "2025-12-17",
-          "rating": 1,
-          "country": "US",
-          "title": "Disgusting",
-          "content": "Money grab wise up humans! DONT BE SCAMMED by the SCUM of the earth. Make your own affirmations and widgets. With pintrest or other FREE apps.",
-          "author": "Serenbadaxx",
-          "version": "6.14.2"
-        },
-        {
-          "date": "2025-12-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "When you feel down in the dump , this app will help you get out of your funk",
-          "author": "RayKRod11",
-          "version": "6.14.2"
         }
       ],
-      "meta.total": 119,
+      "meta.total": 120,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-17",
-      "meta.until": "2026-01-16"
+      "meta.since": "2025-12-18",
+      "meta.until": "2026-01-17"
     }
   ]
 }
