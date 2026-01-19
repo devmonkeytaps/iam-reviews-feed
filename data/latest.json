@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-01-18T00:38:50Z",
+  "generated_at": "2026-01-19T00:37:54Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily affirmations",
+          "content": "It is so motivating, and it helps your mental this app is so amazing",
+          "author": "Keema.t",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 5,
+          "country": "US",
+          "title": "MUST GET!!",
+          "content": "This is an amazing app!!! Must get!!!!!!!",
+          "author": "Hello there!.",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Hi",
+          "content": "This is an amazing app I love it so much, my sister has a 200 day streak and I hope to get that soon, anyways you should get it because I love it and I think you will to,",
+          "author": "Ready☺️🤣",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 1,
+          "country": "US",
+          "title": "Give me my money back",
+          "content": "I did not want to buy a year subscription and they refuse to give me a refund.",
+          "author": "jazzykitten123",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 1,
+          "country": "US",
+          "title": "Charged $53.27 for this app and it does nothing.",
+          "content": "Angry because I downloaded this app thinking it was free and was charged $53. What does this app do that it charges that much????  This is a rip off and whoever is the creator of this app needs to refund everyone who downloaded this trial app and charged them!!! This is frustrating",
+          "author": "1989jpg",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Inspired to the fullest",
+          "content": "I use this app every single day definitely a part of my daily routine I love this app!",
+          "author": "Kea G",
+          "version": "6.19.0"
+        },
         {
           "date": "2026-01-16",
           "rating": 5,
@@ -30,6 +84,15 @@
           "title": "Notification alarms even after install",
           "content": "After I uninstalled the app I consistently have been BOMBARDED with constant alarms everyday non stop and it WONT stop. I did everything and they keep coming",
           "author": "brimmie95",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-16",
+          "rating": 4,
+          "country": "CA",
+          "title": "Nice app!",
+          "content": "Lovely for my cat tòo.",
+          "author": "MegzzLovesMusic",
           "version": "6.19.0"
         },
         {
@@ -183,6 +246,15 @@
           "title": "🥰👌",
           "content": "Omg amazing",
           "author": "Baby bye, bye, bye,",
+          "version": "6.18.0"
+        },
+        {
+          "date": "2026-01-12",
+          "rating": 1,
+          "country": "AU",
+          "title": "Waste of time",
+          "content": "Yet another app asking a bunch questions to gather your data and then at the end sell you a subscription without a free version. I only want to see my own affirmations on screen - I don’t want to give you my life story",
+          "author": "ivanji",
           "version": "6.18.0"
         },
         {
@@ -1138,42 +1210,15 @@
           "content": "It gives me better conference",
           "author": "Evelyn 🥳",
           "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-19",
-          "rating": 1,
-          "country": "US",
-          "title": "Wow.",
-          "content": "Things like this should be free",
-          "author": "PenDaph",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-19",
-          "rating": 5,
-          "country": "CA",
-          "title": "BEST APP EVER",
-          "content": "GREATEST APP OF ALL TIME",
-          "author": "Hermione granger 1312",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-19",
-          "rating": 3,
-          "country": "US",
-          "title": "New to app still getting to know it:-)",
-          "content": "This morning, I am looking for more features offered by this app; like help or motivating prompts with daily routines & exercise. I like the affirmations for the new year 2026 a lot:-) Automatic rotating pictures & different color backgrounds would be neat. Too much is overwhelming sometimes so the simplicity of this app is also very nice. Thanks for giving folks a chance to leave feedback and reviews.",
-          "author": "Deanerjeebs",
-          "version": "6.15.0"
         }
       ],
-      "meta.total": 129,
+      "meta.total": 134,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-19",
-      "meta.until": "2026-01-18"
+      "meta.since": "2025-12-20",
+      "meta.until": "2026-01-19"
     }
   ]
 }
