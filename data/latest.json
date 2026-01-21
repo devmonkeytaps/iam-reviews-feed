@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-01-20T00:34:35Z",
+  "generated_at": "2026-01-21T00:36:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-18",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this!",
+          "content": "This is great as a free version. I have learned so many new affirmations that i can relate to. The quiz at the start really personalizes my experience!",
+          "author": "suh lena",
+          "version": "6.19.0"
+        },
         {
           "date": "2026-01-18",
           "rating": 3,
@@ -102,6 +111,15 @@
           "title": "Annoying",
           "content": "Didn’t even get through the 500 questions, geez. Had my anxiety in overdrive.",
           "author": "honeycries",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-17",
+          "rating": 5,
+          "country": "AU",
+          "title": "Great, just loving the affirmations",
+          "content": "I sometimes need a different kind of scrolling and this is great for a break",
+          "author": "Lachlan76",
           "version": "6.19.0"
         },
         {
@@ -1237,69 +1255,15 @@
           "content": "The app itself is simple yet very useful. Subconsciously reminds you of how you are enough. Daily affirmations and you don’t have to do \nanything to get results! 5/5 for sure xx",
           "author": "stellabambell",
           "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 5,
-          "country": "US",
-          "title": "My Inspiration",
-          "content": "I’m so glad I found this site 😊😊. Self love and self worth are important to me and this reminds me to show myself patience and love on a daily basis. \nThank you!",
-          "author": "Delancia",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 4,
-          "country": "US",
-          "title": "intro is very long",
-          "content": "pretty good just really long intro.",
-          "author": "thomasjeffersonglazer",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 5,
-          "country": "CA",
-          "title": "Great app",
-          "content": "This app is fantastic! It’s so simple, yet so motivating!",
-          "author": "NationalBananaDuck",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive pick me up",
-          "content": "I have enjoyed receiving little positive affirmations.  It has been a pick me up during difficult days and a wonderful reminder that I am capable of achieving whatever I strive towards.",
-          "author": "Abfteach",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Awesome",
-          "content": "Great",
-          "author": "Jasbuford",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "This app made me cry. Good cry",
-          "author": "Qhcisnriken",
-          "version": "6.15.0"
         }
       ],
-      "meta.total": 143,
+      "meta.total": 139,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-21",
-      "meta.until": "2026-01-20"
+      "meta.since": "2025-12-22",
+      "meta.until": "2026-01-21"
     }
   ]
 }
