@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-22T00:37:12Z",
+  "generated_at": "2026-01-23T00:36:18Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1246,78 +1246,15 @@
           "content": "Awesomeness",
           "author": "bil law",
           "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 1,
-          "country": "AU",
-          "title": "Not free but tricks you into believing it’s free",
-          "content": "Not free",
-          "author": "Bee Strawn",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Gentle reminders",
-          "content": "I've enjoyed using the AI function to get affirmations for specific needs. It's amazing how it motivates me. Absolutely worth the  annual subscription price.",
-          "author": "Gheers",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 1,
-          "country": "CA",
-          "title": "$40 A YEAR???",
-          "content": "First of all, I got charged TWICE. All in all came to $60???! Second of all, WHY IS THIS EVEN SUBSCRIPTION BASED?",
-          "author": "SantanahC",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 1,
-          "country": "US",
-          "title": "The alarms",
-          "content": "Just know, if you allow this app to do daily reminders, they’re literally set up like an alarm clock. They are super loud and go off randomly. And if you delete the app the alarms won’t go away.",
-          "author": "Ash-Bash23",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 4,
-          "country": "GB",
-          "title": "Great for the mind",
-          "content": "Finally using the paid version tho the free version is good. Paid version is even better. I love how u there is an AI tool where you can create something specific for yourself. And I love the practice button for daily meditation where the affirmations and quotes are read out so u can listen. Only thing is if I could change the voice to different accents or male or female and the speed. Then I would give it 5 stars. I’m not a big fan of the American accent when listening, I much prefer the British accent. But keep improving!",
-          "author": "Vivyling",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 5,
-          "country": "CA",
-          "title": "I love this app",
-          "content": "I just downloaded and I am having such a great experience. I am thinking positively already.",
-          "author": "InspiredLH",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing but could have better futures!!",
-          "content": "Hi!\n\nI love this app it helped me so much through the hard times I was having I think the futures that would help it a lot better or maybe that they can be videos in like like some dances and like where you can comment and stuff kind of like TikTok, but not like TikTok and like sweet comments like where you can only click on the comments and not say rude things and you can post a few things but not like bad things like good things to help people and other stuff like that\n\nEdit please make it a little more like there is videos and other stuff because I feel like that’s better, please",
-          "author": "City to",
-          "version": "6.15.0"
         }
       ],
-      "meta.total": 145,
+      "meta.total": 138,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-23",
-      "meta.until": "2026-01-22"
+      "meta.since": "2025-12-24",
+      "meta.until": "2026-01-23"
     }
   ]
 }
