@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-24T00:34:55Z",
+  "generated_at": "2026-01-25T00:40:05Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1300,42 +1300,15 @@
           "content": "For $70 a year, all this is just random generator.  You could ask an AI model to generate a random daily affirmation for free.  I thought there would be more depth…but no. 0/10, don’t recommend.",
           "author": "NicGr88",
           "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-25",
-          "rating": 5,
-          "country": "CA",
-          "title": "Satisfied",
-          "content": "That’s a great app I use to keep myself positive and remind myself how valuable I’m. Also, the background and the music are good, I’m happy to use this pp. Thanks.",
-          "author": "Gunicha",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-25",
-          "rating": 5,
-          "country": "US",
-          "title": "Thanks",
-          "content": "I really appreciate what you have done here for me. The help is thankful.",
-          "author": "UsKnoo",
-          "version": "6.15.0"
-        },
-        {
-          "date": "2025-12-25",
-          "rating": 5,
-          "country": "US",
-          "title": "So great",
-          "content": "I love so much I’ve been scarred but with this app I’ve been healed and able to let go",
-          "author": "Baby it’s so good",
-          "version": "6.15.0"
         }
       ],
-      "meta.total": 147,
+      "meta.total": 144,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-25",
-      "meta.until": "2026-01-24"
+      "meta.since": "2025-12-26",
+      "meta.until": "2026-01-25"
     }
   ]
 }
