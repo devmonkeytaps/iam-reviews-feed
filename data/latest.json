@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-01-29T00:40:43Z",
+  "generated_at": "2026-01-30T00:41:24Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-27",
+          "rating": 5,
+          "country": "US",
+          "title": "I love this app",
+          "content": "Im a 24 i grew up rough in the streets of Baton Rouge but Im looking for peace and THIS APP helps me. Send notifications at the right time that’s matters.",
+          "author": "Loskutem",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Hiked price",
+          "content": "I like this app and was going to reactivate my free trial and pay for a yearly subscription. You increased the price to 69.99 from 47.99. I won’t be reactivating.",
+          "author": "RBG1536",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-27",
+          "rating": 3,
+          "country": "US",
+          "title": "Great but with some small issues",
+          "content": "Great app but it doesn’t always count your days correctly. I have lost 2 streaks because even though I clicked on the day, it didn’t count it. The last one I lost was close to 250 days. Very disheartening for an app you pay for.",
+          "author": "Lisad67213",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-27",
+          "rating": 5,
+          "country": "US",
+          "title": "My Dreams will come true my family",
+          "content": "And I love this app I just now started it 10 mins ago but I needs bad anxiety and depression and relationship finance not to give up be strong",
+          "author": "Amyamy2025$",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-26",
+          "rating": 1,
+          "country": "US",
+          "title": "Cancellation",
+          "content": "I immediately canceled the subscription once I initiated the free trial and realized the money/ app wasn’t worth it. The app still charged me.",
+          "author": "Chels00303",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-26",
+          "rating": 2,
+          "country": "US",
+          "title": "THERE IS PAYMENT INVLOVED",
+          "content": "I got this thinking it was completely free but you cant really actually use the app  it says you  can put wig-its on your phone but it doesn’t mention how you have to pay!!!!!",
+          "author": "pokeperson(66",
+          "version": "6.20.0"
+        },
         {
           "date": "2026-01-25",
           "rating": 5,
@@ -1264,51 +1318,15 @@
           "content": "Omg this app is amazing! It gives me so much great affirmations and I feel great thur out the day! My new FAV APP!!!",
           "author": "Amazing!! Love it!",
           "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Joanna",
-          "content": "This is a great app if you need a little encouragement throughout the day!!",
-          "author": "Joanna @123",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Great application",
-          "content": "100% worth having this application. Great positive and strong affirmation’s to read daily. Motivates me and drives me to success.",
-          "author": "Caro succeed",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Positivity",
-          "content": "Very motivating and inspiring app to learn about positive change and outcomes. Love this app, very grateful how I found this and very helpful of the affirmations I get daily.",
-          "author": "jaylen rosario :)",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-30",
-          "rating": 1,
-          "country": "CA",
-          "title": "3 days free trial",
-          "content": "I answered all the questions to find out it is a 3 day free trial.  Deleted it",
-          "author": "Shaylaina",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 144,
+      "meta.total": 146,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-30",
-      "meta.until": "2026-01-29"
+      "meta.since": "2025-12-31",
+      "meta.until": "2026-01-30"
     }
   ]
 }
