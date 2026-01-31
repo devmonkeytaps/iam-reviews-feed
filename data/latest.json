@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-01-30T00:41:24Z",
+  "generated_at": "2026-01-31T00:39:09Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1282,51 +1282,15 @@
           "content": "بجننننننن✨🤍🤍🤍🤍",
           "author": "‏ظل",
           "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Beautiful App",
-          "content": "I’ve had this app for several years now, I use it everyday.",
-          "author": "mrs_holguin",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-31",
-          "rating": 1,
-          "country": "US",
-          "title": "Paywall",
-          "content": "Any app that is free to download but then asks you to pay for use after setting it up is the bane of the App Store. I really wanted this app so I could give myself a good reminder of my goals and positivity. If you wanted me to pay for it, put a price on the app at install so I know it’s behind a paywall.",
-          "author": "K-trainee",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-31",
-          "rating": 4,
-          "country": "US",
-          "title": "😁🙄😃🥱😂",
-          "content": "I love “I am” because it encourages me, but I hate the notifications. If you get this app turn them off.",
-          "author": "YESTERDAYSROOKIEPLAYER!",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2025-12-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing!!!",
-          "content": "Omg this app is amazing! It gives me so much great affirmations and I feel great thur out the day! My new FAV APP!!!",
-          "author": "Amazing!! Love it!",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 146,
+      "meta.total": 142,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2025-12-31",
-      "meta.until": "2026-01-30"
+      "meta.since": "2026-01-01",
+      "meta.until": "2026-01-31"
     }
   ]
 }
