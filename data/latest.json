@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-01-31T00:39:09Z",
+  "generated_at": "2026-02-01T00:49:12Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Peaceful app",
+          "content": "I use it to calm myself down when I’m upset still plenty of options when you don’t have pro and amazing app overall",
+          "author": "Peace and love💅🏾❤️🌊",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-01-29",
+          "rating": 1,
+          "country": "US",
+          "title": "Not really free",
+          "content": "Marketed as a free app but you have to pay.  What am I missing?",
+          "author": "**6**6**6***6**6",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Get this right now!",
+          "content": "This app is soo helpful! There’s NO ads and helped me to love myself! If you are struggling with something this app is for you!",
+          "author": "Leeniaua",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-28",
+          "rating": 1,
+          "country": "US",
+          "title": "I remember why I cancelled this now",
+          "content": "It's just not very deep.. it's like all the same posts you've seen on social for the last twenty years in an app that now puts them on your lock screen.. maybe this is fantastic for energy newbies, but for the vets.. not so much..",
+          "author": "evolutionofj",
+          "version": "6.20.0"
+        },
         {
           "date": "2026-01-27",
           "rating": 5,
@@ -183,6 +219,15 @@
           "title": "Not a free app",
           "content": "I downloaded the app and filled out the questionnaire and at the end it asks for payment. Waste of time.",
           "author": "Sethjjvk",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-23",
+          "rating": 5,
+          "country": "CA",
+          "title": "Amazing",
+          "content": "This app is amazing. It absolutely changes my mindset every time I’m sent my daily reminder. Highly recommended.",
+          "author": "Souwnt2play",
           "version": "6.20.0"
         },
         {
@@ -1228,69 +1273,15 @@
           "content": "Actually works",
           "author": "LadybugC5",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 4,
-          "country": "US",
-          "title": "Mostly great, but…",
-          "content": "It’s New Year’s Day 2026, and most of the “Start 2026” affirmations say 2025. Why create a theme around 2026 and not update the content? Weird and disappointing. \n\nOther than that issue, I do love this app in general. The daily reminders at a cadence I choose are great for keeping me in a healthy, positive headspace.",
-          "author": "Polo You Didn't!",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 5,
-          "country": "US",
-          "title": "A must have",
-          "content": "The messages are right on time",
-          "author": "Omissthang",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Help with personal growth",
-          "content": "Happiest is the key to success",
-          "author": "iam.MarieMarie",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Great App!!!",
-          "content": "I’m loving it so far ❤️❤️",
-          "author": "Vaykashia",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 1,
-          "country": "CA",
-          "title": "Behind a pay wall Not free",
-          "content": "The app makes you answer a whole lot of questions then it tells you, that you get a 3 day free trial Don’t bother answering any questions your just helping build a greedy app for free and they can’t even give you a free service you have to pay to continue to use it",
-          "author": "Daniels76mc",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-01",
-          "rating": 5,
-          "country": "US",
-          "title": "✨🤍",
-          "content": "بجننننننن✨🤍🤍🤍🤍",
-          "author": "‏ظل",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 142,
+      "meta.total": 141,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-01",
-      "meta.until": "2026-01-31"
+      "meta.since": "2026-01-02",
+      "meta.until": "2026-02-01"
     }
   ]
 }
