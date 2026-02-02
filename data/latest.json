@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-01T00:49:12Z",
+  "generated_at": "2026-02-02T00:43:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1237,51 +1237,15 @@
           "content": "This is an amazing app.  It just needs someone paying attention to the content.  The update that we just received should have changed all of the year references from 2025 to 2026",
           "author": "MarilynWilliams",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Always makes me smile 😊",
-          "content": "This app is so helpful and I love it so much!!! There are so many categories of different quotes you can read and they really help with my negative self talk and sometimes low self esteem. You NEED to download this. Definitely worth it 😁",
-          "author": "Gehvegb",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-02",
-          "rating": 5,
-          "country": "US",
-          "title": "🤞🏾",
-          "content": "I love the affirmations just need to learn how to work app better",
-          "author": "Bunny2286",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-02",
-          "rating": 1,
-          "country": "US",
-          "title": "Basically a paid app",
-          "content": "I don’t understand why it asks me all these questions and waits till the end to say I have to pay for a subscription.",
-          "author": "VoReason313",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive change",
-          "content": "Actually works",
-          "author": "LadybugC5",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 141,
+      "meta.total": 137,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-02",
-      "meta.until": "2026-02-01"
+      "meta.since": "2026-01-03",
+      "meta.until": "2026-02-02"
     }
   ]
 }
