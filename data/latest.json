@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-02-02T00:43:45Z",
+  "generated_at": "2026-02-03T00:43:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-01-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Helpful",
+          "content": "This app is very helpful",
+          "author": "shettra",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-01-30",
+          "rating": 1,
+          "country": "US",
+          "title": "Constant alarm",
+          "content": "I tried this app for its free trial and I enjoyed a few of the affirmations and the aesthetics and considered continuing my subscription. However, I unfortunately allowed the app to create an alarm for daily reminders and now I can’t find it to turn it off. I turned off the alarm switch in the app itself and still got the alarm on my phone every day at the same time. Then I deleted the app and I am still getting that same alarm and it’s not showing up in my phone clock alarm app to turn off either. So this makes me fully distrust this app and I won’t be resubscribing since I now have to google how to remove this alarm from my phone.",
+          "author": "Supercellsuperfan",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-01-30",
+          "rating": 1,
+          "country": "US",
+          "title": "Scammers",
+          "content": "I canceled and they’re still trying to charge me scamming. At it’s best.",
+          "author": "outdamudd",
+          "version": "6.21.0"
+        },
         {
           "date": "2026-01-29",
           "rating": 5,
@@ -1201,51 +1228,15 @@
           "content": "I like the program, and use it everyday.  Frequently offered @ $14.99 per year and won’t purchase until they have a lifetime access option.  Have too many annual and monthly subscriptions.",
           "author": "Gandalf252002",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Helpful!",
-          "content": "Wow, I’m really impressed by how delightful this app is and how it gently helps shift my mindset over time. I read it whenever I need encouragement, a mental reset, or even just something meaningful to pass the time when I’m bored.",
-          "author": "Aimeez98",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app so much",
-          "content": "I’ve had this app for so many years. Now It’s like an unconscious reminder that helps me maintain a positive mindset. The multiple notifications throughout the day, I loveee.",
-          "author": "123shaki",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Reset all settings option",
-          "content": "Needs to be a way to reset all settings, clear all history.  The notifications never work consistently.  Some days they will come in as scheduled then you'll get nothing for days.",
-          "author": "Ativan415",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-03",
-          "rating": 5,
-          "country": "AU",
-          "title": "Details matter",
-          "content": "This is an amazing app.  It just needs someone paying attention to the content.  The update that we just received should have changed all of the year references from 2025 to 2026",
-          "author": "MarilynWilliams",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 137,
+      "meta.total": 136,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-03",
-      "meta.until": "2026-02-02"
+      "meta.since": "2026-01-04",
+      "meta.until": "2026-02-03"
     }
   ]
 }
