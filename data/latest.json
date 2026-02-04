@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-02-03T00:43:35Z",
+  "generated_at": "2026-02-04T00:39:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Love this app but…",
+          "content": "I love this app so much and it is so helpful! The only problem is that it sometimes says bad words.",
+          "author": "Name not mine",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-01",
+          "rating": 5,
+          "country": "US",
+          "title": "How I feel about “I am”",
+          "content": "“I am” really helped me on the first day with my self-love, and connecting with my family.",
+          "author": "Finley McEwen",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily dose of warm messages for my heart",
+          "content": "The affirmations are inspiring and uplifting. The platform is easy to navigate and the stylistic design radiates warmth and light. It is easy to use and there aren’t too many unnecessary upsell distractions.",
+          "author": "MmmelissaM77",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-01",
+          "rating": 3,
+          "country": "US",
+          "title": "Uhm idk",
+          "content": "It’s days I open the app from my watch and it stops my streak I’ve been posting and it doesn’t record the day unless I open the app on my phone !",
+          "author": "Fukudome",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-01",
+          "rating": 1,
+          "country": "US",
+          "title": "It will take your money out right.",
+          "content": "You can not get your money back either. When it says it will do a monthly subscription, it is lying. It will take the whole fee out imediately. I do not recommend this app for anyone low incomes it basically is a money scam.",
+          "author": "fhrjsjsjhfjgjska",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-01-31",
+          "rating": 5,
+          "country": "US",
+          "title": "Helpful",
+          "content": "Thank you so much for this. It took a while to find something free. Easy to navigate. There’s basic customization, which is a delight. I appreciate being able to add custom affirmations. The reminder notifications is nice to see throughout the stressful day. The widgets are calming reminders. I like the interface with the swiping through affirmations and ability to heart especially helpful ones or ones that resonate with me. \nThank you again. I feel like a better person when I regularly use this app.",
+          "author": "SirenaLillywing",
+          "version": "6.21.0"
+        },
         {
           "date": "2026-01-30",
           "rating": 5,
@@ -354,6 +408,15 @@
           "title": "♊️",
           "content": "I was really surprised when I noticed there was a zodiac sign missing from the list of astrological signs to choose from when I signed up..",
           "author": "E~Hardy",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-20",
+          "rating": 1,
+          "country": "AU",
+          "title": "Maybe include all the star signs that exist",
+          "content": "Literally just signing up to the app and it asked for my star sign, I scroll down and mine isn't even an available option i can pick at all. Maybe include Gemini and dont leave anyone out. Im deleting and i wont be re installing unless you fix this. Its discrimination.",
+          "author": "Batman_purplelly",
           "version": "6.19.0"
         },
         {
@@ -1201,42 +1264,15 @@
           "content": "People really need to charge you for daily affirmations and bettering your mental health disgusting",
           "author": "Hahevbenememakak",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-04",
-          "rating": 5,
-          "country": "US",
-          "title": "LOVE THIS GLAD I FOUD THIS ON IG",
-          "content": "Love this",
-          "author": "Taydiner0",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Extremely helpful, just gotta try",
-          "content": "I love this app. It really has helped me start turning my thoughts processes around and overcome stress throughout the day. I actually look forward to opening the app and usually save 2-3/day.\n\nBut please change/remove the custom notification sound…",
-          "author": "cheeks4901",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-04",
-          "rating": 5,
-          "country": "CA",
-          "title": "Lifetime subscription please",
-          "content": "I like the program, and use it everyday.  Frequently offered @ $14.99 per year and won’t purchase until they have a lifetime access option.  Have too many annual and monthly subscriptions.",
-          "author": "Gandalf252002",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 136,
+      "meta.total": 140,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-04",
-      "meta.until": "2026-02-03"
+      "meta.since": "2026-01-05",
+      "meta.until": "2026-02-04"
     }
   ]
 }
