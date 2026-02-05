@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-02-04T00:39:45Z",
+  "generated_at": "2026-02-05T00:43:29Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Better than most",
+          "content": "Honestly, I have only had this app so I can’t really speak for others but I think it’s worth the storage space. It is great for affirmations and positive thinking. As well as lots of ways to personalize it… only if you have the premium… just a heads up. But feel free to use it! It doesn’t have any adds either.",
+          "author": "UnknownUser user",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Blessed  to have found this app",
+          "content": "Reminds me every day to be thankful and full of gratitude and appreciation",
+          "author": "Anita dairy fairy",
+          "version": "6.21.0"
+        },
+        {
+          "date": "2026-02-01",
+          "rating": 1,
+          "country": "US",
+          "title": "Delete app",
+          "content": "I want to delete this I am and it won’t let me, I just want the other one. Annoying having 2",
+          "author": "$77:878/",
+          "version": "6.21.0"
+        },
         {
           "date": "2026-02-01",
           "rating": 4,
@@ -1219,60 +1246,15 @@
           "content": "Hard to give this app a decent review, when every time I try and play the practice is stalls and I have restart.  Very frustrating and annoying.",
           "author": "Amgiossi",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-05",
-          "rating": 2,
-          "country": "US",
-          "title": "Doesn’t work - no response from developer",
-          "content": "I love the concept of this app and would be willing to pay for the annual subscription, but the widgets don’t work and there were some other glitches as well. There is no way to contact the developer, which is frustrating, but I did submit a support ticket to explain how the Home Screen widget doesn’t work and how the app is experiencing some glitches. I’ve received no response from them. Really disappointed, as I believe this app could have helped me a lot, but when the developer is unresponsive and the app is glitchy and buggy, it’s not worth $70 a year. And there’s no free version. Really disappointed.",
-          "author": "MKAB82",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-05",
-          "rating": 2,
-          "country": "US",
-          "title": "Good content but bad follow through",
-          "content": "I don’t typically leave reviews, but this upset me. I was supposed to receive a notification before the subscription renewed because I just download this app less than a week ago. I received no notification and it charged my account $50! I do not believe I’m paying $50 for an app with content that can be provided free by other apps. I wanted to try this out to see if I enjoyed it, but apparently I just paid $50 for a few “I am” statements and now I’m stuck with this app until 2027 knowing I will never use it again. They need to be more clear about the fact that you will not receive a notification before the subscription period renews. I can’t believe this costs $50 anyway.",
-          "author": "rhyfhgfhgghf",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-05",
-          "rating": 1,
-          "country": "US",
-          "title": "BEWARE: What! A! Nightmare!!",
-          "content": "This is just awful. I gave it a try for a few days and I didn’t like it. So I “simply” deleted it. Or so I thought. Even though I got rid of it the alarm, it goes off at 9am, which I first programmed and also at Midnight, which I DIDNT program. I can’t seem to stop it and I can’t believe I have to “live” with this annoying disturbance that should have simply disappeared. I don’t even get a “calming” phrase, it’s JUST an alarm! What the heck can I do now? One of the few times I DONT read reviews and this is what happens. I hope I can figure out this nonsense soon.",
-          "author": "mmeask",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-05",
-          "rating": 3,
-          "country": "GB",
-          "title": "Not updated",
-          "content": "I do like using the app however it hasn’t updated the year. Day 5 and I’m still getting 2025. So a little bit disappointed as I’ve just renewed for another year.",
-          "author": "Jaffacakes80",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-05",
-          "rating": 1,
-          "country": "US",
-          "title": "Money hungry",
-          "content": "People really need to charge you for daily affirmations and bettering your mental health disgusting",
-          "author": "Hahevbenememakak",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 140,
+      "meta.total": 138,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-05",
-      "meta.until": "2026-02-04"
+      "meta.since": "2026-01-06",
+      "meta.until": "2026-02-05"
     }
   ]
 }
