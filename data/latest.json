@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-02-05T00:43:29Z",
+  "generated_at": "2026-02-06T00:40:12Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-04",
+          "rating": 5,
+          "country": "US",
+          "title": "high hopes!",
+          "content": "i don’t really write reviews but i just started and am hoping its good!",
+          "author": "shaw masta",
+          "version": "6.22.0"
+        },
+        {
+          "date": "2026-02-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Love!",
+          "content": "This brings me joy and positivity each day",
+          "author": "Jenniferleigh722",
+          "version": "6.21.0"
+        },
         {
           "date": "2026-02-03",
           "rating": 5,
@@ -255,6 +273,15 @@
           "title": "Annoyed",
           "content": "I’ve had I Am for a while and for the past few months, it has refused to update widget themes. I don’t even know what the picture is right now, but it doesn’t match the chosen theme at all and it won’t update, even when I restart the device and remove the widget from the screen.",
           "author": "Tori2510",
+          "version": "6.20.0"
+        },
+        {
+          "date": "2026-01-24",
+          "rating": 5,
+          "country": "GB",
+          "title": "Ad",
+          "content": "Great amazing I love it, but there is adds and keeps asking you to get premium x",
+          "author": "Dog lover 🍓",
           "version": "6.20.0"
         },
         {
@@ -808,6 +835,15 @@
         },
         {
           "date": "2026-01-15",
+          "rating": 5,
+          "country": "ES",
+          "title": "Love",
+          "content": "Waits",
+          "author": "fitñara",
+          "version": "6.19.0"
+        },
+        {
+          "date": "2026-01-15",
           "rating": 1,
           "country": "GB",
           "title": "I did not want free premium trial but been put on it.",
@@ -1183,78 +1219,15 @@
           "content": "Love it amazing",
           "author": "Ur girl sky",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 3,
-          "country": "US",
-          "title": "Watch out",
-          "content": "Make sure pay attention to your free trial they charge you on the day to renew it’s my fault but I didn’t want to renew asked for refund",
-          "author": "pissedmom75",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 5,
-          "country": "US",
-          "title": "LOVE this app!!",
-          "content": "This is my favorite app of all time. I keep the “widget” for this app on my home screens, and add my favorite quotes to encourage me throughout each day. It has made such a difference in my emotional health and happiness.",
-          "author": "MLynn4",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 1,
-          "country": "US",
-          "title": "Mad",
-          "content": "They will charge your credit card immediately, without your knowledge.  No customer service.  Poorly run app.",
-          "author": "Scornned",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Feels so good",
-          "content": "I love this app. It’s so positive. When I open my phone or take a look at the lock screen, there’s something positive waiting for me. Totally worth it. Thank you for this!",
-          "author": "ADevaroux",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 3,
-          "country": "US",
-          "title": "Paid :(",
-          "content": "You have to pay for it after 3 days? :(",
-          "author": "daninotdanny",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 1,
-          "country": "US",
-          "title": "Stole Money",
-          "content": "They charged my Apple account for $75 without authorization. No notifications regarding my renewal. I have contacted Apple for a refund.",
-          "author": "5StarFiveTV",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-06",
-          "rating": 2,
-          "country": "US",
-          "title": "App keeps stopping",
-          "content": "Hard to give this app a decent review, when every time I try and play the practice is stalls and I have restart.  Very frustrating and annoying.",
-          "author": "Amgiossi",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 138,
+      "meta.total": 135,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-06",
-      "meta.until": "2026-02-05"
+      "meta.since": "2026-01-07",
+      "meta.until": "2026-02-06"
     }
   ]
 }
