@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-06T00:40:12Z",
+  "generated_at": "2026-02-07T00:40:42Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1183,51 +1183,15 @@
           "content": "I have no idea what the app is like, there were too many questions. I stop after the 20th question. I hope it works for those that made it through.",
           "author": "Won't post",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-07",
-          "rating": 5,
-          "country": "US",
-          "title": "My fav",
-          "content": "This app got me through depression & helped me work on transformation into a better me. I love it!",
-          "author": "Fa sho baby",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-07",
-          "rating": 1,
-          "country": "US",
-          "title": "No.",
-          "content": "I notice the developers aren’t responding to any criticism about the app. ONLY botted/positive comments & that speaks volumes. I downloaded this app and decided to read the reviews and INSTANTLY uninstalled. There are way too many negative reviews especially about the subscription service and prices for what you’re getting. The developers do not care about the people, this is obviously a money grab. There are apps that hold the same quality for FREE.",
-          "author": "BAN. TIK.TOK.",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-07",
-          "rating": 1,
-          "country": "CA",
-          "title": "Notifications don’t work",
-          "content": "The app cannot reliably deliver a basic daily affirmation notification, even with a premium subscription. Notifications worked briefly and then stopped, with no consistent fix. For a paid app, this is essentially a waste of money.",
-          "author": "j.gabs",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Get it now",
-          "content": "Love it amazing",
-          "author": "Ur girl sky",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 135,
+      "meta.total": 131,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-07",
-      "meta.until": "2026-02-06"
+      "meta.since": "2026-01-08",
+      "meta.until": "2026-02-07"
     }
   ]
 }
