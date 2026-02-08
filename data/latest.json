@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-07T00:40:42Z",
+  "generated_at": "2026-02-08T00:53:41Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1147,51 +1147,15 @@
           "content": "Not happy with this app, not user friendly in my experience, maybe do to age ? Hate I paid 69.00 after 5? Days better to join a group on FB",
           "author": "Dandtholland",
           "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-08",
-          "rating": 5,
-          "country": "US",
-          "title": "This app helped me",
-          "content": "I really recommend this app if you are having a bad time and/or you don’t have positive self talk. This app helped me be kinder to myself and I am much more happier now :)\nYou can’t say it won’t work because it did for me.",
-          "author": "Ms_Šlaÿẽř",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-08",
-          "rating": 5,
-          "country": "US",
-          "title": "So thankful",
-          "content": "This app is amazing and uplifted  (`try it you will love it ) And I'm so grateful to have a opportunity to say I use this product \n  PS keep up the good work you are making a difference",
-          "author": "nett-nettie",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-08",
-          "rating": 5,
-          "country": "AU",
-          "title": "I am everything",
-          "content": "Thanks I am app - everyone needs to be reminded how magnificent and wonderful that they are 🙏❤️",
-          "author": "curcur68",
-          "version": "6.16.0"
-        },
-        {
-          "date": "2026-01-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Too many questions",
-          "content": "I have no idea what the app is like, there were too many questions. I stop after the 20th question. I hope it works for those that made it through.",
-          "author": "Won't post",
-          "version": "6.16.0"
         }
       ],
-      "meta.total": 131,
+      "meta.total": 127,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-08",
-      "meta.until": "2026-02-07"
+      "meta.since": "2026-01-09",
+      "meta.until": "2026-02-08"
     }
   ]
 }
