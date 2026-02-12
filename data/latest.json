@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-02-11T00:48:30Z",
+  "generated_at": "2026-02-12T00:43:43Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-09",
+          "rating": 3,
+          "country": "US",
+          "title": "Not there yet",
+          "content": "I wanted to like this app so much because it’s a great idea. I just don’t think it’s functional 100% yet. Lock screen function does not work on my iPhone which I have updated. Inspirational quotes to start a new day item an idea started at 6 PM. The AI or whoever is checking the dialogue isn’t there yet… trying to cancel the three day trial. You are set up in a loop. I took a screen video of how to cancel and it never cancels. It’s just a loop.",
+          "author": "2Inspire!!!",
+          "version": "6.22.0"
+        },
         {
           "date": "2026-02-09",
           "rating": 1,
@@ -93,6 +102,15 @@
           "title": "annoying. not even worth it anymore.",
           "content": "i can’t do the practice. because it won’t. shut. up. there seems to be no way to turn off the random woman’s voice reading aloud my affirmations. i can’t figure it out. there’s no way to contact these people for help. i’m cancelling my subscription because this is extremely annoying. what’s the point of using this if that annoying voice is forced down your throat. i looked through the “help” answers but none of them address this absolutely god awful voice.",
           "author": "idkididntevenwantanickname",
+          "version": "6.22.0"
+        },
+        {
+          "date": "2026-02-06",
+          "rating": 5,
+          "country": "CA",
+          "title": "Positive thoughts to start your day",
+          "content": "I like the collection of quotes of different genre. Totally recommend it!!!!",
+          "author": "Fmohd987",
           "version": "6.22.0"
         },
         {
@@ -1138,87 +1156,15 @@
           "content": "Plenty of mindful and supportive prompts. The backgrounds are so peaceful especially the ones with ambient sounds. It has helped me through a lot of difficult days for those helpful and supportive reminders. Love this app!",
           "author": "HummingBird1211",
           "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 1,
-          "country": "US",
-          "title": "Do not use",
-          "content": "It claims that there are in app purchases but this app actually costs money and is hard to remove once you determine you don’t want due to fees.",
-          "author": "laurie r g",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 3,
-          "country": "US",
-          "title": "Missing zodiac sign",
-          "content": "Gemini is missing",
-          "author": "Nikki3607",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 3,
-          "country": "US",
-          "title": "Nice when it works",
-          "content": "Multiple times throughout the year it’ll just stop working and give you a blank screen and error out and close. Can’t even open the damn app. I’m tired of this happening every year. Why are your programmers so garbage.",
-          "author": "ally5177",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 1,
-          "country": "GB",
-          "title": "Can’t login",
-          "content": "Please help me to log in. I have subscribed and you are sending me affirmations but I still can’t log in and can’t cancel if I want to.",
-          "author": "barbiescam",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 2,
-          "country": "US",
-          "title": "Not worth paying for",
-          "content": "You want people to pay for an app that can’t even speak a normal popular American name back to them through audio…",
-          "author": "Cp33stvlonhgfdfbnk",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 5,
-          "country": "US",
-          "title": "🥰👌",
-          "content": "Omg amazing",
-          "author": "Baby bye, bye, bye,",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 1,
-          "country": "AU",
-          "title": "Waste of time",
-          "content": "Yet another app asking a bunch questions to gather your data and then at the end sell you a subscription without a free version. I only want to see my own affirmations on screen - I don’t want to give you my life story",
-          "author": "ivanji",
-          "version": "6.18.0"
-        },
-        {
-          "date": "2026-01-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Great App 🎀",
-          "content": "This is a such a great app, I’m in love love with this 🌸🩷",
-          "author": "Mis evaluaciones",
-          "version": "6.18.0"
         }
       ],
-      "meta.total": 134,
+      "meta.total": 128,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-12",
-      "meta.until": "2026-02-11"
+      "meta.since": "2026-01-13",
+      "meta.until": "2026-02-12"
     }
   ]
 }
