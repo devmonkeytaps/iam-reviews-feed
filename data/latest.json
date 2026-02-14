@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-13T00:45:47Z",
+  "generated_at": "2026-02-14T00:42:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1219,24 +1219,15 @@
           "content": "I really like the concept and the prompts, so when the UI glitches it is really distracting. I am finding after my practice it is hard to select my favourites and exit the summary screen. Hopefully this help 🙏",
           "author": "BeckaBoo137",
           "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-14",
-          "rating": 5,
-          "country": "GB",
-          "title": "Life changing",
-          "content": "An absolute game changer, alongside therapy. Being able to write and select affirmations has really helped me shift the internal voice into one that’s kind, compassionate and supportive. I’m currently on a 50 day streak too. Keeping notifications on (the only app I have notifications on for) with persistent banners helps remind me to take a pause and a breath throughout the busy day. The premium price works out to £1 per month and I’d pay 10x that for the benefits gained. Invest in yourself.",
-          "author": "Roddersgib24",
-          "version": "6.18.0"
         }
       ],
-      "meta.total": 136,
+      "meta.total": 135,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-14",
-      "meta.until": "2026-02-13"
+      "meta.since": "2026-01-15",
+      "meta.until": "2026-02-14"
     }
   ]
 }
