@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T00:43:48Z",
+  "generated_at": "2026-02-17T00:43:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -300,6 +300,15 @@
           "title": "Calm",
           "content": "It help me through stressful situations",
           "author": "Joy ful tv",
+          "version": "6.22.0"
+        },
+        {
+          "date": "2026-02-08",
+          "rating": 5,
+          "country": "AU",
+          "title": "So good",
+          "content": "This is so good I’m so happy I got this app",
+          "author": "Wondiful app",
           "version": "6.22.0"
         },
         {
@@ -1102,114 +1111,15 @@
           "content": "You made me feel so happy because you made me pass 12 grade Ryan",
           "author": "Sammy appreciates you",
           "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Life Changing",
-          "content": "I am is the best app you could ever wish for. This app sends you texts of positive and motivational reminders that set the right kick off to your day. I went from sad, angry, and slightly depressed and weak; to confident, strong, happy, and loving myself, even my faults and regrets. I am is an app we all need as women and men. Don’t doubt yourself, love it. ❤️‍🩹",
-          "author": "Livie Cordo",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "Keep me at peace",
-          "author": "Because I Love the Lord",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "CA",
-          "title": "Frustrating bug impacting core functionality",
-          "content": "All of my push notifications are different categories than the affirmations that I have set on my app. Very annoying because they’re generic and not relevant.",
-          "author": "crapolaresellerssuck",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Motif",
-          "content": "Love self",
-          "author": "FawoBfive",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app",
-          "content": "It makes me so happy every day! It resume to be a better, more positive me!",
-          "author": "9-to-5 mama",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Love the app",
-          "content": "This app is helpful",
-          "author": "Londyn galloway",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspiring",
-          "content": "These keep me motivated and encouraged especially during difficult times.",
-          "author": "BeautyByTish",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 4,
-          "country": "CA",
-          "title": "Home Screen Widget",
-          "content": "I’m a big big fan of the home screen widget for daily affirmations. My only complaint is that every time I update the app, the widget disappears from my home screen and I have to re-add it… could this be fixed?",
-          "author": "roppj",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 1,
-          "country": "US",
-          "title": "Annoying",
-          "content": "Didn’t even get through the 500 questions, geez. Had my anxiety in overdrive.",
-          "author": "honeycries",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "AU",
-          "title": "Great, just loving the affirmations",
-          "content": "I sometimes need a different kind of scrolling and this is great for a break",
-          "author": "Lachlan76",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily affirmations",
-          "content": "It is so motivating, and it helps your mental this app is so amazing",
-          "author": "Keema.t",
-          "version": "6.19.0"
         }
       ],
-      "meta.total": 133,
+      "meta.total": 123,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-17",
-      "meta.until": "2026-02-16"
+      "meta.since": "2026-01-18",
+      "meta.until": "2026-02-17"
     }
   ]
 }
