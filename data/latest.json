@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-02-19T00:44:07Z",
+  "generated_at": "2026-02-20T00:40:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-18",
+          "rating": 5,
+          "country": "US",
+          "title": "Loving “I am”. My New staple daily app.",
+          "content": "Amazing App! It has made me much more secure in my life in all areas and it has improved my self concept in less than a month. I feel like i can get through anything with the daily targeted affirmations.",
+          "author": "Sexyloner",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-17",
+          "rating": 2,
+          "country": "US",
+          "title": "Premium price??",
+          "content": "I’ve been loving this app for years. I love the different themes and how you can customize the background and at that time the price was about $1.49 per month to unlock all themes and categories which i loved. Now, the price for premium went up to $14.99 per month. I think this is ridiculous. Also I noticed a year ago that they introduced AI! Which is crazy. If the developers would lower the price then I think people would pay for it. It’s crazy how it’s only about 5 free categories amongst 15-20. Anything for a buck,  I guess. I’ll be deleting the app",
+          "author": "whitneyxox13",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-17",
+          "rating": 4,
+          "country": "US",
+          "title": "Hp",
+          "content": "I wish you didn’t have to pay for it",
+          "author": "I don’t care bear",
+          "version": "6.22.0"
+        },
         {
           "date": "2026-02-17",
           "rating": 5,
@@ -102,6 +129,15 @@
           "title": "The “ I AM APP” made a positive change in MY life.",
           "content": "Try it ( CONSISTENTLY FOR FREE & SEE!)",
           "author": "girlthatlookslikemagic888",
+          "version": "6.22.0"
+        },
+        {
+          "date": "2026-02-15",
+          "rating": 5,
+          "country": "AU",
+          "title": "Get this noww",
+          "content": "A must have!!!!",
+          "author": "milkieawayway",
           "version": "6.22.0"
         },
         {
@@ -1039,78 +1075,15 @@
           "content": "I love this app so much it made me so much happier then I was definitely get this app it’s an amazing!!",
           "author": "Blaire Millikin",
           "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 1,
-          "country": "GB",
-          "title": "Stressed because of this app!",
-          "content": "I took out a free trial and app said it would remind me to cancel it.  I went to cancel it today and money was already taken and I have NO WAY of contacting Monkey Tsp other than bus review! Please refund me immediately before I dispute this with my bank.",
-          "author": "Stressed.com",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 4,
-          "country": "US",
-          "title": "♊️",
-          "content": "I was really surprised when I noticed there was a zodiac sign missing from the list of astrological signs to choose from when I signed up..",
-          "author": "E~Hardy",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 1,
-          "country": "AU",
-          "title": "Maybe include all the star signs that exist",
-          "content": "Literally just signing up to the app and it asked for my star sign, I scroll down and mine isn't even an available option i can pick at all. Maybe include Gemini and dont leave anyone out. Im deleting and i wont be re installing unless you fix this. Its discrimination.",
-          "author": "Batman_purplelly",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Positivity",
-          "content": "Always lift me up gets me back on track to change my mindset",
-          "author": "ratherme",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Affirmative action",
-          "content": "Wonderful every day reminders of a positive you",
-          "author": "Ms Bib",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 5,
-          "country": "US",
-          "title": "It Matters",
-          "content": "I love this app because it keeps your self talk in check!",
-          "author": "lilkrazee",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing!!",
-          "content": "This is a great app for people struggling w mental health and is also good for ppl with other things!! 🤍☁️",
-          "author": "You guys made a life changer",
-          "version": "6.19.0"
         }
       ],
-      "meta.total": 122,
+      "meta.total": 119,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-20",
-      "meta.until": "2026-02-19"
+      "meta.since": "2026-01-21",
+      "meta.until": "2026-02-20"
     }
   ]
 }
