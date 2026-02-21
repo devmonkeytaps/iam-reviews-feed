@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-20T00:40:44Z",
+  "generated_at": "2026-02-21T00:40:38Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1030,60 +1030,15 @@
           "content": "That’s what made me want this app. I don’t see anything on my lock screen. Also, I’d like to hear the affirmations.  Thanks for getting back to me.",
           "author": "andy8803",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-21",
-          "rating": 5,
-          "country": "CA",
-          "title": "The best affirmation app",
-          "content": "I have used many and this one is the best so far! Fair price for the year as well!",
-          "author": "Betacmag",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Totally gets me through the day!",
-          "content": "I absolutely love this app! I first downloaded it after a breakup and just looking for support and have not looked back! I have the notifications turned on and it keeps me going through the day with motivational messages. It somehow knows what I need to hear - cannot recommend it more!",
-          "author": "a.sleek",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Best app",
-          "content": "This app helped me understand that some things don't work out the same as you think they do, it helped me learn that I'm valid and everythings okay with me.",
-          "author": "Loving app💗",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-21",
-          "rating": 5,
-          "country": "US",
-          "title": "My Dreams will come true my family",
-          "content": "And I love this app I just now started it 10 mins ago but I needs bad anxiety and depression and relationship finance not to give up be strong",
-          "author": "Amyamy2025$",
-          "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Abt “I am”",
-          "content": "I love this app so much it made me so much happier then I was definitely get this app it’s an amazing!!",
-          "author": "Blaire Millikin",
-          "version": "6.19.0"
         }
       ],
-      "meta.total": 119,
+      "meta.total": 114,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-21",
-      "meta.until": "2026-02-20"
+      "meta.since": "2026-01-22",
+      "meta.until": "2026-02-21"
     }
   ]
 }
