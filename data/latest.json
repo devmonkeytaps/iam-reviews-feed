@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-02-22T00:43:41Z",
+  "generated_at": "2026-02-23T00:43:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-20",
+          "rating": 5,
+          "country": "US",
+          "title": "How this is already changing me",
+          "content": "It already had me crying because I don’t think I am enough, I am js a kid struggling with life and death, so it telling me I am enough and me reading them is enough to have me in tears",
+          "author": "REY_l0VES_SZ@",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-20",
+          "rating": 5,
+          "country": "US",
+          "title": "In love",
+          "content": "I absolutely love this app! It just makes my life better!",
+          "author": "GTNBLING",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-20",
           "rating": 5,
@@ -1066,42 +1084,15 @@
           "content": "I didn’t think it would work to get me through my obsessive thoughts that lead to panic attacks but it has most of the time. I wish there was more of the animated themes to select from but otherwise grateful for this app.",
           "author": "Tobias 321",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-23",
-          "rating": 3,
-          "country": "US",
-          "title": "Ok",
-          "content": "I like app and the multiple affirmations are nice… however, I am a firm believer that what you speak is your reality. Often time there’s an affirmation like, “everything will workout, even if I’m struggling right now.” Like, I’m not struggling, and don’t want to speak that into existence 😅 also, even if I was I would rather say “everything always works out for me.” Enough said.",
-          "author": "Kween.11",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-23",
-          "rating": 1,
-          "country": "US",
-          "title": "Not a free app",
-          "content": "I downloaded the app and filled out the questionnaire and at the end it asks for payment. Waste of time.",
-          "author": "Sethjjvk",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-23",
-          "rating": 5,
-          "country": "CA",
-          "title": "Amazing",
-          "content": "This app is amazing. It absolutely changes my mindset every time I’m sent my daily reminder. Highly recommended.",
-          "author": "Souwnt2play",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 121,
+      "meta.total": 120,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-23",
-      "meta.until": "2026-02-22"
+      "meta.since": "2026-01-24",
+      "meta.until": "2026-02-23"
     }
   ]
 }
