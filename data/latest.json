@@ -1,10 +1,91 @@
 {
-  "generated_at": "2026-02-23T00:43:57Z",
+  "generated_at": "2026-02-24T00:40:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-21",
+          "rating": 1,
+          "country": "US",
+          "title": "Widgets stopped working",
+          "content": "I’ve been using this app for over a year paying for it too… and all the sudden all my widgets are broken and stuck on loading",
+          "author": "shex101",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Phone Screen Brilliance",
+          "content": "Simply put, this is one of my favorite apps. I love that I can glance at my phone and see an affirmation. Mine is bright pink. So, it’s something about the simple words, the color, the light that shines when reading affirmations. The screens are beautiful so you’re not just inside the app, the visuals and sounds make it a 3 dimensional experience. Well done.",
+          "author": "joaniewright",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "US",
+          "title": "I love I am!",
+          "content": "It’s helping me be more confident with myself!",
+          "author": "M.I.A12345678910",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "US",
+          "title": "New Mindest",
+          "content": "It has help transform my mind in many great ways! I love it",
+          "author": "Avione Denoxolaux",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "US",
+          "title": "Aesthetically pleasing way to rewire neural pathways",
+          "content": "I am trying to make my mind a more pleasant place to be. And practicing new thoughts is I’m working on that. This app has cute little pop up reminders of preset affirmations or you can create your own which is what I do. You can customize a widget or reminders, and time intervals for reminders. It helps me reach my mental health goals. All and all it’s a thumbs up app for me 👍🏻💜",
+          "author": "Whotang",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 3,
+          "country": "US",
+          "title": "I prefer to know if it’s not free in advance..",
+          "content": "I spent so much time answering all the questions only to find out at the end I have to pay to use the app. Let users know in advance , don’t make them spend time setting things up first , this is frustrating",
+          "author": "JenniferKuz",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 4,
+          "country": "US",
+          "title": "All vip bro",
+          "content": "Everything is good but VIP",
+          "author": "ZoeyHHHHHHH🎀",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 1,
+          "country": "US",
+          "title": "misleading",
+          "content": "went through the entire questionnaire which took like 10 minutes just to find out you have to pay for it. really shouldn’t advertise these apps as if there’s a free option.",
+          "author": "hehhejrkeh",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Best app ever",
+          "content": "This is so calm and relaxing that I feel so cool now",
+          "author": "Lap ala lap",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-20",
           "rating": 5,
@@ -12,6 +93,15 @@
           "title": "How this is already changing me",
           "content": "It already had me crying because I don’t think I am enough, I am js a kid struggling with life and death, so it telling me I am enough and me reading them is enough to have me in tears",
           "author": "REY_l0VES_SZ@",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-20",
+          "rating": 5,
+          "country": "ES",
+          "title": "Aprendí a amarla",
+          "content": "Al principio me enojaban las afirmaciones, pero al pasar el tiempo fueron generando que crea en mí y acepte las afirmaciones como parte de quién soy. La recomiendo 100%",
+          "author": "mvo193",
           "version": "6.23.0"
         },
         {
@@ -116,6 +206,15 @@
         {
           "date": "2026-02-18",
           "rating": 5,
+          "country": "AU",
+          "title": "Incentive",
+          "content": "When I need extra encouragement. \nThe saying just pops up with exactly what I need on the day!! I like reading it….",
+          "author": "Maya26@",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-18",
+          "rating": 5,
           "country": "US",
           "title": "Loving “I am”. My New staple daily app.",
           "content": "Amazing App! It has made me much more secure in my life in all areas and it has improved my self concept in less than a month. I feel like i can get through anything with the daily targeted affirmations.",
@@ -202,6 +301,15 @@
           "content": "This is a great reminder for Daly after affirmations.",
           "author": "Are we going out",
           "version": "6.22.0"
+        },
+        {
+          "date": "2026-02-16",
+          "rating": 4,
+          "country": "CA",
+          "title": "Backgrounds",
+          "content": "Love this app, it has helped me a lot when I’m in good and bad moods, improving my overall well-being. I’ve been using the same simple, calming background for months now, though suddenly the app updated and now the once free background costs money, along with many others. I would say that’s the only flaw, so please reverse this update! UPDATE Hi, I recently noticed that some of the backgrounds I was referring to, are now free again! I’m not sure if this is because of my review, but thanks so much!",
+          "author": "Roblox5554",
+          "version": "6.19.0"
         },
         {
           "date": "2026-02-15",
@@ -1021,78 +1129,15 @@
           "content": "I’ve had I Am for a while and for the past few months, it has refused to update widget themes. I don’t even know what the picture is right now, but it doesn’t match the chosen theme at all and it won’t update, even when I restart the device and remove the widget from the screen.",
           "author": "Tori2510",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "GB",
-          "title": "Ad",
-          "content": "Great amazing I love it, but there is adds and keeps asking you to get premium x",
-          "author": "Dog lover 🍓",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Very helpful",
-          "content": "For someone with anxiety and fear of abandonment issues from childhood, this app puts positive reminders that defend you from all the other notifications and other apps that may cause more anxiety, fomo, and fear. Worth it.",
-          "author": "Jrabbit4",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Good",
-          "content": "Very motivating",
-          "author": "Tee000”",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "i feel so much better",
-          "content": "I love this app and now I feel much better about myself!I love everything about this app.",
-          "author": "PrincessPeanut♡",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "I am is great",
-          "content": "I think that I am is a very good app for you to get. It allows you to relax and calm down from anywhere. All you have to do is open the app and it will instantly start showing you affirmations. You can even choose the category. All in all these are my reasons I am is a great app to get for all ages.",
-          "author": "#2026 #1/24/26 #12",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Truly helps me",
-          "content": "I absolutely love this app! I truly feel it helps me each day.",
-          "author": "tlw0023",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Worth trying out",
-          "content": "I didn’t think it would work to get me through my obsessive thoughts that lead to panic attacks but it has most of the time. I wish there was more of the animated themes to select from but otherwise grateful for this app.",
-          "author": "Tobias 321",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 120,
+      "meta.total": 125,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-24",
-      "meta.until": "2026-02-23"
+      "meta.since": "2026-01-25",
+      "meta.until": "2026-02-24"
     }
   ]
 }
