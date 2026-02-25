@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-02-24T00:40:46Z",
+  "generated_at": "2026-02-25T00:45:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-22",
+          "rating": 2,
+          "country": "US",
+          "title": "Pay wall",
+          "content": "The “Practice mode” was great for my workouts so I stay off my phone and don’t focus on the treadmill timer, but it’s behind a pay wall now. Sucks because it used to be free. I barely use the app now",
+          "author": "glowzz7",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 5,
+          "country": "US",
+          "title": "This amazing",
+          "content": "This is just the app people who are depressed need like me",
+          "author": "Venus 12345",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Iam",
+          "content": "I love waking up to my daily affirmations it’s hits different every morning I try to love everyone the ones that touch me. I wish the background option was free.",
+          "author": "Lowlo89",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Essential app",
+          "content": "I really think this app is essential for all people who is lining up to their own truly path. We have time during the day to scroll other apps and engage to narcissistic conversations and exhaustion of thoughts as trash from not nourish conversation; been this a daily reality will totally interfere with your inner peace and alignment with your truly positive and productive thoughts for your path; I found this app messages during the day ; help me to stay grounded and to avoid interacting with others what comes with their narcissistic behavior and negativity thoughts. I totally recommend this application if you are working on your own path.",
+          "author": "Sophie_#1",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this app❣️",
+          "content": "I have the amazing affirmations set on 7 times a day and I love the reminders to really open the app and read the days message. It’s just what we all can use for that encouragement and knowledge about yourself and the world around you.",
+          "author": "LetsGoGurl",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-21",
           "rating": 1,
@@ -1075,69 +1120,15 @@
           "content": "I got this thinking it was completely free but you cant really actually use the app  it says you  can put wig-its on your phone but it doesn’t mention how you have to pay!!!!!",
           "author": "pokeperson(66",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 5,
-          "country": "US",
-          "title": "I love it! Highly recommend",
-          "content": "I’m really bad at typing so I’m gonna keep it short and sweet. I LOVE THIS APP!",
-          "author": "ReaganRoo1314",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 5,
-          "country": "US",
-          "title": "AMAZING",
-          "content": "Ik I’m 13 and not the type of person to be on apps like these but this is cool af",
-          "author": "Mr. Dogogogo",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 5,
-          "country": "US",
-          "title": "Self-esteem",
-          "content": "Good to know your affirmation",
-          "author": "Jorgetzy",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 1,
-          "country": "US",
-          "title": "I don’t like giving poor reviews but there is no customer support so I have no choice.",
-          "content": "I was in love with this app, but won’t be renewing my yearly subscription.  The app works very poorly with the new update, and I’m not paying for that.  Also it was working in full screen landscape mode on my iPad now it’s like only a mobile app.  I wish all the app developers would learn the saying “if it’s not broken don’t fix it”",
-          "author": "Trakiooloo",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 5,
-          "country": "US",
-          "title": "Recommend for you",
-          "content": "It helps me because I have been having a lot of anxiety and depression and stress so every time I go on this app and it helps me a lot to accept myself",
-          "author": "Love this app keep doing more",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-25",
-          "rating": 1,
-          "country": "US",
-          "title": "Annoyed",
-          "content": "I’ve had I Am for a while and for the past few months, it has refused to update widget themes. I don’t even know what the picture is right now, but it doesn’t match the chosen theme at all and it won’t update, even when I restart the device and remove the widget from the screen.",
-          "author": "Tori2510",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 125,
+      "meta.total": 124,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-25",
-      "meta.until": "2026-02-24"
+      "meta.since": "2026-01-26",
+      "meta.until": "2026-02-25"
     }
   ]
 }
