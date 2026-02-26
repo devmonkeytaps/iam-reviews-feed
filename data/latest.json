@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-02-25T00:45:57Z",
+  "generated_at": "2026-02-26T00:40:34Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-24",
+          "rating": 5,
+          "country": "US",
+          "title": "subscription",
+          "content": "there's a catch- \nyou have to get a subscription for practicing and such and such",
+          "author": "loui va ton",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Helpful addition to my transformative process",
+          "content": "I have been enjoying the I am app. It helps me to redirect in the moment and stay aligned on my goal achieving path.",
+          "author": "MilusheCare",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 2,
+          "country": "US",
+          "title": "Y",
+          "content": "Ok. Iloiloil",
+          "author": "Nonya Biznet",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 3,
+          "country": "US",
+          "title": "Good app but needs a simple fix",
+          "content": "Love the app so far but why does it require me to re -submit my information to personalize it every time I open the app? The notifications are always there on my phone as scheduled.",
+          "author": "P69CM",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Life Changing Transformation….",
+          "content": "I have a million and one faults one of which is believing people whom I love. And trusting them over and over and over again until it’s too late. So just incase it is too late. I’m sorry Christian I love you with all of my heart and I AM with you wherever  you go just as you are always in my thoughts I love you more than the moon and the stars, more than the Heavens & the Skies, more than the Sunflower Loves the Sun. I AM always with you even after you too are no longer trapped on this rock. You have the most amazing friends & Family that will get you through this, and This too shall pass and return to dust in the wind. Be Strong, Be Courageous, Be Brave, Be Perseverant, and Above all Believe only yourself…. Love yourself first,  Always, keep this Apple iCloud app going always. I hope I’ve left enough for that…",
+          "author": "Tonie S. W.",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 3,
+          "country": "US",
+          "title": "It’s ok",
+          "content": "I don’t know, I’ve been using it for a few weeks now. I chose my categories and it still shows weird affirmations sometimes. I find the AI feature works best.",
+          "author": "sashashasash",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 1,
+          "country": "US",
+          "title": "needs a subscription",
+          "content": "BOOOOO went through SO many questions just to get hit with “WEll GiVe YoU tHrEe daYs fReE sUbsCriPtiOn” THATS LAMEEE",
+          "author": "madisonkay777",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 3,
+          "country": "US",
+          "title": "Could be better",
+          "content": "The spoken voice during the practices is very robotic and fast. Annoying",
+          "author": "sepideh_calif",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-22",
           "rating": 2,
@@ -111,6 +183,15 @@
           "title": "All vip bro",
           "content": "Everything is good but VIP",
           "author": "ZoeyHHHHHHH🎀",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "CA",
+          "title": "good!",
+          "content": "really helps me get through what i need to go through really recommend it!",
+          "author": "(felix’s ver.)",
           "version": "6.23.0"
         },
         {
@@ -1102,33 +1183,15 @@
           "content": "And I love this app I just now started it 10 mins ago but I needs bad anxiety and depression and relationship finance not to give up be strong",
           "author": "Amyamy2025$",
           "version": "6.19.0"
-        },
-        {
-          "date": "2026-01-26",
-          "rating": 1,
-          "country": "US",
-          "title": "Cancellation",
-          "content": "I immediately canceled the subscription once I initiated the free trial and realized the money/ app wasn’t worth it. The app still charged me.",
-          "author": "Chels00303",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-26",
-          "rating": 2,
-          "country": "US",
-          "title": "THERE IS PAYMENT INVLOVED",
-          "content": "I got this thinking it was completely free but you cant really actually use the app  it says you  can put wig-its on your phone but it doesn’t mention how you have to pay!!!!!",
-          "author": "pokeperson(66",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 124,
+      "meta.total": 131,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-26",
-      "meta.until": "2026-02-25"
+      "meta.since": "2026-01-27",
+      "meta.until": "2026-02-26"
     }
   ]
 }
