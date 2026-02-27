@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-02-26T00:40:34Z",
+  "generated_at": "2026-02-27T00:42:51Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Grateful",
+          "content": "Thank you 🫶🏻",
+          "author": "Cynbiz",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-24",
+          "rating": 5,
+          "country": "US",
+          "title": "LOVE",
+          "content": "So incredibly helpful using this app on a daily basis for years. I LOVE IT! ITS EASY TO USE AND IF YOU DONT THINK IT WILL HELP YOU… WHATS IT GOING TO HURT TO TRY. BELIEVE 🙌🙏🙏🙏",
+          "author": "WELLIAM❤️‍🔥",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-24",
+          "rating": 5,
+          "country": "US",
+          "title": "First affirmation app that I actually like and use, free version!",
+          "content": "I don’t typically write reviews.\n\nThis improves my daily mindset. The notification reminds me to take a moment to say an affirmation and I take a deep breath when I do. It helps me get through tough days at work calmly. \n\nThe notifications aren’t a reminder to click into the app, the notifications are actually affirmations themselves. That’s one of the major difference I appreciate. \n\nThe widget is a constant reminder as well. I don’t typically buy paid versions of apps but I want to with this one! \n\nUnfortunately it’s a bit too much money in my opinion. \n\nOverall done, well done developers! You deserve to get paid well, I wish I was in a place I could help!",
+          "author": "Stephanielsabato",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-24",
+          "rating": 5,
+          "country": "US",
+          "title": "This might help me on everything.",
+          "content": "Thank you for making this wonderful app, I just started and it’s already helping me.",
+          "author": "ClappeSeedy",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-24",
           "rating": 5,
@@ -1147,42 +1183,6 @@
           "content": "It's just not very deep.. it's like all the same posts you've seen on social for the last twenty years in an app that now puts them on your lock screen.. maybe this is fantastic for energy newbies, but for the vets.. not so much..",
           "author": "evolutionofj",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-27",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this app",
-          "content": "Im a 24 i grew up rough in the streets of Baton Rouge but Im looking for peace and THIS APP helps me. Send notifications at the right time that’s matters.",
-          "author": "Loskutem",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Hiked price",
-          "content": "I like this app and was going to reactivate my free trial and pay for a yearly subscription. You increased the price to 69.99 from 47.99. I won’t be reactivating.",
-          "author": "RBG1536",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-27",
-          "rating": 3,
-          "country": "US",
-          "title": "Great but with some small issues",
-          "content": "Great app but it doesn’t always count your days correctly. I have lost 2 streaks because even though I clicked on the day, it didn’t count it. The last one I lost was close to 250 days. Very disheartening for an app you pay for.",
-          "author": "Lisad67213",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-27",
-          "rating": 5,
-          "country": "US",
-          "title": "My Dreams will come true my family",
-          "content": "And I love this app I just now started it 10 mins ago but I needs bad anxiety and depression and relationship finance not to give up be strong",
-          "author": "Amyamy2025$",
-          "version": "6.19.0"
         }
       ],
       "meta.total": 131,
@@ -1190,8 +1190,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-27",
-      "meta.until": "2026-02-26"
+      "meta.since": "2026-01-28",
+      "meta.until": "2026-02-27"
     }
   ]
 }
