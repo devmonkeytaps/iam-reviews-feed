@@ -1,10 +1,73 @@
 {
-  "generated_at": "2026-02-27T00:42:51Z",
+  "generated_at": "2026-02-28T00:37:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-26",
+          "rating": 1,
+          "country": "US",
+          "title": "Subscription",
+          "content": "I downloaded this app literally on the 19th, 7 day free trial. I cancel the subscription the same day and you guys charge me, THE SAME DAY. I didn’t have the funds and you kept trying to charge until you finally took the money on my account, about 30 min ago. How? When I literally cancelled. Shouldn’t even have been charged in the first place since I was doing a FREE TRIAL.",
+          "author": "H2026G",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-26",
+          "rating": 1,
+          "country": "US",
+          "title": "Alarm glitch",
+          "content": "I deleted the I am app because I didn’t want to have to subscribe. When I did use the app during the free-trial, I had created a affirmation reminder alarm. Even though the app is deleted the alarm still goes off at 12 am every night jolting me from my sleep. I have searched through my phone countless times trying to find the alarm. Researched google, the apple website and even reddit trying to find out how to stop this and its been months with no success. Im ready to do a factory reset and should bot have to all because of this alarm",
+          "author": "Keyg8891",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-26",
+          "rating": 5,
+          "country": "US",
+          "title": "I rlly like it",
+          "content": "It helps me with depression \nAnd I think that it can help you to!",
+          "author": "Idk-to.put",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-25",
+          "rating": 1,
+          "country": "US",
+          "title": "Misleading, bait and switch",
+          "content": "I was genuinely excited to use this app. Spent time thoughtfully answering all the onboarding questions in the beginning, only to find out at the very end that you only get a free 3-day trial and then have to pay for a subscription moving forward.\n\nThat was really disappointing and felt like a bait and switch. I wish this had been clearly stated from the beginning.",
+          "author": "Cewkieee",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-25",
+          "rating": 1,
+          "country": "US",
+          "title": "Random alarm",
+          "content": "Deleted app and turned off all notifications within it, but it keeps giving me an alarm at like 4:45am. Help.",
+          "author": "Flower173618",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-25",
+          "rating": 1,
+          "country": "US",
+          "title": "Buggy",
+          "content": "This app used to be functional and I didn’t mind paying for it. Unfortunately, it’s gotten so buggy that it’s useless and I need to find an alternative.",
+          "author": "JJ Gangi",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-24",
+          "rating": 3,
+          "country": "US",
+          "title": ".",
+          "content": "It’s a decent app but having to pay to unlock all the cute aesthetics is annoying. Having to pay to do anything in this app is unnecessary to me. Why would I pay for encouragement? Not smart.",
+          "author": "jamie payne",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-24",
           "rating": 5,
@@ -147,6 +210,15 @@
           "title": "Essential app",
           "content": "I really think this app is essential for all people who is lining up to their own truly path. We have time during the day to scroll other apps and engage to narcissistic conversations and exhaustion of thoughts as trash from not nourish conversation; been this a daily reality will totally interfere with your inner peace and alignment with your truly positive and productive thoughts for your path; I found this app messages during the day ; help me to stay grounded and to avoid interacting with others what comes with their narcissistic behavior and negativity thoughts. I totally recommend this application if you are working on your own path.",
           "author": "Sophie_#1",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-22",
+          "rating": 5,
+          "country": "US",
+          "title": "My experience",
+          "content": "Thankfully this app has been a solid source of my motivation thank you the meaningful words available at any time",
+          "author": "Kaliesia k",
           "version": "6.23.0"
         },
         {
@@ -942,6 +1014,15 @@
           "version": "6.22.0"
         },
         {
+          "date": "2026-02-06",
+          "rating": 5,
+          "country": "GB",
+          "title": "Reframing thoughts is having a tremendous impact…",
+          "content": "I always loved this app - but unlike so many others it has gotten better and better over time - and it’s still reasonably priced. Thanks so much developers!! Appreciate you!! ⭐️",
+          "author": "Shelly Té",
+          "version": "6.22.0"
+        },
+        {
           "date": "2026-02-05",
           "rating": 1,
           "country": "US",
@@ -1174,24 +1255,15 @@
           "content": "This app is soo helpful! There’s NO ads and helped me to love myself! If you are struggling with something this app is for you!",
           "author": "Leeniaua",
           "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-28",
-          "rating": 1,
-          "country": "US",
-          "title": "I remember why I cancelled this now",
-          "content": "It's just not very deep.. it's like all the same posts you've seen on social for the last twenty years in an app that now puts them on your lock screen.. maybe this is fantastic for energy newbies, but for the vets.. not so much..",
-          "author": "evolutionofj",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 131,
+      "meta.total": 139,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-28",
-      "meta.until": "2026-02-27"
+      "meta.since": "2026-01-29",
+      "meta.until": "2026-02-28"
     }
   ]
 }
