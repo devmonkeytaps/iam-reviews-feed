@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-02-28T00:37:56Z",
+  "generated_at": "2026-03-01T00:48:20Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Transformational",
+          "content": "This app is a game-changer! Getting daily affirmations truly reduces my anxiety and negative self-talk. So many categories to choose from! This app is worth every penny!",
+          "author": "Rhombusite",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Makes my day a great start",
+          "content": "Start my day positive and decreases my depression. I use this at my work too as a nurse and write one on the board for all the staff!",
+          "author": "Kuromajia",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Life Changer",
+          "content": "Im middle age and have been seeking to incorporate affirmation for years.  This app have given me the mindful nutrients.  this has made my amazing life recognizable.",
+          "author": "theanswerisyes",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-26",
+          "rating": 5,
+          "country": "US",
+          "title": "This app is so helpful!",
+          "content": "Love loves loves!!!!!!",
+          "author": "WhitMc1",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-26",
           "rating": 1,
@@ -165,6 +201,15 @@
           "title": "needs a subscription",
           "content": "BOOOOO went through SO many questions just to get hit with “WEll GiVe YoU tHrEe daYs fReE sUbsCriPtiOn” THATS LAMEEE",
           "author": "madisonkay777",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-23",
+          "rating": 5,
+          "country": "CA",
+          "title": "Simply awesome",
+          "content": "This is so great!!! It brings me back to being positive and kind to myself! \nI love it sincerely!",
+          "author": "SandyCakes1978",
           "version": "6.23.0"
         },
         {
@@ -1219,51 +1264,15 @@
           "content": "I canceled and they’re still trying to charge me scamming. At it’s best.",
           "author": "outdamudd",
           "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Peaceful app",
-          "content": "I use it to calm myself down when I’m upset still plenty of options when you don’t have pro and amazing app overall",
-          "author": "Peace and love💅🏾❤️🌊",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-29",
-          "rating": 2,
-          "country": "CA",
-          "title": "AI has brought the most useless “affirmations”",
-          "content": "It seems this app is now providing by AI affirmations that are tone deaf and more infuriating than affirmative. Daily it’s clear that it’s not an empathetic human producing these offerings. Yes I’ve tried adjusting settings and choices. Today’s affirmation “Everything in my life is perfect” is final straw bs - focus is on section Life with chronic pain. Everyday at least one (if not more) affirmation sounds awkward and awful and not uplifting. Turning off notifications and cancelling auto renewal.",
-          "author": "Melisy",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Not really free",
-          "content": "Marketed as a free app but you have to pay.  What am I missing?",
-          "author": "**6**6**6***6**6",
-          "version": "6.20.0"
-        },
-        {
-          "date": "2026-01-29",
-          "rating": 5,
-          "country": "US",
-          "title": "Get this right now!",
-          "content": "This app is soo helpful! There’s NO ads and helped me to love myself! If you are struggling with something this app is for you!",
-          "author": "Leeniaua",
-          "version": "6.20.0"
         }
       ],
-      "meta.total": 139,
+      "meta.total": 140,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-29",
-      "meta.until": "2026-02-28"
+      "meta.since": "2026-01-30",
+      "meta.until": "2026-03-01"
     }
   ]
 }
