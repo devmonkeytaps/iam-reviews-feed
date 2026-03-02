@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-03-01T00:48:20Z",
+  "generated_at": "2026-03-02T00:42:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-27",
+          "rating": 5,
+          "country": "US",
+          "title": "It really does change your perspective",
+          "content": "My current streak is 559 days in a row. This is the first thing I look at on my phone every morning. I really do feel like my mindset is different and more positive and confident! 💕",
+          "author": "Lspod",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Phantom alarms.",
+          "content": "Even if you delete this app it leaves a phantom alarm. It has been driving me absolutely crazy to get rid of the damn thing!!!! I would recommend NOT getting this app.",
+          "author": "TaraBing",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-26",
           "rating": 5,
@@ -1237,42 +1255,15 @@
           "content": "Thank you so much for this. It took a while to find something free. Easy to navigate. There’s basic customization, which is a delight. I appreciate being able to add custom affirmations. The reminder notifications is nice to see throughout the stressful day. The widgets are calming reminders. I like the interface with the swiping through affirmations and ability to heart especially helpful ones or ones that resonate with me. \nThank you again. I feel like a better person when I regularly use this app.",
           "author": "SirenaLillywing",
           "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Helpful",
-          "content": "This app is very helpful",
-          "author": "shettra",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-30",
-          "rating": 1,
-          "country": "US",
-          "title": "Constant alarm",
-          "content": "I tried this app for its free trial and I enjoyed a few of the affirmations and the aesthetics and considered continuing my subscription. However, I unfortunately allowed the app to create an alarm for daily reminders and now I can’t find it to turn it off. I turned off the alarm switch in the app itself and still got the alarm on my phone every day at the same time. Then I deleted the app and I am still getting that same alarm and it’s not showing up in my phone clock alarm app to turn off either. So this makes me fully distrust this app and I won’t be resubscribing since I now have to google how to remove this alarm from my phone.",
-          "author": "Supercellsuperfan",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-30",
-          "rating": 1,
-          "country": "US",
-          "title": "Scammers",
-          "content": "I canceled and they’re still trying to charge me scamming. At it’s best.",
-          "author": "outdamudd",
-          "version": "6.21.0"
         }
       ],
-      "meta.total": 140,
+      "meta.total": 139,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-30",
-      "meta.until": "2026-03-01"
+      "meta.since": "2026-01-31",
+      "meta.until": "2026-03-02"
     }
   ]
 }
