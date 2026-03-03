@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-03-02T00:42:48Z",
+  "generated_at": "2026-03-03T00:43:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-02-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Iam❤️&☀️",
+          "content": "Quick bit of inspiration throughout the day!✨",
+          "author": "Queen Tamierre",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-28",
+          "rating": 1,
+          "country": "US",
+          "title": "Problem with notifications",
+          "content": "I cancelled my subscription and removed the App from my phone but am still getting some reminders. I’ve contacted App support but haven’t heard from anyone yet.",
+          "author": "Christie, New York",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Review",
+          "content": "The affirmation are like shining stars throughout out the day and they are very uplifting",
+          "author": "GraceMama21",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-28",
+          "rating": 2,
+          "country": "US",
+          "title": "Why the need for greed",
+          "content": "I am so saddened to see that for the last two years my subscription was 17.99 a year and now it is 14.99 a month or 69.99 a year? WOW that is insane. So many people struggling and to take advantage of that is heartbreaking to see. Good bye I am app. I’m very sad about this. I had shown so many people this app. Just very sad to see the need for greed.",
+          "author": "DNUV78",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-02-27",
           "rating": 5,
@@ -1246,24 +1282,15 @@
           "content": "You can not get your money back either. When it says it will do a monthly subscription, it is lying. It will take the whole fee out imediately. I do not recommend this app for anyone low incomes it basically is a money scam.",
           "author": "fhrjsjsjhfjgjska",
           "version": "6.21.0"
-        },
-        {
-          "date": "2026-01-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Helpful",
-          "content": "Thank you so much for this. It took a while to find something free. Easy to navigate. There’s basic customization, which is a delight. I appreciate being able to add custom affirmations. The reminder notifications is nice to see throughout the stressful day. The widgets are calming reminders. I like the interface with the swiping through affirmations and ability to heart especially helpful ones or ones that resonate with me. \nThank you again. I feel like a better person when I regularly use this app.",
-          "author": "SirenaLillywing",
-          "version": "6.21.0"
         }
       ],
-      "meta.total": 139,
+      "meta.total": 142,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-01-31",
-      "meta.until": "2026-03-02"
+      "meta.since": "2026-02-01",
+      "meta.until": "2026-03-03"
     }
   ]
 }
