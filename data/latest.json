@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-03-04T00:41:32Z",
+  "generated_at": "2026-03-05T00:43:07Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Phenomenal",
+          "content": "Boost my self confidence everyday! \nTeaches me things I didn’t even know about myself! Thank you!",
+          "author": "gddvjkgvj he",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-03-02",
+          "rating": 5,
+          "country": "US",
+          "title": "Comfort in hard times.",
+          "content": "This app really helped me in a time that I was struggling emotionally. Seeing positive things throughout the day gave me much needed moments of relief. I recommend this app to all my friends, and I hope you get the same comfort from it as I did.",
+          "author": "Sunarella",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-03-02",
+          "rating": 1,
+          "country": "US",
+          "title": "SCAM!!! Won’t let you cancel!!",
+          "content": "I signed up for the 3 day trial. I ABSOLUTELY logged in and canceled before the trial ended! I WANT MY MONEY BACK!!",
+          "author": "Carrie Corvis",
+          "version": "6.23.0"
+        },
         {
           "date": "2026-03-02",
           "rating": 5,
@@ -21,6 +48,15 @@
           "title": "Phantom alarms.",
           "content": "Even if you delete this app it leaves a phantom alarm. It has been driving me absolutely crazy! \n\nUPDATE: So basically I have a phantom alarm on my phone from your app. It goes off daily at 11:45pm I had went through every inch of my phone and think I finally found a way to stop it. I redownloaded the app and when it got to the part about alarms I hit no and no notifications etc. so far it seems to have stopped!",
           "author": "TaraBing",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-03-02",
+          "rating": 2,
+          "country": "CA",
+          "title": "Extremely slow",
+          "content": "But good quotes",
+          "author": "pyambao",
           "version": "6.23.0"
         },
         {
@@ -1293,13 +1329,13 @@
           "version": "6.21.0"
         }
       ],
-      "meta.total": 143,
+      "meta.total": 147,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-02",
-      "meta.until": "2026-03-04"
+      "meta.since": "2026-02-03",
+      "meta.until": "2026-03-05"
     }
   ]
 }
