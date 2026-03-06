@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-03-05T00:43:07Z",
+  "generated_at": "2026-03-06T00:46:08Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-04",
+          "rating": 5,
+          "country": "US",
+          "title": "Why I like I am- daily Affirmations",
+          "content": "I like this app because it helps me understand that I mean something and it helps me when I am not feeling the best. It also helps me if I am having a bad day  from something that happened a few days and I just look at an affirmation and it makes me feel really good that day. This is why I like I am Daily Affirmations.",
+          "author": "￼Affirmations",
+          "version": "6.25.0"
+        },
+        {
+          "date": "2026-03-03",
+          "rating": 5,
+          "country": "US",
+          "title": "A pick me up, always",
+          "content": "If you ever find yourself deep in thoughts, and overwhelmed this little app is genius to turn to it mood around! The affirmations are great and it really helps to motivate you. Definitely worth it.",
+          "author": "marvelous3va",
+          "version": "6.25.0"
+        },
         {
           "date": "2026-03-03",
           "rating": 5,
@@ -1291,51 +1309,15 @@
           "content": "i don’t really write reviews but i just started and am hoping its good!",
           "author": "shaw masta",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-03",
-          "rating": 1,
-          "country": "ES",
-          "title": "Tengo una gran problema y por falta de ayuda lo cancelaré",
-          "content": "He pagado premium para que se me guardaran mis afirmaciones al cambiarme de dispositivo, y resulta, que utilizando la misma cuenta no se sincronizan los datos, me pone formato incorrecto!! He hecho todo lo que se supone que hay que hacer, acceder desde mi cuenta Google en mi dispositivo Apple, y no hay forma. He pagado para nada y encima no te dan soporte más que un chat y en inglés. \n Es una pena porque llevo 4 años con ella y no me importaba pagar el premium, pero si no puedo utilizarla en mi nuevo teléfono la desinstalaré.",
-          "author": "Cmmg85",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-02-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Love!",
-          "content": "This brings me joy and positivity each day",
-          "author": "Jenniferleigh722",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-02-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Better than most",
-          "content": "Honestly, I have only had this app so I can’t really speak for others but I think it’s worth the storage space. It is great for affirmations and positive thinking. As well as lots of ways to personalize it… only if you have the premium… just a heads up. But feel free to use it! It doesn’t have any adds either.",
-          "author": "UnknownUser user",
-          "version": "6.21.0"
-        },
-        {
-          "date": "2026-02-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Blessed  to have found this app",
-          "content": "Reminds me every day to be thankful and full of gratitude and appreciation",
-          "author": "Anita dairy fairy",
-          "version": "6.21.0"
         }
       ],
-      "meta.total": 147,
+      "meta.total": 145,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-03",
-      "meta.until": "2026-03-05"
+      "meta.since": "2026-02-04",
+      "meta.until": "2026-03-06"
     }
   ]
 }
