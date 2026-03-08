@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-03-07T00:40:42Z",
+  "generated_at": "2026-03-08T00:43:51Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-06",
+          "rating": 1,
+          "country": "US",
+          "title": "$70/year is shameful",
+          "content": "$70/year for the premium level is astronomical for an app I could build in Claude in less than 3 minutes. The greed is disappointing. $3/year would be much more appropriate for an app that does nothing but rattle off feel-good one-liners. Come on...",
+          "author": "Hillary Fox",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Not free",
+          "content": "Told me it was free and when I downloaded it it told me I only had a 3 day free trial then had to pay a subscription :)",
+          "author": "Nah6284",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-06",
+          "rating": 2,
+          "country": "US",
+          "title": "Heads up",
+          "content": "You have to pay to use it after answering all the prompts \"personalizing your experience.\" Wish there was a free version",
+          "author": "Niiiiiiiiiicknameeeeeeeeeeee",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-05",
+          "rating": 5,
+          "country": "ES",
+          "title": "Tempo ben speso",
+          "content": "App molto consigliata  per chi cerca un po' di positività ogni giorno!",
+          "author": "Máximus Shinn",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-05",
+          "rating": 1,
+          "country": "US",
+          "title": "Predatory",
+          "content": "This app takes advantage of people who are actually going through something. Why would you pay for an app when you’re trying to improve your life financially? This app profits off sensitive people who are trying to get better. If you really wanted to help people you wouldn’t make them pay.",
+          "author": "Idlas",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Perfect for a quick reminder!",
+          "content": "If you’re struggling or working towards a goal, this app is amazing. It’s has at-a-glance and watch face options which makes accessibility that much better, especially when I needed a quick re-centering. It’s customizable too!!!!\n\nLove this app.",
+          "author": "Emy Gardiner",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-05",
+          "rating": 4,
+          "country": "US",
+          "title": "Background",
+          "content": "I have loved this app for many reasons for a while now. But why have you taken the free backgrounds away? I have a white background and honestly I don’t like that. Thinking of deleting.",
+          "author": "MEB1168",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-05",
+          "rating": 1,
+          "country": "US",
+          "title": "Lame",
+          "content": "Lameeeeee",
+          "author": "KR11234",
+          "version": "6.26.0"
+        },
         {
           "date": "2026-03-04",
           "rating": 3,
@@ -485,6 +557,15 @@
         {
           "date": "2026-02-21",
           "rating": 5,
+          "country": "AU",
+          "title": "Avis",
+          "content": "Une application très cool",
+          "author": "Bling Kpop Stan",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
           "country": "US",
           "title": "Phone Screen Brilliance",
           "content": "Simply put, this is one of my favorite apps. I love that I can glance at my phone and see an affirmation. Mine is bright pink. So, it’s something about the simple words, the color, the light that shines when reading affirmations. The screens are beautiful so you’re not just inside the app, the visuals and sounds make it a 3 dimensional experience. Well done.",
@@ -507,6 +588,15 @@
           "title": "New Mindest",
           "content": "It has help transform my mind in many great ways! I love it",
           "author": "Avione Denoxolaux",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-21",
+          "rating": 5,
+          "country": "ES",
+          "title": "Afirmaciones",
+          "content": "Las afirmaciones son muy acertadas para mí y me dan un gran empujón cada vez que leo una, parece que la app me conoce… siempre acierto con mis estados. Mil gracias por crear una app tan positiva.🙌🏾",
+          "author": "larchynna",
           "version": "6.23.0"
         },
         {
@@ -1264,33 +1354,15 @@
           "content": "I always loved this app - but unlike so many others it has gotten better and better over time - and it’s still reasonably priced. Thanks so much developers!! Appreciate you!! ⭐️",
           "author": "Shelly Té",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-05",
-          "rating": 1,
-          "country": "US",
-          "title": "Canceled yet still charged",
-          "content": "I tried the 3 day trial. It was helpful but I didn’t think I’d use it enough to get $70 worth for a year. I canceled it yesterday (2/4/26) the day my trial ended. I was surprised to see the app still active this morning (2/5) so I looked on my subscriptions. Sure enough, it says my subscription will expire… 2/4/27. If I canceled it yesterday, why did it renew for a year and charge me!? Not happy at all.",
-          "author": "Charged during trial",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-05",
-          "rating": 5,
-          "country": "US",
-          "title": 10,
-          "content": 10,
-          "author": "Thelma Gray",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 142,
+      "meta.total": 150,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-05",
-      "meta.until": "2026-03-07"
+      "meta.since": "2026-02-06",
+      "meta.until": "2026-03-08"
     }
   ]
 }
