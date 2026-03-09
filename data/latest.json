@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-03-08T00:43:51Z",
+  "generated_at": "2026-03-09T00:43:18Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Unauthorized charges",
+          "content": "I tried the free trial and it wasn’t a huge difference. I cancelled it but they still charged me",
+          "author": "DaniJham",
+          "version": "6.26.0"
+        },
         {
           "date": "2026-03-06",
           "rating": 1,
@@ -1282,87 +1291,15 @@
           "content": "Ever since l downloaded this app my heart warmed and l felt more relaxed and comfortable after reading this sweet sentence they made and l loved it❤️✨🤗",
           "author": "Laflacajannel",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 1,
-          "country": "US",
-          "title": "annoying. not even worth it anymore.",
-          "content": "i can’t do the practice. because it won’t. shut. up. there seems to be no way to turn off the random woman’s voice reading aloud my affirmations. i can’t figure it out. there’s no way to contact these people for help. i’m cancelling my subscription because this is extremely annoying. what’s the point of using this if that annoying voice is forced down your throat. i looked through the “help” answers but none of them address this absolutely god awful voice.",
-          "author": "idkididntevenwantanickname",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 5,
-          "country": "CA",
-          "title": "Positive thoughts to start your day",
-          "content": "I like the collection of quotes of different genre. Totally recommend it!!!!",
-          "author": "Fmohd987",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 1,
-          "country": "US",
-          "title": "EXTRA LONG QUIZ PAID APP",
-          "content": "I CAN’T TAKE IT ANYMORE!!! IF I TAKE ONE MORE 15 MINUTE QUIZ FOR AN APP JUST TO TELL ME ITS SUBSCRIPTION BASED I AM LITERALLY GOING TO KMS. JUST SO EVERYONE KNOWS YOU DO HAVE TO PAY MONTHLY FOR THIS APP, SO NO ONE ELSE GETS MISLEAD INTO BELIEVING THE APP IS FREE AND TAKES A STUPID 15 MINUTE QUIZ… WASTING MY GD TIME!!!",
-          "author": "dlgrend",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 3,
-          "country": "US",
-          "title": "great affirmations",
-          "content": "ii love the affirmations the only problem is that on the mac version the app experience is bad, can’t log in and is taking me on a path as new user. This is very important for me cause I created my customized affirmations and it’s more work to just send them into this app it from my phone",
-          "author": "888fabian888",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "These quotes make my entire can easily change a frown into a smile ❤️❤️❤️",
-          "author": "kinddred",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 5,
-          "country": "US",
-          "title": "I am app",
-          "content": "Great motivational inspiration",
-          "author": "Baller-225",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 3,
-          "country": "US",
-          "title": "Inconsistent",
-          "content": "Here I am and the Streak Reminder hasn’t worked the last 4 days and the last 2 days, not getting any affirmations — yes, I have cleared all my notifications on my home screen as previously suggested. I’m feeling frustrated because I’ve had this app 2 years and until this year, I had virtually no issues. I hope you can fix this quickly because I really do love this app and it is good for me.\n\n**UPDATE TO REVIEW**\n15JAN26– this app has continued to get worse the longer that I use it. I haven’t received any affirmations in a week now; yes, I’ve cleared all my notifications. And with their last update to the app itself, the alarm for my streak reminder has disappeared. In addition, when I manually open the app, the screen is white and takes nearly 20 full seconds to load. I definitely will not continue my paid subscription when it’s due for renewal. This app has had too many bugs, glitches, and in hasn’t worked consistently and properly in months.\n\n[22JAN26] MonkeyTaps you say you read every single review..  another week has elapsed and I have not received one single affirmation. I’ve been cleaning ALL my notifications on my iPhone as previously instructed. I’ve updated the app, I’ve rebooted, I’ve manually opened the app, etc., and still nothing. I don’t know why your team hasn’t yet fixed this issue. I do like the app— when it works properly.\n\n[06FEB26] - I guess no one reads this but I’m going to write anyway. My app gave me affirmations all day this past Tuesday after not working for a couple weeks. However, it gave me the “Tap Here to Continue Receiving Affirmations” warning (which was random because it had been giving me my affirmations regularly up to that moment on Tuesday. Since that notification popped up, I’ve had no more affirmations.",
-          "author": "Chelevision",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-06",
-          "rating": 5,
-          "country": "GB",
-          "title": "Reframing thoughts is having a tremendous impact…",
-          "content": "I always loved this app - but unlike so many others it has gotten better and better over time - and it’s still reasonably priced. Thanks so much developers!! Appreciate you!! ⭐️",
-          "author": "Shelly Té",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 150,
+      "meta.total": 143,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-06",
-      "meta.until": "2026-03-08"
+      "meta.since": "2026-02-07",
+      "meta.until": "2026-03-09"
     }
   ]
 }
