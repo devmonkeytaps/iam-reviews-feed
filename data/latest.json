@@ -1,10 +1,73 @@
 {
-  "generated_at": "2026-03-09T00:43:18Z",
+  "generated_at": "2026-03-10T00:39:14Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-08",
+          "rating": 4,
+          "country": "US",
+          "title": "Love it!",
+          "content": "Its gives me a self confidence boost💞",
+          "author": "Hehdufnx",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 1,
+          "country": "US",
+          "title": "They sold my money",
+          "content": "Won’t issue a refund of 47.99",
+          "author": "Allunhare",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 5,
+          "country": "US",
+          "title": "It’s the perfect app",
+          "content": "It literally help me through every thing that I didn’t even know I needed help with (fr fr ) thank you “I am “",
+          "author": "Great1756",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Happiness",
+          "content": "This app is what I need throughout my day.",
+          "author": "Kellom#2",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 3,
+          "country": "US",
+          "title": "Love the app, new feature annoying",
+          "content": "I really like this app and recommend it often but I don’t like the new feature with the bar at the top that is wanting you to like a certain number of the affirmations. I cannot find a way to turn it off and find it distracting while going through them. I’ve already hearted many in the pack I’m in and in general interact with the app in a way that resonates with me and not to “heart” a certain number of the affirmations. Please add a way to turn this off!",
+          "author": "LeslieHR617",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "This app is so motivational and improving mental health.",
+          "author": "Myah_733888",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Whatever you need. This is it.",
+          "content": "I love this app. I love the visuals. The background meditation audio sounds (though I wish they were longer or more seamless. Either way, this app is fantastic all in just message. I’m a little older, dark humor, struggling and I can put in exactly what will help and/or motivate me. Got the family plan and installed on my mom’s device and she sends me screenshots. 😅 she doesn’t even know how she got the app, but she loves it!",
+          "author": "Mandavilla",
+          "version": "6.26.0"
+        },
         {
           "date": "2026-03-06",
           "rating": 1,
@@ -1273,33 +1336,15 @@
           "content": "Endleess questionnaires asking stupid questions over and over again!! I uninstalled the app .. didn’t even got to the last question.. it was simply too much!!",
           "author": "Da_ath",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Has Made My Thinking More Positive",
-          "content": "Love this app! Absolutely amazing to get positive, encouraging, and thoughtful affirmations throughout the day. In these times we’re living in I could use all the help I can get to lift my mood lol! Download it and share with friends.",
-          "author": "JJ Osolate",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Made my heart warm",
-          "content": "Ever since l downloaded this app my heart warmed and l felt more relaxed and comfortable after reading this sweet sentence they made and l loved it❤️✨🤗",
-          "author": "Laflacajannel",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 143,
+      "meta.total": 148,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-07",
-      "meta.until": "2026-03-09"
+      "meta.since": "2026-02-08",
+      "meta.until": "2026-03-10"
     }
   ]
 }
