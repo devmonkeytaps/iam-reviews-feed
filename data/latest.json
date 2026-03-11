@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-03-10T00:39:14Z",
+  "generated_at": "2026-03-11T00:39:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Now more than ever",
+          "content": "We need to pause and just breathe",
+          "author": "Teenieyoginie",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-08",
+          "rating": 5,
+          "country": "US",
+          "title": "I’m Bertha Jackson",
+          "content": "This app really helped Bertha Jackson",
+          "author": "Bertha Jackson’s",
+          "version": "6.26.0"
+        },
         {
           "date": "2026-03-08",
           "rating": 4,
@@ -183,6 +201,15 @@
           "title": "A pick me up, always",
           "content": "If you ever find yourself deep in thoughts, and overwhelmed this little app is genius to turn to it mood around! The affirmations are great and it really helps to motivate you. Definitely worth it.",
           "author": "marvelous3va",
+          "version": "6.25.0"
+        },
+        {
+          "date": "2026-03-03",
+          "rating": 5,
+          "country": "CA",
+          "title": "daily affirmations for  people who don’t go to school",
+          "content": "this is giving kids the opportunity who don’t go to school to let them learn that they are themselves and they don’t have to be who others tell them to",
+          "author": "ja,leia",
           "version": "6.25.0"
         },
         {
@@ -417,6 +444,15 @@
           "title": "Misleading, bait and switch",
           "content": "I was genuinely excited to use this app. Spent time thoughtfully answering all the onboarding questions in the beginning, only to find out at the very end that you only get a free 3-day trial and then have to pay for a subscription moving forward.\n\nThat was really disappointing and felt like a bait and switch. I wish this had been clearly stated from the beginning.",
           "author": "Cewkieee",
+          "version": "6.23.0"
+        },
+        {
+          "date": "2026-02-25",
+          "rating": 5,
+          "country": "GB",
+          "title": "Saved my life on a lot of ways",
+          "content": "I’ve had this app now for a couple of years and I can honestly say it has helped me on my healing journey SO MUCH. To receive these reminders through out my daily life, has helped me from spiralling so many times and reminded me of my own inner truth. Thank you 🙏💛",
+          "author": "charbabyxxx",
           "version": "6.23.0"
         },
         {
@@ -1273,78 +1309,15 @@
           "content": "With the new year, decided to do the trial. It wasn’t for me, so I cancelled subscription before trial was up. I confirmed cancellation then I noticed a notification which was odd since I cancelled. I rechecked and it says my subscription is cancelled but not until Feb 2027.",
           "author": "Wwe5555",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive Mindset at your fingertips",
-          "content": "I love the fact the positive quotes pop up daily & I can see them without unlocking my screen. This has been very helpful keeping my mind focused on all the greatness life has to offer!!!",
-          "author": "DDHawkins",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Subscription",
-          "content": "I cancelled my subscription before the trial time was up and it still charged me for the entire year of $69.99 which is ridiculous. I tried to reach out to customer service to no avail. I am very upset. Now I have to report this as fraud and go through the process with my bank.",
-          "author": "Spoofers",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 5,
-          "country": "US",
-          "title": "So great!",
-          "content": "Hi there! If you are looking for an app to change your life, here it is! I love how it gives me good vibes!",
-          "author": "🌈💅🏼🎀😊⚡️💛",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 1,
-          "country": "US",
-          "title": "No notification that free trial was ending",
-          "content": "This is a pretty nice app, but I can’t really afford it right now after all. Today was the day I could cancel, but I was not notified as they said I would be, and I was already charged. I want a refund but there’s not a policy to do that. Don’t get this app.",
-          "author": "Kathy the Scribbler",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Calm",
-          "content": "It help me through stressful situations",
-          "author": "Joy ful tv",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 5,
-          "country": "AU",
-          "title": "So good",
-          "content": "This is so good I’m so happy I got this app",
-          "author": "Wondiful app",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Endless questionnaires!!!",
-          "content": "Endleess questionnaires asking stupid questions over and over again!! I uninstalled the app .. didn’t even got to the last question.. it was simply too much!!",
-          "author": "Da_ath",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 148,
+      "meta.total": 145,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-08",
-      "meta.until": "2026-03-10"
+      "meta.since": "2026-02-09",
+      "meta.until": "2026-03-11"
     }
   ]
 }
