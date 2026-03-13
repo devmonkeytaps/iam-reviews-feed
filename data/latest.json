@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-03-12T00:36:44Z",
+  "generated_at": "2026-03-13T00:42:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Faith Hope Love",
+          "content": "I truly appreciate this app’s little positive influences throughout the day🙏♥️",
+          "author": "Bobbarnojoash",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 4,
+          "country": "US",
+          "title": "Helpful",
+          "content": "The affirmations they use are extremely generic",
+          "author": "sepideh_calif",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Great app",
+          "content": "Right time for everything",
+          "author": "EDT kkhgf",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 1,
+          "country": "US",
+          "title": "Terrible",
+          "content": "Quick to sign you up for a charge, but no support. App didn’t work beyond sending me alarms. Everytime I click the app it acted like it was the first time and started the process all over",
+          "author": "dpaulm",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 1,
+          "country": "US",
+          "title": "Not even half of star.",
+          "content": "It’s was cool as first but it has trashed my phone. I can’t download anything new, I can’t  renew or pay for my subscriptions. I’ve reset my phone I’ve canceled the subscription I’ve even deleted the app. I’m beyond fed up I’ve tried anything and everything to get rid of it and can’t.",
+          "author": "Kittykatt5011",
+          "version": "6.26.1"
+        },
         {
           "date": "2026-03-10",
           "rating": 1,
@@ -1237,42 +1282,15 @@
           "content": "Great way to set the intention for the day or have a mid day motivation!",
           "author": "Daddyfish7",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-10",
-          "rating": 4,
-          "country": "US",
-          "title": "Calm",
-          "content": "Affirmative contusions",
-          "author": "Athena’sG",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-10",
-          "rating": 3,
-          "country": "US",
-          "title": "Inconsistent",
-          "content": "Here I am and the Streak Reminder hasn’t worked the last 4 days and the last 2 days, not getting any affirmations — yes, I have cleared all my notifications on my home screen as previously suggested. I’m feeling frustrated because I’ve had this app 2 years and until this year, I had virtually no issues. I hope you can fix this quickly because I really do love this app and it is good for me.\n\n**UPDATE TO REVIEW**\n15JAN26– this app has continued to get worse the longer that I use it. I haven’t received any affirmations in a week now; yes, I’ve cleared all my notifications. And with their last update to the app itself, the alarm for my streak reminder has disappeared. In addition, when I manually open the app, the screen is white and takes nearly 20 full seconds to load. I definitely will not continue my paid subscription when it’s due for renewal. This app has had too many bugs, glitches, and in hasn’t worked consistently and properly in months.\n\n[22JAN26] MonkeyTaps you say you read every single review..  another week has elapsed and I have not received one single affirmation. I’ve been cleaning ALL my notifications on my iPhone as previously instructed. I’ve updated the app, I’ve rebooted, I’ve manually opened the app, etc., and still nothing. I don’t know why your team hasn’t yet fixed this issue. I do like the app— when it works properly.\n\n[06FEB26] - I guess no one reads this but I’m going to write anyway. My app gave me affirmations all day this past Tuesday after not working for a couple weeks. However, it gave me the “Tap Here to Continue Receiving Affirmations” warning (which was random because it had been giving me my affirmations regularly up to that moment on Tuesday. Since that notification popped up, I’ve had no more affirmations.\n\n[10FEB26] — though I have the most recent update, there’s still a glitch in the coding apparently. Two days ago, I finally started receiving my affirmations. They were constant until the “Tap to continue receiving notifications” popped up. I clicked on it, it took me to the Home Screen of the app, but that’s where the affirmations stopped. This is what happened last time. Please fix this app. Show that you care about providing an app that is reliable and helpful more than just intermittently.",
-          "author": "Chelevision",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-10",
-          "rating": 1,
-          "country": "US",
-          "title": "App de mierda",
-          "content": "Como voy a pagar 69mil pesos por unas simples frases vuelvanser serios ome",
-          "author": "Angélica p00000",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 140,
+      "meta.total": 142,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-10",
-      "meta.until": "2026-03-12"
+      "meta.since": "2026-02-11",
+      "meta.until": "2026-03-13"
     }
   ]
 }
