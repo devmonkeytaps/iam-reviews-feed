@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-03-13T00:42:23Z",
+  "generated_at": "2026-03-14T00:40:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-11",
+          "rating": 5,
+          "country": "US",
+          "title": "I Am sold on I AM",
+          "content": "This app has been a true inspiration.  It’s so nice to schedule multiple encouraging messages throughout my day.  This allows me to breathe in the goodness and be hopeful no matter what comes my way.  It is a worthy investment and my chime is always On Time!  In fact, as a therapist, I have encouraged my clients to give positive affirmations a chance.  I am worthy of affirming my self on my way to the best version of me.",
+          "author": "U R Worth it!",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily affirmations!",
+          "content": "I am uplifted by the positive affirmations, even though I am not here every day! Makes my moments bearable.",
+          "author": "Jerzy Gal",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-11",
+          "rating": 4,
+          "country": "US",
+          "title": "Audio",
+          "content": "Maybe I’m not accessing it correctly, but I wish there was a long roll of audio that repeated over and over. I know there are shorter audios, but I’d like to go to sleep with it playing for a long time to seep into my subconscious.",
+          "author": "@@ cant",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-11",
+          "rating": 2,
+          "country": "US",
+          "title": "Affirmation Notifications still Not Working",
+          "content": "[11MAR26] I’m a broken record that the developers are not fixing. I’m only receiving ONE affirmation in a week! When I first downloaded this app almost 3 years ago (I have the PAID version) and up until 1 year ago, I received many, many affirmations all day long. I don’t know why this isn’t being fixed unless it’s just MY app that isn’t working. 🤔🧐",
+          "author": "Chelevision",
+          "version": "6.26.1"
+        },
         {
           "date": "2026-03-11",
           "rating": 5,
@@ -1219,78 +1255,15 @@
           "content": "Something I needed to remind me of myself",
           "author": "Kare0222",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Annoying notification reminders",
-          "content": "Stop sending notification of my phone to “tap to keep getting reminders”. It’s annoying and I’m going to stop my subscription because of it.",
-          "author": "Anais_125",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Live yourself Affirmations!!",
-          "content": "These seem to pop up just when I need them most throughout my day! And it affirms that I am improving & loving me more each day!",
-          "author": "DeeSly!",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Not worth it",
-          "content": "This app does not seem to work like it should. It does not send the affirmations on the hour - nothing popped up and it is very basic. \n\nThis is my main complaint- they were supposed to send a reminder the day before the free trial ended - and they did not - woke up to a 75 dollar charge from them when I definitely did not intend on keeping this app. I can google affirmations and get the same results for free.",
-          "author": "1981BLH",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Terrible and misleading",
-          "content": "You people disgust me so much, start off by saying you need to purchase something. How idiotic. Karma sucks it’ll come around.",
-          "author": "Oo dog",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 5,
-          "country": "US",
-          "title": "Cada día eres más fuerte",
-          "content": "No lo olvides jamás",
-          "author": "Mis afirmaciones ciones",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Shady & potentially predatory",
-          "content": "Great concept but WHY do I need to answer 101 questions but you NEVER reveal the cost?  I’m not agreeing a “free trial” so you can charge me AN UNDISCLOSED AMOUNT after 3 days.",
-          "author": "SoulSistaNumberOne",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-11",
-          "rating": 5,
-          "country": "US",
-          "title": "I AM loving the new motivation!",
-          "content": "Great way to set the intention for the day or have a mid day motivation!",
-          "author": "Daddyfish7",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 142,
+      "meta.total": 139,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-11",
-      "meta.until": "2026-03-13"
+      "meta.since": "2026-02-12",
+      "meta.until": "2026-03-14"
     }
   ]
 }
