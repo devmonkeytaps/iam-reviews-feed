@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-03-14T00:40:10Z",
+  "generated_at": "2026-03-15T00:49:01Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Love it",
+          "content": "I really love this app . It somehow knows exactly what I need to repeat to myself and the affirmations are subtle calm and reassuring . I wish it was more customizable but I still like what I see plus the reminders and alarm . 💎🩵",
+          "author": "Aneka Diamond",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-11",
+          "rating": 1,
+          "country": "US",
+          "title": "Deceptive",
+          "content": "I canceled my subscription before the end of the trial and they charged me for a year anyway. So I’m out $50 and stuck with an app that I have no use for.",
+          "author": "SophieWR",
+          "version": "6.26.1"
+        },
         {
           "date": "2026-03-11",
           "rating": 5,
@@ -84,6 +102,15 @@
           "title": "Not even half of star.",
           "content": "It’s was cool as first but it has trashed my phone. I can’t download anything new, I can’t  renew or pay for my subscriptions. I’ve reset my phone I’ve canceled the subscription I’ve even deleted the app. I’m beyond fed up I’ve tried anything and everything to get rid of it and can’t.",
           "author": "Kittykatt5011",
+          "version": "6.26.1"
+        },
+        {
+          "date": "2026-03-10",
+          "rating": 4,
+          "country": "CA",
+          "title": "Fairly good app",
+          "content": "This app has boosted my self confidence within minutes of using it. I don’t like that it costs money, but it is fairly cheap.",
+          "author": "SomeWhiteIdiot",
           "version": "6.26.1"
         },
         {
@@ -219,6 +246,15 @@
           "title": "$70/year is shameful",
           "content": "$70/year for the premium level is astronomical for an app I could build in Claude in less than 3 minutes. The greed is disappointing. $3/year would be much more appropriate for an app that does nothing but rattle off feel-good one-liners. Come on...",
           "author": "Hillary Fox",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-06",
+          "rating": 5,
+          "country": "AU",
+          "title": "It’s amazing",
+          "content": "Really like this app. And it’s a set and forget 👌🏻😌",
+          "author": "...m.j.d...",
           "version": "6.26.0"
         },
         {
@@ -1219,42 +1255,6 @@
           "content": "It calmed me and helped me a lot",
           "author": "I recommendddddd",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily affirmations",
-          "content": "Help me motivate each day",
-          "author": "Ayang Beauty",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-12",
-          "rating": 5,
-          "country": "US",
-          "title": "An ever expanding source",
-          "content": "I appreciate the full range of inspiration and guidance.",
-          "author": "FirstSuperMags",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Philly,Pa building back",
-          "content": "This is my second year with this app me getting these affirmations through out the day every really lifts my spirits. If you’re rebuilding yourself this is for u.🦾🦾🦾💯💯💯",
-          "author": "Philly Man. Rebuilding 🦾🦾🦾",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Needed this",
-          "content": "Something I needed to remind me of myself",
-          "author": "Kare0222",
-          "version": "6.22.0"
         }
       ],
       "meta.total": 139,
@@ -1262,8 +1262,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-12",
-      "meta.until": "2026-03-14"
+      "meta.since": "2026-02-13",
+      "meta.until": "2026-03-15"
     }
   ]
 }
