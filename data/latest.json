@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-03-15T00:49:01Z",
+  "generated_at": "2026-03-16T00:48:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-13",
+          "rating": 5,
+          "country": "US",
+          "title": "A keeper.",
+          "content": "I truly do live this app. I’ve had it for almost a year. Like others, I got it in a bundle trial. I ended up keeping it and deleting the others. I turn to this app often, actually. Probably 2-3 a day, if not more. I also had a good friend  download it and they love it too.",
+          "author": "Squirreliegal",
+          "version": "6.26.1"
+        },
         {
           "date": "2026-03-12",
           "rating": 5,
@@ -1201,69 +1210,15 @@
           "content": "I enjoy this app as it causes me to pause thru the day and take a minute to reflect.",
           "author": "Jlbrady1956",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive & Uplifting",
-          "content": "I look forward to seeing the positive and uplifting affirmations every day! I appreciate my daughter who showed me this wonderful app",
-          "author": "HappyHappy-Happy",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 1,
-          "country": "US",
-          "title": "Stuck with it",
-          "content": "The trial converted to a paid annual subscription, and I was unable to cancel before billing. I’m now committed to the full subscription term. Users may want to monitor their trial dates carefully to avoid an unexpected renewal.",
-          "author": "Missbayy",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "I absolutely love this app. It helps me each and every day helps me to rethink the way. I think to know that I am in love.",
-          "author": "Boss momma 239",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Loveeee",
-          "content": "Very thoughtful app",
-          "author": "Butch-Holl",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 1,
-          "country": "US",
-          "title": "Overrated",
-          "content": "Too many interviewing prompts.. overloaded.",
-          "author": "Andrei169",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-13",
-          "rating": 5,
-          "country": "US",
-          "title": "I love it",
-          "content": "It calmed me and helped me a lot",
-          "author": "I recommendddddd",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 139,
+      "meta.total": 134,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-13",
-      "meta.until": "2026-03-15"
+      "meta.since": "2026-02-14",
+      "meta.until": "2026-03-16"
     }
   ]
 }
