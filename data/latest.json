@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-03-16T00:48:56Z",
+  "generated_at": "2026-03-17T00:41:12Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-15",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "Helps me become who I want to be",
+          "author": "PeachyKeeeeeeeen",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Definitely would recommend",
+          "content": "Motivational",
+          "author": "Hate8ballstrike",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-14",
+          "rating": 1,
+          "country": "US",
+          "title": "Scam don’t get it",
+          "content": "This app is a scam, $70 just to see cheesy content about “how great you are “ I didn’t even mean to get the app as my little son downloaded it. By the time I realized that it was a paid subscription I requested a refund and they denied it and said that the decision was final! So frustrating and I feel like they stole my money!",
+          "author": "juhgvtcrdcgb",
+          "version": "6.27.0"
+        },
         {
           "date": "2026-03-13",
           "rating": 5,
@@ -156,6 +183,15 @@
           "title": "Sound",
           "content": "The sound hurts my ears when I eat the Kale",
           "author": "Pen pen the pen",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-08",
+          "rating": 4,
+          "country": "GB",
+          "title": "Love but one problem",
+          "content": "The app is very good. The only problem is the opening screen bug where after you go through all the questions there’s no option to go to the free version of the app only the premium for three days free. if you could fix that, it would be five stars. It’s also the same for your other app vocabulary but I will review that separately.",
+          "author": "Cunning as a Fox",
           "version": "6.26.0"
         },
         {
@@ -1192,33 +1228,15 @@
           "content": "A must have!!!!",
           "author": "milkieawayway",
           "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-14",
-          "rating": 1,
-          "country": "US",
-          "title": "Not impressed",
-          "content": "I’ve used the app for a few weeks now and I’m just not impressed. There’s not much to it at all. The “practice” of daily affirmations is just a series of sentences being read to you in a robotic voice. The interface is pretty, but that’s about it. I don’t know why the introductory questionnaire even exists because all of the settings/topics I chose at the beginning aren’t the focus when you get into the app. You can choose from a multitude of subjects to focus on but then I find myself irritated that I have to scroll thru them all again and again if I want to change anything. There’s no real incentive or insights available while you’re using it either- just prompts you to “read” the affirmations each day and then- boom, you’re done! It’s just boring AI slop.",
-          "author": "whowhatwhit",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Thru the day…",
-          "content": "I enjoy this app as it causes me to pause thru the day and take a minute to reflect.",
-          "author": "Jlbrady1956",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 134,
+      "meta.total": 136,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-14",
-      "meta.until": "2026-03-16"
+      "meta.since": "2026-02-15",
+      "meta.until": "2026-03-17"
     }
   ]
 }
