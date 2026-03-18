@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-17T00:41:12Z",
+  "generated_at": "2026-03-18T00:44:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1183,60 +1183,15 @@
           "content": "Love this app, it has helped me a lot when I’m in good and bad moods, improving my overall well-being. I’ve been using the same simple, calming background for months now, though suddenly the app updated and now the once free background costs money, along with many others. I would say that’s the only flaw, so please reverse this update! UPDATE Hi, I recently noticed that some of the backgrounds I was referring to, are now free again! I’m not sure if this is because of my review, but thanks so much!",
           "author": "Roblox5554",
           "version": "6.19.0"
-        },
-        {
-          "date": "2026-02-15",
-          "rating": 1,
-          "country": "US",
-          "title": "Can’t log in",
-          "content": "I pay for a subscription and can’t log in no matter what I try to do",
-          "author": "Squeeze1222",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-15",
-          "rating": 5,
-          "country": "US",
-          "title": "my body",
-          "content": "This app helped me grieve about my grandma and cat and helped me be confident about my body.",
-          "author": "Sndccbssh",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-15",
-          "rating": 5,
-          "country": "US",
-          "title": "review",
-          "content": "this app actually helps me so much it helped me with a lot of times i needed it!",
-          "author": "revieww about ‘ i am ‘",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-15",
-          "rating": 5,
-          "country": "US",
-          "title": "The “ I AM APP” made a positive change in MY life.",
-          "content": "Try it ( CONSISTENTLY FOR FREE & SEE!)",
-          "author": "girlthatlookslikemagic888",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-15",
-          "rating": 5,
-          "country": "AU",
-          "title": "Get this noww",
-          "content": "A must have!!!!",
-          "author": "milkieawayway",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 136,
+      "meta.total": 131,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-15",
-      "meta.until": "2026-03-17"
+      "meta.since": "2026-02-16",
+      "meta.until": "2026-03-18"
     }
   ]
 }
