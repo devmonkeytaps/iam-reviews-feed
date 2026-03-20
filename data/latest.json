@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-19T00:44:49Z",
+  "generated_at": "2026-03-20T00:42:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1228,42 +1228,15 @@
           "content": "Amazing App! It has made me much more secure in my life in all areas and it has improved my self concept in less than a month. I feel like i can get through anything with the daily targeted affirmations.",
           "author": "Sexyloner",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-17",
-          "rating": 2,
-          "country": "US",
-          "title": "Premium price??",
-          "content": "I’ve been loving this app for years. I love the different themes and how you can customize the background and at that time the price was about $1.49 per month to unlock all themes and categories which i loved. Now, the price for premium went up to $14.99 per month. I think this is ridiculous. Also I noticed a year ago that they introduced AI! Which is crazy. If the developers would lower the price then I think people would pay for it. It’s crazy how it’s only about 5 free categories amongst 15-20. Anything for a buck,  I guess. I’ll be deleting the app",
-          "author": "whitneyxox13",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-17",
-          "rating": 4,
-          "country": "US",
-          "title": "Hp",
-          "content": "I wish you didn’t have to pay for it",
-          "author": "I don’t care bear",
-          "version": "6.22.0"
-        },
-        {
-          "date": "2026-02-17",
-          "rating": 5,
-          "country": "US",
-          "title": "#POSITIVEPROGRESION",
-          "content": "This app reminded me that it’s all about the grass roots when it comes to positive mental status and growth and continue to strive to be a better steward with the life that you have been blessed to live. Keep up the positive growth in your business and life and thanks for being here for all us soldiers in the field fighting battles daily within and out of our framework. Much love from a 703 living in the 602",
-          "author": "GOOSELUMPS",
-          "version": "6.22.0"
         }
       ],
-      "meta.total": 139,
+      "meta.total": 136,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-17",
-      "meta.until": "2026-03-19"
+      "meta.since": "2026-02-18",
+      "meta.until": "2026-03-20"
     }
   ]
 }
