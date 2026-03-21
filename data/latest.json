@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-03-20T00:42:44Z",
+  "generated_at": "2026-03-21T00:40:36Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-19",
+          "rating": 2,
+          "country": "US",
+          "title": "Not as good as imagined",
+          "content": "The graphics shown on the app page are so beautiful but you can only choose one style instead of getting a mix. Also, despite not adding any of the Christian collections of affirmations, I still was immediately served up one about “faith” that is not at all what I want to be reading on my phone.",
+          "author": "Cypresspdx",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-18",
+          "rating": 3,
+          "country": "US",
+          "title": "Was a good app once",
+          "content": "It WAS a great app, when there was some cool free moving stuff on it, but then you took all that away and made only still images available for free users, and now it kind of sucks. And I’m not gonna pay you $70 a year to use something like this.",
+          "author": "Astartiel",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-18",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive daily affirmations",
+          "content": "I like this app. I am positive about those daily affirmations.",
+          "author": "cate stradley",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-18",
+          "rating": 4,
+          "country": "US",
+          "title": "Lovely but…",
+          "content": "Fantastic app however only a couple years ago it was $2.99 for premium and now it’s almost $15! That is crazy just to change the wallpaper….",
+          "author": "Skidknee Lynne",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Incredible",
+          "content": "Lovely affirmations and beautiful backgrounds",
+          "author": "Meditating Mari",
+          "version": "6.27.0"
+        },
         {
           "date": "2026-03-16",
           "rating": 1,
@@ -1192,51 +1237,15 @@
           "content": "This app helps give me boosts of energy and confidence and puts a grin on my face I just wish there was mire kinds of Affirmations for free",
           "author": "Low power mode for girls",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Supportive",
-          "content": "I often receive the right affirmation when I need it.✨",
-          "author": "Happy 2016",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-18",
-          "rating": 4,
-          "country": "US",
-          "title": "Inconsistent",
-          "content": "Here I am and the Streak Reminder hasn’t worked the last 4 days and the last 2 days, not getting any affirmations — yes, I have cleared all my notifications on my home screen as previously suggested. I’m feeling frustrated because I’ve had this app 2 years and until this year, I had virtually no issues. I hope you can fix this quickly because I really do love this app and it is good for me.\n\n**UPDATE TO REVIEW**\n15JAN26– this app has continued to get worse the longer that I use it. I haven’t received any affirmations in a week now; yes, I’ve cleared all my notifications. And with their last update to the app itself, the alarm for my streak reminder has disappeared. In addition, when I manually open the app, the screen is white and takes nearly 20 full seconds to load. I definitely will not continue my paid subscription when it’s due for renewal. This app has had too many bugs, glitches, and in hasn’t worked consistently and properly in months.\n\n[22JAN26] MonkeyTaps you say you read every single review..  another week has elapsed and I have not received one single affirmation. I’ve been cleaning ALL my notifications on my iPhone as previously instructed. I’ve updated the app, I’ve rebooted, I’ve manually opened the app, etc., and still nothing. I don’t know why your team hasn’t yet fixed this issue. I do like the app— when it works properly.\n\n[06FEB26] - I guess no one reads this but I’m going to write anyway. My app gave me affirmations all day this past Tuesday after not working for a couple weeks. However, it gave me the “Tap Here to Continue Receiving Affirmations” warning (which was random because it had been giving me my affirmations regularly up to that moment on Tuesday. Since that notification popped up, I’ve had no more affirmations.\n\n[10FEB26] — though I have the most recent update, there’s still a glitch in the coding apparently. Two days ago, I finally started receiving my affirmations. They were constant until the “Tap to continue receiving notifications” popped up. I clicked on it, it took me to the Home Screen of the app, but that’s where the affirmations stopped. This is what happened last time. Please fix this app. Show that you care about providing an app that is reliable and helpful more than just intermittently.\n\n[18FEB26] — I guess this company is not interested in constructive feedback and trying to remove the errors/glitches in their app. I’ve gotten 1 actual affirmation in the last 5 days. I have, as always, done everything it suggests to trouble shoot so I know it’s in the coding and not on my end. I definitely will not renew this app; what’s the point of trying to improve my thinking if the app doesn’t work and the developers don’t care to fix it.",
-          "author": "Chelevision",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-18",
-          "rating": 5,
-          "country": "AU",
-          "title": "Incentive",
-          "content": "When I need extra encouragement. \nThe saying just pops up with exactly what I need on the day!! I like reading it….",
-          "author": "Maya26@",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Loving “I am”. My New staple daily app.",
-          "content": "Amazing App! It has made me much more secure in my life in all areas and it has improved my self concept in less than a month. I feel like i can get through anything with the daily targeted affirmations.",
-          "author": "Sexyloner",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 136,
+      "meta.total": 137,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-18",
-      "meta.until": "2026-03-20"
+      "meta.since": "2026-02-19",
+      "meta.until": "2026-03-21"
     }
   ]
 }
