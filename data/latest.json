@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-22T00:45:51Z",
+  "generated_at": "2026-03-23T00:46:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1147,60 +1147,15 @@
           "content": "went through the entire questionnaire which took like 10 minutes just to find out you have to pay for it. really shouldn’t advertise these apps as if there’s a free option.",
           "author": "hehhejrkeh",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Best app ever",
-          "content": "This is so calm and relaxing that I feel so cool now",
-          "author": "Lap ala lap",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-20",
-          "rating": 5,
-          "country": "US",
-          "title": "How this is already changing me",
-          "content": "It already had me crying because I don’t think I am enough, I am js a kid struggling with life and death, so it telling me I am enough and me reading them is enough to have me in tears",
-          "author": "REY_l0VES_SZ@",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-20",
-          "rating": 5,
-          "country": "ES",
-          "title": "Aprendí a amarla",
-          "content": "Al principio me enojaban las afirmaciones, pero al pasar el tiempo fueron generando que crea en mí y acepte las afirmaciones como parte de quién soy. La recomiendo 100%",
-          "author": "mvo193",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-20",
-          "rating": 5,
-          "country": "US",
-          "title": "In love",
-          "content": "I absolutely love this app! It just makes my life better!",
-          "author": "GTNBLING",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-20",
-          "rating": 5,
-          "country": "US",
-          "title": "I AM 🙌🏾",
-          "content": "Love this app so encouraging, inspiring, and uplifting 🩷🩷🩷🩷",
-          "author": "Shameka B.",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 132,
+      "meta.total": 127,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-20",
-      "meta.until": "2026-03-22"
+      "meta.since": "2026-02-21",
+      "meta.until": "2026-03-23"
     }
   ]
 }
