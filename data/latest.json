@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-03-24T00:38:38Z",
+  "generated_at": "2026-03-25T00:44:15Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-23",
+          "rating": 5,
+          "country": "US",
+          "title": "I’m feeling great",
+          "content": "This app is amazing!!! Just after one month I’m already feeling great and happy again. My stress has decreased. This app is great I definitely recommend it!",
+          "author": "Ember fossil",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-22",
+          "rating": 1,
+          "country": "US",
+          "title": "Terrible",
+          "content": "Way too expensive. I have no idea what the creators were thinking setting the price point. It’s outrageous. If you believe in your product offer free trials. It’s trash !",
+          "author": "Pandafet",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-22",
+          "rating": 3,
+          "country": "US",
+          "title": "Nice App but…",
+          "content": "I’ve had this app for years, but it doesn’t refresh affirmations as often as I’d like. I even have to uninstall and reinstall it just to get a new one. The encouragement and themes are great, but the issues outweigh the positives. I’m not sure I’ll keep using it, paying for something i have to work for defeats the purpose.",
+          "author": "Steph Miche",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Easy to use",
+          "content": "Sign up was flawless and there are lots of great affirmations. The free version is simple yet effective. This is my most consistently used mental health app so far. I’ve made it to 250+ day streak",
+          "author": "Jackson Ho.",
+          "version": "6.28.0"
+        },
         {
           "date": "2026-03-22",
           "rating": 5,
@@ -133,6 +169,15 @@
         },
         {
           "date": "2026-03-17",
+          "rating": 1,
+          "country": "CA",
+          "title": "Tricky to unsubscribe",
+          "content": "I tried to unsubscribe and thought I did, but you made the dates look current not next year. I don’t need premium. I still want my money back. Totally ridiculous. No contact. Watch out folks.",
+          "author": "Tsfjhde",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-17",
           "rating": 5,
           "country": "US",
           "title": "Incredible",
@@ -174,6 +219,15 @@
           "title": "Healing",
           "content": "I love this app so much that I’ve convinced a few people to download it!! I’m usually on this app more than others!! Lol",
           "author": "CatHaze7",
+          "version": "6.27.0"
+        },
+        {
+          "date": "2026-03-16",
+          "rating": 5,
+          "country": "AU",
+          "title": "I am Daily affirmations",
+          "content": "Thank you loved getting one every day thank you for the free trial\nAnd I’m still getting a daily wake up reminder thanks so much for that ⭐️⭐️⭐️⭐️⭐️",
+          "author": "Scores15",
           "version": "6.27.0"
         },
         {
@@ -1057,78 +1111,15 @@
           "content": "This is so great!!! It brings me back to being positive and kind to myself! \nI love it sincerely!",
           "author": "SandyCakes1978",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 3,
-          "country": "US",
-          "title": "Could be better",
-          "content": "The spoken voice during the practices is very robotic and fast. Annoying",
-          "author": "sepideh_calif",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 2,
-          "country": "US",
-          "title": "Pay wall",
-          "content": "The “Practice mode” was great for my workouts so I stay off my phone and don’t focus on the treadmill timer, but it’s behind a pay wall now. Sucks because it used to be free. I barely use the app now",
-          "author": "glowzz7",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 5,
-          "country": "US",
-          "title": "This amazing",
-          "content": "This is just the app people who are depressed need like me",
-          "author": "Venus 12345",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Iam",
-          "content": "I love waking up to my daily affirmations it’s hits different every morning I try to love everyone the ones that touch me. I wish the background option was free.",
-          "author": "Lowlo89",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Essential app",
-          "content": "I really think this app is essential for all people who is lining up to their own truly path. We have time during the day to scroll other apps and engage to narcissistic conversations and exhaustion of thoughts as trash from not nourish conversation; been this a daily reality will totally interfere with your inner peace and alignment with your truly positive and productive thoughts for your path; I found this app messages during the day ; help me to stay grounded and to avoid interacting with others what comes with their narcissistic behavior and negativity thoughts. I totally recommend this application if you are working on your own path.",
-          "author": "Sophie_#1",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 5,
-          "country": "US",
-          "title": "My experience",
-          "content": "Thankfully this app has been a solid source of my motivation thank you the meaningful words available at any time",
-          "author": "Kaliesia k",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app❣️",
-          "content": "I have the amazing affirmations set on 7 times a day and I love the reminders to really open the app and read the days message. It’s just what we all can use for that encouragement and knowledge about yourself and the world around you.",
-          "author": "LetsGoGurl",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 124,
+      "meta.total": 123,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-22",
-      "meta.until": "2026-03-24"
+      "meta.since": "2026-02-23",
+      "meta.until": "2026-03-25"
     }
   ]
 }
