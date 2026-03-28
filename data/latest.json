@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-03-27T00:47:56Z",
+  "generated_at": "2026-03-28T00:43:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-26",
+          "rating": 4,
+          "country": "US",
+          "title": "price",
+          "content": "i love the affirmations and ability to create theme.  it’s just ridiculously expensive for this subscription. also i wish i could make my entire lock screen instead of just a widget",
+          "author": "Gumbie111",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "Amazing app, have had it for more than 5 years, and its awesome",
+          "author": "reegzzz",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-25",
+          "rating": 5,
+          "country": "US",
+          "title": "I am- Daily Affirmations",
+          "content": "I love this app. It’s very exciting. It’s my favorite app. Thank you so much.",
+          "author": "Dutybotz",
+          "version": "6.28.0"
+        },
         {
           "date": "2026-03-25",
           "rating": 5,
@@ -1066,51 +1093,15 @@
           "content": "It helps me with depression \nAnd I think that it can help you to!",
           "author": "Idk-to.put",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-25",
-          "rating": 1,
-          "country": "US",
-          "title": "Misleading, bait and switch",
-          "content": "I was genuinely excited to use this app. Spent time thoughtfully answering all the onboarding questions in the beginning, only to find out at the very end that you only get a free 3-day trial and then have to pay for a subscription moving forward.\n\nThat was really disappointing and felt like a bait and switch. I wish this had been clearly stated from the beginning.",
-          "author": "Cewkieee",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-25",
-          "rating": 5,
-          "country": "GB",
-          "title": "Saved my life on a lot of ways",
-          "content": "I’ve had this app now for a couple of years and I can honestly say it has helped me on my healing journey SO MUCH. To receive these reminders through out my daily life, has helped me from spiralling so many times and reminded me of my own inner truth. Thank you 🙏💛",
-          "author": "charbabyxxx",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-25",
-          "rating": 1,
-          "country": "US",
-          "title": "Random alarm",
-          "content": "Deleted app and turned off all notifications within it, but it keeps giving me an alarm at like 4:45am. Help.",
-          "author": "Flower173618",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-25",
-          "rating": 1,
-          "country": "US",
-          "title": "Buggy",
-          "content": "This app used to be functional and I didn’t mind paying for it. Unfortunately, it’s gotten so buggy that it’s useless and I need to find an alternative.",
-          "author": "JJ Gangi",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 122,
+      "meta.total": 121,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-25",
-      "meta.until": "2026-03-27"
+      "meta.since": "2026-02-26",
+      "meta.until": "2026-03-28"
     }
   ]
 }
