@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-03-28T00:43:39Z",
+  "generated_at": "2026-03-29T00:50:21Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Love",
+          "content": "Motivational; supportive; aesthetic; positive; energy; emotional; love",
+          "author": "reviews🌞",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Self love",
+          "content": "I love this so much. It has helped me become a better person and has helped me with anxiety and emotional support and I’m just so happy that I got it.",
+          "author": "So much helpful advice",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazinggggg",
+          "content": "THIS APP IS SO POSITIVE. You can read the affirmations without paying unlike some other apps that you have to pay to use, 20/10 definitely would recommend.🤩🤩🤩",
+          "author": "Breelivesfreeapps",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-26",
+          "rating": 5,
+          "country": "US",
+          "title": "A powerful daily affirmation app",
+          "content": "This app has been phenomenal for helping me embrace myself, grow my gratitude and stay focused on my goals. I look forward to saying my affirmations every day because of it. The affirmation categories are extensive and the wallpaper themes are beautiful.\n\nMy only complaints are that the customization can feel limited with backgrounds, fonts and font colors and the app does not always sync properly between my phone and iPad on check-in days/calculations.\n\nOverall I’m truly grateful for this app and the positive impact it has had on my mindset and daily life. ✨",
+          "author": "Ke'Love",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-26",
+          "rating": 1,
+          "country": "US",
+          "title": "Horrible not Christian religion",
+          "content": "2026-01-01T23:00:00.000Z",
+          "author": "Chung is",
+          "version": "6.29.0"
+        },
         {
           "date": "2026-03-26",
           "rating": 4,
@@ -1021,87 +1066,15 @@
           "content": "Even if you delete this app it leaves a phantom alarm. It has been driving me absolutely crazy to get rid of the damn thing!!!! I would recommend NOT getting this app.",
           "author": "TaraBing",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Transformational",
-          "content": "This app is a game-changer! Getting daily affirmations truly reduces my anxiety and negative self-talk. So many categories to choose from! This app is worth every penny!",
-          "author": "Rhombusite",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "CA",
-          "title": "Healthy living",
-          "content": "Since I’ve downloaded this app it’s really been helping me w my mental health. I love it so much!! It’s such a nice reminder. 💖 I highly recommend. 🥹",
-          "author": "Jadebabe6o4",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Makes my day a great start",
-          "content": "Start my day positive and decreases my depression. I use this at my work too as a nurse and write one on the board for all the staff!",
-          "author": "Kuromajia",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Life Changer",
-          "content": "Im middle age and have been seeking to incorporate affirmation for years.  This app have given me the mindful nutrients.  this has made my amazing life recognizable.",
-          "author": "theanswerisyes",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "US",
-          "title": "This app is so helpful!",
-          "content": "Love loves loves!!!!!!",
-          "author": "WhitMc1",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 1,
-          "country": "US",
-          "title": "Subscription",
-          "content": "I downloaded this app literally on the 19th, 7 day free trial. I cancel the subscription the same day and you guys charge me, THE SAME DAY. I didn’t have the funds and you kept trying to charge until you finally took the money on my account, about 30 min ago. How? When I literally cancelled. Shouldn’t even have been charged in the first place since I was doing a FREE TRIAL.",
-          "author": "H2026G",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 1,
-          "country": "US",
-          "title": "Alarm glitch",
-          "content": "I deleted the I am app because I didn’t want to have to subscribe. When I did use the app during the free-trial, I had created a affirmation reminder alarm. Even though the app is deleted the alarm still goes off at 12 am every night jolting me from my sleep. I have searched through my phone countless times trying to find the alarm. Researched google, the apple website and even reddit trying to find out how to stop this and its been months with no success. Im ready to do a factory reset and should bot have to all because of this alarm",
-          "author": "Keyg8891",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-26",
-          "rating": 5,
-          "country": "US",
-          "title": "I rlly like it",
-          "content": "It helps me with depression \nAnd I think that it can help you to!",
-          "author": "Idk-to.put",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 121,
+      "meta.total": 118,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-26",
-      "meta.until": "2026-03-28"
+      "meta.since": "2026-02-27",
+      "meta.until": "2026-03-29"
     }
   ]
 }
