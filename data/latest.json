@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-03-30T00:49:56Z",
+  "generated_at": "2026-03-31T00:47:25Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-03-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Cussing?? And Self-written affirmations no longer read aloud?",
+          "content": "I loved this app because I could customize the affirmations that I can play to be read aloud and even add my own so they’re more specific. This was great for falling asleep to affirmations, hearing them and recording them airing my morning routine, etc. I love all the new features and styles in the app, but it no longer reads the self-written affirmations out loud! Huge disruption for me. I hate to be looking at the screen the whole time during the practice. Barely worth using anymore. Going to cancel if that feature doesn’t come back. Also there used to be multiple voice options and now there’s just one voice. Luckily it’s not bad, I just like to explore variety. Please bring back the ability to read self-written affirmations aloud and more voice variety! Also what’s with the random F bomb within the manifesting abundance affirmations?? Very disruptive and inappropriate I feel! Love this app and really want to use it more in the new year. Please update.🤍",
+          "author": "lady.ladonna",
+          "version": "6.29.0"
+        },
         {
           "date": "2026-03-27",
           "rating": 5,
@@ -66,6 +75,15 @@
           "title": "Amazing",
           "content": "Amazing app, have had it for more than 5 years, and its awesome",
           "author": "reegzzz",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-25",
+          "rating": 1,
+          "country": "GB",
+          "title": "It wont load!",
+          "content": "Whenever i open up the app it just wont load!",
+          "author": "Strxberrycheesecake",
           "version": "6.28.0"
         },
         {
@@ -1012,51 +1030,15 @@
           "content": "I like the app but I was supposed to get a discount when I purchased the subscription and did not receive one and was charged full price. I’ve looked to see if there is a customer service number and can’t find one. It’s impossible to find a place to contact them and there are just a page full of Q&As that were not helpful. If you ever have a problem with this it will be extremely hard to get help fixing it.",
           "author": "Gabbie1234567",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Iam❤️&☀️",
-          "content": "Quick bit of inspiration throughout the day!✨",
-          "author": "Queen Tamierre",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-28",
-          "rating": 1,
-          "country": "US",
-          "title": "Problem with notifications",
-          "content": "I cancelled my subscription and removed the App from my phone but am still getting some reminders. I’ve contacted App support but haven’t heard from anyone yet.",
-          "author": "Christie, New York",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Review",
-          "content": "The affirmation are like shining stars throughout out the day and they are very uplifting",
-          "author": "GraceMama21",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-02-28",
-          "rating": 2,
-          "country": "US",
-          "title": "Why the need for greed",
-          "content": "I am so saddened to see that for the last two years my subscription was 17.99 a year and now it is 14.99 a month or 69.99 a year? WOW that is insane. So many people struggling and to take advantage of that is heartbreaking to see. Good bye I am app. I’m very sad about this. I had shown so many people this app. Just very sad to see the need for greed.",
-          "author": "DNUV78",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 116,
+      "meta.total": 114,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-02-28",
-      "meta.until": "2026-03-30"
+      "meta.since": "2026-03-01",
+      "meta.until": "2026-03-31"
     }
   ]
 }
