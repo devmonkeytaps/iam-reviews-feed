@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T00:47:25Z",
+  "generated_at": "2026-04-01T00:52:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -985,60 +985,15 @@
           "content": "But good quotes",
           "author": "pyambao",
           "version": "6.23.0"
-        },
-        {
-          "date": "2026-03-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive things",
-          "content": "I am makes you feel good",
-          "author": "Nyla and her friends",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-03-01",
-          "rating": 1,
-          "country": "US",
-          "title": "I don’t receive affirmation notifications",
-          "content": "I’m very disappointed with this app. The main reason I purchased it was to receive life affirmations throughout the day via phone notifications. Unfortunately, after the first day or two, the affirmations stopped completely. The only notification I now receive is a reminder to “practice,” which isn’t something I’m interested in. It’s frustrating that there doesn’t seem to be a clear way to contact support for assistance, and I haven’t found any helpful information addressing this issue in the help articles. Overall, this has been a very disappointing experience.",
-          "author": "RO1838",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-03-01",
-          "rating": 5,
-          "country": "US",
-          "title": "5 stars would recommend",
-          "content": "I’ve been using this for years and I would definitely recommend it.  I love the positive affirmations sent to me throughout the day.",
-          "author": "LuckyRose7",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-03-01",
-          "rating": 2,
-          "country": "US",
-          "title": "Developers can’t fix simple issue",
-          "content": "I subscribed because this app had everything I wanted — the ability to add my own affirmations and customize the font and background of the widgets. Across several updates now the widgets simply do not work. The customization is clunky and the correct affirmations do not appear. We are not talking about a complicated app here. Loads of other affirmation apps get it right but so far I haven’t found one that also offers customized backgrounds. This looked great but they just can’t get it to work right. Don’t waste your money!",
-          "author": "MicTheFly",
-          "version": "6.23.0"
-        },
-        {
-          "date": "2026-03-01",
-          "rating": 2,
-          "country": "US",
-          "title": "Customer Service",
-          "content": "I like the app but I was supposed to get a discount when I purchased the subscription and did not receive one and was charged full price. I’ve looked to see if there is a customer service number and can’t find one. It’s impossible to find a place to contact them and there are just a page full of Q&As that were not helpful. If you ever have a problem with this it will be extremely hard to get help fixing it.",
-          "author": "Gabbie1234567",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 114,
+      "meta.total": 109,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-01",
-      "meta.until": "2026-03-31"
+      "meta.since": "2026-03-02",
+      "meta.until": "2026-04-01"
     }
   ]
 }
