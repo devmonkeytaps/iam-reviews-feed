@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-04-02T00:44:47Z",
+  "generated_at": "2026-04-03T00:47:46Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-01",
+          "rating": 5,
+          "country": "US",
+          "title": "🤎",
+          "content": "This app is healing yo me. It resets my state of mind bringing me back to happiness",
+          "author": "Cat81247",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-04-01",
+          "rating": 5,
+          "country": "US",
+          "title": "💜💜",
+          "content": "I am has given me a year of loving myself fully after such a dark time in my life",
+          "author": "CasperJaz",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-04-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Good and calming app",
+          "content": "even though I use the free version it would be nice to select more options for quotes. Like inspiration or positivity, cause everyone needs that.",
+          "author": "Nikke blue",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-31",
+          "rating": 2,
+          "country": "US",
+          "title": "Backup and Sync errors",
+          "content": "I’m unable to backup my affirmations and data and whenever i use the “google login” or even the “apple id login” everything is glitched and nothing syncs correctly. \n\ni have nearly three years worth of data that i can only pull directly from an icloud backup and not an app back up. fix this now please!!!",
+          "author": "midnight willows",
+          "version": "6.29.0"
+        },
+        {
+          "date": "2026-03-31",
+          "rating": 1,
+          "country": "US",
+          "title": "3 day trial! Cancelled on time but still got charged the whole year.",
+          "content": "Anyway I can refund my money? You guys promised of a free 3 day trial as long as I cancelled before it ended but still got charged.",
+          "author": "Coco021469",
+          "version": "6.29.0"
+        },
         {
           "date": "2026-03-30",
           "rating": 5,
@@ -845,6 +890,15 @@
         {
           "date": "2026-03-06",
           "rating": 5,
+          "country": "ES",
+          "title": "Una gran app para practicar afirmaciones positivas",
+          "content": "Había probado otras pero esta es mi favorita, la que ha conseguido convertir en un hábito esta práctica, pues tiene afirmaciones muy buenas y de varios temas y la posibilidad de elegir entre temas o incluso de crear tus propias afirmaciones. Si a eso le sumas que tienes múltiples imágenes de varias temáticas se convierte en toda una experiencia y también tiene una opción que te las lee la app. Tamb tiene widgets para verlo en la pantalla del móvil y opciones de ponerte alarmas. Toda una app súper completa para practicar este hábito, agradezco a sus creadores.",
+          "author": "Doctor1978",
+          "version": "6.26.0"
+        },
+        {
+          "date": "2026-03-06",
+          "rating": 5,
           "country": "AU",
           "title": "It’s amazing",
           "content": "Really like this app. And it’s a set and forget 👌🏻😌",
@@ -940,42 +994,15 @@
           "content": "I like this app because it helps me understand that I mean something and it helps me when I am not feeling the best. It also helps me if I am having a bad day  from something that happened a few days and I just look at an affirmation and it makes me feel really good that day. This is why I like I am Daily Affirmations.",
           "author": "￼Affirmations",
           "version": "6.25.0"
-        },
-        {
-          "date": "2026-03-03",
-          "rating": 5,
-          "country": "US",
-          "title": "A pick me up, always",
-          "content": "If you ever find yourself deep in thoughts, and overwhelmed this little app is genius to turn to it mood around! The affirmations are great and it really helps to motivate you. Definitely worth it.",
-          "author": "marvelous3va",
-          "version": "6.25.0"
-        },
-        {
-          "date": "2026-03-03",
-          "rating": 5,
-          "country": "CA",
-          "title": "daily affirmations for  people who don’t go to school",
-          "content": "this is giving kids the opportunity who don’t go to school to let them learn that they are themselves and they don’t have to be who others tell them to",
-          "author": "ja,leia",
-          "version": "6.25.0"
-        },
-        {
-          "date": "2026-03-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Phenomenal",
-          "content": "Boost my self confidence everyday! \nTeaches me things I didn’t even know about myself! Thank you!",
-          "author": "gddvjkgvj he",
-          "version": "6.23.0"
         }
       ],
-      "meta.total": 107,
+      "meta.total": 110,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-03",
-      "meta.until": "2026-04-02"
+      "meta.since": "2026-03-04",
+      "meta.until": "2026-04-03"
     }
   ]
 }
