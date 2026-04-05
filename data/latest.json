@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T00:43:55Z",
+  "generated_at": "2026-04-05T00:50:38Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -85,6 +85,15 @@
           "content": "Thank u it helped me so very much to be a lot stronger I appreciate this app",
           "author": "Crystal Dejarnett",
           "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-29",
+          "rating": 5,
+          "country": "ES",
+          "title": "Ángel",
+          "content": "Me ha encantado , pienso seguir siempre adelante , gracias",
+          "author": "Ángel Gavrael",
+          "version": "6.29.0"
         },
         {
           "date": "2026-03-29",
@@ -949,60 +958,15 @@
           "content": "You have to pay to use it after answering all the prompts \"personalizing your experience.\" Wish there was a free version",
           "author": "Niiiiiiiiiicknameeeeeeeeeeee",
           "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-05",
-          "rating": 5,
-          "country": "ES",
-          "title": "Tempo ben speso",
-          "content": "App molto consigliata  per chi cerca un po' di positività ogni giorno!",
-          "author": "Máximus Shinn",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-05",
-          "rating": 1,
-          "country": "US",
-          "title": "Predatory",
-          "content": "This app takes advantage of people who are actually going through something. Why would you pay for an app when you’re trying to improve your life financially? This app profits off sensitive people who are trying to get better. If you really wanted to help people you wouldn’t make them pay.",
-          "author": "Idlas",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Perfect for a quick reminder!",
-          "content": "If you’re struggling or working towards a goal, this app is amazing. It’s has at-a-glance and watch face options which makes accessibility that much better, especially when I needed a quick re-centering. It’s customizable too!!!!\n\nLove this app.",
-          "author": "Emy Gardiner",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-05",
-          "rating": 4,
-          "country": "US",
-          "title": "Background",
-          "content": "I have loved this app for many reasons for a while now. But why have you taken the free backgrounds away? I have a white background and honestly I don’t like that. Thinking of deleting.",
-          "author": "MEB1168",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-05",
-          "rating": 1,
-          "country": "US",
-          "title": "Lame",
-          "content": "Lameeeeee",
-          "author": "KR11234",
-          "version": "6.26.0"
         }
       ],
-      "meta.total": 110,
+      "meta.total": 106,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-05",
-      "meta.until": "2026-04-04"
+      "meta.since": "2026-03-06",
+      "meta.until": "2026-04-05"
     }
   ]
 }
