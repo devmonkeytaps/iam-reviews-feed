@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-04-05T00:50:38Z",
+  "generated_at": "2026-04-06T00:50:24Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-03",
+          "rating": 3,
+          "country": "US",
+          "title": "Review",
+          "content": "WONDERFUL app love it. I ended up deleting the app and I kept getting the affirmation alarm\nEven after I deleted the app and I can not fix it on matter whaat I do. Is anyone having the problem too?",
+          "author": "3 Starts✨✨✨",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-03",
+          "rating": 5,
+          "country": "US",
+          "title": "So cute!",
+          "content": "This app is definitely worth it! It helped me after a couple of days! It sets alarms for school and work so you can wake up to your affirmation! Seriously LOVE this app!",
+          "author": "Skyegirl711!",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-03",
+          "rating": 5,
+          "country": "US",
+          "title": "Best thing that’s happened for me.",
+          "content": "To be able to wake up and read a positive message that I can say to myself and really mean it, actually helps during day to day living. I didn’t  notice at first, but I’m 395 days in and I can feel the positive effects it’s  had on me during my day. Every day.",
+          "author": "Christinadelay",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-02",
+          "rating": 5,
+          "country": "US",
+          "title": "I’m healed .",
+          "content": "thank you so much",
+          "author": "nencjejxnwjwbbbb",
+          "version": "6.30.0"
+        },
         {
           "date": "2026-04-02",
           "rating": 5,
@@ -300,6 +336,15 @@
           "title": "I am",
           "content": "Okay y'all so honestly I love this app so much because it can help heal your mind and your mental health. Have a great day! Byeeeeee",
           "author": "Novalynn Russell",
+          "version": "6.28.0"
+        },
+        {
+          "date": "2026-03-23",
+          "rating": 4,
+          "country": "CA",
+          "title": "Great reminders but the plan charge??",
+          "content": "I've subscribed for 2 years however now I noticed i'm randomly on a \"family plan\" there was no email saying they were going to change/modify their subscriptions. The lack of transparency makes me want to cancel tbh. If you were straightforward in those changes I wouldn't mind paying for the year. It's an icky feeling.",
+          "author": "hadeel hanny",
           "version": "6.28.0"
         },
         {
@@ -904,69 +949,15 @@
           "content": "I love this app. I love the visuals. The background meditation audio sounds (though I wish they were longer or more seamless. Either way, this app is fantastic all in just message. I’m a little older, dark humor, struggling and I can put in exactly what will help and/or motivate me. Got the family plan and installed on my mom’s device and she sends me screenshots. 😅 she doesn’t even know how she got the app, but she loves it!",
           "author": "Mandavilla",
           "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 1,
-          "country": "US",
-          "title": "Unauthorized charges",
-          "content": "I tried the free trial and it wasn’t a huge difference. I cancelled it but they still charged me",
-          "author": "DaniJham",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 1,
-          "country": "US",
-          "title": "$70/year is shameful",
-          "content": "$70/year for the premium level is astronomical for an app I could build in Claude in less than 3 minutes. The greed is disappointing. $3/year would be much more appropriate for an app that does nothing but rattle off feel-good one-liners. Come on...",
-          "author": "Hillary Fox",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 5,
-          "country": "ES",
-          "title": "Una gran app para practicar afirmaciones positivas",
-          "content": "Había probado otras pero esta es mi favorita, la que ha conseguido convertir en un hábito esta práctica, pues tiene afirmaciones muy buenas y de varios temas y la posibilidad de elegir entre temas o incluso de crear tus propias afirmaciones. Si a eso le sumas que tienes múltiples imágenes de varias temáticas se convierte en toda una experiencia y también tiene una opción que te las lee la app. Tamb tiene widgets para verlo en la pantalla del móvil y opciones de ponerte alarmas. Toda una app súper completa para practicar este hábito, agradezco a sus creadores.",
-          "author": "Doctor1978",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 5,
-          "country": "AU",
-          "title": "It’s amazing",
-          "content": "Really like this app. And it’s a set and forget 👌🏻😌",
-          "author": "...m.j.d...",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 1,
-          "country": "US",
-          "title": "Not free",
-          "content": "Told me it was free and when I downloaded it it told me I only had a 3 day free trial then had to pay a subscription :)",
-          "author": "Nah6284",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-06",
-          "rating": 2,
-          "country": "US",
-          "title": "Heads up",
-          "content": "You have to pay to use it after answering all the prompts \"personalizing your experience.\" Wish there was a free version",
-          "author": "Niiiiiiiiiicknameeeeeeeeeeee",
-          "version": "6.26.0"
         }
       ],
-      "meta.total": 106,
+      "meta.total": 105,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-06",
-      "meta.until": "2026-04-05"
+      "meta.since": "2026-03-07",
+      "meta.until": "2026-04-06"
     }
   ]
 }
