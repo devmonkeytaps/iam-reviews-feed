@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-04-07T00:48:57Z",
+  "generated_at": "2026-04-08T00:49:09Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Yes",
+          "content": "It really helps When your down but you have to pay a subscription for it",
+          "author": "Waynette12",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-05",
+          "rating": 5,
+          "country": "US",
+          "title": "I was satisfied",
+          "content": "I used to don’t believe in the positive widgets & motivation apps like this. But when I download this bundles including 6 apps at once, it help me refreshing my mind, power up my brain and b more positive. Thank you, I am.",
+          "author": "Robloxfather",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-05",
+          "rating": 5,
+          "country": "US",
+          "title": "The best",
+          "content": "This app is amazing.Before I found it I was having hourly panic and anxiety attacks and doubting if I was enough but now I know that I am loved by the people around me and myself.",
+          "author": "Stu soup",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-05",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "It’s very helpful",
+          "author": "Coraaa :)",
+          "version": "6.30.0"
+        },
         {
           "date": "2026-04-05",
           "rating": 5,
@@ -913,60 +949,15 @@
           "content": "Idk",
           "author": "AMcG1234",
           "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 1,
-          "country": "US",
-          "title": "Sound",
-          "content": "The sound hurts my ears when I eat the Kale",
-          "author": "Pen pen the pen",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 4,
-          "country": "GB",
-          "title": "Love but one problem",
-          "content": "The app is very good. The only problem is the opening screen bug where after you go through all the questions there’s no option to go to the free version of the app only the premium for three days free. if you could fix that, it would be five stars. It’s also the same for your other app vocabulary but I will review that separately.",
-          "author": "Cunning as a Fox",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Now more than ever",
-          "content": "We need to pause and just breathe",
-          "author": "Teenieyoginie",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 5,
-          "country": "US",
-          "title": "I’m Bertha Jackson",
-          "content": "This app really helped Bertha Jackson",
-          "author": "Bertha Jackson’s",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-08",
-          "rating": 4,
-          "country": "US",
-          "title": "Love it!",
-          "content": "Its gives me a self confidence boost💞",
-          "author": "Hehdufnx",
-          "version": "6.26.0"
         }
       ],
-      "meta.total": 106,
+      "meta.total": 105,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-08",
-      "meta.until": "2026-04-07"
+      "meta.since": "2026-03-09",
+      "meta.until": "2026-04-08"
     }
   ]
 }
