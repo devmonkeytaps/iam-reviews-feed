@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-04-08T00:49:09Z",
+  "generated_at": "2026-04-09T00:40:55Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-07",
+          "rating": 4,
+          "country": "US",
+          "title": "No more supsctipitons",
+          "content": "I hate that you have to pay for this just so I can access this!!!!! It’s good otherwise tho.",
+          "author": "May555555o",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing and truly helpful",
+          "content": "This app has helped me a lot. I am currently in 8th grade going on to 9th grade in August, and I have been under a lot of academic pressure. These little reminders truly saved my life. I mean it",
+          "author": "Snsndnsnaj",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-06",
+          "rating": 5,
+          "country": "US",
+          "title": "AMAZING",
+          "content": "THIS IS NOT A BOT!!!! \nThis app makes me feel better about myself then I used to and it encouraged me to be better",
+          "author": "Lives the Lord",
+          "version": "6.30.0"
+        },
         {
           "date": "2026-04-06",
           "rating": 5,
@@ -931,33 +958,15 @@
           "content": "“Congratulations, you earned 3 days of Premium Preview”. I don’t want it. I was trying to use the app with ads long enough to see if I wanted to buy lifetime - but now that I cannot dismiss this ******* “reward” - the app is useless. It sounds like this is separate from the 3 day trial - but there’s no way to confirm it. I was really liking it so far too - definitely leaning toward buying it. But I will not contribute to dark or deceptive user experiences. This goes against the ethos I believe this app is trying to promote. Bummer.",
           "author": "inkblotcreative",
           "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-09",
-          "rating": 3,
-          "country": "CA",
-          "title": "not on my screen, you need to pay for some phrases",
-          "content": "you need to pay for some phrases guys that you can find on pin it and upload it in your gallery it will be free for you\nit would be at least on your screen and with option \"with\" or \"without\" words then maybe there would be something to pay for\ntoo many personal data and still forces you to pay",
-          "author": "vrdzb",
-          "version": "6.26.0"
-        },
-        {
-          "date": "2026-03-09",
-          "rating": 5,
-          "country": "CA",
-          "title": "Poo",
-          "content": "Idk",
-          "author": "AMcG1234",
-          "version": "6.26.0"
         }
       ],
-      "meta.total": 105,
+      "meta.total": 106,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-09",
-      "meta.until": "2026-04-08"
+      "meta.since": "2026-03-10",
+      "meta.until": "2026-04-09"
     }
   ]
 }
