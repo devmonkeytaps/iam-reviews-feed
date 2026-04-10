@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-04-09T00:40:55Z",
+  "generated_at": "2026-04-10T00:48:34Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-07",
+          "rating": 5,
+          "country": "US",
+          "title": "OMG GET IT!!!!!",
+          "content": "Get it I just love it!!! It helps so much.",
+          "author": "gotttaaaLOVEm333",
+          "version": "6.30.0"
+        },
         {
           "date": "2026-04-07",
           "rating": 4,
@@ -904,69 +913,15 @@
           "content": "I truly appreciate this app’s little positive influences throughout the day🙏♥️",
           "author": "Bobbarnojoash",
           "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 4,
-          "country": "US",
-          "title": "Helpful",
-          "content": "The affirmations they use are extremely generic",
-          "author": "sepideh_calif",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Great app",
-          "content": "Right time for everything",
-          "author": "EDT kkhgf",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 1,
-          "country": "US",
-          "title": "Terrible",
-          "content": "Quick to sign you up for a charge, but no support. App didn’t work beyond sending me alarms. Everytime I click the app it acted like it was the first time and started the process all over",
-          "author": "dpaulm",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 1,
-          "country": "US",
-          "title": "Not even half of star.",
-          "content": "It’s was cool as first but it has trashed my phone. I can’t download anything new, I can’t  renew or pay for my subscriptions. I’ve reset my phone I’ve canceled the subscription I’ve even deleted the app. I’m beyond fed up I’ve tried anything and everything to get rid of it and can’t.",
-          "author": "Kittykatt5011",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 4,
-          "country": "CA",
-          "title": "Fairly good app",
-          "content": "This app has boosted my self confidence within minutes of using it. I don’t like that it costs money, but it is fairly cheap.",
-          "author": "SomeWhiteIdiot",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-10",
-          "rating": 1,
-          "country": "US",
-          "title": "Can’t decline 3 days of premium..",
-          "content": "“Congratulations, you earned 3 days of Premium Preview”. I don’t want it. I was trying to use the app with ads long enough to see if I wanted to buy lifetime - but now that I cannot dismiss this ******* “reward” - the app is useless. It sounds like this is separate from the 3 day trial - but there’s no way to confirm it. I was really liking it so far too - definitely leaning toward buying it. But I will not contribute to dark or deceptive user experiences. This goes against the ethos I believe this app is trying to promote. Bummer.",
-          "author": "inkblotcreative",
-          "version": "6.26.1"
         }
       ],
-      "meta.total": 106,
+      "meta.total": 101,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-10",
-      "meta.until": "2026-04-09"
+      "meta.since": "2026-03-11",
+      "meta.until": "2026-04-10"
     }
   ]
 }
