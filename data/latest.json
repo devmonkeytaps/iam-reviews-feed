@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-04-11T00:46:49Z",
+  "generated_at": "2026-04-12T00:52:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this!",
+          "content": "I personally love this app it helps me believe in myself , it also helps me relieve the family and friendship stress I have. I know I’m only 9 years old but this app has changed my life, I have parental issues, I also have friendship issues. Some people just say, ‘ Your fine ‘ Or stuff like ‘ It’s fine it’s not that big of a deal’ and stuff like that I just love this app I know I’m only 9 but it’s a lot for me to handle but I love this app.\n\n\n5 stars.",
+          "author": "Scarywiz",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Doom scrolling",
+          "content": "This app is perfect if you’re tired of the internet and the toxicity it brings, Instead of scrolling through X or Instagram this provides the same thing but with positive energy and affirmations",
+          "author": "knyyq",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Review",
+          "content": "I decided to review this app to see if it would be helpful in aiding with depression. Before I started the free trial, I had to answer a variety of different questions about myself such as what issues I lack in, what type of affirmations I would want, my age, and many other questions. I found that this app can be helpful for depression because it is a form of cognitive behavioral therapy (CBT). CBT is a therapy in which a person records their thoughts and cognitive distortions about themselves or others. Once they recognize these distortions, they can help challenge these thoughts and hopefully improve their overall mood and functioning. This app was extremely helpful, and I enjoyed having multiple affirmations daily. To conclude, this would be an amazing app for people who struggle with depression, anxiety, or other disorders. It is also an amazing form of CBT since it can help with cognitive distortions and people could easily use it without needing the help of others. I would use this app again and recommend it to others!",
+          "author": "Psychologythoughts",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-09",
+          "rating": 3,
+          "country": "US",
+          "title": "Good app before they added in app purchases",
+          "content": "App used to have good customizable options for all users but it’s now locked behind a 15 dollar a month paywall. Will be finding a similar app to use instead.",
+          "author": "Anonymousksks",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-09",
+          "rating": 5,
+          "country": "US",
+          "title": "BEST AFFIRMATION APP",
+          "content": "The best app because it give you the best affirmations and it gives you a lot of kindness\nTry it",
+          "author": "Ave m jones",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-08",
+          "rating": 5,
+          "country": "US",
+          "title": "The app that’s tangibly changed my life for the better",
+          "content": "The lock screen and home screen widgets act as ongoing visual reminders of realistic, positive, and alternative thoughts. I downloaded this app 2 years ago, and at least once a day I stop and take time to consider one of the affirmations. It has positively changed my life for the better, and that’s no overstatement. They’ve added a lot of great features over the years, including the meditative practice feature with the audio, as well as added a lot of different controls so that you can mute words that you don’t want to see and refine your topics, etc. A 5 star app, very happy annual premium customer here.",
+          "author": "thewildherbalist",
+          "version": "6.30.0"
+        },
         {
           "date": "2026-04-07",
           "rating": 5,
@@ -850,24 +904,15 @@
           "content": "Thank you for making me feel safe",
           "author": "Metal.Sonic",
           "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Love it",
-          "content": "I really love this app . It somehow knows exactly what I need to repeat to myself and the affirmations are subtle calm and reassuring . I wish it was more customizable but I still like what I see plus the reminders and alarm . 💎🩵",
-          "author": "Aneka Diamond",
-          "version": "6.26.1"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 100,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-12",
-      "meta.until": "2026-04-11"
+      "meta.since": "2026-03-13",
+      "meta.until": "2026-04-12"
     }
   ]
 }
