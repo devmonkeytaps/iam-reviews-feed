@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T00:53:28Z",
+  "generated_at": "2026-04-14T00:53:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -877,42 +877,15 @@
           "content": "Helps me become who I want to be",
           "author": "PeachyKeeeeeeeen",
           "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-14",
-          "rating": 1,
-          "country": "GB",
-          "title": "Free version",
-          "content": "You say you can use the free version but after answering all the questions, you only offer to join the free trial to premium! Complete waste of time! Please update this to say you don’t offer a free version!",
-          "author": "Jonesy17354",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Definitely would recommend",
-          "content": "Motivational",
-          "author": "Hate8ballstrike",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-14",
-          "rating": 1,
-          "country": "US",
-          "title": "Scam don’t get it",
-          "content": "This app is a scam, $70 just to see cheesy content about “how great you are “ I didn’t even mean to get the app as my little son downloaded it. By the time I realized that it was a paid subscription I requested a refund and they denied it and said that the decision was final! So frustrating and I feel like they stole my money!",
-          "author": "juhgvtcrdcgb",
-          "version": "6.27.0"
         }
       ],
-      "meta.total": 100,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-14",
-      "meta.until": "2026-04-13"
+      "meta.since": "2026-03-15",
+      "meta.until": "2026-04-14"
     }
   ]
 }
