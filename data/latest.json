@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-04-14T00:53:23Z",
+  "generated_at": "2026-04-15T00:53:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Love love!",
+          "content": "I have been using this app for years and I absolutely love it! It’s fun to play around with the different themes. Being able to save the affirmation with the theme makes it so easy to change my backgrounds regularly. I also have entered my own affirmations so those hit differently too! I believe I paid for it at some point but have no idea how much it was.. worth every penny! Thanks for contributing to my growth and expansion!",
+          "author": "Lisa81830",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-13",
+          "rating": 1,
+          "country": "US",
+          "title": "Subscription misleading",
+          "content": "I signed up for the 3 day trial to test out the app before signing up. I had selected what I thought was the monthly option - showing ‘$3.99 per month’ but ended up getting charged for the entire year. I also was never notified prior to my trial ending like others. \n\nI contacted Apple for a refund and since I didn’t screenshot at the time (because I didn’t anticipate any problems), I was rejected. \n\nMisleading app and false advertising. Do not recommend.",
+          "author": "MysticMagicMoss",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-12",
+          "rating": 1,
+          "country": "US",
+          "title": "Cancelled subscription",
+          "content": "Cancelled the subscription but it’s still trying to charge me everyday. FIX IT!",
+          "author": "RuthIllila",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-12",
+          "rating": 1,
+          "country": "US",
+          "title": "5:00am alarm going off",
+          "content": "I downloaded this app and was unhappy with it, so I deleted it. Since then, it’s set a 5am alarm off on my phone every Saturday and Sunday and I can’t get it turned off. DO NOT download this app!!",
+          "author": "rmhopea2",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-12",
+          "rating": 3,
+          "country": "US",
+          "title": "Speaks too fast",
+          "content": "The affirmations they use are extremely generic and the voice talks too fast but you can’t adjust the speaking rate! Leaves a lot to be desired…. I barely use it because I feel like the affirmations are spoken in a hurry ☹️",
+          "author": "sepideh_calif",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Angels exists",
+          "content": "Never stop believing in angels. God truly sends them when those you loved were in the wind.",
+          "author": "Quiann3",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily Affirmations",
+          "content": "Really grateful for this amazing app he really helped me out in my life journey thank you and God bless",
+          "author": "Cowboysforever",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome",
+          "content": "Really helps and the quotes are unique",
+          "author": "The 1 Podcast Gal",
+          "version": "6.31.0"
+        },
         {
           "date": "2026-04-11",
           "rating": 1,
@@ -850,42 +922,15 @@
           "content": "I get maybe 40 notifications a day from this app it's insane. I have never even opened it. Not sure how I paid for a years subscription but I did and I can't get a refund\nDon't bother",
           "author": "adsonadsonads",
           "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-15",
-          "rating": 3,
-          "country": "US",
-          "title": "Nice app, but why so much tracking?",
-          "content": "Great app, does what it say, yet privacy concerns me. There seems to be a lot of data connected and tracked for really no apparent reason.",
-          "author": "ChilledWill",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-15",
-          "rating": 1,
-          "country": "US",
-          "title": "Problem with notifications",
-          "content": "I cancelled my subscription and removed the App from my phone but am still getting some reminders. I’ve contacted App support but haven’t heard from anyone yet.\n\nI finally heard back but the response was to use a tool they emailed to check my phone. I’m not comfortable with downloading an analytics tool to search my entire phone. Still waiting for resolution from them, alarm still randomly goes off.",
-          "author": "Christie, New York",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-15",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "Helps me become who I want to be",
-          "author": "PeachyKeeeeeeeen",
-          "version": "6.27.0"
         }
       ],
-      "meta.total": 97,
+      "meta.total": 102,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-15",
-      "meta.until": "2026-04-14"
+      "meta.since": "2026-03-16",
+      "meta.until": "2026-04-15"
     }
   ]
 }
