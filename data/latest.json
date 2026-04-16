@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T00:53:44Z",
+  "generated_at": "2026-04-16T00:54:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -814,123 +814,15 @@
           "content": "Lovely affirmations and beautiful backgrounds",
           "author": "Meditating Mari",
           "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 1,
-          "country": "US",
-          "title": "This app",
-          "content": "This app sends notifications at all hours. I adjusted my settings and continued to receive notifications 24/7. I cancelled my subscription and removed the app through my App Store, but even still my alarms go off at all hours of the night even though not listed anywhere on my phone. If you value your sleep, DO NOT DOWNLOAD\n THIS APP!",
-          "author": "Love love love loveit!",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "I am very sadisfide",
-          "content": "It is a very good app",
-          "author": "𝓔𝓶𝓲𝓮",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "A keeper.",
-          "content": "I truly do love this app. I’ve had it for almost a year. Like others, I got it in a bundle trial. I ended up keeping it and deleting the others. I turn to this app often, actually. Probably 2-3 a day, if not more. I also had a good friend  download it and they love it too.",
-          "author": "Squirreliegal",
-          "version": "6.26.1"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Healing",
-          "content": "I love this app so much that I’ve convinced a few people to download it!! I’m usually on this app more than others!! Lol",
-          "author": "CatHaze7",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "AU",
-          "title": "I am Daily affirmations",
-          "content": "Thank you loved getting one every day thank you for the free trial\nAnd I’m still getting a daily wake up reminder thanks so much for that ⭐️⭐️⭐️⭐️⭐️",
-          "author": "Scores15",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 1,
-          "country": "US",
-          "title": "Keeps trying to force me to do lead generation for the app.",
-          "content": "I was enjoying this app but a recent update will continuously prompt me to share affirmations with others. Not interested in having to keep fighting the app to skip this step. Find new users on your own, don’t force me to perform lead generation for you. \n\nI deleted the app today.",
-          "author": "CMM602",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 1,
-          "country": "US",
-          "title": "App sets alarms you can’t delete",
-          "content": "After I deleted the free trial the alarms the app set for affirmation practice keep going off and I can’t find a way to turn them off. They do not show anywhere on my daily clock. I’ve contacted the developer and have not received a response. Very frustrating.",
-          "author": "SF Bay1",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this",
-          "content": "I’m a 11 year old boy with a phone and every time I turn on my phone it lights my day with the affirmation s",
-          "author": "Clashking2026",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Beautiful",
-          "content": "I absolutely love the simple daily reminders that this app has to offer. It gives encouragement, motivation, and inspiration throughout life’s journey. Great app and great job to the dev team!",
-          "author": "Humble beauty30",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Nice app",
-          "content": "CBT saved my life. Apps like this add gratefulness and respect to CBT. Enjoy for yourself, and for enriching other peoples lives too.",
-          "author": "Kev&Jax",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Quietly helps",
-          "content": "I have been using this app daily for almost a year now. I started using it at a low point in my life. I didn’t think the app was doing much for me for the first few weeks, but I have realized it has quietly helped me be more grateful for things daily, changed my inner talk, and strengthened me. ❤️✨",
-          "author": "MountainMamaAgain",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-16",
-          "rating": 1,
-          "country": "CA",
-          "title": "No Good",
-          "content": "I get maybe 40 notifications a day from this app it's insane. I have never even opened it. Not sure how I paid for a years subscription but I did and I can't get a refund\nDon't bother",
-          "author": "adsonadsonads",
-          "version": "6.27.0"
         }
       ],
-      "meta.total": 102,
+      "meta.total": 90,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-16",
-      "meta.until": "2026-04-15"
+      "meta.since": "2026-03-17",
+      "meta.until": "2026-04-16"
     }
   ]
 }
