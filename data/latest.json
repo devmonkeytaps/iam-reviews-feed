@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-04-16T00:54:56Z",
+  "generated_at": "2026-04-17T00:53:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-15",
+          "rating": 5,
+          "country": "US",
+          "title": "Medicine",
+          "content": "It’s about living intentional and this is a tool for the tool box",
+          "author": "philshafer",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-15",
+          "rating": 5,
+          "country": "US",
+          "title": "The app that’s tangibly changed my life for the better",
+          "content": "The lock screen and home screen widgets act as ongoing visual reminders of realistic, positive, and alternative thoughts. I downloaded this app 2 years ago, and at least once a day I stop and take time to consider one of the affirmations. It has positively changed my life for the better, and that’s no overstatement. They’ve added a lot of great features over the years, including the meditative practice feature with the audio, as well as added a lot of different controls so that you can mute words that you don’t want to see and refine your topics, etc. A 5 star app, very happy annual premium customer here.",
+          "author": "thewildherbalist",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-14",
+          "rating": 1,
+          "country": "US",
+          "title": "Still getting daily notifications",
+          "content": "UPDATE 4/13/26: after months of trying to silence these alarms after deleting the app, I found that lots of people are having success reinstalling the app, turning off notifications and then deleting it again. I just did that, and was charged 15.99. Nowhere did it say I’d be charged anything, much less 15.99. I will attempt to refute that charge, and here’s hoping that I can get these ridiculous alarms to stop. \n\n***\n\nI deleted the app and am still getting daily notifications. How do I stop them? Would prefer to not have them show up every day at 12:03. Have seen other comments on Reddit about this so I know it’s an issue.",
+          "author": "Rothelisa",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-14",
+          "rating": 5,
+          "country": "US",
+          "title": "What happened?",
+          "content": "Why can’t we do 15 minutes affirmations anymore?",
+          "author": "TWWisk Founder",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Very helpful",
+          "content": "I have never written a review before but I just want to let anyone and everyone know that this app is very helpful. It’s free and you can put it on your lock screen. It doesn’t have ads. It actually gives you meaningful words. I was in a hole for a while and decided to try this cause why not and I have seen an incline in my mental health and confidence in myself in just a few weeks. I really love this app because it feels like it actually just wants to help someone feel better about themselves not just money grabbing!!! Thank you to the creator of this!! You are the best!",
+          "author": "Caco4912",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-13",
+          "rating": 5,
+          "country": "US",
+          "title": "🩷💙💛",
+          "content": "I love this app!",
+          "author": "Weetzie Starr",
+          "version": "6.31.0"
+        },
         {
           "date": "2026-04-13",
           "rating": 5,
@@ -228,6 +282,15 @@
           "title": "I am",
           "content": "It’s very helpful",
           "author": "Coraaa :)",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-05",
+          "rating": 5,
+          "country": "AU",
+          "title": "Olivia Friend",
+          "content": "Love this thing",
+          "author": "Holly63855)",
           "version": "6.30.0"
         },
         {
@@ -796,33 +859,15 @@
           "content": "Fantastic app however only a couple years ago it was $2.99 for premium and now it’s almost $15! That is crazy just to change the wallpaper….",
           "author": "Skidknee Lynne",
           "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-17",
-          "rating": 1,
-          "country": "CA",
-          "title": "Tricky to unsubscribe",
-          "content": "I tried to unsubscribe and thought I did, but you made the dates look current not next year. I don’t need premium. I still want my money back. Totally ridiculous. No contact. Watch out folks.",
-          "author": "Tsfjhde",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Incredible",
-          "content": "Lovely affirmations and beautiful backgrounds",
-          "author": "Meditating Mari",
-          "version": "6.27.0"
         }
       ],
-      "meta.total": 90,
+      "meta.total": 95,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-17",
-      "meta.until": "2026-04-16"
+      "meta.since": "2026-03-18",
+      "meta.until": "2026-04-17"
     }
   ]
 }
