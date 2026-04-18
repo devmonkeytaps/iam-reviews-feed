@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-04-17T00:53:03Z",
+  "generated_at": "2026-04-18T00:48:07Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Profanity",
+          "content": "This morning’s affirmation dropped a hard F-Bomb while reading my daily affirmations to me. I do not appreciate profanity as it is very low energy, degrading and offensive language.",
+          "author": "Queenly_Peach",
+          "version": "6.32.0"
+        },
+        {
+          "date": "2026-04-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "Really helps put you in a positive mindset.",
+          "author": "pizza4758",
+          "version": "6.32.0"
+        },
+        {
+          "date": "2026-04-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome app",
+          "content": "This app makes me feel better about myself and makes me have a good day",
+          "author": "Josille c.",
+          "version": "6.32.0"
+        },
+        {
+          "date": "2026-04-15",
+          "rating": 5,
+          "country": "US",
+          "title": "My favorite",
+          "content": "I love this concept. It helps to brighten not so sunny days.",
+          "author": "Tia_Nim",
+          "version": "6.32.0"
+        },
+        {
+          "date": "2026-04-15",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "This is such a good app.  It has helped me with so much in life. I do recommend",
+          "author": "Pickle girl ￼",
+          "version": "6.31.0"
+        },
         {
           "date": "2026-04-15",
           "rating": 5,
@@ -39,6 +84,15 @@
           "title": "What happened?",
           "content": "Why can’t we do 15 minutes affirmations anymore?",
           "author": "TWWisk Founder",
+          "version": "6.31.0"
+        },
+        {
+          "date": "2026-04-14",
+          "rating": 1,
+          "country": "AU",
+          "title": "Alarm with no app",
+          "content": "What a horrendous app. Asks a million questions before it throws the price tag at you. One of which is “do you want to set an alarm”. I deleted the app before even trying the 3 days free. But still get woken up everyday at 6.15am with a horrendous alarm that I can’t delete.",
+          "author": "vikiviking",
           "version": "6.31.0"
         },
         {
@@ -832,42 +886,15 @@
           "content": "The graphics shown on the app page are so beautiful but you can only choose one style instead of getting a mix. Also, despite not adding any of the Christian collections of affirmations, I still was immediately served up one about “faith” that is not at all what I want to be reading on my phone.",
           "author": "Cypresspdx",
           "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-18",
-          "rating": 3,
-          "country": "US",
-          "title": "Was a good app once",
-          "content": "It WAS a great app, when there was some cool free moving stuff on it, but then you took all that away and made only still images available for free users, and now it kind of sucks. And I’m not gonna pay you $70 a year to use something like this.",
-          "author": "Astartiel",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive daily affirmations",
-          "content": "I like this app. I am positive about those daily affirmations.",
-          "author": "cate stradley",
-          "version": "6.27.0"
-        },
-        {
-          "date": "2026-03-18",
-          "rating": 4,
-          "country": "US",
-          "title": "Lovely but…",
-          "content": "Fantastic app however only a couple years ago it was $2.99 for premium and now it’s almost $15! That is crazy just to change the wallpaper….",
-          "author": "Skidknee Lynne",
-          "version": "6.27.0"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 98,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-18",
-      "meta.until": "2026-04-17"
+      "meta.since": "2026-03-19",
+      "meta.until": "2026-04-18"
     }
   ]
 }
