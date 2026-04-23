@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T00:50:26Z",
+  "generated_at": "2026-04-23T00:54:47Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -778,69 +778,15 @@
           "content": "I freaking LOVE this app! I got this because I was just scrolling through the App Store and saw this. It makes you do this quiz and customizes what you need to be told! The anxiety? GONE? Knowing I’m okay? I feel the best. I just wish a lot of things didn’t need you to have a membership but otherwise, THE BEST",
           "author": "Critical reasons;)",
           "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 5,
-          "country": "US",
-          "title": "App",
-          "content": "Before I open this app, I was not confident about myself at all, but as I’m getting through this app, it showed me that I love myself, and I am good enough, and I think that’s exactly what I wanted to do. This app is great. You don’t have to pay for everything.Overall. There’s not a lot of ads and you don’t have to pay for every single thing. You could love yourself without spending money, and I think that is amazing.",
-          "author": "GirlwholovesGod67",
-          "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Love it",
-          "content": "I love this it gives me positive affirmations and they relate to my day like one day I was in a car crash and then on my screen it said I’m thankful to be alive for my affirmation. It is scary right but also really cool.",
-          "author": "AnnWorth1813",
-          "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Crystal",
-          "content": "Thank u it helped me so very much to be a lot stronger I appreciate this app",
-          "author": "Crystal Dejarnett",
-          "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 4,
-          "country": "US",
-          "title": "I am",
-          "content": "Okay y'all so honestly I love this app so much because it can help heal your mind and your mental health. Have a great day! Byeeeeee",
-          "author": "Novalynn Russell",
-          "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 4,
-          "country": "CA",
-          "title": "Great reminders but the plan charge??",
-          "content": "I've subscribed for 2 years however now I noticed i'm randomly on a \"family plan\" there was no email saying they were going to change/modify their subscriptions. The lack of transparency makes me want to cancel tbh. If you were straightforward in those changes I wouldn't mind paying for the year. It's an icky feeling.",
-          "author": "hadeel hanny",
-          "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-23",
-          "rating": 5,
-          "country": "US",
-          "title": "I’m feeling great",
-          "content": "This app is amazing!!! Just after one month I’m already feeling great and happy again. My stress has decreased. This app is great I definitely recommend it!",
-          "author": "Ember fossil",
-          "version": "6.28.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-23",
-      "meta.until": "2026-04-22"
+      "meta.since": "2026-03-24",
+      "meta.until": "2026-04-23"
     }
   ]
 }
