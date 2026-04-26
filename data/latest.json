@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T00:50:33Z",
+  "generated_at": "2026-04-26T00:56:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -724,60 +724,15 @@
           "content": "Motivational; supportive; aesthetic; positive; energy; emotional; love",
           "author": "reviews🌞",
           "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Self love",
-          "content": "I love this so much. It has helped me become a better person and has helped me with anxiety and emotional support and I’m just so happy that I got it.",
-          "author": "So much helpful advice",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazinggggg",
-          "content": "THIS APP IS SO POSITIVE. You can read the affirmations without paying unlike some other apps that you have to pay to use, 20/10 definitely would recommend.🤩🤩🤩",
-          "author": "Breelivesfreeapps",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-26",
-          "rating": 5,
-          "country": "US",
-          "title": "A powerful daily affirmation app",
-          "content": "This app has been phenomenal for helping me embrace myself, grow my gratitude and stay focused on my goals. I look forward to saying my affirmations every day because of it. The affirmation categories are extensive and the wallpaper themes are beautiful.\n\nMy only complaints are that the customization can feel limited with backgrounds, fonts and font colors and the app does not always sync properly between my phone and iPad on check-in days/calculations.\n\nOverall I’m truly grateful for this app and the positive impact it has had on my mindset and daily life. ✨",
-          "author": "Ke'Love",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-26",
-          "rating": 1,
-          "country": "US",
-          "title": "Horrible not Christian religion",
-          "content": "2026-01-01T23:00:00.000Z",
-          "author": "Chung is",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-26",
-          "rating": 4,
-          "country": "US",
-          "title": "price",
-          "content": "i love the affirmations and ability to create theme.  it’s just ridiculously expensive for this subscription. also i wish i could make my entire lock screen instead of just a widget",
-          "author": "Gumbie111",
-          "version": "6.29.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 80,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-26",
-      "meta.until": "2026-04-25"
+      "meta.since": "2026-03-27",
+      "meta.until": "2026-04-26"
     }
   ]
 }
