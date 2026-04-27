@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-04-26T00:56:48Z",
+  "generated_at": "2026-04-27T00:56:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Love it",
+          "content": "Live it",
+          "author": "Niceguy313",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-24",
+          "rating": 1,
+          "country": "US",
+          "title": "Unsubscribe",
+          "content": "When I tried to unsubscribe from the app, it would not let me. The app start trying to charge my card for the annual fee and now I can’t even download apps because this app that I don’t use anymore, is still trying to take money.",
+          "author": "Unsubscribe004",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-24",
+          "rating": 5,
+          "country": "US",
+          "title": "My experience",
+          "content": "I love this app and it’s positive vibes, It  really made me feel like I am me again so I’m grateful for that especially when I’m feeling down it has brought me up so much and I love it !!!!Thankyou for the app creators and everyone involved 🩷",
+          "author": "Sexycouple123",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Daily Inspo",
+          "content": "This helps me get through the day.",
+          "author": "J.Crig",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Best affirmation app",
+          "content": "I started this app about 4 months ago. I didn’t hold any reserve on expectations, but this app has definitely impressed me. I love that you get to change the background that you look at. If you’re needing a daily boost, I highly recommend this app.",
+          "author": "Missrum29",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-22",
+          "rating": 2,
+          "country": "AU",
+          "title": "The app may be amazing but ..",
+          "content": "This app may be amazing but it sets an alarm that can be deleted even if the app was deleted. So I didn’t love it and decided not to continue with the pro version, I now have a permanent alarm at 7:55am every day that can’t turn off :(",
+          "author": "gadelichka",
+          "version": "6.32.0"
+        },
         {
           "date": "2026-04-21",
           "rating": 3,
@@ -547,6 +601,15 @@
         },
         {
           "date": "2026-04-04",
+          "rating": 5,
+          "country": "CA",
+          "title": "Great",
+          "content": "Everyonr must have this one in their phone.",
+          "author": "Veerkaur496@",
+          "version": "6.30.0"
+        },
+        {
+          "date": "2026-04-04",
           "rating": 4,
           "country": "US",
           "title": "Motivational",
@@ -706,33 +769,15 @@
           "content": "It has many different meanings and reasons to help u it is helping me with confidence and anxiety and anger",
           "author": "Malachi Barton fan 1",
           "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-27",
-          "rating": 1,
-          "country": "US",
-          "title": "Cussing?? And Self-written affirmations no longer read aloud?",
-          "content": "I loved this app because I could customize the affirmations that I can play to be read aloud and even add my own so they’re more specific. This was great for falling asleep to affirmations, hearing them and recording them airing my morning routine, etc. I love all the new features and styles in the app, but it no longer reads the self-written affirmations out loud! Huge disruption for me. I hate to be looking at the screen the whole time during the practice. Barely worth using anymore. Going to cancel if that feature doesn’t come back. Also there used to be multiple voice options and now there’s just one voice. Luckily it’s not bad, I just like to explore variety. Please bring back the ability to read self-written affirmations aloud and more voice variety! Also what’s with the random F bomb within the manifesting abundance affirmations?? Very disruptive and inappropriate I feel! Love this app and really want to use it more in the new year. Please update.🤍",
-          "author": "lady.ladonna",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Love",
-          "content": "Motivational; supportive; aesthetic; positive; energy; emotional; love",
-          "author": "reviews🌞",
-          "version": "6.29.0"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 85,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-27",
-      "meta.until": "2026-04-26"
+      "meta.since": "2026-03-28",
+      "meta.until": "2026-04-27"
     }
   ]
 }
