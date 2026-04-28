@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T00:56:57Z",
+  "generated_at": "2026-04-28T00:58:22Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -760,24 +760,15 @@
           "content": "I deleted the app after it asked about a subscription. I am still getting the morning alerts and can not turn them off. An alarm that I can’t change.",
           "author": "Linda_sosweet",
           "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-28",
-          "rating": 5,
-          "country": "US",
-          "title": 5,
-          "content": "It has many different meanings and reasons to help u it is helping me with confidence and anxiety and anger",
-          "author": "Malachi Barton fan 1",
-          "version": "6.29.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 84,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-28",
-      "meta.until": "2026-04-27"
+      "meta.since": "2026-03-29",
+      "meta.until": "2026-04-28"
     }
   ]
 }
