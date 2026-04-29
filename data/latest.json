@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-04-28T00:58:22Z",
+  "generated_at": "2026-04-29T00:59:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Love",
+          "content": "I need this just AWESOME!",
+          "author": "RB44rde",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Love",
+          "content": "Love",
+          "author": "mp3star333",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Help",
+          "content": "Great app for metal health in advice technically like your personal therapist",
+          "author": "CEO YT",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-26",
+          "rating": 1,
+          "country": "US",
+          "title": "Alarm Function",
+          "content": "There’s no where in the app to turn off the alarm, or even just change it. And I mean alarm, not reminders. It goes off just like your clock app. But you can’t adjust the time, or stop the notification. I deleted the app because of this and it’s still going off. Every day. The app support site doesn’t help and doesn’t provide a way to contact them. Google search only showed that I’m not the only one.",
+          "author": "amsmith10",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-25",
+          "rating": 5,
+          "country": "US",
+          "title": "Love It!",
+          "content": "I love the positive yet personal thoughts that pop up on my screen throughout the day. This helps me focus on what is going right even if I’m in the midst of a frustrating moment.",
+          "author": "TheeAuthor",
+          "version": "6.33.0"
+        },
         {
           "date": "2026-04-24",
           "rating": 5,
@@ -742,33 +787,15 @@
           "content": "Thank u it helped me so very much to be a lot stronger I appreciate this app",
           "author": "Crystal Dejarnett",
           "version": "6.28.0"
-        },
-        {
-          "date": "2026-03-29",
-          "rating": 5,
-          "country": "ES",
-          "title": "Ángel",
-          "content": "Me ha encantado , pienso seguir siempre adelante , gracias",
-          "author": "Ángel Gavrael",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-29",
-          "rating": 1,
-          "country": "US",
-          "title": "Spam",
-          "content": "I deleted the app after it asked about a subscription. I am still getting the morning alerts and can not turn them off. An alarm that I can’t change.",
-          "author": "Linda_sosweet",
-          "version": "6.29.0"
         }
       ],
-      "meta.total": 84,
+      "meta.total": 87,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-29",
-      "meta.until": "2026-04-28"
+      "meta.since": "2026-03-30",
+      "meta.until": "2026-04-29"
     }
   ]
 }
