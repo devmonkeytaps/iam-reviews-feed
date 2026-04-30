@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-04-29T00:59:40Z",
+  "generated_at": "2026-04-30T00:59:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-04-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Billed as $47.99",
+          "content": "I wished it would be billed ‘$3.99/month’ like it says but it’s billed at ‘once a year for $47.99.’ Why is the monthly amount even listed.  People can overlook that an end up paying an amount they couldn’t afford. Do you reverse their charges if asked??  It’s very deceptive.  \n\n$3.99/monthly, billed yearly $47.99",
+          "author": "fragilelilac",
+          "version": "6.33.0"
+        },
         {
           "date": "2026-04-27",
           "rating": 5,
@@ -57,6 +66,15 @@
           "title": "Love it",
           "content": "Live it",
           "author": "Niceguy313",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-24",
+          "rating": 1,
+          "country": "CA",
+          "title": "Not happy",
+          "content": "Sends too many affirmations. Did not receive trial ending notification from this app.",
+          "author": "Melody8910",
           "version": "6.33.0"
         },
         {
@@ -778,24 +796,15 @@
           "content": "Anyway I can refund my money? You guys promised of a free 3 day trial as long as I cancelled before it ended but still got charged.",
           "author": "Coco021469",
           "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Crystal",
-          "content": "Thank u it helped me so very much to be a lot stronger I appreciate this app",
-          "author": "Crystal Dejarnett",
-          "version": "6.28.0"
         }
       ],
-      "meta.total": 87,
+      "meta.total": 88,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-30",
-      "meta.until": "2026-04-29"
+      "meta.since": "2026-03-31",
+      "meta.until": "2026-04-30"
     }
   ]
 }
