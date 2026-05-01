@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T00:59:23Z",
+  "generated_at": "2026-05-01T01:03:48Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -778,33 +778,15 @@
           "content": "even though I use the free version it would be nice to select more options for quotes. Like inspiration or positivity, cause everyone needs that.",
           "author": "Nikke blue",
           "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-31",
-          "rating": 2,
-          "country": "US",
-          "title": "Backup and Sync errors",
-          "content": "I’m unable to backup my affirmations and data and whenever i use the “google login” or even the “apple id login” everything is glitched and nothing syncs correctly. \n\ni have nearly three years worth of data that i can only pull directly from an icloud backup and not an app back up. fix this now please!!!",
-          "author": "midnight willows",
-          "version": "6.29.0"
-        },
-        {
-          "date": "2026-03-31",
-          "rating": 1,
-          "country": "US",
-          "title": "3 day trial! Cancelled on time but still got charged the whole year.",
-          "content": "Anyway I can refund my money? You guys promised of a free 3 day trial as long as I cancelled before it ended but still got charged.",
-          "author": "Coco021469",
-          "version": "6.29.0"
         }
       ],
-      "meta.total": 88,
+      "meta.total": 86,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-03-31",
-      "meta.until": "2026-04-30"
+      "meta.since": "2026-04-01",
+      "meta.until": "2026-05-01"
     }
   ]
 }
