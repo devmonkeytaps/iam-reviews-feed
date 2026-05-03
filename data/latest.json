@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-05-02T00:56:19Z",
+  "generated_at": "2026-05-03T01:02:24Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-01",
+          "rating": 1,
+          "country": "US",
+          "title": "Not free",
+          "content": "you got through all these questions about goals etc and after about 5-10 minutes of answering questions they tell you you have to pay for a subscription.",
+          "author": "Hfjwkalnchdkskd",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-04-30",
+          "rating": 2,
+          "country": "US",
+          "title": "Would be cool if it would work",
+          "content": "I couldn’t even get signed in with my Gmail to use the app, there were so many run arounds and I got to a point where I was just wasting time trying to get the app to connect and work.",
+          "author": "Cat Lady jr",
+          "version": "6.34.0"
+        },
+        {
+          "date": "2026-04-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Totally worth it!",
+          "content": "I absolutely love this app always brings me back to the positive over and over again!",
+          "author": "Horse r me",
+          "version": "6.34.0"
+        },
+        {
+          "date": "2026-04-28",
+          "rating": 1,
+          "country": "US",
+          "title": "Installed a unremovable widget into my phone",
+          "content": "This app is way too expensive for what it is. An hourly text for as much as they charge for subscription is insane. I got rid of my free trial almost immediately and deleted the app. However, the app somehow changed my settings and installed a non removable alarm that goes off several times a day. When clicking this notification it doesn’t take me to any app or provide any history of it existing. It is a standalone ongoing ghost notification from this app. I am being haunted by this stupid decision to try this app out. Now woken up overnight by this randomly and cannot remove in anyway. Yall suck",
+          "author": "caspianecho224",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Feliz con la App",
+          "content": "Me encanta que me recuerde que merezco todo lo lindo que la vida tiene pensado para mi, porque siempre andamos de prisa y se nos olvida recordarlo.",
+          "author": "PTomm",
+          "version": "6.33.0"
+        },
         {
           "date": "2026-04-27",
           "rating": 1,
@@ -724,33 +769,15 @@
           "content": "To be able to wake up and read a positive message that I can say to myself and really mean it, actually helps during day to day living. I didn’t  notice at first, but I’m 395 days in and I can feel the positive effects it’s  had on me during my day. Every day.",
           "author": "Christinadelay",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-02",
-          "rating": 5,
-          "country": "US",
-          "title": "I’m healed .",
-          "content": "thank you so much",
-          "author": "nencjejxnwjwbbbb",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Muy buena",
-          "content": "Me encanta me hace sentir bien y seguro de mi mismo.",
-          "author": "Yahoo celebridades",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 82,
+      "meta.total": 85,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-02",
-      "meta.until": "2026-05-02"
+      "meta.since": "2026-04-03",
+      "meta.until": "2026-05-03"
     }
   ]
 }
