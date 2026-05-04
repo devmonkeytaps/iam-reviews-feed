@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-05-03T01:02:24Z",
+  "generated_at": "2026-05-04T01:00:07Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-02",
+          "rating": 5,
+          "country": "US",
+          "title": "Can’t go without",
+          "content": "I look forward to opening my app each day!",
+          "author": "Anc0180",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-02",
+          "rating": 5,
+          "country": "US",
+          "title": "Good job",
+          "content": "I am is doing a great job at making me a good and positive person",
+          "author": "Lisa_digangi",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-01",
+          "rating": 5,
+          "country": "US",
+          "title": "My Go-To",
+          "content": "I utilize I am every single day. Whether I am feeling comfortable, competent, or blue I read and repeat these affirmations. To me they are a gift because they lift me up. They always affirm me in a positive way. If one is feeling down on themselves or good, I am works is a healthy, quick and often lasting solution. I am affirms myself nearly as often as a caring even loving person would like me. So thank goodness. It’s like having Jesus or someone reinforcing their good in themselves.",
+          "author": "Sunshine Sunflower E73V3z",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Update has a problem please fix.",
+          "content": "I used to be able to write and edit my own affirmations. Suddenly the app updated and the option to edit my own affirmations is missing. \n\nAlso the option to add my own affirmations isn’t working. Please fix this issue. \n\n\nAnd ugh. If I sign into my apple account to try to save my information it’s pulling information back from 5 years ago not at all my current information. \n\nI don’t know exactly what happened here because I love this app. \n\nI’m a premium subscription user. So I know how fast you’re on top of this. \n\nJust need you to know something happened and the last update is not working quite right. Please fix these issues when you can. \n\nThanks.",
+          "author": "Pretty Deaf Princess",
+          "version": "6.34.1"
+        },
         {
           "date": "2026-05-01",
           "rating": 1,
@@ -30,6 +66,15 @@
           "title": "Totally worth it!",
           "content": "I absolutely love this app always brings me back to the positive over and over again!",
           "author": "Horse r me",
+          "version": "6.34.0"
+        },
+        {
+          "date": "2026-04-30",
+          "rating": 5,
+          "country": "AU",
+          "title": "Positive affirmation",
+          "content": "I enjoy using this app, I look forward to my daily affirmations and they are irrelevant to my life.",
+          "author": "Sis's travels",
           "version": "6.34.0"
         },
         {
@@ -742,42 +787,15 @@
           "content": "J’adore mais les gens qui en on vraiment besoins ne ne sont pas nécessairement les personnes qui on le plus d’agent pour se le permettre",
           "author": "Clo.H.B",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-03",
-          "rating": 3,
-          "country": "US",
-          "title": "Review",
-          "content": "WONDERFUL app love it. I ended up deleting the app and I kept getting the affirmation alarm\nEven after I deleted the app and I can not fix it on matter whaat I do. Is anyone having the problem too?",
-          "author": "3 Starts✨✨✨",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-03",
-          "rating": 5,
-          "country": "US",
-          "title": "So cute!",
-          "content": "This app is definitely worth it! It helped me after a couple of days! It sets alarms for school and work so you can wake up to your affirmation! Seriously LOVE this app!",
-          "author": "Skyegirl711!",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Best thing that’s happened for me.",
-          "content": "To be able to wake up and read a positive message that I can say to myself and really mean it, actually helps during day to day living. I didn’t  notice at first, but I’m 395 days in and I can feel the positive effects it’s  had on me during my day. Every day.",
-          "author": "Christinadelay",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 87,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-03",
-      "meta.until": "2026-05-03"
+      "meta.since": "2026-04-04",
+      "meta.until": "2026-05-04"
     }
   ]
 }
