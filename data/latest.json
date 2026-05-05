@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T01:00:07Z",
+  "generated_at": "2026-05-05T00:54:40Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -742,60 +742,15 @@
           "content": "Very nice get messages everyday",
           "author": "mymmymymymy",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-04",
-          "rating": 5,
-          "country": "US",
-          "title": "!!",
-          "content": "This app is sooo amazing!! I truly love how much it boosts up self esteem & confidence. My Confidence in myself has been up so much because of this app !!",
-          "author": "thagoatt😼.",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-04",
-          "rating": 2,
-          "country": "US",
-          "title": "Great app But…",
-          "content": "I am getting tired of the swear words. They aren’t necessary and they are getting way too frequent. There’s no way to block them, it’s just too much.",
-          "author": "Chanae'",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-04",
-          "rating": 5,
-          "country": "CA",
-          "title": "Great",
-          "content": "Everyonr must have this one in their phone.",
-          "author": "Veerkaur496@",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-04",
-          "rating": 4,
-          "country": "US",
-          "title": "Motivational",
-          "content": "Overall I love that the app keeps track of how many times you check in and read the affirmations. Just wish you didn’t have to pay for trying to have a peace of mind.",
-          "author": "Tweldon06",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-04",
-          "rating": 3,
-          "country": "CA",
-          "title": "J’adore mais…",
-          "content": "J’adore mais les gens qui en on vraiment besoins ne ne sont pas nécessairement les personnes qui on le plus d’agent pour se le permettre",
-          "author": "Clo.H.B",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 87,
+      "meta.total": 82,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-04",
-      "meta.until": "2026-05-04"
+      "meta.since": "2026-04-05",
+      "meta.until": "2026-05-05"
     }
   ]
 }
