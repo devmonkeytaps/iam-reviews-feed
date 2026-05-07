@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T00:55:05Z",
+  "generated_at": "2026-05-07T00:59:23Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -706,33 +706,15 @@
           "content": "This app has helped me a lot. I am currently in 8th grade going on to 9th grade in August, and I have been under a lot of academic pressure. These little reminders truly saved my life. I mean it",
           "author": "Snsndnsnaj",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-06",
-          "rating": 5,
-          "country": "US",
-          "title": "AMAZING",
-          "content": "THIS IS NOT A BOT!!!! \nThis app makes me feel better about myself then I used to and it encouraged me to be better",
-          "author": "Lives the Lord",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-06",
-          "rating": 5,
-          "country": "US",
-          "title": "Yes",
-          "content": "It really helps When your down but you have to pay a subscription for it",
-          "author": "Waynette12",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 78,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-06",
-      "meta.until": "2026-05-06"
+      "meta.since": "2026-04-07",
+      "meta.until": "2026-05-07"
     }
   ]
 }
