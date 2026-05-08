@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T00:59:23Z",
+  "generated_at": "2026-05-08T00:59:19Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -679,42 +679,15 @@
           "content": "The lock screen and home screen widgets act as ongoing visual reminders of realistic, positive, and alternative thoughts. I downloaded this app 2 years ago, and at least once a day I stop and take time to consider one of the affirmations. It has positively changed my life for the better, and that’s no overstatement. They’ve added a lot of great features over the years, including the meditative practice feature with the audio, as well as added a lot of different controls so that you can mute words that you don’t want to see and refine your topics, etc. A 5 star app, very happy annual premium customer here.",
           "author": "thewildherbalist",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-07",
-          "rating": 5,
-          "country": "US",
-          "title": "OMG GET IT!!!!!",
-          "content": "Get it I just love it!!! It helps so much.",
-          "author": "gotttaaaLOVEm333",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-07",
-          "rating": 4,
-          "country": "US",
-          "title": "No more supsctipitons",
-          "content": "I hate that you have to pay for this just so I can access this!!!!! It’s good otherwise tho.",
-          "author": "May555555o",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-07",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing and truly helpful",
-          "content": "This app has helped me a lot. I am currently in 8th grade going on to 9th grade in August, and I have been under a lot of academic pressure. These little reminders truly saved my life. I mean it",
-          "author": "Snsndnsnaj",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 78,
+      "meta.total": 75,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-07",
-      "meta.until": "2026-05-07"
+      "meta.since": "2026-04-08",
+      "meta.until": "2026-05-08"
     }
   ]
 }
