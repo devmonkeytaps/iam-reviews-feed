@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T00:59:19Z",
+  "generated_at": "2026-05-09T00:58:43Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -670,24 +670,15 @@
           "content": "The best app because it give you the best affirmations and it gives you a lot of kindness\nTry it",
           "author": "Ave m jones",
           "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-08",
-          "rating": 5,
-          "country": "US",
-          "title": "The app that’s tangibly changed my life for the better",
-          "content": "The lock screen and home screen widgets act as ongoing visual reminders of realistic, positive, and alternative thoughts. I downloaded this app 2 years ago, and at least once a day I stop and take time to consider one of the affirmations. It has positively changed my life for the better, and that’s no overstatement. They’ve added a lot of great features over the years, including the meditative practice feature with the audio, as well as added a lot of different controls so that you can mute words that you don’t want to see and refine your topics, etc. A 5 star app, very happy annual premium customer here.",
-          "author": "thewildherbalist",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 75,
+      "meta.total": 74,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-08",
-      "meta.until": "2026-05-08"
+      "meta.since": "2026-04-09",
+      "meta.until": "2026-05-09"
     }
   ]
 }
