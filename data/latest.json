@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T00:58:43Z",
+  "generated_at": "2026-05-10T01:03:43Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -120,6 +120,15 @@
           "title": "Installed a unremovable widget into my phone",
           "content": "This app is way too expensive for what it is. An hourly text for as much as they charge for subscription is insane. I got rid of my free trial almost immediately and deleted the app. However, the app somehow changed my settings and installed a non removable alarm that goes off several times a day. When clicking this notification it doesn’t take me to any app or provide any history of it existing. It is a standalone ongoing ghost notification from this app. I am being haunted by this stupid decision to try this app out. Now woken up overnight by this randomly and cannot remove in anyway. Yall suck",
           "author": "caspianecho224",
+          "version": "6.33.0"
+        },
+        {
+          "date": "2026-04-28",
+          "rating": 1,
+          "country": "CA",
+          "title": "Remove the app",
+          "content": "I can’t seem to remove this app from my phone no matter how many times I have tried. Could you please explain how to uninstall it from my phone.",
+          "author": "Iyahmac",
           "version": "6.33.0"
         },
         {
@@ -643,42 +652,15 @@
           "content": "This app is perfect if you’re tired of the internet and the toxicity it brings, Instead of scrolling through X or Instagram this provides the same thing but with positive energy and affirmations",
           "author": "knyyq",
           "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Review",
-          "content": "I decided to review this app to see if it would be helpful in aiding with depression. Before I started the free trial, I had to answer a variety of different questions about myself such as what issues I lack in, what type of affirmations I would want, my age, and many other questions. I found that this app can be helpful for depression because it is a form of cognitive behavioral therapy (CBT). CBT is a therapy in which a person records their thoughts and cognitive distortions about themselves or others. Once they recognize these distortions, they can help challenge these thoughts and hopefully improve their overall mood and functioning. This app was extremely helpful, and I enjoyed having multiple affirmations daily. To conclude, this would be an amazing app for people who struggle with depression, anxiety, or other disorders. It is also an amazing form of CBT since it can help with cognitive distortions and people could easily use it without needing the help of others. I would use this app again and recommend it to others!",
-          "author": "Psychologythoughts",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-09",
-          "rating": 3,
-          "country": "US",
-          "title": "Good app before they added in app purchases",
-          "content": "App used to have good customizable options for all users but it’s now locked behind a 15 dollar a month paywall. Will be finding a similar app to use instead.",
-          "author": "Anonymousksks",
-          "version": "6.30.0"
-        },
-        {
-          "date": "2026-04-09",
-          "rating": 5,
-          "country": "US",
-          "title": "BEST AFFIRMATION APP",
-          "content": "The best app because it give you the best affirmations and it gives you a lot of kindness\nTry it",
-          "author": "Ave m jones",
-          "version": "6.30.0"
         }
       ],
-      "meta.total": 74,
+      "meta.total": 72,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-09",
-      "meta.until": "2026-05-09"
+      "meta.since": "2026-04-10",
+      "meta.until": "2026-05-10"
     }
   ]
 }
