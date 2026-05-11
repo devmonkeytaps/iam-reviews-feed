@@ -1,10 +1,181 @@
 {
-  "generated_at": "2026-05-10T01:03:43Z",
+  "generated_at": "2026-05-11T01:03:51Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Mental health",
+          "content": "This app reminds me to think of myself and to take care of me. It gives me strength when I feel like breaking it reminds me that I am strong because God is by my side.",
+          "author": "MHECKMAN",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Make some waves for statehood",
+          "content": "Believe",
+          "author": "Ranchi Rosado",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Love",
+          "content": "This app has been brightening my day for two years now, worth every penny :)",
+          "author": "gaygaygay42069",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Sicologa",
+          "content": "Puedo describirme com, persona: compasiva, respetuosa, puedo entregar mi vida por amor a “alguien”, agradecida,muy sensible a los Niños tiernos y a la naturaleza!",
+          "author": "Lievamar",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 5,
+          "country": "US",
+          "title": "And recommend if you are on a journey of healing",
+          "content": "I’ve added the widget of this app to my nursing school iPad, and it’s quotes have gotten me through hard semesters and a hard break up",
+          "author": "Honest L",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 1,
+          "country": "US",
+          "title": "Used to be good",
+          "content": "This app used to be gold and helpful and through all the updates you’ve definitely ruined features that made things better. But whatever it still gives some encouragement which can be helpful.",
+          "author": "Captain Roger the great",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 4,
+          "country": "US",
+          "title": "Loved for years, but seems like AI now",
+          "content": "I used this app for years and loved it. It’s a widget on my phone and I see it multiple times a day. A few weeks ago, the daily phrases started sounding like AI. It feels so yucky, I’m just deleting it.",
+          "author": "FreeAndBrave",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Life changing",
+          "content": "Constant reminders for self love and healing!",
+          "author": "kee keyyyyy",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Affirmations",
+          "content": "Makes my\nDay!  It’s really nice to hear positive things throughout my day!\n Thank you!😊",
+          "author": "china morina",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 4,
+          "country": "US",
+          "title": "Used to Love, but has some changes…",
+          "content": "I love this app so much. But lately it’s been laggy and slow. Also, all my own images I upload now look darker than they really are on my homepage. I hate the new look. Some glitches while using the app. I hope it goes back to the way it was before.",
+          "author": "melaniestrada101",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-08",
+          "rating": 2,
+          "country": "US",
+          "title": "I loved it but it alarmed at 2:56am everyday",
+          "content": "I turned off every alarm and reminder (though I had just got the app and so there weren’t any) but app would go off at 2:56am. I made it a week lol cause I felt like I was just stupid and couldn’t figure out how to turn it off, but after asking a few people and the settings being pretty simple and clear… I realized I can’t turn it off. And I don’t want to keep waking up at 2:56am ( what’s funny is the alarm for the app didn’t have much of a logo on it and I can’t see well at 2:56am so it took my a minute to figure out what app was causing it)",
+          "author": "Babyfish1218",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-07",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing App",
+          "content": "Love it, the settings are easy to use and it’s a great hourly reminder.",
+          "author": "Mrs.hood",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-06",
+          "rating": 4,
+          "country": "US",
+          "title": "Widget keeps disappearing",
+          "content": "I added it to my lock screen. Love seeing different affirmations throughout the day. The only issue I have is every time there is an app update, the widget disappears off my lock screen. You have to go back to settings and add it back. Not sure why it does that and it’s kind of annoying. Not sure if it’s an app issue or Apple issue.",
+          "author": "Meagheg",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-06",
+          "rating": 2,
+          "country": "US",
+          "title": "Nice concept, but the alarm is a problem",
+          "content": "I loved this app at first, how aspects of it are free. It’s a wholesome concept.\n\nHowever I’ve been dealing with an issue of an alarm from this app on my phone, even after I changed settings and uninstalled it. There wasn’t a mention of this in the app itself so I’m disappointed by this.",
+          "author": "Pearlyhuedrops",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-06",
+          "rating": 5,
+          "country": "US",
+          "title": "This is Phenomenal",
+          "content": "My family uses this and this app brings them such joy, it’s a source for remembering the good things in life and how honorable creation is. Thankful for all of this, stay blessed",
+          "author": "Tracey Pheraz",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Always on time!",
+          "content": "I love this app. I always get the motivation I need at the right time",
+          "author": "Bby_Grl",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Affirmations",
+          "content": "That keeps me going! I love them!!!",
+          "author": "Rachel33311111",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Helpful",
+          "content": "Really enjoy the customization",
+          "author": "Drewson36",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-04",
+          "rating": 5,
+          "country": "US",
+          "title": "Gay",
+          "content": "Pretty gay",
+          "author": "c o r i n n e l e e",
+          "version": "6.34.1"
+        },
         {
           "date": "2026-05-03",
           "rating": 1,
@@ -625,42 +796,15 @@
           "content": "I downloaded this app at night, and deleted it becauses of the alarm automatically set at 10:31. It still went off every single night after the app was deleted. I then proceeded to delete my clock app, and check the settings. It still goes off every night. Now, I'm stuck with an affirmation practice that I can't even start BECAUSE THE DUMB APP IS GONE. I AM NOT SMART I AM NOT LOVED AND I HATE YOU LET ME REST IN PEACE. REMOVE THIS STUPID MALWARE AND GO FIX URSELF YOU DEGENERATES",
           "author": "Alafair m",
           "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-10",
-          "rating": 2,
-          "country": "US",
-          "title": "Update…Great app But…",
-          "content": "I am getting tired of the swear words. Every other word on most of the things that pop up is the “F” word. They aren’t necessary and they are getting way too frequent. There’s no way to block them, it’s just too much.",
-          "author": "Chanae'",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this!",
-          "content": "I personally love this app it helps me believe in myself , it also helps me relieve the family and friendship stress I have. I know I’m only 9 years old but this app has changed my life, I have parental issues, I also have friendship issues. Some people just say, ‘ Your fine ‘ Or stuff like ‘ It’s fine it’s not that big of a deal’ and stuff like that I just love this app I know I’m only 9 but it’s a lot for me to handle but I love this app.\n\n\n5 stars.",
-          "author": "Scarywiz",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Doom scrolling",
-          "content": "This app is perfect if you’re tired of the internet and the toxicity it brings, Instead of scrolling through X or Instagram this provides the same thing but with positive energy and affirmations",
-          "author": "knyyq",
-          "version": "6.31.0"
         }
       ],
-      "meta.total": 72,
+      "meta.total": 88,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-10",
-      "meta.until": "2026-05-10"
+      "meta.since": "2026-04-11",
+      "meta.until": "2026-05-11"
     }
   ]
 }
