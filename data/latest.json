@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T00:58:13Z",
+  "generated_at": "2026-05-13T01:02:52Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -724,51 +724,15 @@
           "content": "I signed up for the 3 day trial to test out the app before signing up. I had selected what I thought was the monthly option - showing ‘$3.99 per month’ but ended up getting charged for the entire year. I also was never notified prior to my trial ending like others. \n\nI contacted Apple for a refund and since I didn’t screenshot at the time (because I didn’t anticipate any problems), I was rejected. \n\nMisleading app and false advertising. Do not recommend.",
           "author": "MysticMagicMoss",
           "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-12",
-          "rating": 1,
-          "country": "US",
-          "title": "Cancelled subscription",
-          "content": "Cancelled the subscription but it’s still trying to charge me everyday. FIX IT!",
-          "author": "RuthIllila",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-12",
-          "rating": 1,
-          "country": "US",
-          "title": "5:00am alarm going off",
-          "content": "I downloaded this app and was unhappy with it, so I deleted it. Since then, it’s set a 5am alarm off on my phone every Saturday and Sunday and I can’t get it turned off. DO NOT download this app!!",
-          "author": "rmhopea2",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-12",
-          "rating": 3,
-          "country": "US",
-          "title": "Speaks too fast",
-          "content": "The affirmations they use are extremely generic and the voice talks too fast but you can’t adjust the speaking rate! Leaves a lot to be desired…. I barely use it because I feel like the affirmations are spoken in a hurry ☹️",
-          "author": "sepideh_calif",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-12",
-          "rating": 5,
-          "country": "US",
-          "title": "Angels exists",
-          "content": "Never stop believing in angels. God truly sends them when those you loved were in the wind.",
-          "author": "Quiann3",
-          "version": "6.31.0"
         }
       ],
-      "meta.total": 84,
+      "meta.total": 80,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-12",
-      "meta.until": "2026-05-12"
+      "meta.since": "2026-04-13",
+      "meta.until": "2026-05-13"
     }
   ]
 }
