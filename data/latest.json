@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T01:02:52Z",
+  "generated_at": "2026-05-14T01:04:01Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -688,51 +688,15 @@
           "content": "What a horrendous app. Asks a million questions before it throws the price tag at you. One of which is “do you want to set an alarm”. I deleted the app before even trying the 3 days free. But still get woken up everyday at 6.15am with a horrendous alarm that I can’t delete.",
           "author": "vikiviking",
           "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Very helpful",
-          "content": "I have never written a review before but I just want to let anyone and everyone know that this app is very helpful. It’s free and you can put it on your lock screen. It doesn’t have ads. It actually gives you meaningful words. I was in a hole for a while and decided to try this cause why not and I have seen an incline in my mental health and confidence in myself in just a few weeks. I really love this app because it feels like it actually just wants to help someone feel better about themselves not just money grabbing!!! Thank you to the creator of this!! You are the best!",
-          "author": "Caco4912",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-13",
-          "rating": 5,
-          "country": "US",
-          "title": "🩷💙💛",
-          "content": "I love this app!",
-          "author": "Weetzie Starr",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-13",
-          "rating": 5,
-          "country": "US",
-          "title": "Love love!",
-          "content": "I have been using this app for years and I absolutely love it! It’s fun to play around with the different themes. Being able to save the affirmation with the theme makes it so easy to change my backgrounds regularly. I also have entered my own affirmations so those hit differently too! I believe I paid for it at some point but have no idea how much it was.. worth every penny! Thanks for contributing to my growth and expansion!",
-          "author": "Lisa81830",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-13",
-          "rating": 1,
-          "country": "US",
-          "title": "Subscription misleading",
-          "content": "I signed up for the 3 day trial to test out the app before signing up. I had selected what I thought was the monthly option - showing ‘$3.99 per month’ but ended up getting charged for the entire year. I also was never notified prior to my trial ending like others. \n\nI contacted Apple for a refund and since I didn’t screenshot at the time (because I didn’t anticipate any problems), I was rejected. \n\nMisleading app and false advertising. Do not recommend.",
-          "author": "MysticMagicMoss",
-          "version": "6.31.0"
         }
       ],
-      "meta.total": 80,
+      "meta.total": 76,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-13",
-      "meta.until": "2026-05-13"
+      "meta.since": "2026-04-14",
+      "meta.until": "2026-05-14"
     }
   ]
 }
