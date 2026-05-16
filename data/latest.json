@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-05-15T01:01:44Z",
+  "generated_at": "2026-05-16T00:58:06Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-14",
+          "rating": 1,
+          "country": "US",
+          "title": "Language unacceptable",
+          "content": "I hate that curse words are often included in my affirmations that I receive and I cannot block it. It makes me not open the app because this is not how I speak to myself. I don’t know why this changed. This app should be better.",
+          "author": "badst11",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-13",
+          "rating": 2,
+          "country": "US",
+          "title": "Misleading Offer and Cost",
+          "content": "Like others, I downloaded this app with the idea of trying it out before deciding if it was worth my time. Upon opening for the first time, there was about 10 minutes worth of questions I had to answer. As a customer who is curious about the product, getting barraged with personal questions before I can see what this product even is is already a big negative. Like most other companies on the internet, I assume they’re mining my data almost immediately (which is NOT a good feeling). \nThen my biggest problem is the subscription situation. After all those questions I get hit that it’s $70 for the year. There was no explanation on what that entailed (and again I hadn’t even made it to the interface of the actual app yet) and no other subscription options (which turns out there are?!?). They’re lucky I was still curious so I continued, thinking I will annoyingly have to make more time in my schedule just to cancel the subscription, again having to promise my time to something I don’t even know about. Inside the app, I find it mostly interesting and functional. The buttons on the Home Screen are a little confusing on what takes you where. \nThen I go to the subscription section to see what’s going on, thinking I’m going to cancel because $70 is too much. Doing that through Apple brought me to a page with the other options… finally. There are 4 options, none of which have any real explanation of what they are or do other than how much you’re charged per month/year. I notice a $35/year option….what does that entail? Why was that not presented to me in the beginning? How is that different $70? I literally have no way of knowing what that option actually comes with. \nUltimately the interface is beautiful, the idea is great and truly almost there. But the elusiveness and lack of transparency around billing and subscriptions leaves a very bad taste. On to find a similar app without all the upfront hassle.",
+          "author": "Msdetective",
+          "version": "6.36.0"
+        },
         {
           "date": "2026-05-13",
           "rating": 5,
@@ -336,6 +354,15 @@
           "title": "Affirmations",
           "content": "That keeps me going! I love them!!!",
           "author": "Rachel33311111",
+          "version": "6.34.1"
+        },
+        {
+          "date": "2026-05-05",
+          "rating": 5,
+          "country": "CA",
+          "title": "Excellent",
+          "content": "Always exactly what I need to help me see things I haven’t.",
+          "author": "silly songstress",
           "version": "6.34.1"
         },
         {
@@ -805,51 +832,15 @@
           "content": "This app makes me feel better about myself and makes me have a good day",
           "author": "Josille c.",
           "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-15",
-          "rating": 5,
-          "country": "US",
-          "title": "My favorite",
-          "content": "I love this concept. It helps to brighten not so sunny days.",
-          "author": "Tia_Nim",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-15",
-          "rating": 5,
-          "country": "US",
-          "title": "I am",
-          "content": "This is such a good app.  It has helped me with so much in life. I do recommend",
-          "author": "Pickle girl ￼",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Medicine",
-          "content": "It’s about living intentional and this is a tool for the tool box",
-          "author": "philshafer",
-          "version": "6.31.0"
-        },
-        {
-          "date": "2026-04-15",
-          "rating": 5,
-          "country": "US",
-          "title": "The app that’s tangibly changed my life for the better",
-          "content": "The lock screen and home screen widgets act as ongoing visual reminders of realistic, positive, and alternative thoughts. I downloaded this app 2 years ago, and at least once a day I stop and take time to consider one of the affirmations. It has positively changed my life for the better, and that’s no overstatement. They’ve added a lot of great features over the years, including the meditative practice feature with the audio, as well as added a lot of different controls so that you can mute words that you don’t want to see and refine your topics, etc. A 5 star app, very happy annual premium customer here.",
-          "author": "thewildherbalist",
-          "version": "6.31.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-15",
-      "meta.until": "2026-05-15"
+      "meta.since": "2026-04-16",
+      "meta.until": "2026-05-16"
     }
   ]
 }
