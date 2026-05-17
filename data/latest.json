@@ -1,10 +1,46 @@
 {
-  "generated_at": "2026-05-16T00:58:06Z",
+  "generated_at": "2026-05-17T01:05:18Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-15",
+          "rating": 5,
+          "country": "US",
+          "title": "2026-10-09T22:00:00.000Z",
+          "content": "amazing app. very motivational and helpful! 10/10 recommend to anybody struggling with any sort of mental health!",
+          "author": "haiitsleah420",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-15",
+          "rating": 1,
+          "country": "US",
+          "title": "Expensive",
+          "content": "I did the three day free trial, and couldn’t figure out exactly what features were paid and what were free, which was frustrating. So I canceled. I was then offered a $17.99 deal, but still before I was able to actually see what the “free” version was. After I was able to see that it’s very basic without the premium, I decided to go ahead with the $17.99 promo- only to discover I was actually charged $69.99. It’s a pretty expensive bait and switch. I can justify $18 for it, but $70 is a lot for any app, let alone this one. I was really hoping this one would turn out good so I can recommend to clients, but turns out it’s deceptive.",
+          "author": "Fun sofar",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome App and Great Developers!",
+          "content": "The app had a glitch and the developers were spot on to fix it. And they even showed me how they updated the feature in a very classy way. \n\nThere’s a few little hidden features in the app. So if you think something isn’t working. You might be surprised to find out it actually works very easily. Just in a classy way you did not think of. \n\nSimply email the app developers and they will be more than happy to explain to you how numerous things work if you find you want to do something and feel like it doesn’t work. Or if you have an idea. You might be surprised to discover that your idea is something the app actually already does just in a hidden way. \n\nVery useful wonderful app. \n\nGreat development team.",
+          "author": "Pretty Deaf Princess",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Excellent & Encouraging app!",
+          "content": "Sends me the perfect daily messages at the perfect times ✨🙏🏾",
+          "author": "OmarEwen",
+          "version": "6.36.0"
+        },
         {
           "date": "2026-05-14",
           "rating": 1,
@@ -787,60 +823,15 @@
           "content": "great app. if you can add an option for music to override the sound on video themes and also a gratitude journaling feature then it would be amazing!!!",
           "author": "LazyDesign",
           "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-16",
-          "rating": 4,
-          "country": "US",
-          "title": "Love the app but $ is out of touch",
-          "content": "I love this app, but their subscription price for a monthly subscription is completely out of touch with the reality of what people want to pay or can afford. It reeks of greed. Free forever for me until they come to their senses.",
-          "author": "Sarabeth84",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Profanity",
-          "content": "This morning’s affirmation dropped a hard F-Bomb while reading my daily affirmations to me. I do not appreciate profanity as it is very low energy, degrading and offensive language.",
-          "author": "Queenly_Peach",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-16",
-          "rating": 5,
-          "country": "AU",
-          "title": "Nourishment for the soul",
-          "content": "Love that I have this as my widget the first positive thing I see when I wake up. Thank you",
-          "author": "Tee Samia",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "Really helps put you in a positive mindset.",
-          "author": "pizza4758",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Awesome app",
-          "content": "This app makes me feel better about myself and makes me have a good day",
-          "author": "Josille c.",
-          "version": "6.32.0"
         }
       ],
-      "meta.total": 92,
+      "meta.total": 91,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-16",
-      "meta.until": "2026-05-16"
+      "meta.since": "2026-04-17",
+      "meta.until": "2026-05-17"
     }
   ]
 }
