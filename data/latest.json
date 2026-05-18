@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-05-17T01:05:18Z",
+  "generated_at": "2026-05-18T01:06:22Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Uplifting Affirmations",
+          "content": "I really enjoy this app, I’m trying to use it daily as a way to lift me up and keep a positive attitude 😌",
+          "author": "RebekahViau",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-15",
+          "rating": 5,
+          "country": "US",
+          "title": "Life changing app",
+          "content": "Thank you 🙏",
+          "author": "Kalem678",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-15",
+          "rating": 1,
+          "country": "US",
+          "title": "The Alarm - how do I stop it?????",
+          "content": "I tried all the things listed under the “Help” category to turn off the alarm, but nothing works.",
+          "author": "AvenRomaine",
+          "version": "6.36.0"
+        },
         {
           "date": "2026-05-15",
           "rating": 5,
@@ -93,6 +120,15 @@
           "title": "A",
           "content": "Ur",
           "author": "nicolestarr13",
+          "version": "6.35.0"
+        },
+        {
+          "date": "2026-05-12",
+          "rating": 4,
+          "country": "GB",
+          "title": "Fast bug fix",
+          "content": "Lovely app to check daily and I must give them props for the fast bug fix and great customer service.",
+          "author": "squeezyS",
           "version": "6.35.0"
         },
         {
@@ -825,13 +861,13 @@
           "version": "6.32.0"
         }
       ],
-      "meta.total": 91,
+      "meta.total": 95,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-17",
-      "meta.until": "2026-05-17"
+      "meta.since": "2026-04-18",
+      "meta.until": "2026-05-18"
     }
   ]
 }
