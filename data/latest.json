@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T01:06:16Z",
+  "generated_at": "2026-05-20T01:08:11Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -805,60 +805,15 @@
           "content": "I love what u do amazing helps me sooooo much beautiful",
           "author": "🩷💚🖤❤️🩵🩶🧡💙💛",
           "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-19",
-          "rating": 5,
-          "country": "US",
-          "title": "True masterpiece",
-          "content": "I love this app !!! It has truly helped me get thru moments of self doubt. My notifications seems pop up at the right moments with encouragement and affirmations to calm my mind and bring peace back to my life !! I’m so thankful and glad I got the app truly ! If you need looking for an affirmation app this is it",
-          "author": "Beauty n Love",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-19",
-          "rating": 1,
-          "country": "US",
-          "title": "Ok",
-          "content": "Too expensive",
-          "author": "Ben Kenneth",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-19",
-          "rating": 1,
-          "country": "US",
-          "title": "Just assume it’s the same as every other self help app and you won’t be disappointed",
-          "content": "Couple days on a free trial then they want a hundred dollar payment payment to keep using it.",
-          "author": "Jake__77",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-19",
-          "rating": 2,
-          "country": "US",
-          "title": "Weird images",
-          "content": "I searched xxx for my wallpaper bc I was going to do xxxtention for my wallpaper and it was showing weird pictures like girls in weird clothes and thibgs like that. Please remove those🫩\nAlso so much is VIP",
-          "author": "ZoeyHHHHHHH🎀",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-19",
-          "rating": 1,
-          "country": "US",
-          "title": "Problem with notifications",
-          "content": "I cancelled my subscription and removed the App from my phone but am still getting some reminders. I’ve contacted App support but haven’t heard from anyone yet.\n\nI finally heard back but the response was to use a tool they emailed to check my phone. I’m not comfortable with downloading an analytics tool to search my entire phone. Still waiting for resolution from them, alarm still randomly goes off.\n\nUpdate April 2026: I heard back and was sent a link to cancel the alarm and the link does not work. I’ve emailed again. Be very careful when setting an alarm with the app for notifications.",
-          "author": "Christie, New York",
-          "version": "6.32.0"
         }
       ],
-      "meta.total": 94,
+      "meta.total": 89,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-19",
-      "meta.until": "2026-05-19"
+      "meta.since": "2026-04-20",
+      "meta.until": "2026-05-20"
     }
   ]
 }
