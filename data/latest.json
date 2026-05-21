@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:08:11Z",
+  "generated_at": "2026-05-21T01:08:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -769,51 +769,15 @@
           "content": "I'm doing the free version as long as I can. I love it.",
           "author": "corinnemwhaley",
           "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-20",
-          "rating": 4,
-          "country": "US",
-          "title": "Great Except the Voice!",
-          "content": "Hello, I am loving this app however I cannot stand the voice. She sounds like she’s got vocal fry which is so annoying. So I’m not able to benefit from the guided aspects of the app. 😢😢Please, how can I change the voice? 🙏🏼🙏🏼🙏🏼 I am not going to be able to use this app like this. Please add other voice options.",
-          "author": "HollyDawnF",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-20",
-          "rating": 4,
-          "country": "US",
-          "title": "I love it but...",
-          "content": "I love this app. I only have had it for one day, but I can already tell that it’s gonna help me achieve my goal of believing in myself and loving myself. on the other hand, this app can cost lots of money just to get what people need from this app. I know that it cost money to make this app, but I don’t think that people should have to pay to make themselves feel better. other than that, this is a great app. I also don’t like the fact that when you pick a app cover, you can’t change it because it cost money too.",
-          "author": "Gamecritic101345",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-20",
-          "rating": 1,
-          "country": "US",
-          "title": "Alarms",
-          "content": "Won’t stop giving me alarms that say start practice even after I delete the app",
-          "author": "Liberty Fitz",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-20",
-          "rating": 5,
-          "country": "US",
-          "title": "I love it",
-          "content": "I love what u do amazing helps me sooooo much beautiful",
-          "author": "🩷💚🖤❤️🩵🩶🧡💙💛",
-          "version": "6.32.0"
         }
       ],
-      "meta.total": 89,
+      "meta.total": 85,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-20",
-      "meta.until": "2026-05-20"
+      "meta.since": "2026-04-21",
+      "meta.until": "2026-05-21"
     }
   ]
 }
