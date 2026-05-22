@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T01:08:45Z",
+  "generated_at": "2026-05-22T01:06:33Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -39,6 +39,15 @@
           "title": "Life changing app",
           "content": "Thank you 🙏",
           "author": "Kalem678",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-15",
+          "rating": 5,
+          "country": "GB",
+          "title": "Mrs",
+          "content": "This app brought so much positivity into my life. It walked me out of low self esteem and boosted my confidence.",
+          "author": "Flooreeeeennn",
           "version": "6.36.0"
         },
         {
@@ -733,51 +742,15 @@
           "content": "This app may be amazing but it sets an alarm that can be deleted even if the app was deleted. So I didn’t love it and decided not to continue with the pro version, I now have a permanent alarm at 7:55am every day that can’t turn off :(",
           "author": "gadelichka",
           "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-21",
-          "rating": 3,
-          "country": "US",
-          "title": "Amazing app until they started adding pop ups.",
-          "content": "I paid a year subscription for this app and have found it well worth it. It’s grounding, peaceful, and aligning. I love that you can choose your own background photo or video. I use ocean waves and it includes the sound in the background. It’s perfect. I like to scroll through once a day and “heart” my favourite affirmations.\n\nRecently they started adding pop ups as you scroll through. When I “heart” an affirmation it brings up a pop up telling me to share with a friend, that I then have to close to continue. And it doesn’t just come up once, but continuously. This seems like a small thing, but it seriously disturbs the meditative flow. And having what is basically an in app advertisement “share our app!” pop up so consistently on a paid app, is pretty disappointing and leads me to not enjoy the app as much. \n\nI appreciate the work put into this app. I hope the creators can understand is this is counter to the point of the app, and find better ways to encourage us to share. \n\nThank you.",
-          "author": "Gene Sm",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-21",
-          "rating": 1,
-          "country": "US",
-          "title": "The reminder alarm will not stop!!!",
-          "content": "Even after deleting the app!!!!",
-          "author": "deryase",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-21",
-          "rating": 1,
-          "country": "US",
-          "title": "Don’t set an alarm unless you want to deal with it forever",
-          "content": "Can’t get rid of daily alarm. Deleted and redownloaded but no luck. So annoying",
-          "author": "Mjayy26$&$&",
-          "version": "6.32.0"
-        },
-        {
-          "date": "2026-04-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Free",
-          "content": "I'm doing the free version as long as I can. I love it.",
-          "author": "corinnemwhaley",
-          "version": "6.32.0"
         }
       ],
-      "meta.total": 85,
+      "meta.total": 82,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-21",
-      "meta.until": "2026-05-21"
+      "meta.since": "2026-04-22",
+      "meta.until": "2026-05-22"
     }
   ]
 }
