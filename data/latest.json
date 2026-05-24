@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T01:03:19Z",
+  "generated_at": "2026-05-24T01:07:50Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -30,6 +30,15 @@
           "title": "Terrible enschittification!",
           "content": "LET ME ERASE OR EDIT MY AFFIRMATIONS!!!!! STOP FORCING YOUR MARKETING BS AND OTHER PPLS STUFF ON ME!!!! You used to be a good app. Just canceled my subscription. Every update you have gotten worse and worse. STOP!!!",
           "author": "Charlesgoldberg",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-20",
+          "rating": 5,
+          "country": "CA",
+          "title": "Wonderful App!!!",
+          "content": "Amazing how they made this app free to use as long as you want to use it for without any force to watch an ad or some kind of payment for the service. I know for myself I’ve had some days where without being able to read an affirmation from the app that ends up simply popping up on your Home screen I would’ve fallen into old ways and just ruined my day more and more and possibly my entire life. Thank you so so much to the creators of this app! I would suggest supporting them if possible by subscribing to the full version as it has some extra little benefits for the user and customizes it more directly to your needs and is only pocket change coming out to just above 2$ a month.",
+          "author": "What a game homie",
           "version": "6.37.0"
         },
         {
@@ -823,15 +832,6 @@
           "content": "I love this app and it’s positive vibes, It  really made me feel like I am me again so I’m grateful for that especially when I’m feeling down it has brought me up so much and I love it !!!!Thankyou for the app creators and everyone involved 🩷",
           "author": "Sexycouple123",
           "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-23",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily Inspo",
-          "content": "This helps me get through the day.",
-          "author": "J.Crig",
-          "version": "6.33.0"
         }
       ],
       "meta.total": 92,
@@ -839,8 +839,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-23",
-      "meta.until": "2026-05-23"
+      "meta.since": "2026-04-24",
+      "meta.until": "2026-05-24"
     }
   ]
 }
