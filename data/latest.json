@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-05-25T01:09:16Z",
+  "generated_at": "2026-05-26T01:04:25Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Happiness in a text!",
+          "content": "Always brings my focus back to a happier point of view!",
+          "author": "Smitty1409",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-24",
+          "rating": 5,
+          "country": "US",
+          "title": "LOVE this daily app!!!",
+          "content": "I LOVE this app! I read it everyday! You can customize the topic of affirmations you want to focus on! The reminders are great.  As of this morning, I am on a 366 day streak! I highly recommend!!",
+          "author": "Lms5360",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-23",
+          "rating": 3,
+          "country": "US",
+          "title": "Not consistent",
+          "content": "This always run into issue with every update. Sometimes it stop sending notifications. Sometimes it’s alignment in the text. Sometimes it data loss of save affirmations. Overall annoying during updates but useful if they can keep it consistent",
+          "author": "elephant_monk",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-23",
+          "rating": 1,
+          "country": "US",
+          "title": "Updating my review: Greed ruined it",
+          "content": "so after my last review they said it was some kind of error that made custom themes paywalled. It was fixed and i loved the app again, now everything is suddenly behind a paywall again even the most basic themes!!! Extremely frustrating i loved this app and used it for years I even recommended it to so many people but clearly greed is the motive now. I do not recommend because it’s useless and UGLY now!!!!",
+          "author": "blueridge09",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-23",
+          "rating": 4,
+          "country": "US",
+          "title": "Can’t turn off the alarm",
+          "content": "I love this app but I cannot turn off the alarm. In FAQ’s it says to click the person icon and somewhere it will have the option to toggle the alarm off. I do not see that anywhere, I have been looking for hours now. I don’t want to delete the app but I might have to because it goes off in the middle of class",
+          "author": "haiaienend",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-23",
+          "rating": 4,
+          "country": "US",
+          "title": "Was My Favorite App",
+          "content": "I used to love this app so much. In fact I used  more than once a day most of the time. The free version was great. When I did have the money, I got a subscription, and it was even better. Unfortunately, I fell on hard times (when you would need this app the most) and had to cancel my subscription. The free version now doesn’t let you change your theme or anything else without a screen popping up to subscribe. The widget doesn’t match what you see when you click on it and I loved that feature because I used to favorite from there. I wish I could say I would be subscribing again someday, but because I basically lost everything I built in the past three years of subscribing, just because I can’t afford it is very disheartening. I’ve lost enough already and it may sound silly but this is the one thing I counted on every day.",
+          "author": "MyMagic8Ball",
+          "version": "6.37.0"
+        },
         {
           "date": "2026-05-23",
           "rating": 4,
@@ -823,33 +877,15 @@
           "content": "There’s no where in the app to turn off the alarm, or even just change it. And I mean alarm, not reminders. It goes off just like your clock app. But you can’t adjust the time, or stop the notification. I deleted the app because of this and it’s still going off. Every day. The app support site doesn’t help and doesn’t provide a way to contact them. Google search only showed that I’m not the only one.",
           "author": "amsmith10",
           "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-25",
-          "rating": 5,
-          "country": "US",
-          "title": "Love It!",
-          "content": "I love the positive yet personal thoughts that pop up on my screen throughout the day. This helps me focus on what is going right even if I’m in the midst of a frustrating moment.",
-          "author": "TheeAuthor",
-          "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-25",
-          "rating": 5,
-          "country": "AU",
-          "title": "It’s really good 100% true",
-          "content": "This is such a good app, it helps me with my anxiety and stress. It takes away my negative thoughts and energy. I also like how you get to change the theme or icon, totally recommend!",
-          "author": "NAFRBLX",
-          "version": "6.33.0"
         }
       ],
-      "meta.total": 93,
+      "meta.total": 97,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-25",
-      "meta.until": "2026-05-25"
+      "meta.since": "2026-04-26",
+      "meta.until": "2026-05-26"
     }
   ]
 }
