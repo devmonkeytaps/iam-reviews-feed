@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T01:04:25Z",
+  "generated_at": "2026-05-27T01:08:25Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -165,6 +165,15 @@
           "title": "I recommend",
           "content": "It has a reminder to read your daily quote you can even create your quote",
           "author": "jesus loves you 39",
+          "version": "6.36.0"
+        },
+        {
+          "date": "2026-05-18",
+          "rating": 5,
+          "country": "GB",
+          "title": "I am",
+          "content": "It makes you feel so much better about yourself.",
+          "author": "Rubyyyy!!!!",
           "version": "6.36.0"
         },
         {
@@ -850,42 +859,15 @@
           "content": "I need this just AWESOME!",
           "author": "RB44rde",
           "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Love",
-          "content": "Love",
-          "author": "mp3star333",
-          "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-26",
-          "rating": 5,
-          "country": "US",
-          "title": "Help",
-          "content": "Great app for metal health in advice technically like your personal therapist",
-          "author": "CEO YT",
-          "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-26",
-          "rating": 1,
-          "country": "US",
-          "title": "Alarm Function",
-          "content": "There’s no where in the app to turn off the alarm, or even just change it. And I mean alarm, not reminders. It goes off just like your clock app. But you can’t adjust the time, or stop the notification. I deleted the app because of this and it’s still going off. Every day. The app support site doesn’t help and doesn’t provide a way to contact them. Google search only showed that I’m not the only one.",
-          "author": "amsmith10",
-          "version": "6.33.0"
         }
       ],
-      "meta.total": 97,
+      "meta.total": 95,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-26",
-      "meta.until": "2026-05-26"
+      "meta.since": "2026-04-27",
+      "meta.until": "2026-05-27"
     }
   ]
 }
