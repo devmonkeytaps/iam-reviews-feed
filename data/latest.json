@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T01:08:25Z",
+  "generated_at": "2026-05-28T01:01:16Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -832,42 +832,15 @@
           "content": "I can’t seem to remove this app from my phone no matter how many times I have tried. Could you please explain how to uninstall it from my phone.",
           "author": "Iyahmac",
           "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Feliz con la App",
-          "content": "Me encanta que me recuerde que merezco todo lo lindo que la vida tiene pensado para mi, porque siempre andamos de prisa y se nos olvida recordarlo.",
-          "author": "PTomm",
-          "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-27",
-          "rating": 1,
-          "country": "US",
-          "title": "Billed as $47.99",
-          "content": "I wished it would be billed ‘$3.99/month’ like it says but it’s billed at ‘once a year for $47.99.’ Why is the monthly amount even listed.  People can overlook that an end up paying an amount they couldn’t afford. Do you reverse their charges if asked??  It’s very deceptive.  \n\n$3.99/monthly, billed yearly $47.99",
-          "author": "fragilelilac",
-          "version": "6.33.0"
-        },
-        {
-          "date": "2026-04-27",
-          "rating": 5,
-          "country": "US",
-          "title": "Love",
-          "content": "I need this just AWESOME!",
-          "author": "RB44rde",
-          "version": "6.33.0"
         }
       ],
-      "meta.total": 95,
+      "meta.total": 92,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-27",
-      "meta.until": "2026-05-27"
+      "meta.since": "2026-04-28",
+      "meta.until": "2026-05-28"
     }
   ]
 }
