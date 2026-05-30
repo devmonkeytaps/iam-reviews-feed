@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T01:10:49Z",
+  "generated_at": "2026-05-30T01:05:03Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -34,6 +34,15 @@
         },
         {
           "date": "2026-05-25",
+          "rating": 5,
+          "country": "CA",
+          "title": "Daily review?",
+          "content": "I am grateful for this app",
+          "author": "Mushkegowolf",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-25",
           "rating": 1,
           "country": "US",
           "title": "Way over priced",
@@ -48,6 +57,15 @@
           "title": "waste of $40",
           "content": "come on yall",
           "author": "Naaattynatty",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-24",
+          "rating": 5,
+          "country": "GB",
+          "title": "Fantastic",
+          "content": "I love this app",
+          "author": "Sach3278",
           "version": "6.37.0"
         },
         {
@@ -120,6 +138,15 @@
           "title": "🐬🐬🐬🐬🐬🐬🐬",
           "content": "Even when its tough I need to keep going that’s what this app helps me do a daily reminder about wonderful things and when at the time I had bad anxiety my mom told me about this app and I love it now do I use it everyday no but I use it when I need love or something motivated .",
           "author": "Pookiewooley82021",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-22",
+          "rating": 5,
+          "country": "CA",
+          "title": "I love this app",
+          "content": "I’m a chud and I love app",
+          "author": "Chudsahur",
           "version": "6.37.0"
         },
         {
@@ -870,13 +897,13 @@
           "version": "6.34.0"
         }
       ],
-      "meta.total": 96,
+      "meta.total": 99,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-29",
-      "meta.until": "2026-05-29"
+      "meta.since": "2026-04-30",
+      "meta.until": "2026-05-30"
     }
   ]
 }
