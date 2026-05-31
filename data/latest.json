@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-05-30T01:05:03Z",
+  "generated_at": "2026-05-31T01:12:45Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-28",
+          "rating": 5,
+          "country": "US",
+          "title": "!!!",
+          "content": "genuinely such a good positive supportive app, like my personal cheerleader on my phone!!! this app was there for me at my lowest and it feels like a full circle moment when i can genuinely say those affirmations and feel that is my reality, i ALWAYS recommend this app to my loved ones💝",
+          "author": "honest person:)",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-28",
+          "rating": 4,
+          "country": "US",
+          "title": "Start my day",
+          "content": "After my morning meditation I finish with Daily Affirmations app get my day going. Love the app",
+          "author": "Ken_whi",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Perfect",
+          "content": "This app motivates me every day",
+          "author": "William82$",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-28",
+          "rating": 5,
+          "country": "US",
+          "title": "I am Daily affirmations",
+          "content": 100,
+          "author": "Happy modes",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Love 💕",
+          "content": "I am is such an amazing app it makes me feel like myself and helps me to stay positive. I am had cute widgets and backgrounds that make the app even cuter. I am had a few for when you upgrade but it’s not that bad.",
+          "author": "Eleanorpec15!",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Crazy alarm",
+          "content": "I’ve deleted the app and even while it’s not on my phone the arm that I had previously set goes off EVERY MORNING at 5:40 AND WAKES ME UP EVEN THOUGH THE APP IS GONE. The alarm is labeled monkey taps.ia and it’s driving me insane.",
+          "author": "Afrotic",
+          "version": "6.37.0"
+        },
         {
           "date": "2026-05-27",
           "rating": 3,
@@ -868,42 +922,15 @@
           "content": "you got through all these questions about goals etc and after about 5-10 minutes of answering questions they tell you you have to pay for a subscription.",
           "author": "Hfjwkalnchdkskd",
           "version": "6.34.1"
-        },
-        {
-          "date": "2026-04-30",
-          "rating": 2,
-          "country": "US",
-          "title": "Would be cool if it would work",
-          "content": "I couldn’t even get signed in with my Gmail to use the app, there were so many run arounds and I got to a point where I was just wasting time trying to get the app to connect and work.",
-          "author": "Cat Lady jr",
-          "version": "6.34.0"
-        },
-        {
-          "date": "2026-04-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Totally worth it!",
-          "content": "I absolutely love this app always brings me back to the positive over and over again!",
-          "author": "Horse r me",
-          "version": "6.34.0"
-        },
-        {
-          "date": "2026-04-30",
-          "rating": 5,
-          "country": "AU",
-          "title": "Positive affirmation",
-          "content": "I enjoy using this app, I look forward to my daily affirmations and they are irrelevant to my life.",
-          "author": "Sis's travels",
-          "version": "6.34.0"
         }
       ],
-      "meta.total": 99,
+      "meta.total": 102,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-04-30",
-      "meta.until": "2026-05-30"
+      "meta.since": "2026-05-01",
+      "meta.until": "2026-05-31"
     }
   ]
 }
