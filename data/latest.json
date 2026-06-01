@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T01:12:45Z",
+  "generated_at": "2026-06-01T01:15:26Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -49,6 +49,15 @@
           "content": "I am is such an amazing app it makes me feel like myself and helps me to stay positive. I am had cute widgets and backgrounds that make the app even cuter. I am had a few for when you upgrade but it’s not that bad.",
           "author": "Eleanorpec15!",
           "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-27",
+          "rating": 4,
+          "country": "GB",
+          "title": "Amazing",
+          "content": "This app is so so good and I love how much customisation there is to it. However, I’m not sure why but my Home Screen widget has stopped working and only says “tap to activate widget” for a while now. I have tapped on the widget and tried to fix it in multiple other ways but it won’t work. Otherwise, I love the app so much :)",
+          "author": "Nisaaa<3",
+          "version": "6.37.0"
         },
         {
           "date": "2026-05-27",
@@ -886,51 +895,15 @@
           "content": "I am is doing a great job at making me a good and positive person",
           "author": "Lisa_digangi",
           "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-01",
-          "rating": 5,
-          "country": "US",
-          "title": "My Go-To",
-          "content": "I utilize I am every single day. Whether I am feeling comfortable, competent, or blue I read and repeat these affirmations. To me they are a gift because they lift me up. They always affirm me in a positive way. If one is feeling down on themselves or good, I am works is a healthy, quick and often lasting solution. I am affirms myself nearly as often as a caring even loving person would like me. So thank goodness. It’s like having Jesus or someone reinforcing their good in themselves.",
-          "author": "Sunshine Sunflower E73V3z",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-01",
-          "rating": 5,
-          "country": "AU",
-          "title": "good",
-          "content": "amazing work",
-          "author": "Kittu neel",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Update has a problem please fix.",
-          "content": "I used to be able to write and edit my own affirmations. Suddenly the app updated and the option to edit my own affirmations is missing. \n\nAlso the option to add my own affirmations isn’t working. Please fix this issue. \n\n\nAnd ugh. If I sign into my apple account to try to save my information it’s pulling information back from 5 years ago not at all my current information. \n\nI don’t know exactly what happened here because I love this app. \n\nI’m a premium subscription user. So I know how fast you’re on top of this. \n\nJust need you to know something happened and the last update is not working quite right. Please fix these issues when you can. \n\nThanks.",
-          "author": "Pretty Deaf Princess",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-01",
-          "rating": 1,
-          "country": "US",
-          "title": "Not free",
-          "content": "you got through all these questions about goals etc and after about 5-10 minutes of answering questions they tell you you have to pay for a subscription.",
-          "author": "Hfjwkalnchdkskd",
-          "version": "6.34.1"
         }
       ],
-      "meta.total": 102,
+      "meta.total": 99,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-01",
-      "meta.until": "2026-05-31"
+      "meta.since": "2026-05-02",
+      "meta.until": "2026-06-01"
     }
   ]
 }
