@@ -1,10 +1,91 @@
 {
-  "generated_at": "2026-06-01T01:15:26Z",
+  "generated_at": "2026-06-02T01:14:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-05-31",
+          "rating": 5,
+          "country": "US",
+          "title": "Wonderful",
+          "content": "I just absolutely Adore this App!",
+          "author": "AW312",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-31",
+          "rating": 5,
+          "country": "US",
+          "title": "Amazing",
+          "content": "Love this app it’s supper",
+          "author": "Jenniee024",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-31",
+          "rating": 4,
+          "country": "US",
+          "title": "Slight glitch",
+          "content": "There is a slight glitch when clicking on the affirmation shown on my widget homescreen and it loading onto the app when I open it.",
+          "author": "realerthanrealmve",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-31",
+          "rating": 5,
+          "country": "US",
+          "title": "Sound isn’t working",
+          "content": "Fix app for gods sake",
+          "author": "chrissjers",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-30",
+          "rating": 5,
+          "country": "US",
+          "title": "Possibly the best app ever!!",
+          "content": "I love the positive quotes this app offers and you can set up your own topics and quotes!!!",
+          "author": "Ladycotto1221",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-30",
+          "rating": 4,
+          "country": "US",
+          "title": "Was better earlier",
+          "content": "It used to be easier to customize but now it’s lost all my info and the affirmations aren’t calibrated for me and it’s like I have to start all over again plus now there’s been a lot of affirmations added that do not resonate with me at all. Overall it’s good for you but I have it four stars instead of five because it used to be easier to use.",
+          "author": "MandyPolk",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-29",
+          "rating": 5,
+          "country": "US",
+          "title": "Life changing",
+          "content": "I’ve used this app for years and it has changed how I view myself and life. I look forward to the daily messages of peace, hope and love. This is by far the best app I’ve ever used. Thank you!",
+          "author": "Heavenc0",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-29",
+          "rating": 4,
+          "country": "GB",
+          "title": "No more sound",
+          "content": "After the last update I don’t have sound to the sea theme anymore and it was one of the reasons I was opening the app every day. I checked my phone settings and all the settings in the app and all the sounds look on but there is no sound coming out at any point…",
+          "author": "Appleuser.11",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-28",
+          "rating": 5,
+          "country": "US",
+          "title": "So good!",
+          "content": "This app is good and helps me so much! The only thing g is is hatchet have to pay after 5-7 days💕",
+          "author": "Liv💖￼",
+          "version": "6.38.1"
+        },
         {
           "date": "2026-05-28",
           "rating": 5,
@@ -201,6 +282,15 @@
           "title": "🐬🐬🐬🐬🐬🐬🐬",
           "content": "Even when its tough I need to keep going that’s what this app helps me do a daily reminder about wonderful things and when at the time I had bad anxiety my mom told me about this app and I love it now do I use it everyday no but I use it when I need love or something motivated .",
           "author": "Pookiewooley82021",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-23",
+          "rating": 5,
+          "country": "AU",
+          "title": "Try it",
+          "content": "I was skeptical that this could really help, but it has. I would recommend it to anyone! Change your mind set, change your life. Thanks guys",
+          "author": "Happygal95",
           "version": "6.37.0"
         },
         {
@@ -859,51 +949,15 @@
           "content": "Life-changing app to be the life coach you need. I AM app was recommended when I felt flooded with affirmation apps, but needed something supportive. It has been a game changer not only is the technology amazing with the ability to customize the aesthetic of nearly everything, but it most importantly allows you to author your own affirmations atop a beautiful serene image of your choosing. It also has multiple themes to pick from, and more. I recommend it to everyone.",
           "author": "TheSchlDoc",
           "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-02",
-          "rating": 1,
-          "country": "US",
-          "title": "WASTE OF MONEY! Poor developers",
-          "content": "Multiple times throughout the year it’ll just stop working and give you a blank screen and error out and close. Can’t even open the damn app. I’m tired of this happening MULTIPLE TIMES for YEARS.\n\nDoesn’t work if I can’t even open the app - finally canceled my subscription. Don’t waste your money!",
-          "author": "ally5177",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Holy Grail of affirmations apps",
-          "content": "BEST AFFIRMATIONS APP OUT THERE!!!! I have been using this app for almost two years and I share it with all my friends and family!!",
-          "author": "Whit423",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Can’t go without",
-          "content": "I look forward to opening my app each day!",
-          "author": "Anc0180",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-02",
-          "rating": 5,
-          "country": "US",
-          "title": "Good job",
-          "content": "I am is doing a great job at making me a good and positive person",
-          "author": "Lisa_digangi",
-          "version": "6.34.1"
         }
       ],
-      "meta.total": 99,
+      "meta.total": 105,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-02",
-      "meta.until": "2026-06-01"
+      "meta.since": "2026-05-03",
+      "meta.until": "2026-06-02"
     }
   ]
 }
