@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T01:14:10Z",
+  "generated_at": "2026-06-03T01:20:12Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -931,33 +931,15 @@
           "content": "Pretty gay",
           "author": "c o r i n n e l e e",
           "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-03",
-          "rating": 1,
-          "country": "US",
-          "title": "Disappointed",
-          "content": "I never got the notification that my free trial was up and I was a day late and had to pay for a  year subscription and I can’t afford it. I just had surgery and have another one in a couple weeks and I just wish I would have gotten the notification to cancel before my free trial was up.",
-          "author": "Sarah K T",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-03",
-          "rating": 5,
-          "country": "US",
-          "title": "Life-changing app",
-          "content": "Life-changing app to be the life coach you need. I AM app was recommended when I felt flooded with affirmation apps, but needed something supportive. It has been a game changer not only is the technology amazing with the ability to customize the aesthetic of nearly everything, but it most importantly allows you to author your own affirmations atop a beautiful serene image of your choosing. It also has multiple themes to pick from, and more. I recommend it to everyone.",
-          "author": "TheSchlDoc",
-          "version": "6.34.1"
         }
       ],
-      "meta.total": 105,
+      "meta.total": 103,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-03",
-      "meta.until": "2026-06-02"
+      "meta.since": "2026-05-04",
+      "meta.until": "2026-06-03"
     }
   ]
 }
