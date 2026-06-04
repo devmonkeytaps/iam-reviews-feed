@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T01:20:12Z",
+  "generated_at": "2026-06-04T01:20:32Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -922,24 +922,15 @@
           "content": "Really enjoy the customization",
           "author": "Drewson36",
           "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Gay",
-          "content": "Pretty gay",
-          "author": "c o r i n n e l e e",
-          "version": "6.34.1"
         }
       ],
-      "meta.total": 103,
+      "meta.total": 102,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-04",
-      "meta.until": "2026-06-03"
+      "meta.since": "2026-05-05",
+      "meta.until": "2026-06-04"
     }
   ]
 }
