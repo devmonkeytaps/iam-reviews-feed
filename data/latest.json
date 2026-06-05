@@ -1,10 +1,127 @@
 {
-  "generated_at": "2026-06-04T01:20:32Z",
+  "generated_at": "2026-06-05T01:10:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-03",
+          "rating": 4,
+          "country": "US",
+          "title": "I love the app",
+          "content": "But I have to be a member to do anything else and only three days with it free I should 5-6",
+          "author": "I count go go",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-03",
+          "rating": 1,
+          "country": "US",
+          "title": "Planted A Virus in My Phone",
+          "content": "Although I uninstalled this app, every day it has been setting off an alarm on my phone. And there is not way for me to get rid of it!!!",
+          "author": "AliMarieU",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-02",
+          "rating": 1,
+          "country": "US",
+          "title": "BAd words",
+          "content": "It says bad words like in the last one I got and I am only 10 so I need to see thankful things and stuff like that not BAD WORDS! So I do not like this app! I am about to delete it.. get better at this stuff or no is gonna want this app! And you are not gonna get money! 💸",
+          "author": "Weltches",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-02",
+          "rating": 3,
+          "country": "US",
+          "title": "Not bad",
+          "content": "When I first purchased this app i thought it was very good. Its not a bad app. But it needs improvements. The afirmations are vague and don’t motivate strong enough. But doesn’t mean its necessary bad. Its feels like a love one is motivating you. Thats not enough",
+          "author": "Watman15",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-02",
+          "rating": 2,
+          "country": "US",
+          "title": "Too many OPEN THIS APP notifications!",
+          "content": "Seriously, I really love this app, and I get that in order to make money or something apps have to get you to open the app and spend time on it, but I am infuriated by the sheer amount of OPEN THIS APP IT’S ONLY BEEN 2 DAYS SINCE YOU LAST OPENED!! I got 5 such notifications just today. What a terrible experience apps are on Apple products. Things like this that should give you peace and positivity are instead pushing hyper capitalism.",
+          "author": "Mmmkayay",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Thank you",
+          "content": "Thank you for starting me on healing I’m 10 and my life had been hurt but I’m healing thanks to you 😭😁",
+          "author": "Alyssa DVGH123",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Alarm Problem",
+          "content": "Set alarm reminders for during the day. One alarm keeps going off at midnight and waking me up, as well as going off during my teleconference calls. Followed guide, but still not working. I went to profile and alarm and nothing there. Help! If anyone is reading this.",
+          "author": "Alarm Problem",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 5,
+          "country": "US",
+          "title": "I think, therefore I am",
+          "content": "I’ve always had trouble keeping a gratitude journal, but these daily affirmations are simple. They are reminders to keep moving forward",
+          "author": ">_<rawr",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 1,
+          "country": "US",
+          "title": "Crazy alarm",
+          "content": "I’ve deleted the app and even while it’s not on my phone the alarm that I had previously set goes off EVERY MORNING at 5:40 AND WAKES ME UP EVEN THOUGH THE APP IS GONE. The alarm is labeled monkey taps.ia and it’s driving me insane.",
+          "author": "Afrotic",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 5,
+          "country": "US",
+          "title": "Awesome App",
+          "content": "I recommend this app to people all of the time",
+          "author": "Donnie Lamont",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 5,
+          "country": "US",
+          "title": "2026-06-06T22:00:00.000Z",
+          "content": "I love this app I am manly on it to improve my streak but when I am feeling down it is a great way to help improve my mood.",
+          "author": ",!532",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-01",
+          "rating": 4,
+          "country": "US",
+          "title": "Valuable, but occasionally buggy",
+          "content": "The many useful affirmations the I Am app provides keep me engaged on a daily basis. But when it warns me I’m going to lose my streak after I’ve already read and stored away two or three I Ams, I begin to wonder what qualifies as a streak. When it just won’t let me keep my affirmations I put the app away and wait for it to come to its senses. Otherwise, I look forward to what it brings me",
+          "author": "Ted Reed",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-31",
+          "rating": 1,
+          "country": "US",
+          "title": "Never got a reminder",
+          "content": "What a scam! I wanted to try the free trial and had to subscribe. Great and all but it also said that I would get a notification to cancel before the free trial is over. No notification was sent what so ever and what a lovely surprise to see in my email this morning that $50 is just gone! Life gets in the way of things sometimes so having that notification would’ve been great.",
+          "author": "Autumn2ashs",
+          "version": "6.38.1"
+        },
         {
           "date": "2026-05-31",
           "rating": 5,
@@ -30,6 +147,15 @@
           "title": "Slight glitch",
           "content": "There is a slight glitch when clicking on the affirmation shown on my widget homescreen and it loading onto the app when I open it.",
           "author": "realerthanrealmve",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-05-31",
+          "rating": 4,
+          "country": "AU",
+          "title": "It’s ok",
+          "content": "I found the reminders … stressful.\n5 times a day is way too much \n\nI keep changing the reminders in settings … but they seem to change back?",
+          "author": "Trepidations",
           "version": "6.38.1"
         },
         {
@@ -165,6 +291,15 @@
           "title": "Worst ever",
           "content": "Super annoying. Charges ridiculous. Didn’t sign up. Charged anyway. LAME IN EVERY WAY.",
           "author": "M.Ison.",
+          "version": "6.37.0"
+        },
+        {
+          "date": "2026-05-26",
+          "rating": 5,
+          "country": "CA",
+          "title": "Me motiva",
+          "content": "Leer esas frases lindas me hace sentir muy bien.",
+          "author": "Deysyu",
           "version": "6.37.0"
         },
         {
@@ -886,51 +1021,15 @@
           "content": "My family uses this and this app brings them such joy, it’s a source for remembering the good things in life and how honorable creation is. Thankful for all of this, stay blessed",
           "author": "Tracey Pheraz",
           "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Always on time!",
-          "content": "I love this app. I always get the motivation I need at the right time",
-          "author": "Bby_Grl",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Affirmations",
-          "content": "That keeps me going! I love them!!!",
-          "author": "Rachel33311111",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-05",
-          "rating": 5,
-          "country": "CA",
-          "title": "Excellent",
-          "content": "Always exactly what I need to help me see things I haven’t.",
-          "author": "silly songstress",
-          "version": "6.34.1"
-        },
-        {
-          "date": "2026-05-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Helpful",
-          "content": "Really enjoy the customization",
-          "author": "Drewson36",
-          "version": "6.34.1"
         }
       ],
-      "meta.total": 102,
+      "meta.total": 113,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-05",
-      "meta.until": "2026-06-04"
+      "meta.since": "2026-05-06",
+      "meta.until": "2026-06-05"
     }
   ]
 }
