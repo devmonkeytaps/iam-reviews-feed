@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:10:58Z",
+  "generated_at": "2026-06-06T01:06:35Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -985,51 +985,15 @@
           "content": "Love it, the settings are easy to use and it’s a great hourly reminder.",
           "author": "Mrs.hood",
           "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-06",
-          "rating": 4,
-          "country": "US",
-          "title": "Widget keeps disappearing",
-          "content": "I added it to my lock screen. Love seeing different affirmations throughout the day. The only issue I have is every time there is an app update, the widget disappears off my lock screen. You have to go back to settings and add it back. Not sure why it does that and it’s kind of annoying. Not sure if it’s an app issue or Apple issue.",
-          "author": "Meagheg",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-06",
-          "rating": 2,
-          "country": "US",
-          "title": "Nice concept, but the alarm is a problem",
-          "content": "I loved this app at first, how aspects of it are free. It’s a wholesome concept.\n\nHowever I’ve been dealing with an issue of an alarm from this app on my phone, even after I changed settings and uninstalled it. There wasn’t a mention of this in the app itself so I’m disappointed by this.",
-          "author": "Pearlyhuedrops",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-06",
-          "rating": 5,
-          "country": "GB",
-          "title": "Inspiring and nencouraging",
-          "content": "I have the notification on all the time and it encourages me all day long and in the morning when I wake up it nice to shift my energy",
-          "author": "Rob ism",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-06",
-          "rating": 5,
-          "country": "US",
-          "title": "This is Phenomenal",
-          "content": "My family uses this and this app brings them such joy, it’s a source for remembering the good things in life and how honorable creation is. Thankful for all of this, stay blessed",
-          "author": "Tracey Pheraz",
-          "version": "6.35.0"
         }
       ],
-      "meta.total": 113,
+      "meta.total": 109,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-06",
-      "meta.until": "2026-06-05"
+      "meta.since": "2026-05-07",
+      "meta.until": "2026-06-06"
     }
   ]
 }
