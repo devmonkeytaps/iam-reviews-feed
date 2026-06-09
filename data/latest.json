@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-06-08T01:14:44Z",
+  "generated_at": "2026-06-09T01:05:56Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Trying to cancel before being charged",
+          "content": "Sneaky app says it will notify you befor charging \nNot so",
+          "author": "Dr.MacD",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-06",
+          "rating": 2,
+          "country": "US",
+          "title": "So expensive, charged me unfairly",
+          "content": "I like this app but it charged me even after i cancelled the free trial! why isn’t there an option to continue through the app for only the free version?? how do i get a refund?? I can’t afford to lose 50 dollars for this.. i’ve contacted my bank already",
+          "author": "simoneee888",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Empowering",
+          "content": "I really love this app. It helps me to stay positive, focused & encouraged about myself. Love the reminders & practices.",
+          "author": "Peaceful365",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Relax",
+          "content": "I am who I am because of “I am.”.  I am so relaxed and at peace. No pressure!❤️🙏🏾",
+          "author": "greatleaderruth",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-05",
+          "rating": 1,
+          "country": "US",
+          "title": "Sound isn’t working",
+          "content": "Still haven’t updated app",
+          "author": "chrissjers",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Life Changer",
+          "content": "This app has fueled and helped my spiritual journey during homelessness. I can only explain it as a life charger, once you start and stay consistent your mind shifts and begins to believe and create it! Just do it man",
+          "author": "TheeLadyQueen",
+          "version": "6.38.1"
+        },
         {
           "date": "2026-06-05",
           "rating": 3,
@@ -1003,60 +1057,6 @@
           "content": 10,
           "author": "Lovely Lady Red Crystal",
           "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 5,
-          "country": "US",
-          "title": "My feelings",
-          "content": "I had a bad relationship with my ex he used me and hurt me but when I got on ‘I am’ it makes me feel better inside and outside. So thank for you made ‘I am’",
-          "author": "Bakgou_Deku 855",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Fav",
-          "content": "The besssssssstttttttt appp on. The planettt",
-          "author": "Bestie😁😁🥞🦌🦌",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 4,
-          "country": "US",
-          "title": "It is ok",
-          "content": "I liked it but it did not help me at all I still feel sad I have used this app of a year 🥺🥺🥺🥺🥺🥺🥺🥺🥺☹️",
-          "author": "Dr. pickle Detective",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Mental health",
-          "content": "This app reminds me to think of myself and to take care of me. It gives me strength when I feel like breaking it reminds me that I am strong because God is by my side.",
-          "author": "MHECKMAN",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Make some waves for statehood",
-          "content": "Believe",
-          "author": "Ranchi Rosado",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Love",
-          "content": "This app has been brightening my day for two years now, worth every penny :)",
-          "author": "gaygaygay42069",
-          "version": "6.35.0"
         }
       ],
       "meta.total": 117,
@@ -1064,8 +1064,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-09",
-      "meta.until": "2026-06-08"
+      "meta.since": "2026-05-10",
+      "meta.until": "2026-06-09"
     }
   ]
 }
