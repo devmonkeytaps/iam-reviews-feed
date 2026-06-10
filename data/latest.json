@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T01:05:56Z",
+  "generated_at": "2026-06-10T01:11:42Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1003,69 +1003,15 @@
           "content": "I’ve been an avid user of the I am and the motivational app … the lifetime subscription that you may have paid once to get access to all themes is gone now. It no longer applies and you will have to start a new membership, which they only do on yearly monthly or weekly basis’ and are way too expensive in my opinion. Now it’s purely AI the tips are very irrelevant. It’s half of the time just quoting viral memes now? You try and contact customer support because there’s glitches and everything that they do there is AI as well. There’s no real people to talk to. And then they wonder why maybe not listening to customers feedback or being able to receive customer feedback has lessened their apps quality over the years. Hoping they actually hear some of this and change it otherwise we will have to move on from them as a thing of the past.",
           "author": "arosefilio",
           "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Devine",
-          "content": "DEVINE 🌹🌻🪷",
-          "author": "Ms.Beshaw",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Good",
-          "content": "Love",
-          "author": "𝑨𝒖𝒓𝒐𝒓𝒂2025",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 1,
-          "country": "US",
-          "title": "now a scam",
-          "content": "they’re trying to charge $70 for a year now :( it’s just sad when i remember this app being free for the same amount of quotes and wallpapers.. they won’t even fix the widget 😭",
-          "author": "Dollfacegigi",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 1,
-          "country": "US",
-          "title": "No free option",
-          "content": "It is annoying to go through tons of questions to get to the part where you get nothing without a subscription. In this economy? Nope, I’ll stay sad and keep my money.",
-          "author": "mrsrgranger",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "Nice positive remarks through out the day. Very nice!",
-          "author": "Carlos kirble",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Encourages my day and moments",
-          "content": 10,
-          "author": "Lovely Lady Red Crystal",
-          "version": "6.35.0"
         }
       ],
-      "meta.total": 117,
+      "meta.total": 111,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-10",
-      "meta.until": "2026-06-09"
+      "meta.since": "2026-05-11",
+      "meta.until": "2026-06-10"
     }
   ]
 }
