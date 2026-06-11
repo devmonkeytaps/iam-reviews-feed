@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-06-10T01:11:42Z",
+  "generated_at": "2026-06-11T01:13:16Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Utterly",
+          "content": "The best and most motivating app I’ve ever used. I use the free version and I am beyond happy with it.",
+          "author": "Simp_eater99",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-09",
+          "rating": 5,
+          "country": "US",
+          "title": "Love it",
+          "content": "I love this app",
+          "author": "2134&kit",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Invaluable and",
+          "content": "Life changing",
+          "author": "Shrisava",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Confident",
+          "content": "Today is the first day out of my 3 day trial and so far confident the app will help guide me",
+          "author": "PureGrowth",
+          "version": "6.38.1"
+        },
+        {
+          "date": "2026-06-06",
+          "rating": 1,
+          "country": "US",
+          "title": "DO NOT DOWNLOAD THIS APP: Creates an alarm that can’t be deleted",
+          "content": "DO NOT DOWNLOAD THIS APP: This app made an alarm that goes off daily that cannot be turned off. It’s not under alarms or listed in the app. I have attempted to look up how to delete it and it’s just mysteriously somewhere in my phone and can’t be removed.",
+          "author": "Cacarebear",
+          "version": "6.38.1"
+        },
         {
           "date": "2026-06-06",
           "rating": 1,
@@ -976,42 +1021,15 @@
           "content": "Love the app but I can’t seem to sync the app on my phone to the app on my iPad",
           "author": "Nomadic01",
           "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-11",
-          "rating": 1,
-          "country": "US",
-          "title": "Overpriced",
-          "content": "I've been using this app for years and have even subscribed in the past; it's gotten way too expensive and is ridiculously overpriced along with affirmations that make absolutely no sense 👎",
-          "author": "Prinofdisas",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-11",
-          "rating": 1,
-          "country": "US",
-          "title": "App Doesn’t Work",
-          "content": "I purchased this app a few days ago and had a great time with it the first 3 or 4, but then it suddenly stopped working. It gives me affirmations, but does not allow me to customize the background or the themes. I even upgraded and paid a higher price thinking what I paid had limits but it’s doing the same thing, so now I’ve paid twice for a non-working app.",
-          "author": "GB326",
-          "version": "6.35.0"
-        },
-        {
-          "date": "2026-05-11",
-          "rating": 1,
-          "country": "CA",
-          "title": "Was good, now bad and getting worse",
-          "content": "I’ve been an avid user of the I am and the motivational app … the lifetime subscription that you may have paid once to get access to all themes is gone now. It no longer applies and you will have to start a new membership, which they only do on yearly monthly or weekly basis’ and are way too expensive in my opinion. Now it’s purely AI the tips are very irrelevant. It’s half of the time just quoting viral memes now? You try and contact customer support because there’s glitches and everything that they do there is AI as well. There’s no real people to talk to. And then they wonder why maybe not listening to customers feedback or being able to receive customer feedback has lessened their apps quality over the years. Hoping they actually hear some of this and change it otherwise we will have to move on from them as a thing of the past.",
-          "author": "arosefilio",
-          "version": "6.35.0"
         }
       ],
-      "meta.total": 111,
+      "meta.total": 113,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-11",
-      "meta.until": "2026-06-10"
+      "meta.since": "2026-05-12",
+      "meta.until": "2026-06-11"
     }
   ]
 }
