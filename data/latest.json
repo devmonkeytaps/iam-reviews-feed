@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T01:16:48Z",
+  "generated_at": "2026-06-15T01:18:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -967,60 +967,15 @@
           "content": "I really enjoy this app, I’m trying to use it daily as a way to lift me up and keep a positive attitude 😌",
           "author": "RebekahViau",
           "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-15",
-          "rating": 5,
-          "country": "US",
-          "title": "Life changing app",
-          "content": "Thank you 🙏",
-          "author": "Kalem678",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-15",
-          "rating": 5,
-          "country": "GB",
-          "title": "Mrs",
-          "content": "This app brought so much positivity into my life. It walked me out of low self esteem and boosted my confidence.",
-          "author": "Flooreeeeennn",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-15",
-          "rating": 1,
-          "country": "US",
-          "title": "The Alarm - how do I stop it?????",
-          "content": "I tried all the things listed under the “Help” category to turn off the alarm, but nothing works.",
-          "author": "AvenRomaine",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-15",
-          "rating": 5,
-          "country": "US",
-          "title": "2026-10-09T22:00:00.000Z",
-          "content": "amazing app. very motivational and helpful! 10/10 recommend to anybody struggling with any sort of mental health!",
-          "author": "haiitsleah420",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-15",
-          "rating": 1,
-          "country": "US",
-          "title": "Expensive",
-          "content": "I did the three day free trial, and couldn’t figure out exactly what features were paid and what were free, which was frustrating. So I canceled. I was then offered a $17.99 deal, but still before I was able to actually see what the “free” version was. After I was able to see that it’s very basic without the premium, I decided to go ahead with the $17.99 promo- only to discover I was actually charged $69.99. It’s a pretty expensive bait and switch. I can justify $18 for it, but $70 is a lot for any app, let alone this one. I was really hoping this one would turn out good so I can recommend to clients, but turns out it’s deceptive.",
-          "author": "Fun sofar",
-          "version": "6.36.0"
         }
       ],
-      "meta.total": 112,
+      "meta.total": 107,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-15",
-      "meta.until": "2026-06-14"
+      "meta.since": "2026-05-16",
+      "meta.until": "2026-06-15"
     }
   ]
 }
