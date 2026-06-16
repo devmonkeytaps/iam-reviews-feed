@@ -1,10 +1,100 @@
 {
-  "generated_at": "2026-06-15T01:18:57Z",
+  "generated_at": "2026-06-16T01:21:13Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Tips won’t stop popping up",
+          "content": "Love this app but every few affirmations keep getting tip to “Brighten someone’s day with positive thinking “  This annoying bug really breaks the positive process of repeating affirmations.",
+          "author": "S444K444",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Self care!",
+          "content": "I find this very helpful to maintain positive energy and to treat myself to some intentional pleasure.",
+          "author": "GFCFgal",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-13",
+          "rating": 1,
+          "country": "US",
+          "title": "Daily Streak Is Wonky",
+          "content": "I know I’ve used the app the day before, but the app aggressively states if I don’t use it I’ll lose my streak. Stop trying to hustle me.",
+          "author": "Mos Rees",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-13",
+          "rating": 2,
+          "country": "CA",
+          "title": "Causes anxiety",
+          "content": "They send notifications that you haven’t practised the I am affirmations saying that it’s your last chance and all this other garbage but you’ve already done it. It’s extremely annoying.",
+          "author": "SunniKissess",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-12",
+          "rating": 5,
+          "country": "GB",
+          "title": "Ever present positivity",
+          "content": "I’m grateful for this gift. Daily affirmations that lift the soul. Little meditations to maintain wellbeing, energy and light throughout each day. Inspiring positivity and gratitude which in turn enables me to spread the joy of life in all its ups and downs! Thank you.",
+          "author": "musomanstevie",
+          "version": "6.39.0"
+        },
+        {
+          "date": "2026-06-11",
+          "rating": 5,
+          "country": "CA",
+          "title": "Thank you",
+          "content": "This app has been really helpful to my mental health, I try to use it everyday, and the affirmations are a really nice way to feel better about yourself, even the free version is good, wish I could afford the paid version though. Overall I absolutely love this app! Thanks so much, cheers.",
+          "author": "Angie423B",
+          "version": "6.39.0"
+        },
+        {
+          "date": "2026-06-11",
+          "rating": 3,
+          "country": "US",
+          "title": "Feedback",
+          "content": "The affirmations repeat themselves too much, it would be nice to have new ones, evolutions on the vibe we like but not the same like ones just repeating",
+          "author": "Cocosauce1",
+          "version": "6.39.0"
+        },
+        {
+          "date": "2026-06-11",
+          "rating": 4,
+          "country": "AU",
+          "title": "It’s ok",
+          "content": "I found the reminders … stressful.\n5 times a day is way too much \n\nI keep changing the reminders in settings … but they seem to change back?\nI reduced the notifications to once a day, successfully.. except streak reminder started happening at 7am, which is a time I would never choose my self, bc I am never ever awake at such an ungodly hour, I changed to to 730pm, then I noticed I was getting it at 12am.. also another annoying time..\nTried to change it a few different days- still changes back- do I watched it today, changed it to 8pm, made sure to click the tick, wait, go out of reminders, back in.. ok.. still 8pm.. out then in again- 12am!\nTried making  an all new one. Let’s see if that works. I can’t really be bothered emailing monkey key or what ever .\nMuch easier to delete the Ap.",
+          "author": "Trepidations",
+          "version": "6.39.0"
+        },
+        {
+          "date": "2026-06-11",
+          "rating": 5,
+          "country": "GB",
+          "title": "Love it",
+          "content": "Best app ever made",
+          "author": "The man with a knife",
+          "version": "6.39.0"
+        },
+        {
+          "date": "2026-06-11",
+          "rating": 5,
+          "country": "CA",
+          "title": "Best app to start the day",
+          "content": "Best morning motivation to go to work and start the day",
+          "author": "BairaVijay",
+          "version": "6.39.0"
+        },
         {
           "date": "2026-06-11",
           "rating": 5,
@@ -949,33 +1039,15 @@
           "content": "نما ثقتي بنفسي وصبحت محبوبه بفضل الله ثم I em",
           "author": "lanasaad96",
           "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive mindset has never been easier",
-          "content": "I’ve always written a few affirmations down for myself. But those are easy to miss. The widget is such a great way to add this. I got the free version and I’m super happy with it",
-          "author": "CatLady1988",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-16",
-          "rating": 5,
-          "country": "US",
-          "title": "Uplifting Affirmations",
-          "content": "I really enjoy this app, I’m trying to use it daily as a way to lift me up and keep a positive attitude 😌",
-          "author": "RebekahViau",
-          "version": "6.36.0"
         }
       ],
-      "meta.total": 107,
+      "meta.total": 115,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-16",
-      "meta.until": "2026-06-15"
+      "meta.since": "2026-05-17",
+      "meta.until": "2026-06-16"
     }
   ]
 }
