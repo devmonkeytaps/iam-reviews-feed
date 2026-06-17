@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-06-16T01:21:13Z",
+  "generated_at": "2026-06-17T01:16:27Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-15",
+          "rating": 1,
+          "country": "US",
+          "title": "Too many notification on stupidness",
+          "content": "I am so tired of the amount of notifications I get to “continue your streak” or something else. I just want some fun notifications of a motivational quote but this app is so obsessed with making sure you “keep your streak” “ Last chance before you lose your streak!” “Hurry now before your streak freezes again”  “you only have one day left before you lose your streak! Tap now for reminders” and those are just a few examples I have received all in one day. This app has changed so many times over the years and not for the better,  I’m to the point of deleting it now because I’m tired of all these notifications about my “streak” when all I wanted was some cute quotes to pop up on my phone like how they were doing years ago",
+          "author": "Dana7424",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-14",
+          "rating": 5,
+          "country": "US",
+          "title": "awesome",
+          "content": "this is so amazing i definitely recommend if you want to get your feelings better",
+          "author": "heather1947",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Right words @ the right time",
+          "content": "I get I am in my daily summary, some days I don’t see them but the days I do - they are always the right words at the right time",
+          "author": "Used for two weeks",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Beneficial",
+          "content": "⭐️⭐️⭐️⭐️⭐️",
+          "author": "audan24",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-14",
+          "rating": 5,
+          "country": "AU",
+          "title": "Awesome",
+          "content": "It keeps me very calm",
+          "author": "RinaTony09",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-14",
+          "rating": 5,
+          "country": "US",
+          "title": "Over 100 days…laughs, tears and eye rolls",
+          "content": "My highest streak has been 120-something and even if it doesn’t change my day/mindset or I don’t really believe it that day to the point where I won’t bother to scroll, I will say I do feel like I’ve truly accomplished something when I continue a streak. Some days I read it silently honestly just to tell myself I’ve read it…other days oh man, it hits me and I’m called to end up reading it five times aloud to myself in tears while the words hit me in the gut while SOMETHING (i.e. a passed love one or the universe in general) knew I needed to hear them. 100% worth the few bucks a year!",
+          "author": "beauhemia",
+          "version": "6.40.0"
+        },
         {
           "date": "2026-06-13",
           "rating": 5,
@@ -1012,42 +1066,15 @@
           "content": "I recommend this app to my friends, family, and sometimes strangers. I love the customization features, smooth operation, and easy navigation. Of course, most of all, I love the affirmations. They always seem to pop up at times I need them the most. I was going through a lonely time a year ago and having these affirmations pop up on my phone would help me get myself out of a negative head-space. I am in a better place these days, but I still use this app because life still happens and it’s always helpful to have a positive reminder that I can do hard things. And so can you! It never hurts to remind yourself of that. Get the app! You can also add it to your lock screen if you have an iPhone.",
           "author": "Karson34",
           "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Grateful for this app",
-          "content": "Going through a really hard time in my life do not have a lot of support so I am searching for help anyway I can get it. I know affirmations are effective. I just need to stay consistent with this. They feel good to think and say out loud. And I didn’t pay for it and I’m still getting affirmations. So thankful.",
-          "author": "No thank you. SN",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-17",
-          "rating": 5,
-          "country": "US",
-          "title": "La app perfecta",
-          "content": "Si buscas cambiar tu diálogo interno, I am es lo que necesitas… recordar lo valiosa que eres, con I am lo logras",
-          "author": "Mary coherencia",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-17",
-          "rating": 5,
-          "country": "US",
-          "title": "رائع",
-          "content": "نما ثقتي بنفسي وصبحت محبوبه بفضل الله ثم I em",
-          "author": "lanasaad96",
-          "version": "6.36.0"
         }
       ],
-      "meta.total": 115,
+      "meta.total": 118,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-17",
-      "meta.until": "2026-06-16"
+      "meta.since": "2026-05-18",
+      "meta.until": "2026-06-17"
     }
   ]
 }
