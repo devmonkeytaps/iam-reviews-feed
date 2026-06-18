@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-06-17T01:16:27Z",
+  "generated_at": "2026-06-18T01:15:05Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-15",
+          "rating": 2,
+          "country": "US",
+          "title": "Boring",
+          "content": "Don’t get to do anything you just swipe and swipe. It’s kind of like TikTok but there’s nothing there. It’s just words I know that’s what it’s supposed to do, but it doesn’t help me at all most of the time. I just ignore it.",
+          "author": "Smith teddy",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-15",
+          "rating": 3,
+          "country": "US",
+          "title": "Wonderful but costly",
+          "content": "I love the affirmations it provides. It does help with improving a positive thinking mindset, but it is way too costly for individuals who are low income.",
+          "author": "Quae09",
+          "version": "6.40.0"
+        },
         {
           "date": "2026-06-15",
           "rating": 1,
@@ -75,6 +93,15 @@
           "title": "Self care!",
           "content": "I find this very helpful to maintain positive energy and to treat myself to some intentional pleasure.",
           "author": "GFCFgal",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-13",
+          "rating": 5,
+          "country": "CA",
+          "title": "Amazing",
+          "content": "Absolutely love this app! It is just amazing and ever since ii started using it I have felt so much better about everything and much more grateful! DOWNLOAD NOW!!!",
+          "author": "Reviewer❤️❤️❤️",
           "version": "6.40.0"
         },
         {
@@ -1021,60 +1048,15 @@
           "content": "My friend sent me this and it has help my with my anxiety!",
           "author": "Addie 1004",
           "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-18",
-          "rating": 4,
-          "country": "US",
-          "title": "2026-06-06T22:00:00.000Z",
-          "content": "I love this app I am manly on it to improve my streak but when I am feeling down it is a great way to help improve my mood,",
-          "author": ",!532",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-18",
-          "rating": 3,
-          "country": "US",
-          "title": "I recommend",
-          "content": "It has a reminder to read your daily quote you can even create your quote",
-          "author": "jesus loves you 39",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-18",
-          "rating": 5,
-          "country": "GB",
-          "title": "I am",
-          "content": "It makes you feel so much better about yourself.",
-          "author": "Rubyyyy!!!!",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-18",
-          "rating": 5,
-          "country": "US",
-          "title": "🙏🏿🙏🏿🙏🏿",
-          "content": "Phenomenal app very inspirational.",
-          "author": "SWalker35",
-          "version": "6.36.0"
-        },
-        {
-          "date": "2026-05-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Such a great app for anyone and everyone",
-          "content": "I recommend this app to my friends, family, and sometimes strangers. I love the customization features, smooth operation, and easy navigation. Of course, most of all, I love the affirmations. They always seem to pop up at times I need them the most. I was going through a lonely time a year ago and having these affirmations pop up on my phone would help me get myself out of a negative head-space. I am in a better place these days, but I still use this app because life still happens and it’s always helpful to have a positive reminder that I can do hard things. And so can you! It never hurts to remind yourself of that. Get the app! You can also add it to your lock screen if you have an iPhone.",
-          "author": "Karson34",
-          "version": "6.36.0"
         }
       ],
-      "meta.total": 118,
+      "meta.total": 116,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-18",
-      "meta.until": "2026-06-17"
+      "meta.since": "2026-05-19",
+      "meta.until": "2026-06-18"
     }
   ]
 }
