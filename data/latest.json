@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-06-18T01:15:05Z",
+  "generated_at": "2026-06-19T01:21:08Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-16",
+          "rating": 5,
+          "country": "US",
+          "title": "𝓐𝓶𝓪𝔃𝓲𝓷𝓰 😍🤩",
+          "content": "𝓘 𝓳𝓾𝓼𝓽 𝓭𝓸𝔀𝓷𝓵𝓸𝓪𝓭𝓮𝓭 𝓽𝓱𝓲𝓼 𝓪𝓷𝓭 𝓘'𝓶 𝓪𝓵𝓻𝓮𝓪𝓭𝔂 𝓵𝓸𝓿𝓲𝓷𝓰 𝓲𝓽. 𝓣𝓱𝓮 𝓶𝓸𝓽𝓲𝓿𝓪𝓽𝓲𝓸𝓷 𝓲𝓼 𝓰𝓻𝓮𝓪𝓽 𝓪𝓷𝓭 𝓽𝓱𝓲𝓼 𝓲𝓼 𝓪 𝓰𝓻𝓮𝓪𝓽 𝓻𝓮𝓬𝓸𝓶𝓶𝓮𝓷𝓭𝓪𝓽𝓲𝓸𝓷 𝓽𝓸 𝓱𝓪𝓿𝓮 𝓪 𝓹𝓸𝓼𝓲𝓽𝓲𝓿𝓮 𝓶𝓲𝓷𝓭. 𝓘'𝓶 𝓼𝓸 𝓰𝓵𝓪𝓭 𝓘 𝓯𝓸𝓾𝓷𝓭 𝓽𝓱𝓲𝓼 𝓪𝓹𝓹 💖💖",
+          "author": "I love the cuteness",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-16",
+          "rating": 1,
+          "country": "US",
+          "title": "Bugs",
+          "content": "I deleted this app and i still get notifications or alarms that i can’t seem to get rid of",
+          "author": "BM03100",
+          "version": "6.40.0"
+        },
         {
           "date": "2026-06-15",
           "rating": 2,
@@ -1050,13 +1068,13 @@
           "version": "6.36.0"
         }
       ],
-      "meta.total": 116,
+      "meta.total": 118,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-19",
-      "meta.until": "2026-06-18"
+      "meta.since": "2026-05-20",
+      "meta.until": "2026-06-19"
     }
   ]
 }
