@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-06-20T01:10:30Z",
+  "generated_at": "2026-06-21T01:18:39Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-18",
+          "rating": 5,
+          "country": "US",
+          "title": "Wonder addition",
+          "content": "This is a fabulous tool to keep the wandering mind connected with the highest good of love and nurture. Love it. Thank you!",
+          "author": "JindraJ5",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-18",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive vibes when I need them",
+          "content": "Whenever I need a positive affirmation, this one gives me exactly the words that I need to hear whether our relationship on my job or my health or just my mindset. I think the universe knows exactly what I need to hear and send me that affirmation. Definitely love this app.",
+          "author": "ZenJen_555",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Free",
+          "content": "I love it.",
+          "author": "corinnemwhaley",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-17",
+          "rating": 2,
+          "country": "CA",
+          "title": "This helped me a lot",
+          "content": "I have really bad anxiety and depression. These affirmations helped me with thinking positively about myself. I love this app! Well recommended.",
+          "author": "Aurora05c",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-16",
+          "rating": 1,
+          "country": "US",
+          "title": "you hoe",
+          "content": "stop sending me all these things. I hate this app.",
+          "author": "ksyehsidbshdbdhf",
+          "version": "6.40.0"
+        },
         {
           "date": "2026-06-16",
           "rating": 5,
@@ -21,6 +66,15 @@
           "title": "Bugs",
           "content": "I deleted this app and i still get notifications or alarms that i can’t seem to get rid of",
           "author": "BM03100",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-16",
+          "rating": 4,
+          "country": "CA",
+          "title": "Idk I’m bored",
+          "content": "I honestly think it’s pretty good and a lot of the quotes are pretty inspirational but it’s kind of annoying that you have to get pro or whatever to change your theme it would be five out of five if you could do that though",
+          "author": "SigmaD1rizzler",
           "version": "6.40.0"
         },
         {
@@ -48,6 +102,15 @@
           "title": "Too many notification on stupidness",
           "content": "I am so tired of the amount of notifications I get to “continue your streak” or something else. I just want some fun notifications of a motivational quote but this app is so obsessed with making sure you “keep your streak” “ Last chance before you lose your streak!” “Hurry now before your streak freezes again”  “you only have one day left before you lose your streak! Tap now for reminders” and those are just a few examples I have received all in one day. This app has changed so many times over the years and not for the better,  I’m to the point of deleting it now because I’m tired of all these notifications about my “streak” when all I wanted was some cute quotes to pop up on my phone like how they were doing years ago",
           "author": "Dana7424",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-15",
+          "rating": 5,
+          "country": "AU",
+          "title": "Uplifting",
+          "content": "I have had this app for years and the quotes are always appropriate in my times of need and where I need courage and support 🙏",
+          "author": "The number one OWL",
           "version": "6.40.0"
         },
         {
@@ -1003,51 +1066,15 @@
           "content": "This app is honestly everything to me. It gives me so much more than confidence it gives me peace, motivation, reassurance, and a positive mindset every single day. The affirmations feel so personal and uplifting, especially during hard moments when I need encouragement the most. Since downloading this app, I’ve felt more empowered, focused, and emotionally stronger. It’s like having a daily reminder that I am worthy, beautiful, capable, and enough. I absolutely love the positivity this app brings into my life and I truly recommend it to anyone needing light, healing, and motivation. Five stars isn’t enough! ⭐⭐⭐⭐⭐😘",
           "author": "Princessgfi38",
           "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-21",
-          "rating": 5,
-          "country": "US",
-          "title": "I love this app",
-          "content": "I think this app helps me so much! it makes me more positive. There is so many relaxing sounds and I just love it! I definitely recommend this app to anyone who is insecure about themself! Thank you for inventing this app",
-          "author": "Jsucyu fr kejxii",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Grateful",
-          "content": "I am so very grateful for this app it reminds me that I am enough and I do not need validation from anyone. Thank you for these reminders ❤️",
-          "author": "Creolegurl7",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-21",
-          "rating": 5,
-          "country": "US",
-          "title": "Life saver",
-          "content": "Love this app",
-          "author": "Angelface0489",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-21",
-          "rating": 1,
-          "country": "US",
-          "title": "Terrible enschittification!",
-          "content": "LET ME ERASE OR EDIT MY AFFIRMATIONS!!!!! STOP FORCING YOUR MARKETING BS AND OTHER PPLS STUFF ON ME!!!! You used to be a good app. Just canceled my subscription. Every update you have gotten worse and worse. STOP!!!",
-          "author": "Charlesgoldberg",
-          "version": "6.37.0"
         }
       ],
-      "meta.total": 115,
+      "meta.total": 118,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-21",
-      "meta.until": "2026-06-20"
+      "meta.since": "2026-05-22",
+      "meta.until": "2026-06-21"
     }
   ]
 }
