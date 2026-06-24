@@ -1,10 +1,73 @@
 {
-  "generated_at": "2026-06-23T01:04:55Z",
+  "generated_at": "2026-06-24T01:02:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-22",
+          "rating": 5,
+          "country": "US",
+          "title": "❤️",
+          "content": "It really does pick me up when I’m feeling down. It reminds me of the things that I already think, but need to be reminded of.",
+          "author": "Valpograd",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-22",
+          "rating": 1,
+          "country": "US",
+          "title": "Affirmations App Malfunction",
+          "content": "app keeps malfunctioning and not updating my affirmations. they only show the ones i already loved, no new affirmations and the widget does not work. it keeps asking me to ‘tap to activate widget’ every single day. this app was so much better a few years ago. please fix or i’ll have to delete it and find another affirmations app. thanks!",
+          "author": "RealIndigo22",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Yasmine",
+          "content": "I truly do love this app it frees my confidence and it lets me know that you should never give up even when times are bad.",
+          "author": "Yasminelafee",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-22",
+          "rating": 5,
+          "country": "US",
+          "title": "My favorite 🌻",
+          "content": "I love everything about this.  It’s like having Louise Hay with you all the time.  I’m in a 12 step program and it’s helping me tremendously. I plan to share with all my comrades in life.",
+          "author": "BowieMonroe",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-22",
+          "rating": 5,
+          "country": "US",
+          "title": "For you",
+          "content": "This app is excellent, it’s make me up when I was in my worst",
+          "author": "J MOM’S",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-22",
+          "rating": 5,
+          "country": "US",
+          "title": "Thank you!!!",
+          "content": "Thank you for this app, it is incredible and helps me and my family so much 🙂🙂🙂🙂",
+          "author": "Pheonixx Rising",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-21",
+          "rating": 5,
+          "country": "US",
+          "title": "💯",
+          "content": "So helpful love this app We all need",
+          "author": "CiciCici8",
+          "version": "6.41.0"
+        },
         {
           "date": "2026-06-21",
           "rating": 5,
@@ -1048,51 +1111,15 @@
           "content": "come on yall",
           "author": "Naaattynatty",
           "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-24",
-          "rating": 5,
-          "country": "GB",
-          "title": "Fantastic",
-          "content": "I love this app",
-          "author": "Sach3278",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-24",
-          "rating": 5,
-          "country": "US",
-          "title": "This is so beautiful you help me through the day with my life with manifestation in my anxiety",
-          "content": "Love",
-          "author": "Tabby @77",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-24",
-          "rating": 5,
-          "country": "US",
-          "title": "Happiness in a text!",
-          "content": "Always brings my focus back to a happier point of view!",
-          "author": "Smitty1409",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-24",
-          "rating": 5,
-          "country": "US",
-          "title": "LOVE this daily app!!!",
-          "content": "I LOVE this app! I read it everyday! You can customize the topic of affirmations you want to focus on! The reminders are great.  As of this morning, I am on a 366 day streak! I highly recommend!!",
-          "author": "Lms5360",
-          "version": "6.37.0"
         }
       ],
-      "meta.total": 120,
+      "meta.total": 123,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-24",
-      "meta.until": "2026-06-23"
+      "meta.since": "2026-05-25",
+      "meta.until": "2026-06-24"
     }
   ]
 }
