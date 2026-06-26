@@ -1,10 +1,28 @@
 {
-  "generated_at": "2026-06-25T01:07:13Z",
+  "generated_at": "2026-06-26T01:10:01Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-23",
+          "rating": 5,
+          "country": "US",
+          "title": "So needed",
+          "content": "This app teaches me to prioritize affirming who I am. As long as I know my identity I can overcome any obstacle in my way. Thank you to the creators of this app",
+          "author": "LeZlie:-)",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-23",
+          "rating": 5,
+          "country": "US",
+          "title": "Healing from within",
+          "content": "This app is absolutely amazing. I never used or understood the power of affirmation until now. It’s helped me heal from depression, and profound PTSD in ways I never thought possible. use it- do. it again and again during your journey- it is worth it.",
+          "author": "Aloyciousthebear",
+          "version": "6.41.0"
+        },
         {
           "date": "2026-06-23",
           "rating": 1,
@@ -183,6 +201,15 @@
           "title": "Snackmonkey June 20, 2026",
           "content": "Absolutely love this app!! It is so worth it! Love all the different themes they have!! Always recommend it to everyone who could use it!!",
           "author": "Snackmonkeythrives",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-20",
+          "rating": 2,
+          "country": "CA",
+          "title": "I am",
+          "content": "It’s a great app, love the affirmations, but I hate that I have to pay 😭",
+          "author": "Bookworm 3000",
           "version": "6.41.0"
         },
         {
@@ -1120,24 +1147,15 @@
           "content": "Super annoying. Charges ridiculous. Didn’t sign up. Charged anyway. LAME IN EVERY WAY.",
           "author": "M.Ison.",
           "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-26",
-          "rating": 5,
-          "country": "CA",
-          "title": "Me motiva",
-          "content": "Leer esas frases lindas me hace sentir muy bien.",
-          "author": "Deysyu",
-          "version": "6.37.0"
         }
       ],
-      "meta.total": 125,
+      "meta.total": 127,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-26",
-      "meta.until": "2026-06-25"
+      "meta.since": "2026-05-27",
+      "meta.until": "2026-06-26"
     }
   ]
 }
