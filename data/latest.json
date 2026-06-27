@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T01:10:01Z",
+  "generated_at": "2026-06-27T01:05:57Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1111,51 +1111,15 @@
           "content": "I am is such an amazing app it makes me feel like myself and helps me to stay positive. I am had cute widgets and backgrounds that make the app even cuter. I am had a few for when you upgrade but it’s not that bad.",
           "author": "Eleanorpec15!",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-27",
-          "rating": 4,
-          "country": "GB",
-          "title": "Amazing",
-          "content": "This app is so so good and I love how much customisation there is to it. However, I’m not sure why but my Home Screen widget has stopped working and only says “tap to activate widget” for a while now. I have tapped on the widget and tried to fix it in multiple other ways but it won’t work. Otherwise, I love the app so much :)",
-          "author": "Nisaaa<3",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-27",
-          "rating": 1,
-          "country": "US",
-          "title": "Crazy alarm",
-          "content": "I’ve deleted the app and even while it’s not on my phone the arm that I had previously set goes off EVERY MORNING at 5:40 AND WAKES ME UP EVEN THOUGH THE APP IS GONE. The alarm is labeled monkey taps.ia and it’s driving me insane.",
-          "author": "Afrotic",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-27",
-          "rating": 3,
-          "country": "US",
-          "title": "Audio is compromised",
-          "content": "The audio clips in this app aren’t long enough so you can hear the seam of the clip loop when it hits the end and restarts. In addition, some of the sounds get corrupted so a fireplace crackle sounds like it’s in a long hallway and has a scary quality instead- that’s a new bug. Lots of themes and text here, but the audio portions could use a lot more sound engineering focus.",
-          "author": "Iwanttobreakfree",
-          "version": "6.37.0"
-        },
-        {
-          "date": "2026-05-27",
-          "rating": 1,
-          "country": "US",
-          "title": "Worst ever",
-          "content": "Super annoying. Charges ridiculous. Didn’t sign up. Charged anyway. LAME IN EVERY WAY.",
-          "author": "M.Ison.",
-          "version": "6.37.0"
         }
       ],
-      "meta.total": 127,
+      "meta.total": 123,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-27",
-      "meta.until": "2026-06-26"
+      "meta.since": "2026-05-28",
+      "meta.until": "2026-06-27"
     }
   ]
 }
