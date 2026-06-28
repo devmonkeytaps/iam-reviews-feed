@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-06-27T01:05:57Z",
+  "generated_at": "2026-06-28T01:11:15Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-26",
+          "rating": 5,
+          "country": "US",
+          "title": "Beautiful App",
+          "content": "Feeling that vibe of positivity",
+          "author": "Sri divs",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-26",
+          "rating": 3,
+          "country": "US",
+          "title": "Great app",
+          "content": "The app will alert me about my streak as if I never went on the app when I did. So that’s definitely a bug.",
+          "author": "Robot647",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-25",
+          "rating": 3,
+          "country": "US",
+          "title": "Ok but could use work",
+          "content": "I’m well into 400+ days solid using this as a paid subscription and I’m not sure it’s really helping. I still get notices that pop up some days after re I’ve gone in the app even several times that I don’t have any streak freezes left and to not let this be the day I lose my streak. I am also annoyed by the things that pop up for me to share the affirmation while I’m in the middle of going through affirmations. Kind of like an ad really to be honest. It does it every day and I can’t turn it off. mean the whole screen grays out highlighting the share button and you have to tap out to get it to go away.  So annoying.",
+          "author": "sheArvarqg",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Great for mental health.",
+          "content": "It’s very important we constantly are affirming ourselves lives and situations with positivity grounding our self in reality in happiness reassurance and self accountability for all greater good",
+          "author": "affirmeruser111",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-24",
+          "rating": 5,
+          "country": "US",
+          "title": "Affirmations",
+          "content": "Help me.",
+          "author": "IrishGal19001",
+          "version": "6.41.0"
+        },
         {
           "date": "2026-06-23",
           "rating": 5,
@@ -426,6 +471,15 @@
           "title": "Amazing",
           "content": "Absolutely love this app! It is just amazing and ever since ii started using it I have felt so much better about everything and much more grateful! DOWNLOAD NOW!!!",
           "author": "Reviewer❤️❤️❤️",
+          "version": "6.40.0"
+        },
+        {
+          "date": "2026-06-13",
+          "rating": 2,
+          "country": "GB",
+          "title": "Declined over time",
+          "content": "I’ve been using this since 2022 and it was my favourite app - i used to preach to all my friends to download it. Recently the app has made everything behind a paywall which is sad. I am not able to change the font and background to be more dyslexia friendly because that’s now a premium feature :/",
+          "author": "🧸🎈❣️",
           "version": "6.40.0"
         },
         {
@@ -1057,60 +1111,6 @@
           "content": "After the last update I don’t have sound to the sea theme anymore and it was one of the reasons I was opening the app every day. I checked my phone settings and all the settings in the app and all the sounds look on but there is no sound coming out at any point…",
           "author": "Appleuser.11",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 5,
-          "country": "US",
-          "title": "So good!",
-          "content": "This app is good and helps me so much! The only thing g is is hatchet have to pay after 5-7 days💕",
-          "author": "Liv💖￼",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 5,
-          "country": "US",
-          "title": "!!!",
-          "content": "genuinely such a good positive supportive app, like my personal cheerleader on my phone!!! this app was there for me at my lowest and it feels like a full circle moment when i can genuinely say those affirmations and feel that is my reality, i ALWAYS recommend this app to my loved ones💝",
-          "author": "honest person:)",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 4,
-          "country": "US",
-          "title": "Start my day",
-          "content": "After my morning meditation I finish with Daily Affirmations app get my day going. Love the app",
-          "author": "Ken_whi",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Perfect",
-          "content": "This app motivates me every day",
-          "author": "William82$",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 5,
-          "country": "US",
-          "title": "I am Daily affirmations",
-          "content": 100,
-          "author": "Happy modes",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-28",
-          "rating": 5,
-          "country": "US",
-          "title": "Love 💕",
-          "content": "I am is such an amazing app it makes me feel like myself and helps me to stay positive. I am had cute widgets and backgrounds that make the app even cuter. I am had a few for when you upgrade but it’s not that bad.",
-          "author": "Eleanorpec15!",
-          "version": "6.38.1"
         }
       ],
       "meta.total": 123,
@@ -1118,8 +1118,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-28",
-      "meta.until": "2026-06-27"
+      "meta.since": "2026-05-29",
+      "meta.until": "2026-06-28"
     }
   ]
 }
