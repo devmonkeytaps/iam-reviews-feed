@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-06-29T01:12:07Z",
+  "generated_at": "2026-06-30T01:08:20Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "US",
+          "title": "10/10 recommend",
+          "content": "I bought the premium version and it has been so worth it. I’m coming up on my one year of having this and I will easily subscribe for another year. 🙏🏼🫶",
+          "author": "1496BBoC",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Everything and more!",
+          "content": "This app has given me a reason to smile on my darkest days. As a mom starting affirmations for self care and reflection I have thoroughly enjoyed this app and the options it gives you! Incredible quotes everyday and I genuinely surprised at how strong I am.",
+          "author": "PaigeS02",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-27",
+          "rating": 5,
+          "country": "US",
+          "title": "Great motivation",
+          "content": "Its really good if you want to feel better from stress or overthinking you just need to get this app in my opinion it's amazing.",
+          "author": "Its amazing :) ;)",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Stop asking me to Boost someone else and share",
+          "content": "I love this app but lately it CONSTANTLY asks me to share the app with others by making the screen dark and interrupting the affirmations. This is frustrating!  I pay for the yearly subscription and I am considering canceling it due to these relentless interruptions to sell this product. If it were free I could understand but I am paying for it. Make this stop!!!!  Or I am done.",
+          "author": "JackieHib",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-27",
+          "rating": 1,
+          "country": "US",
+          "title": "Comment",
+          "content": "I wish everything was free",
+          "author": "View comment",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-27",
+          "rating": 2,
+          "country": "US",
+          "title": "Paywall",
+          "content": "Was great when there were at least a couple of readable options not smashed behind an extremely expensive paywall. Now you have to pay $60/yr just to change the wallpaper to something more accessible. Very disappointing. I might have been willing to support the devs financially by opting for a premium subscription once I’m in a place to if I had at least something to work with with the free version. I have severe vision loss, and the text is completely inaccessible.",
+          "author": "RoryLink",
+          "version": "6.42.0"
+        },
         {
           "date": "2026-06-27",
           "rating": 5,
@@ -1102,33 +1156,15 @@
           "content": "Fix app for gods sake",
           "author": "chrissjers",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-30",
-          "rating": 5,
-          "country": "US",
-          "title": "Possibly the best app ever!!",
-          "content": "I love the positive quotes this app offers and you can set up your own topics and quotes!!!",
-          "author": "Ladycotto1221",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-30",
-          "rating": 4,
-          "country": "US",
-          "title": "Was better earlier",
-          "content": "It used to be easier to customize but now it’s lost all my info and the affirmations aren’t calibrated for me and it’s like I have to start all over again plus now there’s been a lot of affirmations added that do not resonate with me at all. Overall it’s good for you but I have it four stars instead of five because it used to be easier to use.",
-          "author": "MandyPolk",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 124,
+      "meta.total": 128,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-30",
-      "meta.until": "2026-06-29"
+      "meta.since": "2026-05-31",
+      "meta.until": "2026-06-30"
     }
   ]
 }
