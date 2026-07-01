@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-06-30T01:08:20Z",
+  "generated_at": "2026-07-01T01:12:20Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "US",
+          "title": "great app but…",
+          "content": "great app but it rlly should be free. the app is very useful but it costs money. it honestly just sends you affirmations and that SHOULD be FREE. other than that its great!",
+          "author": "Slaylah•_•",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "US",
+          "title": "I AM",
+          "content": "I Am Happy. Today I celebrate my life.  Daily Affirmations gives me motivation to help others reach their goals. We are grateful for Gods presence in the Sun, water, and stars. God blessed me with wisdom and grace.",
+          "author": "Sylstyle",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "US",
+          "title": "Changed 4 stars to 5",
+          "content": "The technical support team seems to have resolved a previously existing multi faceted irritation without much work on my end besides accurately describing the issue. Have always enjoyed the app but now back to original satisfaction as well.",
+          "author": "MandyPolk",
+          "version": "6.42.0"
+        },
         {
           "date": "2026-06-28",
           "rating": 5,
@@ -111,6 +138,15 @@
           "title": "Great for mental health.",
           "content": "It’s very important we constantly are affirming ourselves lives and situations with positivity grounding our self in reality in happiness reassurance and self accountability for all greater good",
           "author": "affirmeruser111",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-24",
+          "rating": 1,
+          "country": "CA",
+          "title": "Intempestif",
+          "content": "J’essayé cette application il y a un certain temps. Je l’ai retiré et maintenant je suis aux prise avec des notifications sonores qui se manifestent au moins deux à 3 X par jours sur mon cellulaire. Je ne sais pas comment les les retirer!",
+          "author": "Peewee02!",
           "version": "6.41.0"
         },
         {
@@ -1093,78 +1129,15 @@
           "content": "The many useful affirmations the I Am app provides keep me engaged on a daily basis. But when it warns me I’m going to lose my streak after I’ve already read and stored away two or three I Ams, I begin to wonder what qualifies as a streak. When it just won’t let me keep my affirmations I put the app away and wait for it to come to its senses. Otherwise, I look forward to what it brings me",
           "author": "Ted Reed",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 1,
-          "country": "US",
-          "title": "Never got a reminder",
-          "content": "What a scam! I wanted to try the free trial and had to subscribe. Great and all but it also said that I would get a notification to cancel before the free trial is over. No notification was sent what so ever and what a lovely surprise to see in my email this morning that $50 is just gone! Life gets in the way of things sometimes so having that notification would’ve been great.",
-          "author": "Autumn2ashs",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Wonderful",
-          "content": "I just absolutely Adore this App!",
-          "author": "AW312",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing",
-          "content": "Love this app it’s supper",
-          "author": "Jenniee024",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 5,
-          "country": "GB",
-          "title": "Eternally grateful 🙏🏽",
-          "content": "I’ve been using this app for years now and I always start my day with gratitude ❤️❤️❤️",
-          "author": "Morgycercer",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 4,
-          "country": "US",
-          "title": "Slight glitch",
-          "content": "There is a slight glitch when clicking on the affirmation shown on my widget homescreen and it loading onto the app when I open it.",
-          "author": "realerthanrealmve",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 4,
-          "country": "AU",
-          "title": "It’s ok",
-          "content": "I found the reminders … stressful.\n5 times a day is way too much \n\nI keep changing the reminders in settings … but they seem to change back?",
-          "author": "Trepidations",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-05-31",
-          "rating": 5,
-          "country": "US",
-          "title": "Sound isn’t working",
-          "content": "Fix app for gods sake",
-          "author": "chrissjers",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 128,
+      "meta.total": 125,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-05-31",
-      "meta.until": "2026-06-30"
+      "meta.since": "2026-06-01",
+      "meta.until": "2026-07-01"
     }
   ]
 }
