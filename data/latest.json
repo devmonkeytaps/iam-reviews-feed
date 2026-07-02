@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T01:12:20Z",
+  "generated_at": "2026-07-02T01:07:53Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1066,78 +1066,15 @@
           "content": "Seriously, I really love this app, and I get that in order to make money or something apps have to get you to open the app and spend time on it, but I am infuriated by the sheer amount of OPEN THIS APP IT’S ONLY BEEN 2 DAYS SINCE YOU LAST OPENED!! I got 5 such notifications just today. What a terrible experience apps are on Apple products. Things like this that should give you peace and positivity are instead pushing hyper capitalism.",
           "author": "Mmmkayay",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you",
-          "content": "Thank you for starting me on healing I’m 10 and my life had been hurt but I’m healing thanks to you 😭😁",
-          "author": "Alyssa DVGH123",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Alarm Problem",
-          "content": "Set alarm reminders for during the day. One alarm keeps going off at midnight and waking me up, as well as going off during my teleconference calls. Followed guide, but still not working. I went to profile and alarm and nothing there. Help! If anyone is reading this.",
-          "author": "Alarm Problem",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 5,
-          "country": "US",
-          "title": "I think, therefore I am",
-          "content": "I’ve always had trouble keeping a gratitude journal, but these daily affirmations are simple. They are reminders to keep moving forward",
-          "author": ">_<rawr",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 1,
-          "country": "US",
-          "title": "Crazy alarm",
-          "content": "I’ve deleted the app and even while it’s not on my phone the alarm that I had previously set goes off EVERY MORNING at 5:40 AND WAKES ME UP EVEN THOUGH THE APP IS GONE. The alarm is labeled monkey taps.ia and it’s driving me insane.",
-          "author": "Afrotic",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 5,
-          "country": "US",
-          "title": "Awesome App",
-          "content": "I recommend this app to people all of the time",
-          "author": "Donnie Lamont",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 5,
-          "country": "US",
-          "title": "2026-06-06T22:00:00.000Z",
-          "content": "I love this app I am manly on it to improve my streak but when I am feeling down it is a great way to help improve my mood.",
-          "author": ",!532",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-01",
-          "rating": 4,
-          "country": "US",
-          "title": "Valuable, but occasionally buggy",
-          "content": "The many useful affirmations the I Am app provides keep me engaged on a daily basis. But when it warns me I’m going to lose my streak after I’ve already read and stored away two or three I Ams, I begin to wonder what qualifies as a streak. When it just won’t let me keep my affirmations I put the app away and wait for it to come to its senses. Otherwise, I look forward to what it brings me",
-          "author": "Ted Reed",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 125,
+      "meta.total": 118,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-01",
-      "meta.until": "2026-07-01"
+      "meta.since": "2026-06-02",
+      "meta.until": "2026-07-02"
     }
   ]
 }
