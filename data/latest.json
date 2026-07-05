@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T00:51:56Z",
+  "generated_at": "2026-07-05T00:56:53Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1039,96 +1039,15 @@
           "content": "The streak reminder is quite annoying and unnecessary and you get it every single day with no option to adjust notification type. \n\nBut the app functions well.",
           "author": "Sez132",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Loveeeeeeee",
-          "content": "I love the daily affirmations being sent to me. It reminds me of who I am.  I not that angry person. I am\nHuman and have boundaries I need to ppl to respect 🫡",
-          "author": "Redd1$",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 4,
-          "country": "US",
-          "title": "Great app, but what’s the benefit of subscribing",
-          "content": "I love the app and the reminders are so helpful. What I don’t understand is the point of subscribing. I get that I can get access to more options, but I still have to constantly open the app to get the reminders. Again, great app, but don’t waste your money on the subscription.",
-          "author": "dwoody22",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "So far",
-          "content": "These affirmations have changed my life. I can't thank you enough❤️",
-          "author": "Jl20132017$",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "outstanding!",
-          "content": "amazing app! helped me through so many things and gave me the confidence i needed!",
-          "author": "Hjsisvs",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Very helpful",
-          "content": "I’m glad that I have the I am app to reinforce my already affirmations that I practice daily. The app is very helpful and you can learn at your own pace.",
-          "author": "BeautifulButterflies@",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Affirmations",
-          "content": "I love these positive apps they are very motivating",
-          "author": "Red girl Rebecca",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Topics",
-          "content": "I am really enjoying this app. The quotes are so inspiring, encouraging, empowering and gives that gentle reassurance we all need now and again.",
-          "author": "libraryjess",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Love ❤️",
-          "content": "I love this app. The reminders are amazing.",
-          "author": "Mr Kevindd",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-04",
-          "rating": 5,
-          "country": "US",
-          "title": "Very positive and encouraging",
-          "content": "I love this App, the messages always seem to come at the most appropriate times, I save many of them. They also have many themes to tailor to your day. Truly one of the best apps I have ever used!",
-          "author": "Dm1429",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 124,
+      "meta.total": 115,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-04",
-      "meta.until": "2026-07-04"
+      "meta.since": "2026-06-05",
+      "meta.until": "2026-07-05"
     }
   ]
 }
