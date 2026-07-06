@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-05T00:56:53Z",
+  "generated_at": "2026-07-06T00:56:41Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-04",
+          "rating": 1,
+          "country": "CA",
+          "title": "False advertising",
+          "content": "It does in fact require in app purchases despite claiming not too",
+          "author": "Nickname123200000000",
+          "version": "6.43.0"
+        },
         {
           "date": "2026-07-01",
           "rating": 4,
@@ -156,6 +165,15 @@
           "title": "I AM",
           "content": "I Am Happy. Today I celebrate my life.  Daily Affirmations gives me motivation to help others reach their goals. We are grateful for Gods presence in the Sun, water, and stars. God blessed me with wisdom and grace.",
           "author": "Sylstyle",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-28",
+          "rating": 5,
+          "country": "CA",
+          "title": "I am",
+          "content": "Très bon quand tu passes une mauvaise journée",
+          "author": "Spicefit",
           "version": "6.42.0"
         },
         {
@@ -967,87 +985,15 @@
           "content": "I am who I am because of “I am.”.  I am so relaxed and at peace. No pressure!❤️🙏🏾",
           "author": "greatleaderruth",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 1,
-          "country": "US",
-          "title": "Sound isn’t working",
-          "content": "Still haven’t updated app",
-          "author": "chrissjers",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Life Changer",
-          "content": "This app has fueled and helped my spiritual journey during homelessness. I can only explain it as a life charger, once you start and stay consistent your mind shifts and begins to believe and create it! Just do it man",
-          "author": "TheeLadyQueen",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 3,
-          "country": "US",
-          "title": "New update",
-          "content": "I love this app and have used it for years, but I am not loving the new update. I preferred when I could just pick a topic and that was what would show up. I also made the mistake of clicking on affirmations for May. It is now June and I’m still getting affirmations from May which annoys me.",
-          "author": "jesav",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Daily reminder to keep believing in yourself!",
-          "content": "Love this app! Simple yet powerful affirmations.  I appreciate all of the personalization options.  I’m able to fine tune and make it completely relevant to my needs.  Definitely recommend for daily living as well as support through life’s challenges. \nDevelopers: keep up the great work!",
-          "author": "Taggs AM",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 2,
-          "country": "US",
-          "title": "Says they remind before 3 day trial end but doesn’t.",
-          "content": "I thought this app was ok. Not sure I’d spend that much on it. I was most disappointed when I was told I’d have reminders sent to me before the trail ends and I’m charged. Needless to say that was not what happened. I just now saw the toggle that I have to turn on myself to be reminded before trail ends. And I also didn’t know Apple sends a pending charge 24 hrs before the trial ends so they are already trying to charge me before the 3 day trial is up.",
-          "author": "Ashlima8615",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 5,
-          "country": "US",
-          "title": "I am sad it cost money but I get why",
-          "content": "Good app",
-          "author": "Chatbritt2002",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 5,
-          "country": "US",
-          "title": "Amazing and powerful",
-          "content": "This app is amazing! I am a very picky. Virgo and I am so impressed with not just all the great affirmations. But all the options, including background/wallpaper, sharing to social Media and friends, the daily practice, they read it out loud if you want. But what’s more important and amazing to me as the fact that I, after using this for a month, have seen such a huge difference in my strength as a person, self-worth. I love it! And you will too.\n\nit is *really* Worth the subscription!!",
-          "author": "Kairaca",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-05",
-          "rating": 3,
-          "country": "AU",
-          "title": "Good theory, way to many notifications",
-          "content": "The streak reminder is quite annoying and unnecessary and you get it every single day with no option to adjust notification type. \n\nBut the app functions well.",
-          "author": "Sez132",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 115,
+      "meta.total": 109,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-05",
-      "meta.until": "2026-07-05"
+      "meta.since": "2026-06-06",
+      "meta.until": "2026-07-06"
     }
   ]
 }
