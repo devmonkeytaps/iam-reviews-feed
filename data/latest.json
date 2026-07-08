@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-07T00:55:26Z",
+  "generated_at": "2026-07-08T00:46:58Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-05",
+          "rating": 5,
+          "country": "US",
+          "title": "Charged wrong",
+          "content": "Said I would be charged $2.99 for free three day trail \nI got charge $43.97….  Disappointed but they probably don’t care",
+          "author": "MoniCRive",
+          "version": "6.43.0"
+        },
         {
           "date": "2026-07-04",
           "rating": 5,
@@ -30,6 +39,15 @@
           "title": "I am Inspired",
           "content": "I feel inspired daily with this app and I share it with my friends. I share these daily and Many of my friends love the messages as they are very inspirational.",
           "author": "Susan Garrett",
+          "version": "6.43.0"
+        },
+        {
+          "date": "2026-07-04",
+          "rating": 5,
+          "country": "AU",
+          "title": "O m g",
+          "content": "I can’t believe how amazing this app is, although there are a lot of questions at the start the widgets and all those little quotes really upgraded my mental health, 5 billion stars",
+          "author": "Ten billion stars",
           "version": "6.43.0"
         },
         {
@@ -291,6 +309,15 @@
           "title": "Comment",
           "content": "I wish everything was free",
           "author": "View comment",
+          "version": "6.42.0"
+        },
+        {
+          "date": "2026-06-27",
+          "rating": 5,
+          "country": "AU",
+          "title": "I AM thank you",
+          "content": "This app has lifted my confidence to know who I truly am and has put me in a happy mindset when I wake up in the morning I read it and I am great throughout the whole day it puts me in a happy mindset throughout the whole day thanks I AM",
+          "author": "iBANGZmadman",
           "version": "6.42.0"
         },
         {
@@ -1023,13 +1050,13 @@
           "version": "6.38.1"
         }
       ],
-      "meta.total": 113,
+      "meta.total": 116,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-07",
-      "meta.until": "2026-07-07"
+      "meta.since": "2026-06-08",
+      "meta.until": "2026-07-08"
     }
   ]
 }
