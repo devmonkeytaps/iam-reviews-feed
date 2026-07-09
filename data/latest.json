@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-08T00:46:58Z",
+  "generated_at": "2026-07-09T00:51:33Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-06",
+          "rating": 1,
+          "country": "US",
+          "title": "Why",
+          "content": "I am confused people.Why have you made an app that only writes positive things every single day.To me it is only another annoying app that makes notification",
+          "author": "Bad why",
+          "version": "6.43.0"
+        },
         {
           "date": "2026-07-05",
           "rating": 5,
@@ -408,6 +417,15 @@
           "title": "Affirmations",
           "content": "Help me.",
           "author": "IrishGal19001",
+          "version": "6.41.0"
+        },
+        {
+          "date": "2026-06-23",
+          "rating": 1,
+          "country": "ES",
+          "title": "Es de pago",
+          "content": "Estás cinco minutos contestando preguntas para que luego te digan que necesitas suscripción",
+          "author": "HenryACenf",
           "version": "6.41.0"
         },
         {
@@ -1030,24 +1048,6 @@
           "content": "I love this app",
           "author": "2134&kit",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Invaluable and",
-          "content": "Life changing",
-          "author": "Shrisava",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-08",
-          "rating": 5,
-          "country": "US",
-          "title": "Confident",
-          "content": "Today is the first day out of my 3 day trial and so far confident the app will help guide me",
-          "author": "PureGrowth",
-          "version": "6.38.1"
         }
       ],
       "meta.total": 116,
@@ -1055,8 +1055,8 @@
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-08",
-      "meta.until": "2026-07-08"
+      "meta.since": "2026-06-09",
+      "meta.until": "2026-07-09"
     }
   ]
 }
