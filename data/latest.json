@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T00:51:33Z",
+  "generated_at": "2026-07-10T00:51:18Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -1003,60 +1003,15 @@
           "content": "But I only get premium til the end of this billing period? It’s supposed to last til 10/5 did I get a prorated refund?",
           "author": "suzanneh64",
           "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-09",
-          "rating": 5,
-          "country": "US",
-          "title": "I almost never write reviews on apps",
-          "content": "… but honestly. I had to try something to change my daily mindset and now here I am. I’ve always heard that affirmations were good for your psyche. I’m a huge mental and emotional health advocate, as most of us here probably are. I’ve been told and read many years that SPEAKING your affirmations make a difference. It’s also part of various ancient cultures and ideologies rooted back in early human linguistics and consciousness. So I tried it. I put the widget on my lock screen and updated it to refresh hourly, and I speak them out loud every time I look at my phone for the time or unlock it for use. I didn’t FEEL an instant change, but over the last few weeks, I feel lighter, more focused, more in control of myself and more in tune with my reality. If I could give 20 stars I would. For what I know of the connections of ancient linguistics and consciousness ideologies, this app is perfect. Absolutely perfect.",
-          "author": "WifeyVasquez",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-09",
-          "rating": 4,
-          "country": "US",
-          "title": "A beautiful reminder",
-          "content": "I love I Am. I have been using it for years. \nIt’s a nice app to have on my phone to be reminded of the small things in life that make all the difference. \nI love my little reminders and positive affirmations. \nHowever my latest affirmations haven’t felt very intentional or there has been some sort of shift because sentences like “I am still here” or “it’s okay if today was just survival. That counts”. Don’t sound like affirmations to me 🫠\nThey shift all the time though and maybe it’s picking up the energy of my environment. Because I never noticed them being more on the negative side in the desert until I came to the city 🙃",
-          "author": "bubblebath records",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-09",
-          "rating": 3,
-          "country": "US",
-          "title": "Not the same",
-          "content": "This app used to have customizable options without you being prompted to buy a membership. Now you’re being forced to purchase it just to have a simple background. It’s not what it used to be.",
-          "author": "axjxnell",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Utterly",
-          "content": "The best and most motivating app I’ve ever used. I use the free version and I am beyond happy with it.",
-          "author": "Simp_eater99",
-          "version": "6.38.1"
-        },
-        {
-          "date": "2026-06-09",
-          "rating": 5,
-          "country": "US",
-          "title": "Love it",
-          "content": "I love this app",
-          "author": "2134&kit",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 116,
+      "meta.total": 111,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-09",
-      "meta.until": "2026-07-09"
+      "meta.since": "2026-06-10",
+      "meta.until": "2026-07-10"
     }
   ]
 }
