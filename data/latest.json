@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-07-10T00:51:18Z",
+  "generated_at": "2026-07-11T00:44:37Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Food for the soul",
+          "content": "I always get the perfect affirmation at the right time!!",
+          "author": "Babcia Gutierrez",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-08",
+          "rating": 5,
+          "country": "US",
+          "title": "Beautiful affirmation",
+          "content": "This beautiful affirmation help me everyday filled me with joy happiness thank you",
+          "author": "One Universe One Language",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-08",
+          "rating": 5,
+          "country": "US",
+          "title": "THE BEST APP EVER",
+          "content": "This app is helping with my anxiety, my depression with not loving myself and I love this app so much",
+          "author": "Mestealthemoon",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-08",
+          "rating": 5,
+          "country": "US",
+          "title": "love it",
+          "content": "Having this on my lockscreen just changes so much. It's not the typical affirmations \"Im enough\" \"I'm strong\", it's affirmations that genuinely hit and are so needed",
+          "author": "EmmaMarie448",
+          "version": "6.43.0"
+        },
+        {
+          "date": "2026-07-06",
+          "rating": 5,
+          "country": "US",
+          "title": "Excellent",
+          "content": "These affirmations are so positive and motivational. Love these!",
+          "author": "Kavya KI",
+          "version": "6.43.0"
+        },
         {
           "date": "2026-07-06",
           "rating": 1,
@@ -967,51 +1012,15 @@
           "content": "This app gives beautiful notifications that are there constantly. It has been very helpful to relieve my Major Depressive Disorder. Super grateful for it, and the custom features that come with being a premium member include gorgeous backgrounds, use of AI to create an affirmation for whatever is currently on your mind, and more options to access relevant affirmations to you.",
           "author": "MacStabbyFace",
           "version": "6.39.0"
-        },
-        {
-          "date": "2026-06-10",
-          "rating": 5,
-          "country": "US",
-          "title": "The best app ever!",
-          "content": "This app has changed my life in many ways since I started using it!",
-          "author": "Jerm’szz99",
-          "version": "6.39.0"
-        },
-        {
-          "date": "2026-06-10",
-          "rating": 5,
-          "country": "US",
-          "title": "GREAT. FIVE. INSTANTLY",
-          "content": "When I’m playing a game, and I see one of these notifications, I get my energy up and these affirmations are positive, encouraging, and just really nice and this is just exceptional and I’ve been using it for at least a year or two so that’s why I give it a five.",
-          "author": "Madagascar30",
-          "version": "6.39.0"
-        },
-        {
-          "date": "2026-06-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you",
-          "content": "This great and I have loved my self more than ever so thank you for this amazing app.😊",
-          "author": "Morgan-Wallen-fan-2015",
-          "version": "6.39.0"
-        },
-        {
-          "date": "2026-06-10",
-          "rating": 5,
-          "country": "US",
-          "title": "Annual purchased 9/30",
-          "content": "But I only get premium til the end of this billing period? It’s supposed to last til 10/5 did I get a prorated refund?",
-          "author": "suzanneh64",
-          "version": "6.38.1"
         }
       ],
-      "meta.total": 111,
+      "meta.total": 112,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-10",
-      "meta.until": "2026-07-10"
+      "meta.since": "2026-06-11",
+      "meta.until": "2026-07-11"
     }
   ]
 }
