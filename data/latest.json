@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-12T00:49:28Z",
+  "generated_at": "2026-07-13T00:49:04Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-10",
+          "rating": 5,
+          "country": "US",
+          "title": "Positive daily affirmation practice and encouragement",
+          "content": "Motivación es práctica",
+          "author": "CharGlobal",
+          "version": "6.44.0"
+        },
         {
           "date": "2026-07-10",
           "rating": 5,
@@ -93,6 +102,15 @@
           "title": "Charged wrong",
           "content": "Said I would be charged $2.99 for free three day trail \nI got charge $43.97….  Disappointed but they probably don’t care",
           "author": "MoniCRive",
+          "version": "6.43.0"
+        },
+        {
+          "date": "2026-07-04",
+          "rating": 5,
+          "country": "GB",
+          "title": "Brilliant App!!",
+          "content": "Multiple times a day, I receive positive, uplifting, calming and determined messages that reinforce the good in my life. You should get this too!",
+          "author": "ScottG77",
           "version": "6.43.0"
         },
         {
@@ -967,24 +985,15 @@
           "content": "They send notifications that you haven’t practised the I am affirmations saying that it’s your last chance and all this other garbage but you’ve already done it. It’s extremely annoying.",
           "author": "SunniKissess",
           "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-12",
-          "rating": 5,
-          "country": "GB",
-          "title": "Ever present positivity",
-          "content": "I’m grateful for this gift. Daily affirmations that lift the soul. Little meditations to maintain wellbeing, energy and light throughout each day. Inspiring positivity and gratitude which in turn enables me to spread the joy of life in all its ups and downs! Thank you.",
-          "author": "musomanstevie",
-          "version": "6.39.0"
         }
       ],
-      "meta.total": 108,
+      "meta.total": 109,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-12",
-      "meta.until": "2026-07-12"
+      "meta.since": "2026-06-13",
+      "meta.until": "2026-07-13"
     }
   ]
 }
