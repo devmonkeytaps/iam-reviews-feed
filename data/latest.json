@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-07-14T00:42:38Z",
+  "generated_at": "2026-07-15T00:40:52Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-13",
+          "rating": 5,
+          "country": "US",
+          "title": "Motivation is key",
+          "content": "So motivational that made my day",
+          "author": "𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝔀𝓪𝓼 𝓱𝓮𝓻𝓮",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Great lil APP",
+          "content": "It’s a great way to remind yourself that you’re a good person and to be good to yourself!💝",
+          "author": "canfima",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 5,
+          "country": "US",
+          "title": "Love this!",
+          "content": "I love the daily affirmations it gives. I have it on my homepage of my iPhone so that every time I open my phone, I see it. It really helps on my bad days and is just all and all nice to get s positive message everyday",
+          "author": "mbisch410",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 5,
+          "country": "US",
+          "title": ":)",
+          "content": "It puts a smile on my face whenever I hear the familiar sound of the notification. 😄😁",
+          "author": "Dasha😳😭😘",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-11",
+          "rating": 3,
+          "country": "US",
+          "title": "A few bad apples",
+          "content": "Love this app! AND there are a few harmful affirmations. Today’s:\n\n“Instead of finding the one I’m gonna go to the gym and become the one.” \n\nSheesh! That’s super gross. This isn’t the first I’ve seen like that. Please review your affirmations. Thx for care & attention :)",
+          "author": "Blairmosaic",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-11",
+          "rating": 5,
+          "country": "US",
+          "title": "Grateful",
+          "content": "I am actuall extremely impressed with how majorly and so positively this app has genuinely improved my self perception + my self-conscious + my self-image; I would like to thank each of the creators of the I am - Daily Affirmations app personally if possible but this is close enough ! haha thank you all so much !!",
+          "author": "garth’s secret sounds",
+          "version": "6.44.0"
+        },
         {
           "date": "2026-07-11",
           "rating": 5,
@@ -106,6 +160,15 @@
         },
         {
           "date": "2026-07-05",
+          "rating": 2,
+          "country": "AU",
+          "title": "It’s great when it works",
+          "content": "My notifications have stopped coming through. I did basic troubleshooting and it still happens. It’s been over a month now that I’ve had this issue. I don’t know why I am paying for something that doesn’t work",
+          "author": "Tassie29",
+          "version": "6.43.0"
+        },
+        {
+          "date": "2026-07-05",
           "rating": 5,
           "country": "US",
           "title": "Charged wrong",
@@ -120,6 +183,15 @@
           "title": "Brilliant App!!",
           "content": "Multiple times a day, I receive positive, uplifting, calming and determined messages that reinforce the good in my life. You should get this too!",
           "author": "ScottG77",
+          "version": "6.43.0"
+        },
+        {
+          "date": "2026-07-04",
+          "rating": 5,
+          "country": "CA",
+          "title": "Peace over worry",
+          "content": "I choose joy, peace, and faith today.",
+          "author": "MaineAuman",
           "version": "6.43.0"
         },
         {
@@ -895,60 +967,15 @@
           "content": "I have had this app for years and the quotes are always appropriate in my times of need and where I need courage and support 🙏",
           "author": "The number one OWL",
           "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 5,
-          "country": "US",
-          "title": "awesome",
-          "content": "this is so amazing i definitely recommend if you want to get your feelings better",
-          "author": "heather1947",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Right words @ the right time",
-          "content": "I get I am in my daily summary, some days I don’t see them but the days I do - they are always the right words at the right time",
-          "author": "Used for two weeks",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Beneficial",
-          "content": "⭐️⭐️⭐️⭐️⭐️",
-          "author": "audan24",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 5,
-          "country": "AU",
-          "title": "Awesome",
-          "content": "It keeps me very calm",
-          "author": "RinaTony09",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-14",
-          "rating": 5,
-          "country": "US",
-          "title": "Over 100 days…laughs, tears and eye rolls",
-          "content": "My highest streak has been 120-something and even if it doesn’t change my day/mindset or I don’t really believe it that day to the point where I won’t bother to scroll, I will say I do feel like I’ve truly accomplished something when I continue a streak. Some days I read it silently honestly just to tell myself I’ve read it…other days oh man, it hits me and I’m called to end up reading it five times aloud to myself in tears while the words hit me in the gut while SOMETHING (i.e. a passed love one or the universe in general) knew I needed to hear them. 100% worth the few bucks a year!",
-          "author": "beauhemia",
-          "version": "6.40.0"
         }
       ],
-      "meta.total": 104,
+      "meta.total": 107,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-14",
-      "meta.until": "2026-07-14"
+      "meta.since": "2026-06-15",
+      "meta.until": "2026-07-15"
     }
   ]
 }
