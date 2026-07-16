@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T00:40:52Z",
+  "generated_at": "2026-07-16T00:44:00Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
@@ -7,11 +7,29 @@
       "data": [
         {
           "date": "2026-07-13",
+          "rating": 1,
+          "country": "US",
+          "title": "Daily alarm",
+          "content": "I downloaded this app a while back. I ended up deleting it.  Yet I still have an alarm that goes off daily. Any idea why?\nI want this to stop! The alarm even says Daily Affirmation and sometimes says Monkey Tap.",
+          "author": "Sarastars19",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-13",
           "rating": 5,
           "country": "US",
           "title": "Motivation is key",
           "content": "So motivational that made my day",
           "author": "𝓒𝓱𝓪𝓻𝓵𝓲𝓮 𝔀𝓪𝓼 𝓱𝓮𝓻𝓮",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 5,
+          "country": "AU",
+          "title": "Best daily affirmations app",
+          "content": "I’ve had this app for years and it’s so beautifully aesthetic, customisable and really helps with my affirmation goals at different parts and aspects of my life. The widget so beautiful and customisable and looks really great on my homepage. Thank you for this beautiful app!",
+          "author": "Dark angel111",
           "version": "6.44.0"
         },
         {
@@ -931,51 +949,15 @@
           "content": "I honestly think it’s pretty good and a lot of the quotes are pretty inspirational but it’s kind of annoying that you have to get pro or whatever to change your theme it would be five out of five if you could do that though",
           "author": "SigmaD1rizzler",
           "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-15",
-          "rating": 2,
-          "country": "US",
-          "title": "Boring",
-          "content": "Don’t get to do anything you just swipe and swipe. It’s kind of like TikTok but there’s nothing there. It’s just words I know that’s what it’s supposed to do, but it doesn’t help me at all most of the time. I just ignore it.",
-          "author": "Smith teddy",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-15",
-          "rating": 3,
-          "country": "US",
-          "title": "Wonderful but costly",
-          "content": "I love the affirmations it provides. It does help with improving a positive thinking mindset, but it is way too costly for individuals who are low income.",
-          "author": "Quae09",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-15",
-          "rating": 1,
-          "country": "US",
-          "title": "Too many notification on stupidness",
-          "content": "I am so tired of the amount of notifications I get to “continue your streak” or something else. I just want some fun notifications of a motivational quote but this app is so obsessed with making sure you “keep your streak” “ Last chance before you lose your streak!” “Hurry now before your streak freezes again”  “you only have one day left before you lose your streak! Tap now for reminders” and those are just a few examples I have received all in one day. This app has changed so many times over the years and not for the better,  I’m to the point of deleting it now because I’m tired of all these notifications about my “streak” when all I wanted was some cute quotes to pop up on my phone like how they were doing years ago",
-          "author": "Dana7424",
-          "version": "6.40.0"
-        },
-        {
-          "date": "2026-06-15",
-          "rating": 5,
-          "country": "AU",
-          "title": "Uplifting",
-          "content": "I have had this app for years and the quotes are always appropriate in my times of need and where I need courage and support 🙏",
-          "author": "The number one OWL",
-          "version": "6.40.0"
         }
       ],
-      "meta.total": 107,
+      "meta.total": 105,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-15",
-      "meta.until": "2026-07-15"
+      "meta.since": "2026-06-16",
+      "meta.until": "2026-07-16"
     }
   ]
 }
