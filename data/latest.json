@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-07-17T00:46:30Z",
+  "generated_at": "2026-07-18T00:42:44Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-16",
+          "rating": 1,
+          "country": "US",
+          "title": "Misleading Free Trial & Unexpected Annual Charge",
+          "content": "I signed up because the app advertised a free trial and stated that I would receive a reminder before the trial ended. Unfortunately, I never received any reminder or notification.\n\nI planned to cancel my subscription, but shortly after midnight I discovered I had already been charged for an entire yearly subscription instead of the monthly plan I expected. The charge was significant, and despite contacting support, I was unable to get a refund.\n\nThis experience felt very misleading. If you’re considering this app, make sure you manually set your own reminder to cancel because you may not receive the notification they promise. Also, double-check your subscription settings carefully, as mine renewed to an annual plan automatically.\n\nI would not recommend this app based on my experience.",
+          "author": "Garry$8",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-16",
+          "rating": 5,
+          "country": "GB",
+          "title": "Brightening my day",
+          "content": "Love the app , little boundless joy",
+          "author": "Jada- Durham UK",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Saving grace",
+          "content": "The only way I can keep affirmations coming all day!",
+          "author": "Motheriam",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Love it",
+          "content": "I love this app has made my life grow with abundance and my self esteem is ascending to where I want it to be 😊",
+          "author": "Jordan8319",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-15",
+          "rating": 5,
+          "country": "US",
+          "title": "What a difference!",
+          "content": "My mindset has SO greatly improved! I am positive and ready for the next step. As an entrepreneur, life is a bit scary. But I Am keeps me ready and positive.",
+          "author": "raegayhouse",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-15",
+          "rating": 5,
+          "country": "US",
+          "title": "I am",
+          "content": "I love this app because it gives me self-confidence and it’s a great motivational say every day.",
+          "author": "AJ539",
+          "version": "6.44.0"
+        },
         {
           "date": "2026-07-15",
           "rating": 5,
@@ -57,6 +111,15 @@
           "title": "Great but unnecessarily expensive",
           "content": "This app is great, but it's so unnecessarily expensive. There is very limited things in this app that you can use for free. To access everything else, you have to subscribe. The monthly subscription is $15. That's ridiculous. Again, I loved this app during my free three day trial, but it's absurd to charge $15/month just to use an app with daily affirmations.",
           "author": "charlielovesbooks",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-14",
+          "rating": 5,
+          "country": "AU",
+          "title": "Great resource",
+          "content": "I really love using this app as a way to slow down band practice mindfulness. I love the daily affirmation reminders that I can set throughout the day and how I can also write my own.",
+          "author": "Dreambig68",
           "version": "6.44.0"
         },
         {
@@ -120,6 +183,15 @@
           "title": "Love this!",
           "content": "I love the daily affirmations it gives. I have it on my homepage of my iPhone so that every time I open my phone, I see it. It really helps on my bad days and is just all and all nice to get s positive message everyday",
           "author": "mbisch410",
+          "version": "6.44.0"
+        },
+        {
+          "date": "2026-07-12",
+          "rating": 1,
+          "country": "GB",
+          "title": "Useless app heavily relies on ai",
+          "content": "Gives generic affirmations. Why is everything on discount and sale. Makes no sense",
+          "author": "Bossnian918",
           "version": "6.44.0"
         },
         {
@@ -967,33 +1039,15 @@
           "content": "Whenever I need a positive affirmation, this one gives me exactly the words that I need to hear whether our relationship on my job or my health or just my mindset. I think the universe knows exactly what I need to hear and send me that affirmation. Definitely love this app.",
           "author": "ZenJen_555",
           "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-17",
-          "rating": 5,
-          "country": "US",
-          "title": "Free",
-          "content": "I love it.",
-          "author": "corinnemwhaley",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-17",
-          "rating": 2,
-          "country": "CA",
-          "title": "This helped me a lot",
-          "content": "I have really bad anxiety and depression. These affirmations helped me with thinking positively about myself. I love this app! Well recommended.",
-          "author": "Aurora05c",
-          "version": "6.41.0"
         }
       ],
-      "meta.total": 109,
+      "meta.total": 115,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-17",
-      "meta.until": "2026-07-17"
+      "meta.since": "2026-06-18",
+      "meta.until": "2026-07-18"
     }
   ]
 }
