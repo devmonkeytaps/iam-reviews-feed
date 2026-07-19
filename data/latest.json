@@ -1,10 +1,19 @@
 {
-  "generated_at": "2026-07-18T00:42:44Z",
+  "generated_at": "2026-07-19T00:48:10Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-16",
+          "rating": 5,
+          "country": "US",
+          "title": "Always new affirmations",
+          "content": "I have had “I am” for years. Recently I got a good deal on the premium subscription and purchased. I will say that the app is phenomenal with or without paying the premium fee! I find it amazing that they always give new affirmations, they do not just repeat the same collection. In awe just thinking about the years and years of fresh affirmations, even when I was using the app for free!",
+          "author": "MRSmith322",
+          "version": "6.45.0"
+        },
         {
           "date": "2026-07-16",
           "rating": 1,
@@ -1003,51 +1012,15 @@
           "content": "Switched to AI affirmations. Garbage.",
           "author": "Jordan C:",
           "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-18",
-          "rating": 2,
-          "country": "US",
-          "title": "What happened?",
-          "content": "I really loved this app. I had a year long streak going, add my own affirmations, and had the widget on my Home Screen. Now it is perpetually loading. I deleted it thinking a new download would help but that only deleted my steak and all my own affirmations and likes. It seems there’s too much going on in the app for it to sufficiently work.",
-          "author": "34h",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-18",
-          "rating": 5,
-          "country": "AU",
-          "title": "Well done!  I love this app!",
-          "content": "I’ve been using this app for over 2 years - I would love an option to use Australian-English spelling (we love our U - like in favourite, favour, colour, harbour, flavour, etc.)  - Thank you so much Developers, hugs from Australia 🙂💕",
-          "author": "R💕🇦🇺🎊",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Wonder addition",
-          "content": "This is a fabulous tool to keep the wandering mind connected with the highest good of love and nurture. Love it. Thank you!",
-          "author": "JindraJ5",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-18",
-          "rating": 5,
-          "country": "US",
-          "title": "Positive vibes when I need them",
-          "content": "Whenever I need a positive affirmation, this one gives me exactly the words that I need to hear whether our relationship on my job or my health or just my mindset. I think the universe knows exactly what I need to hear and send me that affirmation. Definitely love this app.",
-          "author": "ZenJen_555",
-          "version": "6.41.0"
         }
       ],
-      "meta.total": 115,
+      "meta.total": 112,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-18",
-      "meta.until": "2026-07-18"
+      "meta.since": "2026-06-19",
+      "meta.until": "2026-07-19"
     }
   ]
 }
