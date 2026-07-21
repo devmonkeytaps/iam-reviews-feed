@@ -1,10 +1,82 @@
 {
-  "generated_at": "2026-07-20T00:48:50Z",
+  "generated_at": "2026-07-21T00:46:16Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-19",
+          "rating": 3,
+          "country": "US",
+          "title": "Money",
+          "content": "this app used to be GREAT, until literally all the themes and customizations cost money",
+          "author": "thewayofdema",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-18",
+          "rating": 1,
+          "country": "US",
+          "title": "Waste of time unless you want to pay",
+          "content": "You download the app and then you take this long test, about your goals and what’s important to you, I mean really long, before they tell you that this free app is just a free trial for three days and then you have to pay $3.99 or $50 a year. Waste of time unless you want to pay.",
+          "author": "Uggduck",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-18",
+          "rating": 1,
+          "country": "US",
+          "title": "A Must See",
+          "content": "I signed up for a 3 day trial and I canceled my subscription that same day. They charged my credit card  $75 for a yearly subscription that I did NOT agree to and they would not refund me! Be careful not to use your credit card they will rip you off!",
+          "author": "tedwards95",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-18",
+          "rating": 3,
+          "country": "US",
+          "title": "Peace",
+          "content": "I enjoy the positive reinforcement. It’s a daily ritual for me to take a look at the positive mental affirmations that come across my mind. I find peace in just being able to read the words and soak it up into my mind and everything that I do truly grateful and to share  this experience with this positive affirmations every day, I remain grateful because gratitude is God’s attitude",
+          "author": "Unique Respect",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-18",
+          "rating": 5,
+          "country": "US",
+          "title": "I",
+          "content": "I just love it is a big help for me recommending 100%",
+          "author": "Hermoza213",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-18",
+          "rating": 1,
+          "country": "US",
+          "title": "Waste of time.",
+          "content": "I did not like that it asks you a ton of personal questions about yourself and then after asking very personal questions about your life it asks you then to pay for a subscription. Seemed like a scam",
+          "author": "bri1599",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-17",
+          "rating": 5,
+          "country": "US",
+          "title": "thanks",
+          "content": "its really helpful 👍",
+          "author": "gutyan97",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-17",
+          "rating": 5,
+          "country": "US",
+          "title": "Game changing",
+          "content": "I have this as a widget on a screen dedicated to mental health. And it’s the best by far. Everytime I see it, I pause to read it and it really helps me reground. The best part is that you tell it what you want to work on or where you have confidence issues, and it creates a custom mix. Not a lot of fine tuning needed. Affirmations are realistic and don’t come off as cheesy fortune cookies. And the nice backgrounds are super peaceful. I love the one with the steaming coffee. 10/10",
+          "author": "My Reviews Are Infrequent",
+          "version": "6.45.0"
+        },
         {
           "date": "2026-07-16",
           "rating": 5,
@@ -958,60 +1030,15 @@
           "content": "I am has made such a difference in the way I talk to myself. My inner voice is nicer and more positive now. I have notification set up for like 15 times a day. I’m not saying I read them all but the ones I catch when I’m not busy remind me to be more gentle and accepting with myself. Before I got I am my negative self talk was bad.  I am more positive now and it is sooo worth it!!",
           "author": "idonails613",
           "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Nice…",
-          "content": "Good to hear affirmations,daily",
-          "author": "Loopycann",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Inspirational",
-          "content": "I love the “ I am app” it makes me feel so good to see the person in my life again after the first few years of a challenge. I tell everyone about it. My sister also has the app now and so does my daughter. I look forward to seeing them on the phone .",
-          "author": "Faith60**",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Snackmonkey June 20, 2026",
-          "content": "Absolutely love this app!! It is so worth it! Love all the different themes they have!! Always recommend it to everyone who could use it!!",
-          "author": "Snackmonkeythrives",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-20",
-          "rating": 2,
-          "country": "CA",
-          "title": "I am",
-          "content": "It’s a great app, love the affirmations, but I hate that I have to pay 😭",
-          "author": "Bookworm 3000",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-20",
-          "rating": 5,
-          "country": "US",
-          "title": "Love this app",
-          "content": "I love this app. It’s just so nice to see an affirmation on my phone every day and it changes about the day.",
-          "author": "Jesslb1008",
-          "version": "6.41.0"
         }
       ],
-      "meta.total": 111,
+      "meta.total": 114,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-20",
-      "meta.until": "2026-07-20"
+      "meta.since": "2026-06-21",
+      "meta.until": "2026-07-21"
     }
   ]
 }
