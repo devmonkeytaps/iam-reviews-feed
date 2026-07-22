@@ -1,10 +1,64 @@
 {
-  "generated_at": "2026-07-21T00:46:16Z",
+  "generated_at": "2026-07-22T00:44:54Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-20",
+          "rating": 5,
+          "country": "US",
+          "title": "As as",
+          "content": "Sass",
+          "author": "MoniqueHewitt",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-20",
+          "rating": 1,
+          "country": "US",
+          "title": "Misleading, Fraud, Scam",
+          "content": "I signed up for the 3 day free trial. Made sure to select the option to be reminded when the free trial ends. Good thing I set a reminder in my calendar. I signed up on July 15th. Cancelled the subscription July 18th. Why am I being charged for the yearly membership? I don’t want to pay for it obviously. I shouldn’t have to. It’s ironic how this app is supposed to help your mindset and now my stress has increased. I am so frustrated with these scamming apps.",
+          "author": "Viktoria_808",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-19",
+          "rating": 3,
+          "country": "US",
+          "title": "No longer that useful",
+          "content": "I have now used this app for a little over a year. It was really great at first, very helpful and encouraging. But as time progresses, it has become way less useful, and quite frankly, rather annoying at times. While they do occasionally add new affirmations to existing categories, it’s literally the same old stuff over and over again. Sometimes the word order changes, but it’s otherwise 100% the same. There have been other updates, but a lot of them appear to be more cosmetic than substantive. The entire experience is just getting old rather fast.",
+          "author": "OMBrooklyn",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-19",
+          "rating": 5,
+          "country": "US",
+          "title": "Madhuri",
+          "content": "I use this app everyday, first thing in the morning and before I go to bed. It keeps me motivated and reminds me to stay positive every day. I am grateful to this app from adding positivity and motivation to my daily life.",
+          "author": "Path2Courage",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-19",
+          "rating": 5,
+          "country": "US",
+          "title": "Switch gears!",
+          "content": "Switch gears mentally and kind of unexpectedly but boy am I grateful for it! Like say I’m having a bad day and I just happen to look at my phone and a notification pops up, giving me a positive affirmation- and I say it out loud- and I kind of instantly feel better. More at ease or at peace. Very refreshing!",
+          "author": "Kimree555",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-19",
+          "rating": 4,
+          "country": "US",
+          "title": "Positivity",
+          "content": "I like this app because it always makes me feel better when I’m having a bad day.",
+          "author": "mymyanan",
+          "version": "6.45.0"
+        },
         {
           "date": "2026-07-19",
           "rating": 3,
@@ -985,60 +1039,15 @@
           "content": "Thank you for this app, it is incredible and helps me and my family so much 🙂🙂🙂🙂",
           "author": "Pheonixx Rising",
           "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-21",
-          "rating": 5,
-          "country": "US",
-          "title": "💯",
-          "content": "So helpful love this app We all need",
-          "author": "CiciCici8",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-21",
-          "rating": 5,
-          "country": "US",
-          "title": "♥️",
-          "content": "♥️",
-          "author": "Dulce lupita",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-21",
-          "rating": 1,
-          "country": "US",
-          "title": "Kept sending reminders after app uninstalled and cache cleared",
-          "content": "I really don’t leave reviews often, but I’ve never had a problem like this before. I tried the I Am app and it was OK but I decided to use another app instead and uninstalled it. I must have set a reminder to do affirmations at 7:20am on Sat/Sun when I set up the app bc it keeps sending me reminders at those times even after I uninstalled the app and cleared the cache. I looked on Reddit and found a thread that someone else had the same issue with this app and had to reinstall it, change the settings, and then delete it again. I just did that and hopefully it will work.",
-          "author": "Don’t leave reviews",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-21",
-          "rating": 5,
-          "country": "US",
-          "title": "No title!!",
-          "content": "This app has changed my Mindset,My attitude,and my personality!!thank you so much for coming up as a Ad!I really hope and Want Adriana Lima quotes and Britney Spears too!again…Thank you so much!⭐️",
-          "author": "GRACIEEE POOH✨🍓",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-21",
-          "rating": 5,
-          "country": "US",
-          "title": "I am made my inner voice be nicer",
-          "content": "I am has made such a difference in the way I talk to myself. My inner voice is nicer and more positive now. I have notification set up for like 15 times a day. I’m not saying I read them all but the ones I catch when I’m not busy remind me to be more gentle and accepting with myself. Before I got I am my negative self talk was bad.  I am more positive now and it is sooo worth it!!",
-          "author": "idonails613",
-          "version": "6.41.0"
         }
       ],
-      "meta.total": 114,
+      "meta.total": 115,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-21",
-      "meta.until": "2026-07-21"
+      "meta.since": "2026-06-22",
+      "meta.until": "2026-07-22"
     }
   ]
 }
