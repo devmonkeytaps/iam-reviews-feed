@@ -1,10 +1,37 @@
 {
-  "generated_at": "2026-07-22T00:44:54Z",
+  "generated_at": "2026-07-23T00:47:26Z",
   "window_days": 90,
   "count": 1,
   "reviews": [
     {
       "data": [
+        {
+          "date": "2026-07-21",
+          "rating": 3,
+          "country": "GB",
+          "title": "Good but…",
+          "content": "Too many notifications",
+          "author": "Ant Ray 93",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Helpful",
+          "content": "This app has been an amazing reminder to remain positive!",
+          "author": "Elle Domonique",
+          "version": "6.45.1"
+        },
+        {
+          "date": "2026-07-20",
+          "rating": 5,
+          "country": "US",
+          "title": "Game changer!!",
+          "content": "This app has blessed me to my core,words cannot really describe. I cannot afford the premium of all “I Am” offers although I promote this app everywhere I go and pray believing I will afford it one day. Thank you Creators!!\nGod bless you!❤️🌞🦋👩🏼‍🎨🎶",
+          "author": "1COOLchic4Jesus",
+          "version": "6.45.1"
+        },
         {
           "date": "2026-07-20",
           "rating": 5,
@@ -138,6 +165,15 @@
           "title": "ArbinDhardi",
           "content": "Good fur me and always keeps me guided",
           "author": "AyatuDomain",
+          "version": "6.45.0"
+        },
+        {
+          "date": "2026-07-16",
+          "rating": 5,
+          "country": "GB",
+          "title": "Great affirmations",
+          "content": "I do love this app but does it read my mind? Can it read my phone? \nIt honestly tells me what I need to hear when I need to hear it. Which is great! Bit scary though 😬😆",
+          "author": "charlotte67890",
           "version": "6.45.0"
         },
         {
@@ -958,96 +994,15 @@
           "content": "For every mood and situation the day brings there is an affirmation great app / widget",
           "author": "Lemileo",
           "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 1,
-          "country": "US",
-          "title": "I wish I could give more",
-          "content": "This app is okay, but I was disappointed with my overall experience. After a few days of use, I noticed that many of the affirmations felt repetitive often the same messages, just slightly reworded. This was especially frustrating because I selected multiple affirmation categories during sign-up and expected more variety.\n\nWhat really upset me was the billing. I signed up for the 3-day free trial, but I was charged $65 before the trial period had ended. I immediately requested a refund through Apple, but my request was denied. I also contacted the app’s support team directly. While they responded and were polite, they ultimately told me there was nothing they could do.\n\nHad this issue been resolved, I would have given a higher rating. However, being charged $65 before my trial was over and receiving no refund left me feeling taken advantage of. For that reason, I’m leaving a one-star review. If I could leave zero stars, I would. $65 is a significant amount of money, especially for an app that repeatedly shows similar affirmations.\n\nUnfortunately, this experience felt more focused on making money than providing value to users.",
-          "author": "abrysheff",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "This app is great!!!",
-          "content": "I love this app so much! It helps me with dealing with  my emotions and how to handle them. I personally think you should get this app because it truly does help with how you view yourself and the world around you! This app definitely deserves 5 stars! \n⭐️⭐️⭐️⭐️⭐️",
-          "author": "Iliana_Phelps",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "❤️",
-          "content": "It really does pick me up when I’m feeling down. It reminds me of the things that I already think, but need to be reminded of.",
-          "author": "Valpograd",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 1,
-          "country": "US",
-          "title": "Affirmations App Malfunction",
-          "content": "app keeps malfunctioning and not updating my affirmations. they only show the ones i already loved, no new affirmations and the widget does not work. it keeps asking me to ‘tap to activate widget’ every single day. this app was so much better a few years ago. please fix or i’ll have to delete it and find another affirmations app. thanks!",
-          "author": "RealIndigo22",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Yasmine",
-          "content": "I truly do love this app it frees my confidence and it lets me know that you should never give up even when times are bad.",
-          "author": "Yasminelafee",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "My favorite 🌻",
-          "content": "I love everything about this.  It’s like having Louise Hay with you all the time.  I’m in a 12 step program and it’s helping me tremendously. I plan to share with all my comrades in life.",
-          "author": "BowieMonroe",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "For you",
-          "content": "This app is excellent, it’s make me up when I was in my worst",
-          "author": "J MOM’S",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you!!!",
-          "content": "Thank you for this app, it is incredible and helps me and my family so much 🙂🙂🙂🙂",
-          "author": "Pheonixx Rising",
-          "version": "6.41.0"
-        },
-        {
-          "date": "2026-06-22",
-          "rating": 5,
-          "country": "US",
-          "title": "Thank you!!!",
-          "content": "Thank you for this app, it is incredible and helps me and my family so much 🙂🙂🙂🙂",
-          "author": "Pheonixx Rising",
-          "version": "6.41.0"
         }
       ],
-      "meta.total": 115,
+      "meta.total": 110,
       "meta.limit": 200,
       "meta.offset": 0,
       "meta.nextoffset": null,
       "meta.prevoffset": null,
-      "meta.since": "2026-06-22",
-      "meta.until": "2026-07-22"
+      "meta.since": "2026-06-23",
+      "meta.until": "2026-07-23"
     }
   ]
 }
